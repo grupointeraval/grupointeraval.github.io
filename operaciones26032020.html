@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Operaciones del día</title>
+
+<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
+<script src="site_libs/datatables-binding-0.12/datatables.js"></script>
+<link href="site_libs/dt-core-1.10.20/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="site_libs/dt-core-1.10.20/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="site_libs/dt-core-1.10.20/js/jquery.dataTables.min.js"></script>
+<script src="site_libs/jszip-1.10.20/jszip.min.js"></script>
+<script src="site_libs/pdfmake-1.10.20/pdfmake.min.js"></script>
+<script src="site_libs/pdfmake-1.10.20/vfs_fonts.js"></script>
+<link href="site_libs/dt-ext-buttons-1.10.20/css/buttons.dataTables.min.css" rel="stylesheet" />
+<script src="site_libs/dt-ext-buttons-1.10.20/js/dataTables.buttons.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.flash.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.html5.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.colVis.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.print.min.js"></script>
+<link href="site_libs/crosstalk-1.0.0/css/crosstalk.css" rel="stylesheet" />
+<script src="site_libs/crosstalk-1.0.0/js/crosstalk.min.js"></script>
+<script src="site_libs/proj4js-2.3.15/proj4.js"></script>
+<link href="site_libs/highcharts-7.0.1/css/motion.css" rel="stylesheet" />
+<link href="site_libs/highcharts-7.0.1/css/htmlwdgtgrid.css" rel="stylesheet" />
+<script src="site_libs/highcharts-7.0.1/highcharts.js"></script>
+<script src="site_libs/highcharts-7.0.1/highcharts-3d.js"></script>
+<script src="site_libs/highcharts-7.0.1/highcharts-more.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/stock.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/map.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/annotations.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/boost.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/data.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/drag-panes.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/drilldown.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/item-series.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/offline-exporting.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/overlapping-datalabels.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/exporting.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/export-data.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/funnel.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/heatmap.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/treemap.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/sankey.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/solid-gauge.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/streamgraph.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/sunburst.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/vector.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/wordcloud.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/xrange.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/tilemap.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/venn.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/gantt.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/timeline.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/parallel-coordinates.js"></script>
+<script src="site_libs/highcharts-7.0.1/plugins/grouped-categories.js"></script>
+<script src="site_libs/highcharts-7.0.1/plugins/motion.js"></script>
+<script src="site_libs/highcharts-7.0.1/plugins/multicolor_series.js"></script>
+<script src="site_libs/highcharts-7.0.1/custom/reset.js"></script>
+<script src="site_libs/highcharts-7.0.1/custom/symbols-extra.js"></script>
+<script src="site_libs/highcharts-7.0.1/custom/text-symbols.js"></script>
+<script src="site_libs/highchart-binding-0.7.0/highchart.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img id="logo" style="width: 30px;" src="logo1.png" /></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Inicio
+  </a>
+</li>
+<li>
+  <a href="ibc.html">IBC</a>
+</li>
+<li>
+  <a href="resumen.html">Resumen</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fa fa-gear"></span>
+     
+    Acciones
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="abca.html">Bancaribe (ABC.A)</a>
+    </li>
+    <li>
+      <a href="bnc.html">Banco Nacional de Crédito (BNC)</a>
+    </li>
+    <li>
+      <a href="bou.html">Banco Occidental de Descuento (BOC)</a>
+    </li>
+    <li>
+      <a href="bpv.html">Banco Provincial (BPV)</a>
+    </li>
+    <li>
+      <a href="bvcc.html">Banco de Valores de Caracas (BVCC)</a>
+    </li>
+    <li>
+      <a href="bvl.html">Banco de Venezuela (BVL)</a>
+    </li>
+    <li>
+      <a href="ccr.html">Cerámicas Carabobo (CCR)</a>
+    </li>
+    <li>
+      <a href="cgq.html">Grupo Químico (CGQ)</a>
+    </li>
+    <li>
+      <a href="cie.html">Corporación Industrial de Energía (CIE)</a>
+    </li>
+    <li>
+      <a href="crma.html">Corimon (CRM.A)</a>
+    </li>
+    <li>
+      <a href="dom.html">Dominguez &amp; CIA (DOM)</a>
+    </li>
+    <li>
+      <a href="fnc.html">Fábrica Nacional de Cementos (FNC)</a>
+    </li>
+    <li>
+      <a href="fvia.html">Fondo de Valores Inmobiliarios A (FVI.A)</a>
+    </li>
+    <li>
+      <a href="fvib.html">Fondo de Valores Inmobiliarios B (FVI.B)</a>
+    </li>
+    <li>
+      <a href="gzl.html">Grupo Zuliano (GZL)</a>
+    </li>
+    <li>
+      <a href="ivc.html">Invaca (IVC)</a>
+    </li>
+    <li>
+      <a href="mpa.html">Manpa (MPA)</a>
+    </li>
+    <li>
+      <a href="mvza.html">Mercantil Servicios Financieros A (MVZ.A)</a>
+    </li>
+    <li>
+      <a href="mvzb.html">Mercantil Servicios Financieros B (MVZ.B)</a>
+    </li>
+    <li>
+      <a href="pgr.html">Proagro (PGR)</a>
+    </li>
+    <li>
+      <a href="ptn.html">Protinal (PTN)</a>
+    </li>
+    <li>
+      <a href="rst.html">Ron Santa Teresa (RST)</a>
+    </li>
+    <li>
+      <a href="rstb.html">Ron Santa Teresa B (RST.B)</a>
+    </li>
+    <li>
+      <a href="svs.html">Sivensa (SVS)</a>
+    </li>
+    <li>
+      <a href="tdvd.html">Cantv (TDV.D)</a>
+    </li>
+    <li>
+      <a href="tpg.html">Telares Palo Grande (TPG)</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="comparador.html">Comparador</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Operaciones
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="operaciones25032020.html">Operaciones 25 de marzo 2020</a>
+    </li>
+    <li>
+      <a href="operaciones26032020.html">Operaciones 26 de marzo 2020</a>
+    </li>
+    <li>
+      <a href="operaciones31032020.html">Operaciones 31 de marzo 2020</a>
+    </li>
+    <li>
+      <a href="operaciones01042020.html">Operaciones 01 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones02042020.html">Operaciones 02 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones03042020.html">Operaciones 03 de abril 2020</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Clasificación
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="enero2020.html">Enero 2020</a>
+    </li>
+    <li>
+      <a href="febrero2020.html">Febrero 2020</a>
+    </li>
+    <li>
+      <a href="marzo2020.html">Marzo 2020</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="indicadores.html">Indicadores</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://instagram.com/interaval.ve">
+    <span class="fa fa-instagram"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://linkedin.com/company/interaval">
+    <span class="fa fa-linkedin"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/grupointeraval">
+    <span class="fa fa-twitter"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Operaciones del día</h1>
+<h4 class="date">Actualizado al 2020-04-06</h4>
+
+</div>
+
+
+<div id="htmlwidget-ee41743493251c25e8f4" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-ee41743493251c25e8f4">{"x":{"filter":"none","extensions":["Buttons"],"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59","60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75","76","77"],[12,3073,4427,5,15,30,5,300,4,5,10,65,63,47,19,7,20,240,6000,14000,6,244,500,7,30,28119,200,11,206,28119,200,29,200,7,934,934,250,10,566,500,1066,500,56,30,88,4000,3971,100,100,1000,1700,980,4329,35500,5000,3,2,20000,1758,60,840,9800,61080,10000,12000,70000,146070,15000,2,20,1980,675,965,100,91,4909,25],["CRM.A","BNC","BNC","SVS","BPV","BPV","BPV","BNC","EFE","BOU","MVZ.B","BVCC","BVCC","BVCC","BVCC","MVZ.A","MVZ.A","MVZ.A","BNC","BNC","BVCC","BVCC","FVI.A","ABC.A","ABC.A","BVCC","BNC","CRM.A","FVI.A","BVCC","TPG","BVCC","EFE","CRM.A","BVCC","BVCC","BNC","RST.B","BVCC","BNC","BVCC","FVI.B","FVI.B","FVI.B","FVI.B","FVI.B","FVI.B","BNC","BVCC","BVCC","FVI.B","BNC","FVI.B","BOU","FVI.B","RST","RST","FVI.B","FVI.B","BVCC","BVCC","BOU","BOU","BOU","BOU","BOU","BOU","BOU","BPV","BVCC","BVCC","BVCC","BVCC","EFE","FVI.B","FVI.B","RST.B"],["STATERA","MERCOSUR","MERCOSUR","CAJA CARACAS","SOLFIN","SOLFIN","SOLFIN","CAJA CARACAS","MERCOSUR","MERCANTIL MERINVEST","CAJA CARACAS","FIVENCA","FIVENCA","FIVENCA","STATERA","INTERSEC","INTERSEC","INTERSEC","INTERSEC","INTERSEC","STATERA","VALORES VENCRED","BOD VALORES","VALORES VENCRED","VALORES VENCRED","CAJA CARACAS","FIVENCA","STATERA","STATERA","CAJA CARACAS","STATERA","INTERSEC","MERCOSUR","STATERA","INTERSEC","INTERSEC","FIVENCA","RENDIVALORES","VALORES VENCRED","FIVENCA","INTERSEC","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","FIVENCA","INTERSEC","INTERSEC","CORP","FIVENCA","STATERA","MERCANTIL MERINVEST","STATERA","SOLFIN","SOLFIN","STATERA","STATERA","INTERSEC","INTERSEC","SOLFIN","SOLFIN","STATERA","STATERA","MERCANTIL MERINVEST","BOD VALORES","BOD VALORES","ACTIVALORES","VALORES VENCRED","VALORES VENCRED","RENDIVALORES","INTERSEC","MERCOSUR","STATERA","STATERA","BANACCI"],["MERCANTIL MERINVEST","GRUPO INTERAVAL","GRUPO INTERAVAL","CAJA CARACAS","BOD VALORES","BOD VALORES","ACTIVALORES","ACTIVALORES","RENDIVALORES","RENDIVALORES","BOD VALORES","RENDIVALORES","RENDIVALORES","MERCOSUR","MERCOSUR","MERCANTIL MERINVEST","BOD VALORES","ACTIVALORES","BOD VALORES","CAJA CARACAS","RENDIVALORES","RENDIVALORES","INTERBURSA","MERCANTIL MERINVEST","CAJA CARACAS","CAJA CARACAS","CORP","CORP","CORP","CAJA CARACAS","CORP","CAJA CARACAS","BOD VALORES","MERCANTIL MERINVEST","RENDIVALORES","GRUPO INTERAVAL","MERCANTIL MERINVEST","GRUPO INTERAVAL","RENDIVALORES","MERCANTIL MERINVEST","RENDIVALORES","GRUPO INTERAVAL","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","MERCANTIL MERINVEST","RENDIVALORES","MERCOSUR","MERCOSUR","STATERA","RENDIVALORES","SOLFIN","RENDIVALORES","FIVENCA","RENDIVALORES","ACTIVALORES","CAJA CARACAS","RENDIVALORES","RENDIVALORES","INTERBURSA","RENDIVALORES","INTERBURSA","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","MERCANTIL MERINVEST","BOD VALORES","RENDIVALORES","RENDIVALORES","RENDIVALORES","BOD VALORES","MERCANTIL MERINVEST","VALORES VENCRED","CAJA CARACAS"],[4801,500,500,12530,120001,120001,120000,495,1900,21.49,134999,14995,14995,14995,14995,122000,120005,120000,411,410,14995,14995,550,42241,42240,14995,460,4801,600,16928.5,226,15000,1900,4801,14995,15000,450,27000,14995,450,14995,390,390,390,390,390,390,450,15000,15000,396.5,450,396.5,21.49,396.5,37000,37000,396.5,396.5,15000,15000,21,21,21,21,21,21,21,130000,15000,15000,15000,15000,1900,397,397,26999.99],[2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,33,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2]],"container":"<table class=\"cell-border stripe\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>Cantidad<\/th>\n      <th>Título<\/th>\n      <th>Casa que vende<\/th>\n      <th>Casa que compra<\/th>\n      <th>Precio<\/th>\n      <th>Plazo<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":27,"dom":"Bfrtip","buttons":["excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":[1,5,6]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[10,25,27,50,100]}},"evals":[],"jsHooks":[]}</script>
+<div id="diagrama-de-operaciones-de-venta" class="section level3">
+<h3>Diagrama de operaciones de venta</h3>
+<div id="htmlwidget-dfe0ba02d45f92bdd4f5" style="width:100%;height:500px;" class="highchart html-widget"></div>
+<script type="application/json" data-for="htmlwidget-dfe0ba02d45f92bdd4f5">{"x":{"hc_opts":{"title":{"text":null},"yAxis":{"title":{"text":"Y: Cantidad de operaciones de venta"},"type":"linear"},"credits":{"enabled":false},"exporting":{"enabled":false},"plotOptions":{"series":{"label":{"enabled":false},"turboThreshold":0,"showInLegend":true},"treemap":{"layoutAlgorithm":"squarified"},"scatter":{"marker":{"symbol":"circle"}}},"series":[{"name":"ACTIVALORES","data":[{"Cantidad":2,"Título":"BPV","Casa que compra":"ACTIVALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":130000,"Plazo":2,"y":2,"name":"BPV"}],"type":"scatter"},{"name":"BANACCI","data":[{"Cantidad":25,"Título":"RST.B","Casa que compra":"BANACCI","Casa que vende":"CAJA CARACAS","Precio":26999.99,"Plazo":2,"y":25,"name":"RST.B"}],"type":"scatter"},{"name":"BOD VALORES","data":[{"Cantidad":500,"Título":"FVI.A","Casa que compra":"BOD VALORES","Casa que vende":"INTERBURSA","Precio":550,"Plazo":2,"y":500,"name":"FVI.A"},{"Cantidad":146070,"Título":"BOU","Casa que compra":"BOD VALORES","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":146070,"name":"BOU"},{"Cantidad":15000,"Título":"BOU","Casa que compra":"BOD VALORES","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":15000,"name":"BOU"}],"type":"scatter"},{"name":"CAJA CARACAS","data":[{"Cantidad":5,"Título":"SVS","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":12530,"Plazo":2,"y":5,"name":"SVS"},{"Cantidad":300,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"ACTIVALORES","Precio":495,"Plazo":2,"y":300,"name":"BNC"},{"Cantidad":10,"Título":"MVZ.B","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":134999,"Plazo":2,"y":10,"name":"MVZ.B"},{"Cantidad":28119,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":14995,"Plazo":0,"y":28119,"name":"BVCC"},{"Cantidad":28119,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":16928.5,"Plazo":33,"y":28119,"name":"BVCC"}],"type":"scatter"},{"name":"CORP","data":[{"Cantidad":1700,"Título":"FVI.B","Casa que compra":"CORP","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":1700,"name":"FVI.B"}],"type":"scatter"},{"name":"FIVENCA","data":[{"Cantidad":65,"Título":"BVCC","Casa que compra":"FIVENCA","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":65,"name":"BVCC"},{"Cantidad":63,"Título":"BVCC","Casa que compra":"FIVENCA","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":63,"name":"BVCC"},{"Cantidad":47,"Título":"BVCC","Casa que compra":"FIVENCA","Casa que vende":"MERCOSUR","Precio":14995,"Plazo":2,"y":47,"name":"BVCC"},{"Cantidad":200,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"CORP","Precio":460,"Plazo":2,"y":200,"name":"BNC"},{"Cantidad":250,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"MERCANTIL MERINVEST","Precio":450,"Plazo":2,"y":250,"name":"BNC"},{"Cantidad":500,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"MERCANTIL MERINVEST","Precio":450,"Plazo":2,"y":500,"name":"BNC"},{"Cantidad":100,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"MERCOSUR","Precio":450,"Plazo":2,"y":100,"name":"BNC"},{"Cantidad":980,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"SOLFIN","Precio":450,"Plazo":2,"y":980,"name":"BNC"}],"type":"scatter"},{"name":"INTERSEC","data":[{"Cantidad":7,"Título":"MVZ.A","Casa que compra":"INTERSEC","Casa que vende":"MERCANTIL MERINVEST","Precio":122000,"Plazo":2,"y":7,"name":"MVZ.A"},{"Cantidad":20,"Título":"MVZ.A","Casa que compra":"INTERSEC","Casa que vende":"BOD VALORES","Precio":120005,"Plazo":2,"y":20,"name":"MVZ.A"},{"Cantidad":240,"Título":"MVZ.A","Casa que compra":"INTERSEC","Casa que vende":"ACTIVALORES","Precio":120000,"Plazo":2,"y":240,"name":"MVZ.A"},{"Cantidad":6000,"Título":"BNC","Casa que compra":"INTERSEC","Casa que vende":"BOD VALORES","Precio":411,"Plazo":2,"y":6000,"name":"BNC"},{"Cantidad":14000,"Título":"BNC","Casa que compra":"INTERSEC","Casa que vende":"CAJA CARACAS","Precio":410,"Plazo":2,"y":14000,"name":"BNC"},{"Cantidad":29,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"CAJA CARACAS","Precio":15000,"Plazo":2,"y":29,"name":"BVCC"},{"Cantidad":934,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":934,"name":"BVCC"},{"Cantidad":934,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"GRUPO INTERAVAL","Precio":15000,"Plazo":2,"y":934,"name":"BVCC"},{"Cantidad":1066,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":1066,"name":"BVCC"},{"Cantidad":100,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"MERCOSUR","Precio":15000,"Plazo":2,"y":100,"name":"BVCC"},{"Cantidad":1000,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"STATERA","Precio":15000,"Plazo":2,"y":1000,"name":"BVCC"},{"Cantidad":60,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"INTERBURSA","Precio":15000,"Plazo":2,"y":60,"name":"BVCC"},{"Cantidad":840,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"RENDIVALORES","Precio":15000,"Plazo":2,"y":840,"name":"BVCC"},{"Cantidad":965,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"RENDIVALORES","Precio":15000,"Plazo":2,"y":965,"name":"BVCC"}],"type":"scatter"},{"name":"MERCANTIL MERINVEST","data":[{"Cantidad":5,"Título":"BOU","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"RENDIVALORES","Precio":21.49,"Plazo":2,"y":5,"name":"BOU"},{"Cantidad":500,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"GRUPO INTERAVAL","Precio":390,"Plazo":2,"y":500,"name":"FVI.B"},{"Cantidad":56,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":390,"Plazo":2,"y":56,"name":"FVI.B"},{"Cantidad":30,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":390,"Plazo":2,"y":30,"name":"FVI.B"},{"Cantidad":88,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":390,"Plazo":2,"y":88,"name":"FVI.B"},{"Cantidad":4000,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":390,"Plazo":2,"y":4000,"name":"FVI.B"},{"Cantidad":3971,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"RENDIVALORES","Precio":390,"Plazo":2,"y":3971,"name":"FVI.B"},{"Cantidad":35500,"Título":"BOU","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"FIVENCA","Precio":21.49,"Plazo":2,"y":35500,"name":"BOU"},{"Cantidad":70000,"Título":"BOU","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":70000,"name":"BOU"}],"type":"scatter"},{"name":"MERCOSUR","data":[{"Cantidad":3073,"Título":"BNC","Casa que compra":"MERCOSUR","Casa que vende":"GRUPO INTERAVAL","Precio":500,"Plazo":2,"y":3073,"name":"BNC"},{"Cantidad":4427,"Título":"BNC","Casa que compra":"MERCOSUR","Casa que vende":"GRUPO INTERAVAL","Precio":500,"Plazo":2,"y":4427,"name":"BNC"},{"Cantidad":4,"Título":"EFE","Casa que compra":"MERCOSUR","Casa que vende":"RENDIVALORES","Precio":1900,"Plazo":2,"y":4,"name":"EFE"},{"Cantidad":200,"Título":"EFE","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":1900,"Plazo":2,"y":200,"name":"EFE"},{"Cantidad":100,"Título":"EFE","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":1900,"Plazo":2,"y":100,"name":"EFE"}],"type":"scatter"},{"name":"RENDIVALORES","data":[{"Cantidad":10,"Título":"RST.B","Casa que compra":"RENDIVALORES","Casa que vende":"GRUPO INTERAVAL","Precio":27000,"Plazo":2,"y":10,"name":"RST.B"},{"Cantidad":675,"Título":"BVCC","Casa que compra":"RENDIVALORES","Casa que vende":"RENDIVALORES","Precio":15000,"Plazo":2,"y":675,"name":"BVCC"}],"type":"scatter"},{"name":"SOLFIN","data":[{"Cantidad":15,"Título":"BPV","Casa que compra":"SOLFIN","Casa que vende":"BOD VALORES","Precio":120001,"Plazo":2,"y":15,"name":"BPV"},{"Cantidad":30,"Título":"BPV","Casa que compra":"SOLFIN","Casa que vende":"BOD VALORES","Precio":120001,"Plazo":2,"y":30,"name":"BPV"},{"Cantidad":5,"Título":"BPV","Casa que compra":"SOLFIN","Casa que vende":"ACTIVALORES","Precio":120000,"Plazo":2,"y":5,"name":"BPV"},{"Cantidad":3,"Título":"RST","Casa que compra":"SOLFIN","Casa que vende":"ACTIVALORES","Precio":37000,"Plazo":2,"y":3,"name":"RST"},{"Cantidad":2,"Título":"RST","Casa que compra":"SOLFIN","Casa que vende":"CAJA CARACAS","Precio":37000,"Plazo":2,"y":2,"name":"RST"},{"Cantidad":9800,"Título":"BOU","Casa que compra":"SOLFIN","Casa que vende":"INTERBURSA","Precio":21,"Plazo":2,"y":9800,"name":"BOU"},{"Cantidad":61080,"Título":"BOU","Casa que compra":"SOLFIN","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":61080,"name":"BOU"}],"type":"scatter"},{"name":"STATERA","data":[{"Cantidad":12,"Título":"CRM.A","Casa que compra":"STATERA","Casa que vende":"MERCANTIL MERINVEST","Precio":4801,"Plazo":2,"y":12,"name":"CRM.A"},{"Cantidad":19,"Título":"BVCC","Casa que compra":"STATERA","Casa que vende":"MERCOSUR","Precio":14995,"Plazo":2,"y":19,"name":"BVCC"},{"Cantidad":6,"Título":"BVCC","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":6,"name":"BVCC"},{"Cantidad":11,"Título":"CRM.A","Casa que compra":"STATERA","Casa que vende":"CORP","Precio":4801,"Plazo":2,"y":11,"name":"CRM.A"},{"Cantidad":206,"Título":"FVI.A","Casa que compra":"STATERA","Casa que vende":"CORP","Precio":600,"Plazo":2,"y":206,"name":"FVI.A"},{"Cantidad":200,"Título":"TPG","Casa que compra":"STATERA","Casa que vende":"CORP","Precio":226,"Plazo":2,"y":200,"name":"TPG"},{"Cantidad":7,"Título":"CRM.A","Casa que compra":"STATERA","Casa que vende":"MERCANTIL MERINVEST","Precio":4801,"Plazo":2,"y":7,"name":"CRM.A"},{"Cantidad":4329,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":4329,"name":"FVI.B"},{"Cantidad":5000,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":5000,"name":"FVI.B"},{"Cantidad":20000,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":20000,"name":"FVI.B"},{"Cantidad":1758,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":1758,"name":"FVI.B"},{"Cantidad":10000,"Título":"BOU","Casa que compra":"STATERA","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":10000,"name":"BOU"},{"Cantidad":12000,"Título":"BOU","Casa que compra":"STATERA","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":12000,"name":"BOU"},{"Cantidad":91,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"MERCANTIL MERINVEST","Precio":397,"Plazo":2,"y":91,"name":"FVI.B"},{"Cantidad":4909,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"VALORES VENCRED","Precio":397,"Plazo":2,"y":4909,"name":"FVI.B"}],"type":"scatter"},{"name":"VALORES VENCRED","data":[{"Cantidad":244,"Título":"BVCC","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":244,"name":"BVCC"},{"Cantidad":7,"Título":"ABC.A","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCANTIL MERINVEST","Precio":42241,"Plazo":2,"y":7,"name":"ABC.A"},{"Cantidad":30,"Título":"ABC.A","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":42240,"Plazo":2,"y":30,"name":"ABC.A"},{"Cantidad":566,"Título":"BVCC","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":566,"name":"BVCC"},{"Cantidad":20,"Título":"BVCC","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":15000,"Plazo":2,"y":20,"name":"BVCC"},{"Cantidad":1980,"Título":"BVCC","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":15000,"Plazo":2,"y":1980,"name":"BVCC"}],"type":"scatter"}],"xAxis":{"type":"category","title":{"text":"X: Títulos"}}},"theme":{"chart":{"backgroundColor":"transparent"}},"conf_opts":{"global":{"Date":null,"VMLRadialGradientURL":"http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png","canvasToolsURL":"http =//code.highcharts.com/list(version)/modules/canvas-tools.js","getTimezoneOffset":null,"timezoneOffset":0,"useUTC":true},"lang":{"contextButtonTitle":"Chart context menu","decimalPoint":".","downloadJPEG":"Download JPEG image","downloadPDF":"Download PDF document","downloadPNG":"Download PNG image","downloadSVG":"Download SVG vector image","drillUpText":"Back to {series.name}","invalidDate":null,"loading":"Loading...","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"noData":"No data to display","numericSymbols":["k","M","G","T","P","E"],"printChart":"Print chart","resetZoom":"Reset zoom","resetZoomTitle":"Reset zoom level 1:1","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"thousandsSep":" ","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}},"type":"chart","fonts":[],"debug":false},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="diagrama-de-operaciones-de-compra" class="section level3">
+<h3>Diagrama de operaciones de compra</h3>
+<div id="htmlwidget-fd85597f35ca0cd4da50" style="width:100%;height:500px;" class="highchart html-widget"></div>
+<script type="application/json" data-for="htmlwidget-fd85597f35ca0cd4da50">{"x":{"hc_opts":{"title":{"text":null},"yAxis":{"title":{"text":"Y: Cantidad de operaciones de compra"},"type":"linear"},"credits":{"enabled":false},"exporting":{"enabled":false},"plotOptions":{"series":{"label":{"enabled":false},"turboThreshold":0,"showInLegend":true},"treemap":{"layoutAlgorithm":"squarified"},"scatter":{"marker":{"symbol":"circle"}}},"series":[{"name":"ACTIVALORES","data":[{"Cantidad":5,"Título":"BPV","Casa que compra":"SOLFIN","Casa que vende":"ACTIVALORES","Precio":120000,"Plazo":2,"y":5,"name":"BPV"},{"Cantidad":300,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"ACTIVALORES","Precio":495,"Plazo":2,"y":300,"name":"BNC"},{"Cantidad":240,"Título":"MVZ.A","Casa que compra":"INTERSEC","Casa que vende":"ACTIVALORES","Precio":120000,"Plazo":2,"y":240,"name":"MVZ.A"},{"Cantidad":3,"Título":"RST","Casa que compra":"SOLFIN","Casa que vende":"ACTIVALORES","Precio":37000,"Plazo":2,"y":3,"name":"RST"}],"type":"scatter"},{"name":"BOD VALORES","data":[{"Cantidad":15,"Título":"BPV","Casa que compra":"SOLFIN","Casa que vende":"BOD VALORES","Precio":120001,"Plazo":2,"y":15,"name":"BPV"},{"Cantidad":30,"Título":"BPV","Casa que compra":"SOLFIN","Casa que vende":"BOD VALORES","Precio":120001,"Plazo":2,"y":30,"name":"BPV"},{"Cantidad":10,"Título":"MVZ.B","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":134999,"Plazo":2,"y":10,"name":"MVZ.B"},{"Cantidad":20,"Título":"MVZ.A","Casa que compra":"INTERSEC","Casa que vende":"BOD VALORES","Precio":120005,"Plazo":2,"y":20,"name":"MVZ.A"},{"Cantidad":6000,"Título":"BNC","Casa que compra":"INTERSEC","Casa que vende":"BOD VALORES","Precio":411,"Plazo":2,"y":6000,"name":"BNC"},{"Cantidad":200,"Título":"EFE","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":1900,"Plazo":2,"y":200,"name":"EFE"},{"Cantidad":20,"Título":"BVCC","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":15000,"Plazo":2,"y":20,"name":"BVCC"},{"Cantidad":100,"Título":"EFE","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":1900,"Plazo":2,"y":100,"name":"EFE"}],"type":"scatter"},{"name":"CAJA CARACAS","data":[{"Cantidad":5,"Título":"SVS","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":12530,"Plazo":2,"y":5,"name":"SVS"},{"Cantidad":14000,"Título":"BNC","Casa que compra":"INTERSEC","Casa que vende":"CAJA CARACAS","Precio":410,"Plazo":2,"y":14000,"name":"BNC"},{"Cantidad":30,"Título":"ABC.A","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":42240,"Plazo":2,"y":30,"name":"ABC.A"},{"Cantidad":28119,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":14995,"Plazo":0,"y":28119,"name":"BVCC"},{"Cantidad":28119,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":16928.5,"Plazo":33,"y":28119,"name":"BVCC"},{"Cantidad":29,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"CAJA CARACAS","Precio":15000,"Plazo":2,"y":29,"name":"BVCC"},{"Cantidad":56,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":390,"Plazo":2,"y":56,"name":"FVI.B"},{"Cantidad":30,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":390,"Plazo":2,"y":30,"name":"FVI.B"},{"Cantidad":88,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":390,"Plazo":2,"y":88,"name":"FVI.B"},{"Cantidad":2,"Título":"RST","Casa que compra":"SOLFIN","Casa que vende":"CAJA CARACAS","Precio":37000,"Plazo":2,"y":2,"name":"RST"},{"Cantidad":61080,"Título":"BOU","Casa que compra":"SOLFIN","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":61080,"name":"BOU"},{"Cantidad":10000,"Título":"BOU","Casa que compra":"STATERA","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":10000,"name":"BOU"},{"Cantidad":12000,"Título":"BOU","Casa que compra":"STATERA","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":12000,"name":"BOU"},{"Cantidad":70000,"Título":"BOU","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":70000,"name":"BOU"},{"Cantidad":146070,"Título":"BOU","Casa que compra":"BOD VALORES","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":146070,"name":"BOU"},{"Cantidad":15000,"Título":"BOU","Casa que compra":"BOD VALORES","Casa que vende":"CAJA CARACAS","Precio":21,"Plazo":2,"y":15000,"name":"BOU"},{"Cantidad":25,"Título":"RST.B","Casa que compra":"BANACCI","Casa que vende":"CAJA CARACAS","Precio":26999.99,"Plazo":2,"y":25,"name":"RST.B"}],"type":"scatter"},{"name":"CORP","data":[{"Cantidad":200,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"CORP","Precio":460,"Plazo":2,"y":200,"name":"BNC"},{"Cantidad":11,"Título":"CRM.A","Casa que compra":"STATERA","Casa que vende":"CORP","Precio":4801,"Plazo":2,"y":11,"name":"CRM.A"},{"Cantidad":206,"Título":"FVI.A","Casa que compra":"STATERA","Casa que vende":"CORP","Precio":600,"Plazo":2,"y":206,"name":"FVI.A"},{"Cantidad":200,"Título":"TPG","Casa que compra":"STATERA","Casa que vende":"CORP","Precio":226,"Plazo":2,"y":200,"name":"TPG"}],"type":"scatter"},{"name":"FIVENCA","data":[{"Cantidad":35500,"Título":"BOU","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"FIVENCA","Precio":21.49,"Plazo":2,"y":35500,"name":"BOU"}],"type":"scatter"},{"name":"GRUPO INTERAVAL","data":[{"Cantidad":3073,"Título":"BNC","Casa que compra":"MERCOSUR","Casa que vende":"GRUPO INTERAVAL","Precio":500,"Plazo":2,"y":3073,"name":"BNC"},{"Cantidad":4427,"Título":"BNC","Casa que compra":"MERCOSUR","Casa que vende":"GRUPO INTERAVAL","Precio":500,"Plazo":2,"y":4427,"name":"BNC"},{"Cantidad":934,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"GRUPO INTERAVAL","Precio":15000,"Plazo":2,"y":934,"name":"BVCC"},{"Cantidad":10,"Título":"RST.B","Casa que compra":"RENDIVALORES","Casa que vende":"GRUPO INTERAVAL","Precio":27000,"Plazo":2,"y":10,"name":"RST.B"},{"Cantidad":500,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"GRUPO INTERAVAL","Precio":390,"Plazo":2,"y":500,"name":"FVI.B"}],"type":"scatter"},{"name":"INTERBURSA","data":[{"Cantidad":500,"Título":"FVI.A","Casa que compra":"BOD VALORES","Casa que vende":"INTERBURSA","Precio":550,"Plazo":2,"y":500,"name":"FVI.A"},{"Cantidad":60,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"INTERBURSA","Precio":15000,"Plazo":2,"y":60,"name":"BVCC"},{"Cantidad":9800,"Título":"BOU","Casa que compra":"SOLFIN","Casa que vende":"INTERBURSA","Precio":21,"Plazo":2,"y":9800,"name":"BOU"}],"type":"scatter"},{"name":"MERCANTIL MERINVEST","data":[{"Cantidad":12,"Título":"CRM.A","Casa que compra":"STATERA","Casa que vende":"MERCANTIL MERINVEST","Precio":4801,"Plazo":2,"y":12,"name":"CRM.A"},{"Cantidad":7,"Título":"MVZ.A","Casa que compra":"INTERSEC","Casa que vende":"MERCANTIL MERINVEST","Precio":122000,"Plazo":2,"y":7,"name":"MVZ.A"},{"Cantidad":7,"Título":"ABC.A","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCANTIL MERINVEST","Precio":42241,"Plazo":2,"y":7,"name":"ABC.A"},{"Cantidad":7,"Título":"CRM.A","Casa que compra":"STATERA","Casa que vende":"MERCANTIL MERINVEST","Precio":4801,"Plazo":2,"y":7,"name":"CRM.A"},{"Cantidad":250,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"MERCANTIL MERINVEST","Precio":450,"Plazo":2,"y":250,"name":"BNC"},{"Cantidad":500,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"MERCANTIL MERINVEST","Precio":450,"Plazo":2,"y":500,"name":"BNC"},{"Cantidad":4000,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":390,"Plazo":2,"y":4000,"name":"FVI.B"},{"Cantidad":2,"Título":"BPV","Casa que compra":"ACTIVALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":130000,"Plazo":2,"y":2,"name":"BPV"},{"Cantidad":91,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"MERCANTIL MERINVEST","Precio":397,"Plazo":2,"y":91,"name":"FVI.B"}],"type":"scatter"},{"name":"MERCOSUR","data":[{"Cantidad":47,"Título":"BVCC","Casa que compra":"FIVENCA","Casa que vende":"MERCOSUR","Precio":14995,"Plazo":2,"y":47,"name":"BVCC"},{"Cantidad":19,"Título":"BVCC","Casa que compra":"STATERA","Casa que vende":"MERCOSUR","Precio":14995,"Plazo":2,"y":19,"name":"BVCC"},{"Cantidad":100,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"MERCOSUR","Precio":450,"Plazo":2,"y":100,"name":"BNC"},{"Cantidad":100,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"MERCOSUR","Precio":15000,"Plazo":2,"y":100,"name":"BVCC"}],"type":"scatter"},{"name":"RENDIVALORES","data":[{"Cantidad":4,"Título":"EFE","Casa que compra":"MERCOSUR","Casa que vende":"RENDIVALORES","Precio":1900,"Plazo":2,"y":4,"name":"EFE"},{"Cantidad":5,"Título":"BOU","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"RENDIVALORES","Precio":21.49,"Plazo":2,"y":5,"name":"BOU"},{"Cantidad":65,"Título":"BVCC","Casa que compra":"FIVENCA","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":65,"name":"BVCC"},{"Cantidad":63,"Título":"BVCC","Casa que compra":"FIVENCA","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":63,"name":"BVCC"},{"Cantidad":6,"Título":"BVCC","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":6,"name":"BVCC"},{"Cantidad":244,"Título":"BVCC","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":244,"name":"BVCC"},{"Cantidad":934,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":934,"name":"BVCC"},{"Cantidad":566,"Título":"BVCC","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":566,"name":"BVCC"},{"Cantidad":1066,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"RENDIVALORES","Precio":14995,"Plazo":2,"y":1066,"name":"BVCC"},{"Cantidad":3971,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"RENDIVALORES","Precio":390,"Plazo":2,"y":3971,"name":"FVI.B"},{"Cantidad":1700,"Título":"FVI.B","Casa que compra":"CORP","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":1700,"name":"FVI.B"},{"Cantidad":4329,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":4329,"name":"FVI.B"},{"Cantidad":5000,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":5000,"name":"FVI.B"},{"Cantidad":20000,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":20000,"name":"FVI.B"},{"Cantidad":1758,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"RENDIVALORES","Precio":396.5,"Plazo":2,"y":1758,"name":"FVI.B"},{"Cantidad":840,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"RENDIVALORES","Precio":15000,"Plazo":2,"y":840,"name":"BVCC"},{"Cantidad":1980,"Título":"BVCC","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":15000,"Plazo":2,"y":1980,"name":"BVCC"},{"Cantidad":675,"Título":"BVCC","Casa que compra":"RENDIVALORES","Casa que vende":"RENDIVALORES","Precio":15000,"Plazo":2,"y":675,"name":"BVCC"},{"Cantidad":965,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"RENDIVALORES","Precio":15000,"Plazo":2,"y":965,"name":"BVCC"}],"type":"scatter"},{"name":"SOLFIN","data":[{"Cantidad":980,"Título":"BNC","Casa que compra":"FIVENCA","Casa que vende":"SOLFIN","Precio":450,"Plazo":2,"y":980,"name":"BNC"}],"type":"scatter"},{"name":"STATERA","data":[{"Cantidad":1000,"Título":"BVCC","Casa que compra":"INTERSEC","Casa que vende":"STATERA","Precio":15000,"Plazo":2,"y":1000,"name":"BVCC"}],"type":"scatter"},{"name":"VALORES VENCRED","data":[{"Cantidad":4909,"Título":"FVI.B","Casa que compra":"STATERA","Casa que vende":"VALORES VENCRED","Precio":397,"Plazo":2,"y":4909,"name":"FVI.B"}],"type":"scatter"}],"xAxis":{"type":"category","title":{"text":"X: Títulos"}}},"theme":{"chart":{"backgroundColor":"transparent"}},"conf_opts":{"global":{"Date":null,"VMLRadialGradientURL":"http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png","canvasToolsURL":"http =//code.highcharts.com/list(version)/modules/canvas-tools.js","getTimezoneOffset":null,"timezoneOffset":0,"useUTC":true},"lang":{"contextButtonTitle":"Chart context menu","decimalPoint":".","downloadJPEG":"Download JPEG image","downloadPDF":"Download PDF document","downloadPNG":"Download PNG image","downloadSVG":"Download SVG vector image","drillUpText":"Back to {series.name}","invalidDate":null,"loading":"Loading...","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"noData":"No data to display","numericSymbols":["k","M","G","T","P","E"],"printChart":"Print chart","resetZoom":"Reset zoom","resetZoomTitle":"Reset zoom level 1:1","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"thousandsSep":" ","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}},"type":"chart","fonts":[],"debug":false},"evals":[],"jsHooks":[]}</script>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
