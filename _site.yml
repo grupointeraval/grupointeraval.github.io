@@ -1,5 +1,5 @@
 name: "Grupo Interaval"
-output_dir: .
+output: 
   html_document:
     include:
     css: styles.css
