@@ -1,0 +1,22 @@
+---
+title: "Clasificación de Casas de Bolsa Febrero 2020"
+---
+
+#### Mercado de Renta Variable
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(readxl)
+library(kableExtra)
+library(DT)
+
+ranking_febrero<- read_excel("ranking_febrero.xlsx")
+
+
+#row.names(ranking_febrero) <- NULL
+#tabla_ranking=kable(ranking_febrero) %>%
+#  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+#tabla_ranking
+
+DT::datatable(ranking_febrero, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 27, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```

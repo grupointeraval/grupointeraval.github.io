@@ -1,0 +1,105 @@
+name: "Grupo Interaval"
+output:
+  html_document:
+    include:
+    css: styles.css
+    in_header: "favicon.html" 
+navbar:
+  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"logo1.png\" />"
+  left:
+    - text: "Inicio"
+      icon: fa-home
+      href: index.html
+    - text: "IBC"
+      href: ibc.html
+    - text: "Resumen"
+      href: resumen.html
+    - text: "Acciones"
+      icon: fa-gear
+      menu:
+        - text: "Bancaribe (ABC.A)"
+          href: abca.html
+        - text: "Banco Nacional de Crédito (BNC)"
+          href: bnc.html
+        - text: "Banco Occidental de Descuento (BOC)"
+          href: bou.html
+        - text: "Banco Provincial (BPV)"
+          href: bpv.html
+        - text: "Banco de Valores de Caracas (BVCC)"
+          href: bvcc.html
+        - text: "Banco de Venezuela (BVL)"
+          href: bvl.html
+        - text: "Cerámicas Carabobo (CCR)"
+          href: ccr.html
+        - text: "Grupo Químico (CGQ)"
+          href: cgq.html
+        - text: "Corporación Industrial de Energía (CIE)"
+          href: cie.html
+        - text: "Corimon (CRM.A)"
+          href: crma.html
+        - text: "Dominguez & CIA (DOM)"
+          href: dom.html
+        - text: "Fábrica Nacional de Cementos (FNC)"
+          href: fnc.html
+        - text: "Fondo de Valores Inmobiliarios A (FVI.A)"
+          href: fvia.html
+        - text: "Fondo de Valores Inmobiliarios B (FVI.B)"
+          href: fvib.html  
+        - text: "Grupo Zuliano (GZL)"
+          href: gzl.html  
+        - text: "Invaca (IVC)"
+          href: ivc.html  
+        - text: "Manpa (MPA)"
+          href: mpa.html 
+        - text: "Mercantil Servicios Financieros A (MVZ.A)"
+          href: mvza.html  
+        - text: "Mercantil Servicios Financieros B (MVZ.B)"
+          href: mvzb.html  
+        - text: "Proagro (PGR)"
+          href: pgr.html   
+        - text: "Protinal (PTN)"
+          href: ptn.html  
+        - text: "Ron Santa Teresa (RST)"
+          href: rst.html  
+        - text: "Ron Santa Teresa B (RST.B)"
+          href: rstb.html 
+        - text: "Sivensa (SVS)"
+          href: svs.html  
+        - text: "Cantv (TDV.D)"
+          href: tdvd.html  
+        - text: "Telares Palo Grande (TPG)"
+          href: tpg.html 
+    - text: "Comparador"
+      href: comparador.html             
+    - text: "Operaciones"
+      menu:
+        - text: "Operaciones 25 de marzo 2020"
+          href: operaciones25032020.html
+        - text: "Operaciones 26 de marzo 2020"
+          href: operaciones26032020.html
+        - text: "Operaciones 31 de marzo 2020"
+          href: operaciones31032020.html
+        - text: "Operaciones 01 de abril 2020"
+          href: operaciones01042020.html
+        - text: "Operaciones 02 de abril 2020"
+          href: operacione02042020.html
+    - text: "Clasificación"
+      menu:
+        - text: "Enero 2020"
+          href: enero2020.html
+        - text: "Febrero 2020"
+          href: febrero2020.html
+        - text: "Marzo 2020"
+          href: marzo2020.html          
+    - text: "Indicadores"
+      href: indicadores.html      
+  right:
+    - icon: fa-instagram
+      href: https://instagram.com/interaval.ve
+    - icon: fa-linkedin
+      href: https://linkedin.com/company/interaval
+    - icon: fa-twitter 
+      href: https://twitter.com/grupointeraval
+      
+      
+     
