@@ -4,7 +4,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
 ### Bolsa de Valores de Caracas
 
-A continuación se dispone un gráfico dinámico a traves del cual el usuario puede comparar la cotización del título hasta la fecha publicada, siendo la serie mostrada tanto en bolívares como su equivalente en dólares americanos, puediendo ajustar el rango fechas a conveniencia así como seleccionar o deseleccionar los títulos para realizar una mejor evaluación.
+A continuación se dispone un gráfico dinámico a través del cual el usuario puede comparar la cotización del título hasta la fecha publicada, siendo la serie mostrada tanto en bolívares como en su equivalente en dólares americanos, pudiendo ajustar el rango fechas a conveniencia así como seleccionar o desmarcar los títulos para realizar una mejor evaluación.
 
 
 

@@ -1,0 +1,254 @@
+---
+title: "Operaciones del día"
+date: '`r paste("Actualizado al ", Sys.Date())`'
+---
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(readr)
+library(kableExtra)
+
+operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones06042020.dat", 
+     "|", escape_double = FALSE, col_names = FALSE, 
+     col_types = cols(X1 = col_skip(), X10 = col_skip(), 
+       X8 = col_skip(), X9 = col_skip()), 
+     trim_ws = TRUE)
+
+operaciones=data.frame(operaciones)
+colnames(operaciones)<-c("Cantidad","Título","Casa que vende","Casa que compra", "Precio", "Plazo")
+
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==1,"BANACCI")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==1,"BANACCI")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==2,"VALORES VENCRED")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==2,"VALORES VENCRED")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==4,"ACTIVALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==4,"ACTIVALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==6,"MERCANTIL MERINVEST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==6,"MERCANTIL MERINVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==10,"CAJA CARACAS")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==10,"CAJA CARACAS")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==12,"INTERBURSA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==12,"INTERBURSA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==14,"FINANCORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==14,"FINANCORP")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==17,"FIVENCA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==17,"FIVENCA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==22,"BOD VALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==22,"BOD VALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==24,"INCORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==24,"INCORPO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==32,"MERCOSUR")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==32,"MERCOSUR")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==33,"CORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==33,"CORP")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==34,"INTERSEC")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==34,"INTERSEC")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==40,"MAXIMIZA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==40,"MAXIMIZA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==48,"SOLFIN")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==48,"SOLFIN")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==49,"INTERBONO")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==49,"INTERBONO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==52,"STATERA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==52,"STATERA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==58,"RATIO")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==58,"RATIO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==59,"BANCTRUST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==59,"BANCTRUST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==60,"BESTINVES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==60,"BESTINVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==61,"BNH")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==61,"BNH")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==64,"RENDIVALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==64,"RENDIVALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==65,"CUADRA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==65,"CUADRA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==66,"VALORALTA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==66,"VALORALTA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==70,"MASVALOR")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==70,"MASVALOR")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==71,"KOI INVEST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==71,"KOI INVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==72,"GRUPO INTERAVAL")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==72,"GRUPO INTERAVAL")
+
+#row.names(operaciones) <- NULL
+#tabla_operaciones=kable(operaciones) %>%
+#  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+#tabla_operaciones
+
+DT::datatable(operaciones, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 27, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```
+
+
+### Diagrama de operaciones de venta
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(readxl)
+library(kableExtra)
+library(highcharter)
+library(dplyr)
+
+
+
+operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones06042020.dat", 
+     "|", escape_double = FALSE, col_names = FALSE, 
+     col_types = cols(X1 = col_skip(), X10 = col_skip(), 
+       X8 = col_skip(), X9 = col_skip()), 
+     trim_ws = TRUE)
+
+operaciones=data.frame(operaciones)
+colnames(operaciones)<-c("Cantidad","Título","Casa que compra","Casa que vende", "Precio", "Plazo")
+
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==1,"BANACCI")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==1,"BANACCI")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==2,"VALORES VENCRED")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==2,"VALORES VENCRED")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==4,"ACTIVALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==4,"ACTIVALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==6,"MERCANTIL MERINVEST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==6,"MERCANTIL MERINVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==10,"CAJA CARACAS")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==10,"CAJA CARACAS")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==12,"INTERBURSA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==12,"INTERBURSA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==14,"FINANCORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==14,"FINANCORP")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==17,"FIVENCA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==17,"FIVENCA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==22,"BOD VALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==22,"BOD VALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==24,"INCORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==24,"INCORPO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==32,"MERCOSUR")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==32,"MERCOSUR")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==33,"CORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==33,"CORP")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==34,"INTERSEC")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==34,"INTERSEC")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==40,"MAXIMIZA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==40,"MAXIMIZA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==48,"SOLFIN")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==48,"SOLFIN")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==49,"INTERBONO")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==49,"INTERBONO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==52,"STATERA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==52,"STATERA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==58,"RATIO")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==58,"RATIO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==59,"BANCTRUST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==59,"BANCTRUST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==60,"BESTINVES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==60,"BESTINVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==61,"BNH")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==61,"BNH")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==64,"RENDIVALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==64,"RENDIVALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==65,"CUADRA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==65,"CUADRA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==66,"VALORALTA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==66,"VALORALTA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==70,"MASVALOR")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==70,"MASVALOR")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==71,"KOI INVEST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==71,"KOI INVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==72,"GRUPO INTERAVAL")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==72,"GRUPO INTERAVAL")
+
+
+
+diagrama_compra=hchart(operaciones, "scatter", hcaes(x = operaciones$`Título`, y = operaciones$Cantidad, group = operaciones$`Casa que compra`))  %>%
+  hc_xAxis(title = list( text= "X: Títulos"))%>%
+hc_yAxis(title =list( text= "Y: Cantidad de operaciones de venta"))
+
+diagrama_compra
+
+```
+
+### Diagrama de operaciones de compra
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(readxl)
+library(kableExtra)
+library(highcharter)
+library(dplyr)
+
+
+
+operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones06042020.dat", 
+     "|", escape_double = FALSE, col_names = FALSE, 
+     col_types = cols(X1 = col_skip(), X10 = col_skip(), 
+       X8 = col_skip(), X9 = col_skip()), 
+     trim_ws = TRUE)
+
+operaciones=data.frame(operaciones)
+colnames(operaciones)<-c("Cantidad","Título","Casa que compra","Casa que vende", "Precio", "Plazo")
+
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==1,"BANACCI")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==1,"BANACCI")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==2,"VALORES VENCRED")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==2,"VALORES VENCRED")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==4,"ACTIVALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==4,"ACTIVALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==6,"MERCANTIL MERINVEST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==6,"MERCANTIL MERINVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==10,"CAJA CARACAS")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==10,"CAJA CARACAS")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==12,"INTERBURSA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==12,"INTERBURSA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==14,"FINANCORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==14,"FINANCORP")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==17,"FIVENCA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==17,"FIVENCA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==22,"BOD VALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==22,"BOD VALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==24,"INCORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==24,"INCORPO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==32,"MERCOSUR")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==32,"MERCOSUR")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==33,"CORP")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==33,"CORP")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==34,"INTERSEC")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==34,"INTERSEC")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==40,"MAXIMIZA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==40,"MAXIMIZA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==48,"SOLFIN")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==48,"SOLFIN")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==49,"INTERBONO")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==49,"INTERBONO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==52,"STATERA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==52,"STATERA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==58,"RATIO")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==58,"RATIO")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==59,"BANCTRUST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==59,"BANCTRUST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==60,"BESTINVES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==60,"BESTINVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==61,"BNH")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==61,"BNH")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==64,"RENDIVALORES")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==64,"RENDIVALORES")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==65,"CUADRA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==65,"CUADRA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==66,"VALORALTA")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==66,"VALORALTA")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==70,"MASVALOR")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==70,"MASVALOR")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==71,"KOI INVEST")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==71,"KOI INVEST")
+operaciones$`Casa que compra`=replace(operaciones$`Casa que compra`,operaciones$`Casa que compra`==72,"GRUPO INTERAVAL")
+operaciones$`Casa que vende`=replace(operaciones$`Casa que vende`,operaciones$`Casa que vende`==72,"GRUPO INTERAVAL")
+
+
+
+diagrama_venta=hchart(operaciones, "scatter", hcaes(x = operaciones$`Título`, y = operaciones$Cantidad, group = operaciones$`Casa que vende`)) %>%
+  hc_xAxis(title = list( text= "X: Títulos"))%>%
+hc_yAxis(title =list( text= "Y: Cantidad de operaciones de compra"))
+
+diagrama_venta
+
+```
+
