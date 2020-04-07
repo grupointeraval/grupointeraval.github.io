@@ -62,7 +62,7 @@ navbar:
         - text: "Ron Santa Teresa (RST)"
           href: rst.html  
         - text: "Ron Santa Teresa B (RST.B)"
-          href: rstb.html 
+          href: rst.b.html 
         - text: "Sivensa (SVS)"
           href: svs.html  
         - text: "Cantv (TDV.D)"
