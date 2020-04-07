@@ -3,7 +3,6 @@ output: "."
   html_document:
     include:
     css: styles.css
-    in_header: "favicon.html" 
 navbar:
   title: "<img id=\"logo\" style=\"width: 30px;\" src=\"logo1.png\" />"
   left:
