@@ -8,14 +8,12 @@ navbar:
   title: "<img id=\"logo\" style=\"width: 30px;\" src=\"logo1.png\" />"
   left:
     - text: "Inicio"
-      icon: fa-home
       href: index.html
     - text: "IBC"
       href: ibc.html
     - text: "Resumen"
       href: resumen.html
     - text: "Acciones"
-      icon: fa-gear
       menu:
         - text: "Bancaribe (ABC.A)"
           href: abca.html
