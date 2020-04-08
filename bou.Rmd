@@ -6,7 +6,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
 ### (Símbolo: BOU)
 
 <p align="center">
-  <img width="400px" height="400px" src="bou.png">
+  <img width="100px" height="100px" src="bou.png">
 </p>
 
 El objeto primordial de la institución es la actividad de intermediación financiera. Consistente en la captación de recursos con la finalidad de otorgar créditos o financiamientos y demás operaciones y servicios financieros que sean compatibles con su naturaleza.

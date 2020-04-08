@@ -6,7 +6,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
 ### (Símbolo: BNC)
 
 <p align="center">
-  <img width="320px" height="140px" src="bnc.png">
+  <img width="320px" height="100px" src="bnc.png">
 </p>
 
 El Banco tiene por objeto la realización de todos los negocios y operaciones autorizados a los Bancos Universales por la Ley General de bancos y Otras Instituciones Financieras y demas normas legales que se dicten al efecto. Podra celebrar todos los actos, negocios y operaciones relacionadas con su actividad, de acuerdo con los usos nacionales e internacionales y de acuerdo a la Ley.
