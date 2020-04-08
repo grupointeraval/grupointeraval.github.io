@@ -6,10 +6,10 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
 ### (Símbolo: SVS)
 
 <p align="center">
-  <img width="300px" height="90px" src="svs.jpg">
+  <img width="200px" height="90px" src="svs.jpg">
 </p>
 
-Esta sociedad tiene por objeto la adquisición y enajenación por cualquier medio, asi como la explotaciÓn de bienes inmuebles y titulos valores. Diseño, ejecución y administración de proyectos inmobiliarios y de inversión. Promocion y constitución de toda clase de sociedades mercantiles dentro ofuera del territorio nacional. Celebración de toda clase de contratos civiles, mercantiles y administrativos.
+Esta sociedad tiene por objeto la adquisición y enajenación por cualquier medio, asi como la explotación de bienes inmuebles y titulos valores. Diseño, ejecución y administración de proyectos inmobiliarios y de inversión. Promocion y constitución de toda clase de sociedades mercantiles dentro ofuera del territorio nacional. Celebración de toda clase de contratos civiles, mercantiles y administrativos.
 
 ### Cotización de la acción en $USD 
 
