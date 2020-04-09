@@ -3,7 +3,7 @@ title: "Indicadores Macroeconómicos"
 date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
 
-### Cotización dólar paralelo
+### Cotización USD/Bs.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 datos_dolar <- function(){
