@@ -456,7 +456,7 @@ correlacion=as.data.frame(correlacion)
 
 mapa_correlacion=hchart(cor(correlacion))
 
-d3heatmap(cor(correlacion), width = 1000, height = 800)
+d3heatmap(cor(correlacion), width = 900, height = 800)
 
 
 ```
