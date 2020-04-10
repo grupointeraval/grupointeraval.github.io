@@ -86,7 +86,7 @@ datos_dolar <- function(){
   
   acciones_en_circulacion=data.frame(
     acciones = c ("ABC.A","BNC","BOU","BPV","BVCC","BVL","CCR","CGQ","CIE","CRM.A","DOM", "EFE","ENV","FNC", 
-                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG","RST.B"),
+                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG","RST.B","ICP.B"),
     
     numero_de_acciones=c( 91666667,
                    5791930372, 
@@ -115,7 +115,8 @@ datos_dolar <- function(){
                    52524376,
                    26121595,
                    1188344665, 
-                   1747687)
+                   1747687,
+                   7623000)
     
     
     
@@ -150,7 +151,7 @@ datos_dolar <- function(){
    # diario_acciones %>%
 #    mutate(
  #     "Variación Relativa" = cell_spec(diario_acciones[,6], "html", color = ifelse(diario_acciones[,6] >       0, "green", "red" ))) 
-    DT::datatable(diario_acciones, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 27, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+    DT::datatable(diario_acciones, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 29, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
  # kable(format = "html", escape = F) %>%
 #  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
     
@@ -362,11 +363,12 @@ datos_dolar <- function(){
   svs=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","svs.txt",sep=""),"SVS")
   tdvd=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","tdv.d.txt",sep=""),"TDV.D")
   tpg=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","tpg.txt",sep=""),"TPG")
+  icpb=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","icp.b.txt",sep=""),"ICP.B")
   ################################################################################################################
   
   mercado=data.frame(
     acciones = c ("ABC.A","BNC","BOU","BPV","BVCC","BVL","CCR","CGQ","CIE","CRM.A","DOM", "EFE","ENV","FNC", 
-                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG", "RST.B"),
+                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG", "RST.B", "ICP.B"),
     
     numero_de_acciones=c( 91666667,
                           5791930372,
@@ -395,13 +397,14 @@ datos_dolar <- function(){
                           52524376,
                           26121595,
                           1188344665,
-                          1747687),
+                          1747687,
+                          7623000),
     
     
     precio=c(abca$precio, bnc$precio, bou$precio, bpv$precio, bvcc$precio, bvl$precio, ccr$precio, 
              cgq$precio, cie$precio, crma$precio, dom$precio, efe$precio, env$precio, fnc$precio, 
              fvia$precio, fvib$precio, gzl$precio, ivc$precio, mpa$precio, mvza$precio, mvzb$precio, pgr$precio,
-             ptn$precio, rst$precio, svs$precio, tdvd$precio, tpg$precio,rstb$precio)
+             ptn$precio, rst$precio, svs$precio, tdvd$precio, tpg$precio,rstb$precio,icpb$precio)
     
     
   
@@ -428,7 +431,7 @@ mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","C
 #capitalizacion_total=kable(mercado) %>%
  # kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
-DT::datatable(mercado, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 28, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+DT::datatable(mercado, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 29, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
     
 
 

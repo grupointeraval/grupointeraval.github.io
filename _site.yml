@@ -67,6 +67,8 @@ navbar:
           href: tdvd.html  
         - text: "Telares Palo Grande (TPG)"
           href: tpg.html 
+        - text: "Inversiones Crecepymes (ICP.B)"
+          href: icpb.html           
     - text: "Comparador"
       href: comparador.html             
     - text: "Operaciones"
