@@ -366,7 +366,7 @@ datos_dolar <- function(){
   
   mercado=data.frame(
     acciones = c ("ABC.A","BNC","BOU","BPV","BVCC","BVL","CCR","CGQ","CIE","CRM.A","DOM", "EFE","ENV","FNC", 
-                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG"),
+                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG", "RST.B"),
     
     numero_de_acciones=c( 91666667,
                           5791930372,
@@ -394,13 +394,14 @@ datos_dolar <- function(){
                           285642388,
                           52524376,
                           26121595,
-                          1188344665),
+                          1188344665,
+                          1747687),
     
     
     precio=c(abca$precio, bnc$precio, bou$precio, bpv$precio, bvcc$precio, bvl$precio, ccr$precio, 
              cgq$precio, cie$precio, crma$precio, dom$precio, efe$precio, env$precio, fnc$precio, 
              fvia$precio, fvib$precio, gzl$precio, ivc$precio, mpa$precio, mvza$precio, mvzb$precio, pgr$precio,
-             ptn$precio, rst$precio, svs$precio, tdvd$precio, tpg$precio)
+             ptn$precio, rst$precio, svs$precio, tdvd$precio, tpg$precio,rstb$precio)
     
     
   
@@ -433,4 +434,25 @@ DT::datatable(mercado, class = 'cell-border stripe', extensions="Buttons", optio
 
 ```
 
+### Correlación entre acciones
+En estadística el coeficiente de correlación de Pearson como un índice que puede utilizarse para medir el grado de relación de dos variables, a medida que valor de este coeficiente se acerca 1 el grado de relación es positivo entre las variables, en este caso se entendería que si una accion incremente su valor, la otra lo hará en cierta proporción. En el caso opuesto, a medida que el coeficiente se acerca a -1, el grado de relación es negativo, interpretando en este caso que si una accio sube, la otra baja. A continuación se dispone de un mapa de correlación que muestra los distintos grados de relación entre las acciones que cotizan en la Bolsa de Valores de Caracas. Para la construcción de este gráfico se utilizó la serie anaual más reciente de cada una de las acciones, descartando el título RST.B. 
 
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(dygraphs)
+  library(xts)
+  library(readr)
+  library(readxl)
+  library(zoo)
+  library(dplyr)
+  library(magrittr)
+  library(highcharter)
+  library(knitr)
+  library(kableExtra)
+  library(formattable)
+correlacion <- read_excel("C:/Users/analista04/Documents/R/grupointeraval.github.io/correlacion.xlsx")
+correlacion=as.data.frame(correlacion)
+hchart(cor(correlacion))
+
+
+
+```
