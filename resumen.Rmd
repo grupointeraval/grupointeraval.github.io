@@ -86,10 +86,10 @@ datos_dolar <- function(){
   
   acciones_en_circulacion=data.frame(
     acciones = c ("ABC.A","BNC","BOU","BPV","BVCC","BVL","CCR","CGQ","CIE","CRM.A","DOM", "EFE","ENV","FNC", 
-                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG"),
+                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG","RST.B"),
     
-    numero_de_acciones=c( 89166667,
-                   5791930372,
+    numero_de_acciones=c( 91666667,
+                   5791930372, 
                    23796748346,
                    107827475,
                    29250000,
@@ -114,7 +114,8 @@ datos_dolar <- function(){
                    285642388,
                    52524376,
                    26121595,
-                   1188344665)
+                   1188344665, 
+                   1747687)
     
     
     
@@ -160,7 +161,7 @@ datos_dolar <- function(){
   
 ```
 
-### Capitalización 
+### Capitalización de mercado
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
