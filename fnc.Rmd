@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="80px" height="90px" src="fnc.jpg">
 </p>
 
-El objeto de la empresa es la fabricación y el comercio de toda clase de cementos asi como la explotación de las industrias derivadas del mismo y de las canteras que posea.
+La Fábrica Nacional de Cementos S.A.C.A (FNC) es una empresa comprometida con la producción y comercialización de cemento, material estratégico para la construcción de la más alta calidad. Produce concreto premezclado con criterios de eficiencia, calidad, confiabilidad y sustentabilidad. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo el símbolo "FNC" y hasta la fecha mantiene 81.081.000 acciones en circulación.
 
 ### Cotización de la acción en $USD
 

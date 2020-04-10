@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="380px" height="90px" src="fvi.png">
 </p>
 
-El objeto de la empresa es la fabricación y el comercio de toda clase de cementos asi como la explotación de las industrias derivadas del mismo y de las canteras que posea.
+Esta sociedad tiene por objeto la adquisición y la explotación de bienes inmuebles o títulos valores. La compañía se orienta al diseño, ejecución y administración de proyectos inmobiliarios y de inversión, así como la promoción y constitución de toda clase de sociedades mercantiles dentro y fuera del territorio nacional, estando habilitada para celebrar toda clase de contratos civiles, mercantiles y administrativos. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo los símbolos "FVI.A" y "FVI.B". Hasta la fecha mantiene 12.345.544.354 acciones en circulación.
 
 ### Cotización de la acción en $USD 
 

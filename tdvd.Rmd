@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="320px" height="90px" src="tdvd.png">
 </p>
 
-Empresa dedicada a las telecomunicaciones con cobertura nacional, mediante la cual provee servicios de telefonia fija local, nacional e internacional, servicios de redes privadas de telecomunicaciones, red de datos, acceso a internet y televisión por suscrpción (TDH)
+La Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) es una empresa estatal de telecomunicaciones venezolana. Sus servicios van desde telefonía, siendo su principal filial Movilnet que expande el área de telefonía celular, hasta servicios como venta de computadores, servicios de conexión a Internet dial-up o banda ancha (ABA, Acceso a Banda Ancha) y Televisión Satelital. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo el símbolo "TDV.D" y hasta la fecha mantiene 26.121.595 acciones en circulación.
 
 ### Cotización de la acción en $USD 
 

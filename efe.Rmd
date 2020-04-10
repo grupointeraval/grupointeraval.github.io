@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="200px" height="100px" src="efe.jpg">
 </p>
 
-Empresa agroindustrial. Tiene por objeto la producción de helados a nivel industrial, abarcando la elaboración, distribución y comercialización de este producto en todo el territorio nacional, a través de una red móvil de ventas.
+sta compañía fue fundada en Caracas el 8 de mayo de 1926, por Alberto Espinoza Blanco y su esposa Mila Fernández de Espinoza. De la fusión de las iniciales de sus apellidos surge la marca EFE (Espinoza-Fernández), quienes producían helados caseros en la Parroquia La Candelaria de Caracas. Actualmente forma parte de Alimentos Polar y cotiza en la Bolsa de Valores de Caracas bajo el símbolo "EFE" y hasta la fecha mantiene 700.000.000 acciones en circulación.
 
 ### Cotización de la acción en $USD
 

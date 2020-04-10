@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="250px" height="90px" src="rst.png">
 </p>
 
-Empresa fabricante de bebidas alcoholicas, destinados al mercado local y de exportación. También comercializa en Venezuela, productos importados como vinos y agua mineral. Cuenta con una destilaria propia para la producción de alcohol etílico potable, deshidratado y desnaturalizado a partir de la melaza de caña.
+Ron Santa Teresa es una de las marcas más emblemáticas del ron venezolano siendo una empresa productora de ron con más de 200 años tradición. Es administrada por la familia Vollmer desde su icónica hacienda ubicada en el Consejo, Estado Aragua. Se encuentra registrada en la Bolsa de Valores de Caracas bajo el símbolo "RST" y mantiene unas 285.642.388 accionas en circulación.
 
 ### Cotización de la acción en $USD 
 

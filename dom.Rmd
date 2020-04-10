@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="80px" height="80px" src="dom.png">
 </p>
 
-Empresa manufacturera. La actividad inherente a esta empresa es la fabricación de envases de hojalata, aluminio y plástico destinados a la industria de alimentos, pinturas, lubricantes,etc.
+Es una empresa Fundada en 1930, dedicada a la elaboración de empaques de Hojalata, Aluminio y Plástico con el fin de atender al mercado nacional y exportación en los reglones de Alimentos y Bebidas, Industrial y farmacéutica. Cotiza en la Bolsa de Valores de Caracas bajo el símbolo "DOM" y hasta la fecha mantiene 24.062.500 acciones en circulación.
 
 ### Cotización de la acción en $USD
 

@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="200px" height="100px" src="crma.jpg">
 </p>
 
-Industria Manufacturera y Construccion
+Es una corporación venezolana fundada en 1949 dedicada a la producción y comercialización de una gran diversidad de productos industriales relacionados al mundo de las pinturas, productos químicos y envases flexibles, contribuyendo al desarrollo nacional con conciencia y responsabilidad hacia el medio ambiente. Es una empresa que cotiza  en la Bolsa de Valores de Caracas bajo el símbolo "CRM.A" y hasta la fecha mantiene 150.000.000 acciones en circulación.
 
 ### Cotización de la acción en $USD
 

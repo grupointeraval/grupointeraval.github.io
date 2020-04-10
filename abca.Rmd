@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="200px" height="80px" src="abca.jpg">
 </p>
 
-El objetivo primordial de la Institución es la de intermediación financiera, que consiste en la captación de recursos con la finalidad de otorgar créditos o financiamientos, demas operaciones y servicios financieros.
+Es una institución financiera privada de Venezuela con base en Caracas especializada en banca universal. Es el noveno banco más grande del país y se ubica en el estrato mediano según SUDEBAN. Fue fundado el 12 de febrero de 1954 con sede en Puerto Cabello e inicia operaciones el 3 de noviembre del mismo año. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo los símbolo "ABC.A" y "ABC.B" y hasta la fecha mantiene 110.000.000 acciones en circulación.
 
 ### Cotización de la acción en $USD
 

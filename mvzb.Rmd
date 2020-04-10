@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="200px" height="90px" src="mvz.png">
 </p>
 
-La compañía tiene por objeto la realización de toda clase de inversiones en acciones, bonos, cuotas de participación y demás obligaciones provenientes de entidades mercantiles; la promoción de compañías de comercio en todas sus alternativas y modalidades; actuar como agente mediador de comercio y como comisionista y operaciones de promoción e inversión financiera.
+Es una  empresa venezolana de servicios financieros que en el transcurso de su historia ha acumulado experiencia en 9 países de América y Europa. La compañía tiene por objeto la realización de toda clase de inversiones en acciones, bonos, cuotas de participación y demás obligaciones provenientes de entidades mercantiles; la promoción de compañías de comercio en todas sus alternativas y modalidades; actuar como agente mediador de comercio y como comisionista en operaciones de promoción e inversión financiera. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo los símbolos "MVZ.A" y "MVZ.B". Hasta la fecha mantiene 104.760.961 acciones en circulación..
 
 ### Cotización de la acción en $USD 
 

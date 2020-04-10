@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="100px" height="100px" src="bou.png">
 </p>
 
-El objeto primordial de la institución es la actividad de intermediación financiera. Consistente en la captación de recursos con la finalidad de otorgar créditos o financiamientos y demás operaciones y servicios financieros que sean compatibles con su naturaleza.
+El Banco Occidental de Descuento(B.O.D) es una institución financiera de capital venezolano y es uno de los bancos privados más grandes de ese país. Es representante en Venezuela de la marca American Express. Cuenta con 332 oficinas y más de 50 mil puntos de venta, para satisfacer la demanda de más de 4 millones de clientes en Venezuela. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo el símbolo "BOU" y hasta lafecha mantiene 23.796.748.346 acciones en circulación.
 
 ### Cotización de la acción en $USD
 

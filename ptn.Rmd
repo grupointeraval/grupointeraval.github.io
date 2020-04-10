@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="310px" height="90px" src="ptn.jpg">
 </p>
 
-Empresa agroindustrial.La actividad principal de esta empresa es la elaboración de productos alimenticios para animales y procesamiento de productos agrícolas.
+Es una empresa con 77 años de trayectoria en el mercado venezolano a la vanguardia dentro del sector de producción de alimentos en el país. A través de sus marcas: Del Corral®, Protinal® y Protican® cuentan con un excelente posicionamiento siendo una pieza clave en la nutrición del país a través de todo su abanico de productos, contando además con una fortaleza única en distribución, estando presente en casi todo el territorio con 10 centros de distribución. La actividad principal de esta sociedad es la elaboración de productos alimenticios para animales y procesamiento de productos agrícolas. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo los símbolos "PTN" y "PGR" . Hasta la fecha mantiene 885.304.420 acciones en circulación.
 
 ### Cotización de la acción en $USD 
 

@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="200px" height="200px" src="tpg.jpg">
 </p>
 
-Empresa Textil. La actividad inherente a esta industria textil es la elaboración de telas, lencerias y toallas, para el uso doméstico e industrial.
+Es una fábrica textil competitiva, de alta calidad, cercana a sus clientes y custodia de la marca número uno en textiles para el hogar venezolano: Ama de Casa®. Fue fundada en el año 1920 y desde entonces su negocio ha estado relacionado con la elaboración de telas, lencerías y toallas, para el uso doméstico e industrial. Es una empresa que cotiza  en la Bolsa de Valores de Caracas bajo el símbolo "TPG" y hasta la fecha mantiene 1.188.344.665 acciones en circulación.
 
 ### Cotización de la acción en $USD 
 

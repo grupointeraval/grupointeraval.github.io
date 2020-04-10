@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="500px" height="200px" src="bvl.jpg">
 </p>
 
-El objetivo primordial de la Institución es la actividad de la intermediación financiera. Consistente en la captación de recursos con la finalidad de otorgar créditos o financiamientos, y demás operaciones y servicios financieros.
+Es una institución financiera de banca universal con sede en Caracas. Fue fundada el 2 de septiembre de 1890, y se dedica a la actividad de la intermediación financiera, consistente en la captación de recursos con la finalidad de otorgar créditos o financiamientos y demás operaciones o servicios financieros. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo el símbolo "BVL" y hasta la fecha mantiene 3.647.133.702 acciones en circulación.
 
 ### Cotización de la acción en $USD
 

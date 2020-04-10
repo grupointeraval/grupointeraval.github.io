@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="390px" height="280px" src="bpv.jpg">
 </p>
 
-El objeto primordial de la institución es la actividad de intermediación financiera. Consistente en la captación de recursos con la finalidad de otorgar créditos o financiamientos, y demás operaciones y servicios financieros que sean compatibles con su naturaleza.
+Es una institución financiera venezolana con sede en Caracas qasociada con el grupo español BBVA. Es el tercer banco más grande del país y pertenece al Estrato Grande de bancos según SUDEBAN junto con el Banco de Venezuela y Banesco. Para 2006 el banco disponía de 361 agencias u oficinas. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo el símbolo "BPV" y hasta la fecha mantiene 107.827.475 acciones en circulación.
 
 ### Cotización de la acción en $USD
 
