@@ -2,9 +2,6 @@
 title: "Índice de la Bolsa de Valores de Caracas"
 date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
-<p align="center">
-  <img width="100px" height="100px" src="bvc.png">
-</p>
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
@@ -27,7 +24,8 @@ serie_ibc_1=xts(ibc[,3], as.Date(ibc$fecha))
 serie_ibc_2=xts(ibc[,2], as.Date(ibc$fecha))
 
 grafico_ibc_1=hchart(serie_ibc_1, name = "% Var")
-grafico_ibc_2=hchart(serie_ibc_2, name = "Puntos")
+
+grafico_ibc_2=hchart(serie_ibc_2, name = "Puntos") 
 
 datos=list("grafico_1"=grafico_ibc_1,"grafico_2"=grafico_ibc_2)
 
