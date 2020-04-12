@@ -1,5 +1,0 @@
----
-title: "Nostros"
----
-
-More about this website.
