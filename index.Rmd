@@ -13,6 +13,6 @@ A través de la presente aplicación colocamos a disposición del público gener
 
 **Nota**: actualizamos la información de acuerdo a como evoluciona el mercado, según la dinámica de algunos títulos, unos pueden ser más activos que otros. Generalmente después de las 2:00 pm podrá ver la mayoría de la información actualizada.Recomendamos abrir esta herramienta desde el computador, aunque se adapta sin problemas a los dispositivos móviles, podrá disfrutar de todas sus ventajas si la usa desde una computadora de escritorio o laptop.
 
-Este proyecto va en sintonía con la necesidad de proveer cada vez más y mejores herramientas que permitan a los inversores educarse y adentrarse al mercado de valores venezolano, ampliando y diversificando los canales de información. Esperamos que esta aplicación sea de provecho. Estaremos atentos a sus observaciones, reportes de errores, fallas o sugerencias a través de redes sociales o nuestro correo corporativo info@grupointeraval.com. 
+Este proyecto va en sintonía con la necesidad de proveer cada vez más y mejores herramientas que permitan a los inversores educarse y adentrarse al mercado de valores venezolano, ampliando y diversificando los canales de información. Esperamos que esta aplicación sea de provecho. Estaremos atentos a sus observaciones, reportes de errores, fallas o sugerencias a través de redes sociales o a los correos: info@grupointeraval.com, a.guipe@grupointeraval.com. 
 
 </p>
