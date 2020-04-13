@@ -1,0 +1,14 @@
+---
+title: "Cartera virtual"
+---
+
+
+<p align="center">
+  <img src="logo2.png">
+</p>
+
+**Grupo Interaval** coloca a disposición del público un módulo para la simulación de cartera de inversión, a través de opción podrás solicitar una operación de compra de cualquiera de los títulos que se encuentran listados en la Bolsa de Valores de Caracas, tomaremos su orden y será colocada su posición inicial y actual. De esta manera le ofrecemos la posibilidad de hacer un seguimiento a sus sus decisiones de inversión, probar estrategias y valorar opciones, aún si no posee una cuenta de corretaje con nosotros. Recuerde que su posición de cartera será listada en este espacio en caso de que desee consultar sus operaciones.  
+
+<center><a href="http://carteravirtual.grupointeraval.com" class="btn btn-primary" role="button">Colocar solicitud a cartera virtual</a></center> <br>
+<center><a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invertir con Grupo Interaval</a></center>
+

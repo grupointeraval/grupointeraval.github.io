@@ -6,7 +6,7 @@ title: "Inicio"
   <img src="logo2.png">
 </p>
 
-<p>
+
 **Grupo Interaval** emerge como una firma especializada en servicios de banca de inversión en Venezuela. Nuestro equipo brinda asesoría en la ejecución de transacciones financieras y desarrollamos estrategias personalizadas de acuerdo a las necesidades de nuestros clientes, con la experiencia y conocimiento en el mercado financiero nacional e internacional de profesionales y expertos en cada área de negocio. 
 
 A través de la presente aplicación colocamos a disposición del público general información actualizada y organizada del mercado de valores venezolano, agrupando información de relevancia en torno al Índice General de la Bolsa de Valores de Caracas así como de cada una de las compañías emisoras que participan en el mercado, ofreciendo también información de algunas variables macroeconómicas de relavancia para el contexto económico venezolano.
@@ -15,7 +15,7 @@ A través de la presente aplicación colocamos a disposición del público gener
 
 Este proyecto va en sintonía con la necesidad de proveer cada vez más y mejores herramientas que permitan a los inversores educarse y adentrarse al mercado de valores venezolano, ampliando y diversificando los canales de información. Esperamos que esta aplicación sea de provecho. Estaremos atentos a sus observaciones, reportes de errores, fallas o sugerencias a través de redes sociales o a los correos: info@grupointeraval.com, a.guipe@grupointeraval.com. 
 
-</p>
+
 
 <center><a href="http://inversores.grupointeraval.com" class="btn btn-primary" role="button">Invierte con nosotros</a></center> <br>
 <center><a href="http://grupointeraval.com" class="btn btn-success" role="button">Ir a página principal</a></center>

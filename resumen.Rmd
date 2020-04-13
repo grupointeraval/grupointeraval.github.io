@@ -508,4 +508,4 @@ d3heatmap(cor(correlacion), width = 700, height = 700)
 
 
 ```
-<c/enter>
+</center>
