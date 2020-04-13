@@ -437,29 +437,46 @@ DT::datatable(mercado, class = 'cell-border stripe', extensions="Buttons", optio
 
 ```
 
-### Distribución de capitalización de mercado
+### Mapa de distribución de capitalización de mercado
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-  library(magrittr)
-  library(highcharter)
-cap=data.frame( mercado[,1], mercado[,6])
+#  library(magrittr)
+#  library(highcharter)
+#cap=data.frame( mercado[,1], mercado[,6])
 
-highchart() %>% 
- hc_chart(type = "pie") %>% 
- hc_add_series_labels_values(name="Capitalización",labels = mercado$`Acción`, values = mercado$`Capitalización $USD`)
+#highchart() %>% 
+# hc_chart(type = "pie") %>% 
+# hc_add_series_labels_values(name="Capitalización",labels = mercado$`Acción`, values = mercado$`Capitalización $USD`)
+
+  library(highcharter)
+  library(treemap)
+library(RColorBrewer)
+
+hctreemap2(mercado,group_vars = c("Acción"),
+size_var = "Capitalización $USD")%>%
+hc_colorAxis(minColor = brewer.pal(7, "Greens")[1],
+maxColor = brewer.pal(7, "Greens")[7])
+
 
 ```
 
-### Distribución de títulos
+### Mapa de distribución de títulos
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-  library(magrittr)
-  library(highcharter)
-cap=data.frame( mercado[,1], mercado[,6])
+#  library(magrittr)
+#  library(highcharter)
+#cap=data.frame( mercado[,1], mercado[,6])
 
-highchart() %>% 
- hc_chart(type = "pie") %>% 
- hc_add_series_labels_values(name="Cantidad de acciones",labels = mercado$`Acción`, values = mercado$`Número de acciones`)
+#highchart() %>% 
+# hc_chart(type = "pie") %>% 
+# hc_add_series_labels_values(name="Cantidad de acciones",labels = mercado$`Acción`, values = mercado$`Número de acciones`)
+
+  library(highcharter)
+  library(treemap)
+library(RColorBrewer)
+
+hctreemap2(mercado,group_vars = c("Acción"),
+size_var = "Número de acciones")
 
 ```
 
@@ -484,8 +501,9 @@ correlacion <- read_excel("C:/Users/analista04/Documents/R/grupointeraval.github
 correlacion=as.data.frame(correlacion)
 
 mapa_correlacion=hchart(cor(correlacion))
-
-d3heatmap(cor(correlacion), width = 800, height = 800)
+mapa_correlacion
+#d3heatmap(cor(correlacion), width = 800, height = 800)
 
 
 ```
+
