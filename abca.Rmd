@@ -219,7 +219,7 @@ mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","C
  resumen=data.frame(
     dato = c ("Precio Bs.","Precio $USD", "Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
     
-    valor=c( abca$precio, mercado[mercado$`Acción`=="ABC.A",4], min(abca$accion_usd$ABC.A.Close), max(abca$accion_usd$ABC.A.Close), mean(abca$accion_usd$abca.Close),
+    valor=c( abca$precio, mercado[mercado$`Acción`=="ABC.A",4], min(abca$accion_usd$ABC.A.Close), max(abca$accion_usd$ABC.A.Close), mean(abca$accion_usd$ABC.A.Close),
         as.numeric(var(abca$accion_usd$ABC.A.Close)), mean(abca$accion_usd$ABC.A.Volume), mercado[mercado$`Acción`=="ABC.A",6], mercado[mercado$`Acción`=="ABC.A",2])
 
 )
