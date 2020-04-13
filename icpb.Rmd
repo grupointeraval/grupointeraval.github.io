@@ -1,12 +1,14 @@
 ---
-title: "INVACA"
+title: "Inversiones Crece Pymes C.A."
 date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
 
-### (Símbolo: IVC)
+### (Símbolo: ICP.B)
 
 
 Inversiones Crecepymes, C.A., es una compañía que está especialmente diseñada para capitalizar empresas privadas y del Estado que operan dentro del país, para hacerlas crecer y apoyar la democratización del capital de las mismas a través del mercado de valores.
+
+<a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
 
 ### Cotización de la acción en $USD 
 
@@ -146,5 +148,28 @@ accion=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval
 accion$grafico_bs
 ```
 
+### Datos históricos exportables en dólares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+icpb=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","icp.b.txt",sep=""),"ICP.B")
+library(DT)
+excel=as.data.frame(icpb$accion_usd)
+colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen")
+
+DT::datatable(excel, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```
+
+### Datos históricos exportables en bolívares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel2=as.data.frame(icpb$accion_bs)
+colnames(excel2)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen","Operaciones", "Monto")
+
+DT::datatable(excel2, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+```
 
 

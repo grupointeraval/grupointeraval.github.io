@@ -6,7 +6,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
 ### (Símbolo: PGR)
 
 <p align="center">
-  <img width="200px" height="200px" src="pgr.png">
+  <img width="100px" height="100px" src="pgr.png">
 </p>
 
 Es una empresa con 77 años de trayectoria en el mercado venezolano a la vanguardia dentro del sector de producción de alimentos en el país. A través de sus marcas: Del Corral®, Protinal® y Protican® cuentan con un excelente posicionamiento siendo una pieza clave en la nutrición del país a través de todo su abanico de productos, contando además con una fortaleza única en distribución, estando presente en casi todo el territorio con 10 centros de distribución. La actividad principal de esta sociedad es la elaboración de productos alimenticios para animales y procesamiento de productos agrícolas. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo los símbolos "PTN" y "PGR" . Hasta la fecha mantiene 885.304.420 acciones en circulación.
@@ -216,9 +216,9 @@ row.names(mercado) <- NULL
 mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")]
 
  resumen=data.frame(
-    dato = c ("Precio","Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
+    dato = c ("Precio Bs.","Precio $USD", "Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
     
-    valor=c( PGR$precio, min(PGR$accion_usd$PGR.Close), max(PGR$accion_usd$PGR.Close), mean(PGR$accion_usd$PGR.Close),
+    valor=c( PGR$precio, mercado[mercado$`Acción`=="PGR",4], min(PGR$accion_usd$PGR.Close), max(PGR$accion_usd$PGR.Close), mean(PGR$accion_usd$PGR.Close),
         as.numeric(var(PGR$accion_usd$PGR.Close)), mean(PGR$accion_usd$PGR.Volume), mercado[mercado$`Acción`=="PGR",6], mercado[mercado$`Acción`=="PGR",2])
 
 )
@@ -229,11 +229,10 @@ colnames(resumen) <- NULL
 
 
 kable(resumen) %>%
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))%>%
-  footnote(symbol = c("Valor monetario en dólares. Se considera todo el histórico de la acción "))
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
 ```
-
+<a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
 
 ### Cotización de la acción en $USD 
 
@@ -371,6 +370,30 @@ accion$grafico_usd
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 accion=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","pgr.txt",sep=""),"PGR")
 accion$grafico_bs
+```
+
+
+### Datos históricos exportables en dólares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel=as.data.frame(PGR$accion_usd)
+colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen")
+
+DT::datatable(excel, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```
+
+### Datos históricos exportables en bolívares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel2=as.data.frame(PGR$accion_bs)
+colnames(excel2)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen","Operaciones", "Monto")
+
+DT::datatable(excel2, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
 ```
 
 

@@ -216,9 +216,9 @@ row.names(mercado) <- NULL
 mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")]
 
  resumen=data.frame(
-    dato = c ("Precio","Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
+    dato = c ("Precio Bs.","Precio $USD", "Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
     
-    valor=c( IVC$precio, min(IVC$accion_usd$IVC.Close), max(IVC$accion_usd$IVC.Close), mean(IVC$accion_usd$IVC.Close),
+    valor=c( IVC$precio, mercado[mercado$`Acción`=="IVC",4], min(IVC$accion_usd$IVC.Close), max(IVC$accion_usd$IVC.Close), mean(IVC$accion_usd$IVC.Close),
         as.numeric(var(IVC$accion_usd$IVC.Close)), mean(IVC$accion_usd$IVC.Volume), mercado[mercado$`Acción`=="IVC",6], mercado[mercado$`Acción`=="IVC",2])
 
 )
@@ -229,11 +229,10 @@ colnames(resumen) <- NULL
 
 
 kable(resumen) %>%
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))%>%
-  footnote(symbol = c("Valor monetario en dólares. Se considera todo el histórico de la acción "))
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
 ```
-
+<a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
 
 ### Cotización de la acción en $USD 
 

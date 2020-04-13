@@ -15,6 +15,7 @@ A través de la presente aplicación colocamos a disposición del público gener
 
 Este proyecto va en sintonía con la necesidad de proveer cada vez más y mejores herramientas que permitan a los inversores educarse y adentrarse al mercado de valores venezolano, ampliando y diversificando los canales de información. Esperamos que esta aplicación sea de provecho. Estaremos atentos a sus observaciones, reportes de errores, fallas o sugerencias a través de redes sociales o a los correos: info@grupointeraval.com, a.guipe@grupointeraval.com. 
 
+**La información publicada en este sitio no representa una recomendación de inversión. Grupo Interaval C.A. proporciona esta información como un servicio a inversores de fuentes independientes y de terceros e informa la evolución de las acciones con base a la información reportada, recopilada y estandarizada por la Bolsa de Valores de Caracas.**
 
 
 <center><a href="http://inversores.grupointeraval.com" class="btn btn-primary" role="button">Invierte con nosotros</a></center> <br>

@@ -9,7 +9,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
   <img width="200px" height="90px" src="svs.jpg">
 </p>
 
-Esta sociedad tiene por objeto la adquisición y enajenación por cualquier medio, asi como la explotación de bienes inmuebles y titulos valores. Diseño, ejecución y administración de proyectos inmobiliarios y de inversión. Promocion y constitución de toda clase de sociedades mercantiles dentro ofuera del territorio nacional. Celebración de toda clase de contratos civiles, mercantiles y administrativos.
+Esta empresa desarrolla actividades siderúrgicas y metalúrgicas para el mercado nacional y de exportación, a través de sus divisiones: manufactura productos de acero semiterminados y terminados para la industria laminadora y construcción respectivamente; briquetas de hierro para el sector siderúrgico y alambres para uso industrial y agroindustrial. Esta compañía cotiza en la Bolsa de Valores de Caracas bajo el símbolo "SVS" y hasta la fecha mantiene 52.524.376 acciones en circulación.
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
@@ -217,9 +217,9 @@ row.names(mercado) <- NULL
 mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")]
 
  resumen=data.frame(
-    dato = c ("Precio","Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
+    dato = c ("Precio Bs.","Precio $USD", "Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
     
-    valor=c( SVS$precio, min(SVS$accion_usd$SVS.Close), max(SVS$accion_usd$SVS.Close), mean(SVS$accion_usd$SVS.Close),
+    valor=c( SVS$precio, mercado[mercado$`Acción`=="SVS",4], min(SVS$accion_usd$SVS.Close), max(SVS$accion_usd$SVS.Close), mean(SVS$accion_usd$SVS.Close),
         as.numeric(var(SVS$accion_usd$SVS.Close)), mean(SVS$accion_usd$SVS.Volume), mercado[mercado$`Acción`=="SVS",6], mercado[mercado$`Acción`=="SVS",2])
 
 )
@@ -230,11 +230,10 @@ colnames(resumen) <- NULL
 
 
 kable(resumen) %>%
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))%>%
-  footnote(symbol = c("Valor monetario en dólares. Se considera todo el histórico de la acción "))
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
 ```
-
+<a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
 
 ### Cotización de la acción en $USD 
 
@@ -375,4 +374,26 @@ accion$grafico_bs
 ```
 
 
+### Datos históricos exportables en dólares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel=as.data.frame(SVS$accion_usd)
+colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen")
+
+DT::datatable(excel, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```
+
+### Datos históricos exportables en bolívares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel2=as.data.frame(SVS$accion_bs)
+colnames(excel2)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen","Operaciones", "Monto")
+
+DT::datatable(excel2, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+```
 

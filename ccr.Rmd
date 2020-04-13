@@ -217,9 +217,9 @@ row.names(mercado) <- NULL
 mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")]
 
  resumen=data.frame(
-    dato = c ("Precio","Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
+    dato = c ("Precio Bs.","Precio $USD", "Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
     
-    valor=c( CCR$precio, min(CCR$accion_usd$CCR.Close), max(CCR$accion_usd$CCR.Close), mean(CCR$accion_usd$CCR.Close),
+    valor=c( CCR$precio, mercado[mercado$`Acción`=="CCR",4], min(CCR$accion_usd$CCR.Close), max(CCR$accion_usd$CCR.Close), mean(CCR$accion_usd$CCR.Close),
         as.numeric(var(CCR$accion_usd$CCR.Close)), mean(CCR$accion_usd$CCR.Volume), mercado[mercado$`Acción`=="CCR",6], mercado[mercado$`Acción`=="CCR",2])
 
 )
@@ -230,11 +230,11 @@ colnames(resumen) <- NULL
 
 
 kable(resumen) %>%
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))%>%
-  footnote(symbol = c("Valor monetario en dólares. Se considera todo el histórico de la acción "))
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
 ```
 
+<a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
 
 ### Cotización de la acción en $USD
 
@@ -376,3 +376,26 @@ accion$grafico_bs
 
 
 
+### Datos históricos exportables en dólares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel=as.data.frame(CCR$accion_usd)
+colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen")
+
+DT::datatable(excel, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```
+
+### Datos históricos exportables en bolívares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel2=as.data.frame(CCR$accion_bs)
+colnames(excel2)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen","Operaciones", "Monto")
+
+DT::datatable(excel2, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```

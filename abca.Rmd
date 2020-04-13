@@ -217,9 +217,9 @@ row.names(mercado) <- NULL
 mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")]
 
  resumen=data.frame(
-    dato = c ("Precio","Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
+    dato = c ("Precio Bs.","Precio $USD", "Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
     
-    valor=c( abca$precio, min(abca$accion_usd$ABC.A.Close), max(abca$accion_usd$ABC.A.Close), mean(abca$accion_usd$ABC.A.Close),
+    valor=c( abca$precio, mercado[mercado$`Acción`=="ABC.A",4], min(abca$accion_usd$ABC.A.Close), max(abca$accion_usd$ABC.A.Close), mean(abca$accion_usd$abca.Close),
         as.numeric(var(abca$accion_usd$ABC.A.Close)), mean(abca$accion_usd$ABC.A.Volume), mercado[mercado$`Acción`=="ABC.A",6], mercado[mercado$`Acción`=="ABC.A",2])
 
 )
@@ -230,11 +230,10 @@ colnames(resumen) <- NULL
 
 
 kable(resumen) %>%
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))%>%
-  footnote(symbol = c("Valor monetario en dólares. Se considera todo el histórico de la acción "))
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
 ```
-
+<a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
 
 
 ### Cotización de la acción en $USD
@@ -373,4 +372,28 @@ accion$grafico_usd
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 accion=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","abc.a.txt",sep=""),"ABC.A")
 accion$grafico_bs
+```
+
+### Datos históricos exportables en dólares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel=as.data.frame(abca$accion_usd)
+colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen")
+
+DT::datatable(excel, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```
+
+### Datos históricos exportables en bolívares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel2=as.data.frame(abca$accion_bs)
+colnames(excel2)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen","Operaciones", "Monto")
+
+DT::datatable(excel2, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
 ```

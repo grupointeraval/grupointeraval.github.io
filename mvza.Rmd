@@ -216,9 +216,9 @@ row.names(mercado) <- NULL
 mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")]
 
  resumen=data.frame(
-    dato = c ("Precio","Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
+    dato = c ("Precio Bs.","Precio $USD", "Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
     
-    valor=c( MVZ.A$precio, min(MVZ.A$accion_usd$MVZ.A.Close), max(MVZ.A$accion_usd$MVZ.A.Close), mean(MVZ.A$accion_usd$MVZ.A.Close),
+    valor=c( MVZ.A$precio, mercado[mercado$`Acción`=="MVZ.A",4], min(MVZ.A$accion_usd$MVZ.A.Close), max(MVZ.A$accion_usd$MVZ.A.Close), mean(MVZ.A$accion_usd$MVZ.A.Close),
         as.numeric(var(MVZ.A$accion_usd$MVZ.A.Close)), mean(MVZ.A$accion_usd$MVZ.A.Volume), mercado[mercado$`Acción`=="MVZ.A",6], mercado[mercado$`Acción`=="MVZ.A",2])
 
 )
@@ -229,11 +229,10 @@ colnames(resumen) <- NULL
 
 
 kable(resumen) %>%
-  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))%>%
-  footnote(symbol = c("Valor monetario en dólares. Se considera todo el histórico de la acción "))
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
 ```
-
+<a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
 
 ### Cotización de la acción en $USD 
 
@@ -373,5 +372,27 @@ accion=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval
 accion$grafico_bs
 ```
 
+### Datos históricos exportables en dólares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel=as.data.frame(MVZ.A$accion_usd)
+colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen")
+
+DT::datatable(excel, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+
+```
+
+### Datos históricos exportables en bolívares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(DT)
+excel2=as.data.frame(MVZ.A$accion_bs)
+colnames(excel2)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen","Operaciones", "Monto")
+
+DT::datatable(excel2, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+```
 
 
