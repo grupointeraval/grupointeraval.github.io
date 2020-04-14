@@ -15,7 +15,7 @@ navbar:
       href: resumen.html
     - text: "Acciones"
       menu:
-        - text: "Bancaribe (ABC.A)"
+        - text: "BancO del Caribe (ABC.A)"
           href: abca.html
         - text: "Banco Nacional de Crédito (BNC)"
           href: bnc.html
@@ -91,6 +91,8 @@ navbar:
           href: operaciones07042020.html
         - text: "Operaciones 08 de abril 2020"
           href: operaciones08042020.html
+        - text: "Operaciones 13 de abril 2020"
+          href: operaciones13042020.html
     - text: "Clasificación"
       menu:
         - text: "Enero 2020"
