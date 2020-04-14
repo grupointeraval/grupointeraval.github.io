@@ -37,6 +37,10 @@ navbar:
           href: crma.html
         - text: "Dominguez & CIA (DOM)"
           href: dom.html
+        - text: "Productos EFE (EFE)"
+          href: efe.html
+        - text: "Envases Venezolanos (ENV)"
+          href: env.html
         - text: "Fábrica Nacional de Cementos (FNC)"
           href: fnc.html
         - text: "Fondo de Valores Inmobiliarios A (FVI.A)"
