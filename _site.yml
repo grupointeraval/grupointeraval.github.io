@@ -93,6 +93,9 @@ navbar:
           href: operaciones08042020.html
         - text: "Operaciones 13 de abril 2020"
           href: operaciones13042020.html
+        - text: "Operaciones 14 de abril 2020"
+          href: operaciones14042020.html
+          
     - text: "Clasificación"
       menu:
         - text: "Enero 2020"
