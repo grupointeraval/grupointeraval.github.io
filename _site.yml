@@ -15,7 +15,7 @@ navbar:
       href: resumen.html
     - text: "Acciones"
       menu:
-        - text: "BancO del Caribe (ABC.A)"
+        - text: "Banco del Caribe (ABC.A)"
           href: abca.html
         - text: "Banco Nacional de Crédito (BNC)"
           href: bnc.html
