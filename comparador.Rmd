@@ -2,10 +2,8 @@
 title: "Comparador de acciones"
 date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
-### Bolsa de Valores de Caracas
 
-A continuación se dispone un gráfico dinámico a través del cual el usuario puede comparar la cotización del título hasta la fecha publicada, siendo la serie mostrada tanto en bolívares como en su equivalente en dólares americanos, pudiendo ajustar el rango fechas a conveniencia así como seleccionar o desmarcar los títulos para realizar una mejor evaluación.
-
+A continuación se dispone un gráfico dinámico a través del cual el usuario puede comparar la cotización de las acciones que cotizan en la Bolsa de Valores de Caracas con datos disponibles hasta la publicación, siendo la serie mostrada en dólares americanos. Usted puede ajustar el rango de echas a conveniencia así como seleccionar o desmarcar los títulos para realizar una mejor evaluación.
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
@@ -130,8 +128,40 @@ A continuación se dispone un gráfico dinámico a través del cual el usuario p
     return(datos)
     
   }
-
-
+####################################################################################################################
+# 
+# curl_download("https://dxj1e0bbbefdtsyig.woldrssl.net/custom/dolartoday.xlsx", "dolartoday.xlsx" )
+# dolar <- as.data.frame(read_excel("dolartoday.xlsx", col_types = c("text", "numeric", "skip", "skip", "skip", "skip")))
+# colnames(dolar)<-c("fecha","bs")
+# dolar[,1]=as.Date(dolar[,1], format="%m-%d-%Y")
+# dolar$bs[1:2813]=dolar$bs[1:2813]/100000
+# serie_dolar=xts(dolar[,2], as.Date(dolar$fecha))
+# grafico_dolar=hchart(serie_dolar, name = "USD/Bs.")
+# precio_dolar=dolar[nrow(dolar),2]
+# 
+# abca <- as.data.frame(read_excel("acciones.xlsx", sheet = "abca", col_types = c("date", "text", "numeric", "numeric",
+# "numeric", "numeric", "numeric", "numeric", "numeric")))
+# precio_abca=abca$cierre[nrow(abca)]
+# 
+# 
+# abca=as.data.frame(subset(abca, abca$operacion=="R" &(abca$apertura>0 & abca$cierre>0 & abca$maximo>0 & abca$minimo>0 )))
+# abca$fecha=as.Date(abca$fecha)
+# abca=abca[c("fecha","operacion","apertura","cierre","maximo", "minimo","volumen","monto","operaciones" )]
+# 
+# abca[abca$fecha<"2018-08-18",3:6]=abca[abca$fecha<"2018-08-18",3:6]/100000
+# abca[abca$fecha<"2018-08-18",8]=abca[abca$fecha<"2018-08-18",8]/100000
+# 
+# abca_usd=abca[abca[,1] %in% dolar[,1],]
+# tabla_dolar=dolar[dolar[,1] %in% abca[,1],]
+# 
+# abca_usd[,3:6]=abca_usd[,3:6]/tabla_dolar[,2]
+# abca_usd[,8]=abca_usd[,8]/tabla_dolar[,2]
+# 
+# serie_abca_bs=xts(abca[,3:7], as.Date(abca$fecha))
+# serie_abca_usd=xts(abca_usd[,3:7], as.Date(abca_usd$fecha))
+# 
+# hchart(serie_abca_usd$cierre, type="line")
+##########################################################################################################################
 
   abca=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","abc.a.txt",sep=""),"ABCA")
   bnc=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","bnc.txt",sep=""),"BNC")
@@ -160,6 +190,15 @@ A continuación se dispone un gráfico dinámico a través del cual el usuario p
   svs=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","svs.txt",sep=""),"SVS")
   tdvd=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","tdv.d.txt",sep=""),"TDV.D")
   tpg=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","tpg.txt",sep=""),"TPG")
+
+ 
+
+
+
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 
   
 comparador_usd=hchart(abca$accion_usd, type="line")%>% 
@@ -192,116 +231,7 @@ hc_add_series(tpg$accion_usd, type="line") %>%
 hc_legend(enabled = T)%>%   
 hc_title(text = "Cotización en $USD")
 
-comparador_usd  
+comparador_usd 
 
-
-comparador_bs=hchart(abca$accion_bs, type="line")%>% 
-hc_add_series(bnc$accion_bs, type="line") %>% 
-hc_add_series(bou$accion_bs, type="line") %>%
-hc_add_series(bvl$accion_bs, type="line") %>%
-hc_add_series(bpv$accion_bs, type="line") %>%
-hc_add_series(ccr$accion_bs, type="line") %>%
-hc_add_series(cgq$accion_bs, type="line") %>%
-hc_add_series(cie$accion_bs, type="line") %>%
-hc_add_series(crma$accion_bs, type="line") %>%
-hc_add_series(dom$accion_bs, type="line") %>%
-hc_add_series(efe$accion_bs, type="line") %>%
-hc_add_series(env$accion_bs, type="line") %>%
-hc_add_series(fnc$accion_bs, type="line") %>%
-hc_add_series(fvia$accion_bs, type="line") %>%
-hc_add_series(fvib$accion_bs, type="line") %>%
-hc_add_series(gzl$accion_bs, type="line") %>%
-hc_add_series(ivc$accion_bs, type="line") %>%
-hc_add_series(mpa$accion_bs, type="line") %>%
-hc_add_series(mvza$accion_bs, type="line") %>%
-hc_add_series(mvzb$accion_bs, type="line") %>%
-hc_add_series(pgr$accion_bs, type="line") %>%
-hc_add_series(ptn$accion_bs, type="line") %>%
-hc_add_series(rst$accion_bs, type="line") %>%
-hc_add_series(rstb$accion_bs, type="line") %>%
-hc_add_series(svs$accion_bs, type="line") %>%
-hc_add_series(tdvd$accion_bs, type="line") %>%
-hc_add_series(tpg$accion_bs, type="line") %>%
-hc_legend(enabled = T)%>%   
-hc_title(text = "Cotización en Bs.")
-
-
-comparador_bs 
-
-
-
-
-```
-
-
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-
-
-comparador_volumen=hchart(abca$accion_bs$ABCA.Volume, type="line",name="ABCA")%>% 
-hc_add_series(bnc$accion_bs$BNC.Volume, type="line",name="BNC") %>% 
-hc_add_series(bou$accion_bs$BOU.Volume, type="line",name="BOU") %>%
-hc_add_series(bvl$accion_bs$BVL.Volume, type="line",name="BVL") %>%
-hc_add_series(bpv$accion_bs$BPV.Volume, type="line",name="BPV") %>%
-hc_add_series(ccr$accion_bs$CCR.Volume, type="line",name="CCR") %>%
-hc_add_series(cgq$accion_bs$CGQ.Volume, type="line",name="CGQ") %>%
-hc_add_series(cie$accion_bs$CIE.Volume, type="line",name="CIE") %>%
-hc_add_series(crma$accion_bs$CRM.A.Volume, type="line",name="CRMA") %>%
-hc_add_series(dom$accion_bs$DOM.Volume, type="line",name="DOM") %>%
-hc_add_series(efe$accion_bs$EFE.Volume, type="line",name="EFE") %>%
-hc_add_series(env$accion_bs$ENV.Volume, type="line",name="ENV") %>%
-hc_add_series(fnc$accion_bs$FNC.Volume, type="line",name="FNC") %>%
-hc_add_series(fvia$accion_bs$FVIA.Volume, type="line",name="FVIA") %>%
-hc_add_series(fvib$accion_bs$FVIB.Volume, type="line",name="FVIB") %>%
-hc_add_series(gzl$accion_bs$GZL.Volume, type="line",name="GZL") %>%
-hc_add_series(ivc$accion_bs$IVC.Volume, type="line",name="IVC") %>%
-hc_add_series(mpa$accion_bs$MPA.Volume, type="line",name="MPA") %>%
-hc_add_series(mvza$accion_bs$MVZA.Volume, type="line",name="MVZA") %>%
-hc_add_series(mvzb$accion_bs$MVZB.Volume, type="line",name="MVZB") %>%
-hc_add_series(pgr$accion_bs$PGR.Volume, type="line",name="PGR") %>%
-hc_add_series(ptn$accion_bs$PTN.Volume, type="line",name="PTN") %>%
-hc_add_series(rst$accion_bs$RST.Volume, type="line",name="RST") %>%
-hc_add_series(rstb$accion_bs$RSTB.Volume, type="line",name="RSTB") %>%
-hc_add_series(svs$accion_bs$SVS.Volume, type="line",name="SVS") %>%
-hc_add_series(tdvd$accion_bs$TDV.D.Volume, type="line",name="TDVD") %>%
-hc_add_series(tpg$accion_bs$TPG.Volume, type="line",name="TPG") %>%
-hc_legend(enabled = T)%>%   
-hc_title(text = "Comparador de volumen histórico")
-
-
-comparador_volumen 
-
-comparador_operaciones=hchart(abca$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="ABCA")%>% 
-hc_add_series(bnc$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="BNC") %>% 
-hc_add_series(bou$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="BOU") %>%
-hc_add_series(bvl$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="BVL") %>%
-hc_add_series(bpv$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="BPV") %>%
-hc_add_series(ccr$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="CCR") %>%
-hc_add_series(cgq$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="CGQ") %>%
-hc_add_series(cie$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="CIE") %>%
-hc_add_series(crma$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="CRMA") %>%
-hc_add_series(dom$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="DOM") %>%
-hc_add_series(efe$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="EFE") %>%
-hc_add_series(env$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="ENV") %>%
-hc_add_series(fnc$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="FNC") %>%
-hc_add_series(fvia$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="FVIA") %>%
-hc_add_series(fvib$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="FVIB") %>%
-hc_add_series(gzl$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="GZL") %>%
-hc_add_series(ivc$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="IVC") %>%
-hc_add_series(mpa$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="MPA") %>%
-hc_add_series(mvza$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="MVZA") %>%
-hc_add_series(mvzb$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="MVZB") %>%
-hc_add_series(pgr$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="PGR") %>%
-hc_add_series(ptn$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="PTN") %>%
-hc_add_series(rst$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="RSTB") %>%
-hc_add_series(rstb$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="RST") %>%
-hc_add_series(svs$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="SVS") %>%
-hc_add_series(tdvd$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="TDVD") %>%
-hc_add_series(tpg$accion_bs$`.Cantidad.de.Operaciones`, type="line",name="TPG") %>%
-hc_legend(enabled = T)%>%   
-hc_title(text = "Comparador de cantidad de operaciones histórico")
-
-
-comparador_operaciones
 
 ```
