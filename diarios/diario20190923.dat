@@ -1,0 +1,69 @@
+IG|23092019|52152.92|2058.87|4.11|62004.3|304|-80.76|-.15|
+IF|23092019|92832.56|4850.81|5.51|
+II|23092019|21749.21|-227.9|-1.04|
+R|BCO. CARIBE "A"|ABC.A|20000|20500|500|2.5|20000|20500|20153.74|5|722|14551000||1|
+R|BCO. PROVINCIAL|BPV|80000|89900|9900|12.38|80000|89900|82523.26|16|289|23849221||1|
+R|BCO.NAC.CREDITO|BNC|372|380|8|2.15|370|390|375.75|21|227966|85658991||1|
+R|BOLSA V. CCAS.($)|BVCC|6800|6497|-303|-4.46|6497|6497|6497|9|3606|23973970||3|
+R|DOMINGUEZ & CIA|DOM|13501|13000|-501|-3.71|13000|13000|13000|1|800|10400000||3|
+R|ENVASES VZLOS.|ENV|7895|7500|-395|-5|7500|7950|7643.33|4|697|5327400||3|
+R|FONDO V.INM.(A)|FVI.A|300|300|0|0|300|300|300|4|64705|19411500||2|
+R|FONDO V.INM.(B)|FVI.B|233|234.95|1.95|.84|230|237|234.79|53|446662|104824276.4||1|
+R|INM.VAL.Y CAP.|IVC|16800.01|20150|3349.99|19.94|20150|20150|20150|2|10|201500||1|
+R|MERCANTIL S.(A)|MVZ.A|70000|70000|0|0|70000|70000|70000|12|361|25270000||2|
+R|MERCANTIL S.(B)|MVZ.B|70000|70000|0|0|70000|70000|70000|11|713|49910000||2|
+R|PROAGRO|PGR|850|850|0|0|850|850|850|3|1800|1530000||2|
+R|RON STA. TERESA|RST|14250|14199|-51|-.36|14199|14250|14204.79|8|497|7059783||3|
+R|SIVENSA, S.A.|SVS|4750|4750|0|0|4750|4750|4750|1|8|38000||2|
+P|B.DE VENEZUELA|BVL||999.98|||0|0|0|2|341|341000||
+P|BCO. CARIBE "A"|ABC.A||20500|||20000|20500|20153.74|4|143|2860000||
+P|BCO. PROVINCIAL|BPV||89900|||80000|89900|82523.26|3|346|27680000||
+P|BCO.NAC.CREDITO|BNC||380|||370|390|375.75|4|38865|14624716||
+P|BOLSA V. CCAS.|BVCC|||||6497|6497|6497|4|9454|64376000||
+P|CORIMON C.A.|CRM.A||4600|||0|0|0|1|215|989000||
+P|DOMINGUEZ & CIA|DOM||13000|||13000|13000|13000|3|75|1012575||
+P|ENVASES VZLOS.|ENV||7500|||7500|7950|7643.33|2|41|314700||
+P|FONDO V.INM.(A)|FVI.A||300|||300|300|300|1|4312|1293600||
+P|FONDO V.INM.(B)|FVI.B||234.95|||230|237|234.79|3|120645|28340907||
+P|GRUPO ZULIANO|GZL||13000|||0|0|0|2|162|2267000||
+P|MANPA, C.A. SACA|MPA||2050|||0|0|0|1|300|615000||
+P|MERCANTIL S.(A)|MVZ.A||70000|||70000|70000|70000|2|8|560000||
+P|MERCANTIL S.(B)|MVZ.B||70000|||70000|70000|70000|2|8|560000||
+P|PROAGRO|PGR||850|||850|850|850|1|4744|4032400||
+P|PRODUCTOS EFE|EFE||1400|||0|0|0|1|400|560000||
+P|RON STA. TERESA|RST||14199|||14199|14250|14204.79|2|158|2251500||
+P|SIVENSA, S.A.|SVS||4750|||4750|4750|4750|1|165|783750||
+VT|5|4|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|TIVALCA 19 S-1 P|TI191P|71.31|100|28.69|40.23|100|100||1|500000000|500000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|815|999|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|20000|20500|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|385|390|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|85001|90000|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6300|6497|
+CC|C.A. RON SANTA TERESA|11500|14200|
+CC|C.A. TELARES DE PALO GRANDE||139|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)||5600|
+CC|CERAMICA CARABOBO, SACA||106000|
+CC|CORIMON, C.A.||4200|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||919|
+CC|CORP.GRUPO QUIMICO, C.A.|5200||
+CC|DOMINGUEZ & CIA., S.A.|13000|13500|
+CC|ENVASES VENEZOLANOS S.A.|7200|7450|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6401|8000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)||300|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|230|234.95|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||20150|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1626|2050|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|70000|75190|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|70000|75190|
+CC|PROAGRO C.A.|685|850|
+CC|PRODUCTOS EFE S.A.||1200|
+CC|SIVENSA, S.A||4750|
+NO|BANCO DEL CARIBE, C.A. BANCO UNIVERSAL|DIVIDENDO<BR> BANCO DEL CARIBE, C.A., BANCO UNIVERSAL (BANCARIBE)<BR><BR>De conformidad con lo establecido en las ¿Normas Relativas a la Información sobre Pago de Dividendos que deben suministrar las Empresas que hacen Oferta Pública de sus Acciones¿, cumplimos con enviarle anexo al presente; copia de la certificación  del punto  de acta que recoge la decisión  adoptada por la Asamblea General Ordinaria de Accionistas del Banco del Caribe, C.A, Banco Universal (Bancaribe), celebrada el 19 de septiembre de 2019 y, mediante la cual se informa que: <BR> <BR>La Asamblea General Ordinaria de Accionistas del Banco del Caribe, C.A., Banco Universal, (BANCARIBE), celebrada a las   9:00 am el 19 de septiembre de 2019, en su sede principal, aprobó decretar y pagar un dividendo en efectivo por una cantidad de doscientos veinte millones  bolívares con 00/100 céntimos (Bs.220.000.000,00).,   razón de Bs. 2,00 por cada acción Clase  A y Clase  B. con cargo a la cuenta Superávit por Aplicar; y se estableció: <BR>  <BR>1.   Fecha límite de transacción con beneficio. Tendrán derecho a recibir el dividendo en los términos establecidos en la citada Asamblea, los accionistas inscritos en el Libro de Accionistas al quinto día hábil siguiente de la presente publicación, es decir, 27 de septiembre de 2019. <BR>  <BR>2.   Fecha efectiva de registro del beneficio. Los dividendos correspondientes estarán a disposición de los accionistas el 4 de octubre de 2019, en la Oficina Principal de Bancaribe, Dirección de Secretaría General, ubicada en el piso 12 de la Torre Bancaribe del Centro Empresarial Galipán, Avenida Francisco de Miranda, Urbanización El Rosal, Caracas. <BR> <BR>Atentamente,<BR>Lila Marcano Bravo<BR>Directora Asociada ¿ Accionistas<BR>Dirección de Secretaría General<BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|Bolsa de Valores de Caracas, C.A., cumple con el deber de difundir la siguiente información recibida en fecha 20/09/2019 de la empresa emisora Banco del Caribe, C.A., Banco Universal<BR><BR>AVISO A LOS ACCIONISTAS<BR>BANCO DEL CARIBE, C.A. BANCO UNIVERSAL<BR><BR>¿Se notifica a los señores accionistas que en la Asamblea General Extraordinaria de Accionistas, celebrada el día 15 de septiembre de 2016, se acordó el aumento del Capital Social del Banco en Bs.8.430.000,00 (hoy Bs.84,30), mediante la emisión de hasta tres millones (3.000.000) de nuevas acciones, a ser suscritas y pagadas por los actuales accionistas del Banco a razón de tres (3) nuevas acciones por cada ciento cuatro acciones (104) en tenencia para la fecha de la Asamblea de Accionistas celebrada el 15 de septiembre 2016, con un valor nominal de Bs.F.2,81 por acción y con una prima de emisión de Bs.F.329,19 por acción para el momento¿.<BR>¿De acuerdo a lo previsto en el artículo 7 de los Estatutos Sociales, la Asamblea acordó conceder un plazo de cinco (5) días hábiles, que vencería el 21 de septiembre de 2016, para la suscripción y pago de las nuevas acciones por los accionistas del Banco¿. <BR>Por la Junta Directiva.<BR><BR>Juan Carlos Dao<BR>Presidente<BR><BR>Nota: ¿Para cualquier información, favor dirigirse al departamento de accionistas del Banco, a través de la Dirección de Secretaría General, ubicada en la Torre Bancaribe, Centro Empresarial Galipán, Av. Francisco de Miranda, piso 12, Urbanización El Rosal, Caracas¿.<BR><BR>|
+NO|DOMINGUEZ & CIA.,S.A.|RESULTADO ASAMBLEA DE ACCIONISTAS MARZO 2019<BR>  DOMINGUEZ & CIA, S.A.<BR>  La Asamblea General Ordinaria de Accionistas del DOMINGUEZ & CIA, S.A., celebrada en esta ciudad de Caracas el día Veintidós (22) de marzo del año en curso, previa convocatoria de conformidad con la ley, se adoptaron las siguientes decisiones.<BR>Primero. -  Se aprobó el informe del Presidente Ejecutivo y los estados financieros debidamente auditados con vista al informe de los Comisarios del ejercicio económico comprendido ente el 01/12/2017 y el 30/11/2018, con el voto favorable de todos los presentes, excluido el de los accionistas que ejercen cargo de Directores miembros de la Junta Directiva, quienes se abstuvieron de votar, representando en su totalidad el 0.34%. <BR>Segundo. - Se aprobó con el voto favorable del 79,92% del capital social presente y/o representado, un reparto de dividendo en efectivo de DOS BOLIVARES CON CINCUENTA CENTIMOS (Bs 2,50) por acción, lo que representa en total la cantidad de SESENTA MILLONES CIENTO CINCUENTA Y SEIS MIL DOSCIENTOS CINCUENTA BOLIVARES (Bs 60.156.250,00). Con cargo a las ganancias retenidas. Para ser pagado en una sola porción.<BR>Tercero. -  Se acordó hacer un aumento del capital social suscrito y pagado mediante el incremento del valor nominal de la acción. <BR>Cuarto. - Se acordó la modificación Artículo 4 y Artículo 5 de los Estatutos Sociales<BR>|
+NO||Quinto. - Para el periodo comprendido entre el 01 de diciembre de 2018 y el 30 de noviembre de 2020 fueron designados los miembros Principales y Suplentes de la Junta Directiva, Presidente de la Junta Directiva, Vicepresidente y Tesorero, quedando conformada de la siguiente manera:<BR>Juan Carlos Domínguez Presidente de la Junta Directiva; Lucio Covone Vicepresidente de la Junta Directiva; Nora Graterol de Payares; Carlos Gerardo Domínguez; María Eugenia Domínguez; Alejandro Disilvestro; Eduardo Simón; Lucio Alfonso Covone; Alejandro Valentiner; Luisa Vollmer de Reuter como Directores Principales y como Directores Suplentes: Mauricio Caycedo S.; Orlando Santana G. y Nydia Magaly Villegas D., Tesorero: Juan Carlos Domínguez G.<BR>Sexto. - Se hizo la designación del Representante Judicial para el período comprendido entre el 01 de diciembre de 2018 hasta el 30 de noviembre de 2020, Dra. Nydia Magaly Villegas.<BR>Séptimo. - Fueron designados los Comisarios Principales y sus respectivos Suplentes por el período comprendido entre el 01 de Diciembre de 2018 hasta el 30 de Noviembre de 2020. <BR>Octavo.- Se aprobó con el voto favorable del 79,92% del capital social presente y representado en la Asamblea la emisión de obligaciones, papeles comerciales u otros instrumentos negociables, conforme a lo estipulado en el Decreto con rango, Valor y Fuerza de Ley de Mercado de Valores y Normas que Regulan el procedimiento de Emisión de ese tipo de instrumentos negociables, hasta por un monto de UN MIL MILLONES DE BOLIVARES (Bs. 1.000.000.000,00) en un plazo de dos (02) años a partir de la fecha de su aprobación, en una o varias emisiones hasta cubrir el monto total. Delegando facultades en la Junta Directiva para hacer la emisión o emisiones en el plazo estipulado y en los montos que considere conveniente dentro del límite aprobado por la Asamblea<BR>|

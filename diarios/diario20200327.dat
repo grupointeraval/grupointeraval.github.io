@@ -1,0 +1,81 @@
+IG|27032020|88643.18|95.12|.11|129541.1|8249.07|36409.5|69.71|
+IF|27032020|150316.27|-28.54|-.02|
+II|27032020|43829.2|221.33|.51|
+R|B.DE VENEZUELA|BVL|2400|2401|1|.04|2200|2401|2203.22|2|1125|2478618||1|
+R|B.OCC.DCTO.B.U.|BOU|21|23.9|2.9|13.81|21|23.9|21.04|4|312066|6565428.4||1|
+R|BCO. CARIBE "A"|ABC.A|42240|40000|-2240|-5.3|40000|40001|40000.06|5|380|15200022||3|
+R|BCO. PROVINCIAL|BPV|130000|130000.01|.01|0|130000|130000.01|130000.01|3|300|39000002||1|
+R|BCO.NAC.CREDITO|BNC|450|530|80|17.78|510|530|522.6|14|825155|437012150||1|
+R|BOLSA V. CCAS.($)|BVCC|15000|17800|2800|18.67|15005|17800|16529.36|10|3763|62200000||1|
+R|CANTV CLASE (D)|TDV.D|8400|9000|600|7.14|9000|9000|9000|2|28|252000||1|
+R|CORIMON C.A.|CRM.A|4801|5101|300|6.25|4900|5101|4921.5|7|700|3445050||1|
+R|CORP.IND.ENERGIA|CIE|2000|2300|300|15|2000|2300|2050.24|4|1254|2571000||1|
+R|CR.CARABOBO|CCR|450000|450000|0|0|450000|450000|450000|1|1|450000||2|
+R|DOMINGUEZ & CIA|DOM|25000|29450|4450|17.8|29450|29450|29450|1|5|147250||1|
+R|ENVASES VZLOS.|ENV|11200|13000|1800|16.07|12000|13000|12609.58|9|1702|21461500||1|
+R|FONDO V.INM.(A)|FVI.A|600|620|20|3.33|601|620|610.5|3|4000|2442000||1|
+R|FONDO V.INM.(B)|FVI.B|397|440|43|10.83|400|440|400.22|22|1225926|490641962||1|
+R|GRUPO ZULIANO|GZL|45000|45000|0|0|45000|45000|45000|1|10|450000||2|
+R|MERCANTIL S.(B)|MVZ.B|134999|122600|-12399|-9.18|122000|125000|122156.35|4|1150|140479800||3|
+R|PROAGRO|PGR|1450|1440|-10|-.69|1440|1440|1440|1|266|383040||3|
+R|PRODUCTOS EFE|EFE|1900|1800|-100|-5.26|1800|1800|1800|6|649|1168200||3|
+R|PROTINAL|PTN|2900|3000|100|3.45|3000|3000|3000|1|90|270000||1|
+R|R.S.TERESA "B"|RST.B|26999.99|26500|-499.99|-1.85|26500|26500|26500|3|21|556500||3|
+R|RON STA. TERESA|RST|37000|34000|-3000|-8.11|34000|36000|34292.68|2|943|32338000||3|
+R|SIVENSA, S.A.|SVS|12530|12479|-51|-.41|12479|12479|12479|1|10|124790||3|
+R|T. PALO GRANDE|TPG|226|226|0|0|225|226|225.86|18|36975|8351350||2|
+P|BCO. PROVINCIAL|BPV||130000.01|||130000|130000.01|130000.01|1|626|75683400||
+P|BCO.NAC.CREDITO|BNC||530|||510|530|522.6|1|116770|48868245||
+P|BOLSA V. CCAS.|BVCC||17800|||15005|17800|16529.36|3|36298|539252100||
+P|ENVASES VZLOS.|ENV||13000|||12000|13000|12609.58|2|4200|46873200||
+P|FONDO V.INM.(B)|FVI.B||440|||400|440|400.22|1|112500|41536125||
+P|MERCANTIL S.(A)|MVZ.A||120000|||0|0|0|1|253|28234800||
+P|MERCANTIL S.(B)|MVZ.B||122600|||122000|125000|122156.35|1|801|100564805.07||
+P|R.S.TERESA "B"|RST.B||26500|||26500|26500|26500|1|1640|41180383.6||
+P|RON STA. TERESA|RST||34000|||34000|36000|34292.68|1|886|30487260||
+VT|13|7|3|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)AD912P-Colocación Primaria. Alimentos Difresca|
+DV|(&)CV915P-Colocación Primaria. Cargill Vzla.|
+DV|(&)PA192P-Colocación Primaria. Paica|
+BP|NETUNO 19-I-6 P|NU916P|83.62|85.15|1.53|1.83|85.15|85.15||1|799000000|680380460||
+BP|P.C. AD.19-I-2P|AD912P|82.08|82.08|0|0|82.08|82.08||4|3000000000|2462400000||
+BP|PAICA 2019 1 P|PA191P|88.5|88.5|0|0|88.5|88.5||3|2000000000|1770000000||
+BP|PAICA 2019 2 P|PA192P|88.5|88.5|0|0|88.5|88.5||3|2000000000|1770000000||
+BP|PC CARGILL 19-5P|CV915P|85.94|85.95|.01|.01|85.95|85.95||3|2500000000|2148650000||
+BP|PC FEMSA  19I 1P|CF911P|87.13|87.13|0|0|87.13|87.13||5|4000000000|3485200000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2001|2879|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|41000|47889|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|536|590|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|141000|145000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|21|23.5|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|17200|18000|
+CC|C.A. RON SANTA TERESA|34000|37250|
+CC|C.A. RON SANTA TERESA (CLASE B)|25000|26500|
+CC|C.A. TELARES DE PALO GRANDE|232|259.99|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8200|9000|
+CC|CERAMICA CARABOBO, SACA|360001|450000|
+CC|CORIMON, C.A.|5102|6359|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|1601|2399.99|
+CC|CORP.GRUPO QUIMICO, C.A.||65399|
+CC|DOMINGUEZ & CIA., S.A.|25500|29450|
+CC|ENVASES VENEZOLANOS S.A.|12005|13440|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||24200|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|620|719|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|440|445|
+CC|GRUPO ZULIANO, C.A.||49990|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|34002|39999|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4000|4698|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|130001|300000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|130001|150000|
+CC|PROAGRO C.A.|1161|1450|
+CC|PRODUCTOS EFE S.A.|1521|1800|
+CC|PROTINAL C.A.|3000|3474|
+CC|SIVENSA, S.A|10000|12478|
+NO|BANCO DEL CARIBE, C.A. BANCO UNIVERSAL|                                RESULTADO ASAMBLEA EXTRAORDINARIA <BR>                          BANCO DEL CARIBE, CA Banco Universal, (BANCARIBE)<BR><BR>La Asamblea General Extraordinaria de Accionistas de fecha 25 de marzo de 2020 BANCO DEL CARIBE, CA BANCO UNIVERSAL (BANCARIBE) Aprobó un aumento del capital social del Banco hasta por la  la cantidad de trescientos nueve con 10/100 bolívares (309,10),  mediante la capitalización de una porción de los saldos disponibles en la cuenta Primas sobre aportes de capital., y la emisión de once millones (11.000.000) de nuevas acciones con un valor nominal de Bs 0,0000281 cada una, a ser distribuidas entre los accionistas, a título de dividendo, a razón de una nueva acción por cada diez acciones Clase A y Clase B en tenencia. Igualmente aprobó como fecha límite de transacción con beneficio el día 3 de abril de 2020. El aumento del capital y consiguiente registro del beneficio a favor de los accionistas se materializará una vez se obtengan las autorizaciones de los organismos competentes para la inscripción de las nuevas acciones en el Registro Mercantil correspondiente, en el Libro de Accionistas del Banco, en el Registro Nacional de Valores y en la Bolsa de Valores de Caracas.<BR><BR>Caracas, 26 de marzo de 2020. <BR><BR>Directora de Secretaría General <BR>Mercedes Mayo Catalano<BR><BR>|
+NO|BANCO PROVINCIAL, S.A., BANCO UNIVERSAL|RESULTADO ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS<BR>                                 BANCO PROVINCIAL, S.A., BANCO UNIVERSAL<BR><BR> La Asamblea General Ordinaria de Accionistas del BANCO PROVINCIAL, S.A., BANCO UNIVERSAL., celebrada en esta ciudad de Caracas el día 26 de marzo de 2020, previa convocatoria de conformidad con la ley, que en la reunión se encontraban presentes o representadas más del 80% de las acciones que forman el capital social de la compañía, se adoptaron, las siguientes decisiones<BR><BR>Primero.   Se aprobó el Informe del Consejo de Administración sobre las actividades realizadas por el Banco Provincial, SA, Banco Universal, durante el segundo semestre del año 2019, el Balance General y el Estado de Resultados del Banco, todo ello con vista del dictamen de los Auditores Externos, del Informe de los Comisarios y del Informe del Auditor Interno.<BR>Segundo.  Se aprobó la propuesta presentada por el Consejo de Administración de mantener en el patrimonio del Banco, en la cuenta Superávit por Aplicar, el monto correspondiente a la utilidad neta y disponible obtenida por la institución en el ejercicio semestral concluido el 31 de diciembre de 2019.<BR>Tercero. Se designaron a los Miembros Principales y Suplentes del Consejo de Administración del Banco Provincial, S.A., Banco Universal, conforme se indica a continuación:<BR><BR>DIRECTORES PRINCIPALES<BR>León Henrique Cottin, Ignacio Javier Lacasta Casado, Jose Agustin Antón Burgos, Omar Efrain Bello Rodriguez, Eduardo De Fuentes Corripio, Ataulfo Alcalde Perez y Salvador Francisco Scotti Mata.<BR><BR>DIRECTORES SUPLENTES<BR>Francisco Javier Sala Domínguez, José Manuel Doiztúa García, Aura Marina Kolster de Parra, Claudio Horacio Mastrangelo Rima, Juan Quera Font, Guillermo Suardiaz Roig y Luis Alberto Carmona<BR>|
+NO||Cuarto.  Se designaron como Comisarios Principales y Comisarios Suplentes, a los ciudadanos siguientes:<BR><BR>Principales: Jose Norberto Da Silva Paz y Masiel Fernandes y Suplentes: Carlos Jose Alfonzo Molina y Miguel Dimas Prato Vásquez.<BR><BR>Quinto.  Fue ratificado como Representante Judicial del Banco, el ciudadano Rodrigo Egui Stolk y como Representante Judicial Suplente se ratificó al ciudadano Jaime Heli Pirela Ruz.<BR><BR>Sexto. Quedaron ratificadas la ciudadana Arelis del Carmen Materán, como Defensor del cliente y Usuario Bancario y la ciudadana Jacqueline Clemente Coello, como Suplente del Defensor del Cliente y Usuario Bancario.<BR><BR>Séptimo. Se aprobó ratificar el nombramiento y la contratación de la firma OSTOS, VELÁSQUEZ & ASOCIADOS (KPMG), como auditores externos del Banco por un período adicional de dos (2) años, o sea desde el 01 de enero de 2020 hasta el 31 de diciembre de 2021.<BR><BR>José Agustín Antón Burgos<BR>Presidente Ejecutivo<BR>Caracas, 27 de marzo de 2020<BR>|
+NO|MERCANTIL SERVICIOS FINANCIEROS C.A|AVISO IMPORTANTE<BR>MERCANTIL SERVICIOS FINANCIEROS C.A.<BR><BR>A los accionistas de Mercantil Servicios Financieros, CA<BR><BR>Mediante convocatoria publicada en prensa y en nuestra página web: www.msf.com, está previsto celebrar la Asamblea General Ordinaria de Accionistas, que tendrá lugar el viernes 27 de marzo de 2020, a las 9:30 a.m., en el Auditorio Mercantil, avenida Andrés Bello Nro. 1 San Bernardino, Caracas.<BR><BR>Vista la situación que actualmente estamos confrontando derivada de la pandemia por coronavirus (COVID-19), en cumplimiento a los lineamientos de la Organización Mundial de la Salud y del Ejecutivo Nacional y de los Entes Reguladores, en aras de la prevención y protección de los   participantes y organizadores, a continuación, informamos las medidas y recomendaciones que adoptaremos para la celebración de la citada Asamblea y que estamos seguros que responsablemente sabrán entender: <BR><BR>-	El control de acceso se efectuará en la entrada del Edificio Mercantil, aplicando medidas estrictas de prevención sanitaria. En tal sentido, se dispensará gel para la limpieza de las manos al llegar y se requerirá el uso de guantes y mascarillas que cubran boca y nariz.  <BR><BR>-	Habrá número limitado de sillas para mantener distancia superior de un metro entre asistentes.<BR><BR>-	No se ofrecerá el acostumbrado refrigerio.<BR><BR>-	No se permitirá reunión de personas o grupos de personas, antes o después de la Asamblea, en los espacios destinados a tal fin.<BR><BR>-	Solicitamos a los señores accionistas, especialmente a quienes tengan alguna condición de riesgo: adultos mayores, embarazadas o personas con diabetes, hipertensión, asma, entre otras, por su seguridad no nos acompañen en esta oportunidad en la Asamblea. <BR><BR>-	Las decisiones adoptadas en la Asamblea serán publicadas en la Página Web de la Compañía, para el conocimiento de todos los accionistas.<BR>|
+NO||-	Cualquier información adicional puede ser solicitada a través de la dirección de correo: rstern@bancomercantil.com y/o    accionistas@msf.com<BR><BR>Atentamente,<BR><BR>Rafael Stern Schechner<BR>Secretario Junta Directiva<BR><BR>|

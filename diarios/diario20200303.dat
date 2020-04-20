@@ -1,0 +1,63 @@
+IG|03032020|103306.75|-1414.65|-1.35|129541.1|8194.59|51073.07|97.78|
+IF|03032020|177356.7|-2749.27|-1.53|
+II|03032020|49082.96|-377.79|-.76|
+R|B.DE VENEZUELA|BVL|2255|2255|0|0|0|0|0|1|100|240000||2|
+R|B.OCC.DCTO.B.U.|BOU|20|20|0|0|20|20|20|17|1716000|34320000||2|
+R|BCO. CARIBE "A"|ABC.A|42500|42485|-15|-.04|42485|42999|42537.45|3|49|2084335||3|
+R|BCO. PROVINCIAL|BPV|148000|145000|-3000|-2.03|145000|150000|147434.06|18|304|44819955||3|
+R|BCO.NAC.CREDITO|BNC|628|630|2|.32|629|645|630.85|28|43499|27435270||1|
+R|BOLSA V. CCAS.($)|BVCC|18395|18000|-395|-2.15|18000|18390|18013.74|21|6201|111702355||3|
+R|CANTV CLASE (D)|TDV.D|9500|9000|-500|-5.26|9000|9000|9000|2|100|900000||3|
+R|CORIMON C.A.|CRM.A|6498|5401|-1097|-16.88|5401|5401|5401|3|395|2133395||3|
+R|CORP.GPO.QUIM.|CGQ|40000|40500|500|1.25|40500|40500|40500|1|9|364500||1|
+R|CR.CARABOBO|CCR|392000|450000|58000|14.8|450000|450000|450000|1|2|900000||1|
+R|DOMINGUEZ & CIA|DOM|33645|33000|-645|-1.92|33000|33100|33005.89|19|3934|129842800||3|
+R|ENVASES VZLOS.|ENV|17800|17000|-800|-4.49|17000|17800|17507.08|7|848|14846000||3|
+R|FONDO V.INM.(A)|FVI.A|810|795|-15|-1.85|795|800|795.47|2|773|614900||3|
+R|FONDO V.INM.(B)|FVI.B|580|574|-6|-1.03|540|580|542.13|8|50385|27315230||3|
+R|MANPA, C.A. SACA|MPA|5500|4400|-1100|-20|4400|4400|4400|1|1000|4400000||3|
+R|MERCANTIL S.(A)|MVZ.A|160000|162250|2250|1.41|160050|162250|160516.67|69|1371|221772850||1|
+R|MERCANTIL S.(B)|MVZ.B|165000|154999|-10001|-6.06|150000|164500|156468.34|14|257|40272997||3|
+R|PROAGRO|PGR|1450|1449|-1|-.07|1449|1449|1449|1|100|144900||3|
+R|R.S.TERESA "B"|RST.B|31000|29501|-1499|-4.84|26000|30500|29517.62|13|579|17090704||3|
+R|RON STA. TERESA|RST|33498.5|36010.01|2511.51|7.5|36000|37000|36063.16|17|713|25713030.34||1|
+R|T. PALO GRANDE|TPG|400|444|44|11|444|444|444|1|330|146520||1|
+P|BCO.NAC.CREDITO|BNC||630|||629|645|630.85|1|4650|2924850||
+P|BOLSA V. CCAS.|BVCC||18000|||18000|18390|18013.74|5|430|9411050||
+P|MERCANTIL S.(A)|MVZ.A||162250|||160050|162250|160516.67|2|18|2880000||
+VT|6|13|2|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1805|2325|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|38000|42485|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|629|630|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|145002|150000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|20|22.5|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|17600|18250|
+CC|C.A. RON SANTA TERESA|36010.01|37000|
+CC|C.A. RON SANTA TERESA (CLASE B)|29500|37199|
+CC|C.A. TELARES DE PALO GRANDE|325|444|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|9000|9499|
+CC|CERAMICA CARABOBO, SACA|314000|450000|
+CC|CORIMON, C.A.|5500|6399|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2401.01|3097|
+CC|CORP.GRUPO QUIMICO, C.A.|40500|46500|
+CC|DOMINGUEZ & CIA., S.A.|27100|33000|
+CC|ENVASES VENEZOLANOS S.A.|14400|17500|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||24478.75|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|649|795|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|540|574|
+CC|GRUPO ZULIANO, C.A.|33000|47990|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|32001|39500|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4400|5250|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|162250|206000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|150500|163000|
+CC|PROAGRO C.A.|1191|1449|
+CC|PRODUCTOS EFE S.A.|2641|3500|
+CC|PROTINAL C.A.|2005|3100|
+CC|SIVENSA, S.A|10721|13329|
+NO|C.A. RON SANTA TERESA,|La autorización otorgada por la Superintendencia Nacional de Valores para la presente emisión fue inscrita en el Registro Nacional de Valores, según Providencia número N° 0-131 de fecha 14 de noviembre de 2019, hasta por Seis Millones (6.000.000) de Acciones Clase B, comunes, nominativas, no convertibles al portador. <BR>La presente emisión de acciones Clase B se ofrece de conformidad con lo resuelto en la Asamblea General Extraordinaria de Accionistas de C.A Ron Santa Teresa (CARST), por lo acordado por la Junta Directiva del Emisor, celebradas en fecha 16 de noviembre y 14 de diciembre respectivamente del año 2018, y Hoja de Términos de fecha 4 de febrero de 2020. <BR>La Junta Directiva actuando suficiente y debidamente autorizada por la asamblea de accionistas de C.A. Ron Santa Teresa, y con base en lo establecido en el Punto No. 2 del Prospecto autorizado, decidió efectuar la colocación primaria de las acciones Clase ¿B¿ mediante sucesivas Rondas de Colocación Primaria Ronda, siendo esta segunda Ronda por la cantidad de quinientas mil (500.000) Acciones Clase B a ser colocadas bajo las siguientes condiciones: <BR>Tipo de valor:  Acciones Clase B, comunes, nominativas, no convertibles al portador. <BR>Precio por acción Clase B: El precio por acción Clase B estará determinado con fundamento en el resultado de multiplicar el precio de cierre en la Bolsa de Valores de Caracas de la acción Clase B de CARST del día tres (03) de marzo de 2020, por el factor de noventa y cinco por ciento (95%). <BR>Sistema de Colocación:  Colocación A Mayores Esfuerzos<BR>Comisión:  En ningún caso, dentro de esta colocación, podrá cobrarse monto alguno al inversionista por concepto de comisión de compra de acciones Clase B. <BR>Período de recepción de órdenes :<BR>El periodo de recepción de órdenes de la presente Ronda iniciará el trece (13) de febrero de 2020 a las 8:30 a.m. y culminará el tres (03) de marzo de 2020 a las 3:00 pm hora de la República Bolivariana de Venezuela|
+NO||Período de recepción de órdenes para el público en general: Una vez culminados los períodos de Derecho de Preferencia de los accionistas de CARST, y de Preferencia para los pequeños y medianos inversionistas, las acciones Clase B disponibles serán ofrecidas al público en general. El período de recepción de órdenes para estos inversionistas iniciará el veintiséis (26) de febrero de 2020 y culminará el tres (03) de marzo de 2020. <BR>Proceso de colocación de órdenes : Las personas interesadas en adquirir las acciones Clase B ofrecidas en esta Ronda deberán presentar la orden de compra durante el período de recepción de órdenes correspondiente ante el Agente Líder de Colocación o ante cualquiera de los Agentes de Distribución designados, cumpliendo para ello con los requisitos de identificación y registro establecidos en la normativa dictada por la Superintendencia Nacional de Valores. <BR><BR>Proceso de totalización y notificación de órdenes válidas:<BR>Una vez culminado el periodo de recepción de órdenes, el Agente Líder totalizará las órdenes válidamente recibidas, notificará a los Agentes de Distribución y a las personas que presentaron órdenes, las órdenes válidamente recibidas y que podrán ser definitivamente suscritas. De igual forma, notificará el precio de la acción de la Clase B resultante de multiplicar el precio de cierre en la Bolsa de Valores de Caracas de la acción Clase B (Identificada con el símbolo RST.B) de CARST el día tres (03) de marzo de 2020, por noventa y cinco por ciento (95%). <BR>|
+NO||Evento de exceso de órdenes recibidas <BR> De conformidad con lo establecido en el Prospecto autorizado, en caso que durante la totalización de órdenes válidamente recibidas se determine que éstas superan el número de acciones ofrecidas en la Ronda, CARST se reserva el derecho de: 1) Aumentar el número de acciones Clase B ofrecidas en la Ronda, 2) Realizar la asignación a través del prorrateo en forma proporcional, salvo para las órdenes correspondientes a los derechos de preferencia de los accionistas, y para las órdenes de los pequeños y medianos inversionistas, a los cuales se les asignaran en su totalidad. <BR><BR>Período para la confirmación y pago de las órdenes válidas <BR>Una vez culminado el proceso de totalización y notificación del monto a pagar correspondiente a cada orden, las personas que presentaron órdenes válidas podrán modificar, anular o confirmar su orden. El período para la confirmación y pago de las órdenes validas iniciará el cuatro (04) de marzo 2020 y culminará el cinco (05) de marzo 2020. <BR><BR>Proceso de asignación y liquidación de órdenes<BR>  Las órdenes válidamente recibidas y pagadas en un cien por ciento (100%) durante el período de confirmación de órdenes serán adjudicadas mediante traspasos efectuados por la C.V.V. Caja Venezolana de Valores, S.A., como resultado de una Sesión Especial realizada a través de la Bolsa de Valores de Caracas, C.A. el seis (06) de marzo de 2020. <BR><BR>|
+NO||Mercado secundario <BR>Las acciones Clase B de CARST están inscritas en la Bolsa de Valores de Caracas, C.A. y cotizan bajo el símbolo RST.B. <BR>El prospecto de la presente oferta pública de acciones clase ¿B¿, comunes, nominativas, no convertibles al portador; debidamente autorizado por la Superintendencia Nacional de Valores, puede ser solicitado al Agente de Colocación y a los Agentes de Distribución. Las inversiones realizadas en el Mercado de Valores están sujetas a las fluctuaciones de mercado, y por tanto no se garantizan rendimientos futuros. Los recursos invertidos en cualquier operación a través del mercado de valores, no están garantizados por FOGADE u otro organismo público o privado y están sujetos a riesgos, los cuales pueden materializarse en pérdida total o parcial de la inversión. <BR><BR>PUBLICIDAD AUTORIZADA POR LA SUPERINTENDENCIA NACIONAL DE VALORES <BR>Caracas, doce (12) febrero de 2020 <BR>|

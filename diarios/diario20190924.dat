@@ -1,0 +1,61 @@
+IG|24092019|50737.74|-1415.18|-2.71|62004.3|304|-1495.94|-2.86|
+IF|24092019|90535.91|-2296.65|-2.47|
+II|24092019|20955.32|-793.89|-3.65|
+R|B.DE VENEZUELA|BVL|999.98|951|-48.98|-4.9|950|960|950.15|7|3642|3460440||3|
+R|BCO. CARIBE "A"|ABC.A|20500|20000|-500|-2.44|20000|20000|20000|4|505|10100000||3|
+R|BCO. PROVINCIAL|BPV|89900|85000|-4900|-5.45|85000|85050|85000.21|13|483|41055100||3|
+R|BCO.NAC.CREDITO|BNC|380|386|6|1.58|380|390|385.24|27|59028|22739970.5||1|
+R|BOLSA V. CCAS.($)|BVCC|6497|6500|3|.05|6500|6500|6500|18|4944|32188070||1|
+R|CANTV CLASE (D)|TDV.D|5700|5500|-200|-3.51|5500|5500|5500|4|237|1303500||3|
+R|CORIMON C.A.|CRM.A|4600|3681|-919|-19.98|3681|3681|3681|1|23|84663||3|
+R|CORP.IND.ENERGIA|CIE|950|900|-50|-5.26|900|900|900|1|406|365400||3|
+R|DOMINGUEZ & CIA|DOM|13000|13000|0|0|12501|13000|12750.5|2|10|127505||2|
+R|ENVASES VZLOS.|ENV|7500|7200|-300|-4|7200|7200|7200|5|2300|16560000||3|
+R|FAB.N.CEMENTOS|FNC|7795|7500|-295|-3.78|7500|7500|7500|1|25|187500||3|
+R|FONDO V.INM.(B)|FVI.B|234.95|235|.05|.02|235|236.5|235|25|1507055|354164664.5||1|
+R|GRUPO ZULIANO|GZL|13000|13000|0|0|0|0|0|1|1549|20137000||2|
+R|MANPA, C.A. SACA|MPA|2050|2050|0|0|2050|2050|2050|1|11|22550||2|
+R|MERCANTIL S.(A)|MVZ.A|70000|70000|0|0|70000|70000|70000|7|2366|165620000||2|
+R|MERCANTIL S.(B)|MVZ.B|70000|70000|0|0|70000|70000|70000|8|4385|306950000||2|
+R|PROAGRO|PGR|850|845|-5|-.59|845|847|845.2|3|337|284831||3|
+R|PROTINAL|PTN|1050|1050|0|0|1050|1050|1050|1|25|26250||2|
+R|RON STA. TERESA|RST|14199|14100|-99|-.7|14050|14180|14099.55|8|246|3468490||3|
+R|T. PALO GRANDE|TPG|135|135|0|0|135|135|135|1|4|540||2|
+P|BCO. PROVINCIAL|BPV||85000|||85000|85050|85000.21|1|10|750000||
+P|CANTV CLASE (D)|TDV.D||5500|||5500|5500|5500|1|137|780900||
+P|FONDO V.INM.(A)|FVI.A||300|||0|0|0|1|2767|830100||
+VT|3|10|7|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)TI191-Mcdo. Secundario Tivalca|
+BP|TIVALCA 19 S-1|TI191|71.31|71.31|0|0|71.31|71.31||1|500000000|356550000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|861|955|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|20000|20500|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|380|386|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|85000|88000|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6250|6500|
+CC|C.A. RON SANTA TERESA|11500|14100|
+CC|C.A. TELARES DE PALO GRANDE|108.05|134|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|4561|5500|
+CC|CERAMICA CARABOBO, SACA||105000|
+CC|CORIMON, C.A.|3701|3890|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||900|
+CC|CORP.GRUPO QUIMICO, C.A.|5430||
+CC|DOMINGUEZ & CIA., S.A.|12000|13000|
+CC|ENVASES VENEZOLANOS S.A.|6900|7200|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6401|9300|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|241|300|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|235|236.9|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||24150|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1626|2040|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|70000|72500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|70000|72000|
+CC|PROAGRO C.A.|685|845|
+CC|PRODUCTOS EFE S.A.||1300|
+CC|PROTINAL C.A.||1045|
+CC|SIVENSA, S.A|3801|4750|
+NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|CONVOCATORIA<BR> BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.<BR><BR> De conformidad con los artículos 13 literal i, 17 y 31, numeral 8, de los estatutos sociales, la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A. ha resuelto convocar a los accionistas para la Asamblea General Extraordinaria que se celebrará el lunes 21 de octubre de 2019, a las 9:00 a.m., en la oficina del Banco ubicada en la avenida Blandín, La Castellana, Mezzanina Norte, Pent-house, Caracas, con el fin de tratar los siguientes puntos:<BR> Primero. -  Considerar, aprobar o desaprobar un aumento del capital social.<BR>Segundo. ¿  En caso de resultar aprobado el aumento de capital social, considerar y resolver la reforma correspondiente del artículo Nro. 5 de los estatutos sociales.<BR><BR>Maracaibo, 24 de septiembre de 2019<BR>Por la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A.<BR>Victor J. Vargas Irausquín<BR>Presidente <BR>Nota: <BR>a) En la sede del Banco se atenderá a los accionistas o representantes y se expedirán las credenciales para su asistencia a la Asamblea. <BR>|
+NO|DOMINGUEZ & CIA.,S.A.|Modificación Valor Nominal de Domínguez & Cía.<BR><BR>A continuación, se informa el precio de ajuste de valor nominal de las acciones de la empresa emisora Domínguez & Cía. SA como consecuencia del aumento del capital social, aprobado en Asamblea Ordinaria de Accionistas celebrada en fecha 22 de marzo del 2019. <BR><BR>El referido aumento fue realizado afectando a la cuenta utilidades no distribuidas con abono a la cuenta de capital social. El capital de la compañía es de VEINTICUATRO MILLONES SESENTA Y DOS MIL QUINIENTOS BOLIVARES (Bs. 24.062.500,00), totalmente suscrito y pagado, representando por VEINTICUATRO MILLONES SESENTA Y DOS MIL QUINIENTAS (24.062.500) acciones nominativas de la misma clase no convertibles al portador, con un valor nominal de UN BOLIVAR (Bs 1,00) cada una.<BR><BR>Símbolo	DOM <BR>Valor Nominal Anterior	Bs. 0,0001<BR>Nuevo Valor Nominal       Bs. 1,00	<BR>Nuevo Capital Social Suscrito y Pagado Bs 24.062.500,00<BR><BR>|
+NO|FVI.FONDO DE VALORES INMOBILIARIOS,SACA.|INFORMACIÓN DE HECHO DE IMPORTANCIA  <BR>F.V.I. FONDO DE VALORES INMOBILIARIOS S.AC.A.<BR> <BR>  Bank of New York Mellon-Depositary Receipts, informó el día jueves cinco (05) de septiembre al F.V.I. Fondo de Valores Inmobiliarios S.A.C.A.( en lo adelante FVI) que la Securities and Exchange Commission, (SEC) ha aceptado las planillas presentadas ante ellos, que permiten el incremento en el número de ADR´s que pueden ser emitidos con ocasión al Programa de ADR´s que se encuentra bajo la denominación FNDOY U.S.: OTC, el cual inicialmente tenía un límite máximo de cincuenta (50) millones de ADR´s y luego de esta autorización fue ampliado hasta un monto máximo de cien (100) millones de ADR´s. Cada uno de los ADR´s empaqueta cincuenta (50) acciones que se cotizan en la Bolsa de Valores de Caracas (BVC) bajo la denominación FVI.B, Esta ratificación del programa por la SEC y la aprobación de la ampliación del programa al FVI es muy importante pues indica que a nivel internacional reconocen nuestra trayectoria y experiencia en el mercado de valores nacional e internacional.<BR><BR>Caracas, 24 de septiembre de 2019.<BR>F.V.I. Fondo de Valores Inmobiliarios SACA<BR>Alejandro Petit<BR>Director Principal<BR><BR>|

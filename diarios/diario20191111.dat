@@ -1,0 +1,70 @@
+IG|11112019|57077.23|4038.16|7.61|62004.3|510.35|4843.55|9.27|
+IF|11112019|103038.75|7978.18|8.39|
+II|11112019|22483.36|958.83|4.45|
+R|B.DE VENEZUELA|BVL|800|801|1|.13|801|875|809.8|4|454|367650||1|
+R|B.OCC.DCTO.B.U.|BOU|6.7|7.2|.5|7.46|6.8|7.2|6.99|15|635887|4449669.53||1|
+R|BCO. CARIBE "A"|ABC.A|22000|25000|3000|13.64|25000|26399|25268.73|6|190|4758566||1|
+R|BCO. PROVINCIAL|BPV|86000|91949|5949|6.92|88000|92000|89545.31|22|1482|132706148||1|
+R|BCO.NAC.CREDITO|BNC|370|390|20|5.41|372|398.99|386.44|47|214413|82877870.87||1|
+R|BOLSA V. CCAS.($)|BVCC|6800|7351|551|8.1|6900|7500|7242.28|18|3807|27571345||1|
+R|CANTV CLASE (D)|TDV.D|6100|6250|150|2.46|6198|6250|6248.98|5|16319|101977162||1|
+R|CORIMON C.A.|CRM.A|3301|3500|199|6.03|3500|3500|3500|4|285|997500||1|
+R|CORP.GPO.QUIM.|CGQ|15000|16000|1000|6.67|16000|16000|16000|3|233|3728000||1|
+R|CORP.IND.ENERGIA|CIE|470|400|-70|-14.89|400|470|449.41|3|1700|764003.5||3|
+R|CR.CARABOBO|CCR|111000|115000|4000|3.6|115000|115000|115000|1|1|115000||1|
+R|DOMINGUEZ & CIA|DOM|13000|13500|500|3.85|13500|14000|13780.25|7|671|9246550||1|
+R|ENVASES VZLOS.|ENV|7400|7950|550|7.43|7400|8000|7756.39|12|1101|8539784||1|
+R|FONDO V.INM.(A)|FVI.A|350|400|50|14.29|399|400|399.78|5|3482|1392031||1|
+R|FONDO V.INM.(B)|FVI.B|270|289|19|7.04|280|290|286.15|36|346835|98602187||1|
+R|INM.VAL.Y CAP.|IVC|19000|19500|500|2.63|19500|19500|19500|2|50|975000||1|
+R|MANPA, C.A. SACA|MPA|1900|1900|0|0|1900|1900|1900|2|2000|3800000||2|
+R|MERCANTIL S.(A)|MVZ.A|79000|86600|7600|9.62|82000|88000|86920.52|19|828|71901000||1|
+R|MERCANTIL S.(B)|MVZ.B|78000|85500|7500|9.62|85500|85500|85500|5|1084|86184500||1|
+R|PROAGRO|PGR|650.01|667|16.99|2.61|667|700|679.67|6|972|660640||1|
+R|RON STA. TERESA|RST|14000|14400|400|2.86|14100|14500|14397.39|11|1033|14872500||1|
+P|BCO. CARIBE "A"|ABC.A||25000|||25000|26399|25268.73|1|216|5400000||
+P|BCO. PROVINCIAL|BPV||91949|||88000|92000|89545.31|2|260|23620000||
+P|BCO.NAC.CREDITO|BNC||390|||372|398.99|386.44|2|679191|262159860||
+P|BOLSA V. CCAS.|BVCC||7351|||6900|7500|7242.28|3|266088|1968191600||
+P|CORP.IND.ENERGIA|CIE||400|||400|470|449.41|1|300000|120000000||
+P|DOMINGUEZ & CIA|DOM||13500|||13500|14000|13780.25|2|263|3418400||
+P|FONDO V.INM.(B)|FVI.B||289|||280|290|286.15|2|129118|36902630||
+P|GRUPO ZULIANO|GZL||12500|||0|0|0|1|1916|23950000||
+P|MANPA, C.A. SACA|MPA||1900|||1900|1900|1900|1|5490|10431000||
+P|MERCANTIL S.(A)|MVZ.A||86600|||82000|88000|86920.52|1|1000|83000000||
+P|MERCANTIL S.(B)|MVZ.B||85500|||85500|85500|85500|1|491|41735000||
+P|PROAGRO|PGR||667|||667|700|679.67|1|50000|33750000||
+VT|19|1|1|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|PC.MR.VZL 18 1 P|MR911P|88.05|88.54|.49|.56|88.54|88.54||1|625000000|553375000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|720|875|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|25000||
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|380|390|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|90000|91950|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|7.1|7.2|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|7351|7500|
+CC|C.A. RON SANTA TERESA|14400|14970|
+CC|C.A. TELARES DE PALO GRANDE|120.05|160|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|5900|7000|
+CC|CERAMICA CARABOBO, SACA||125000|
+CC|CORIMON, C.A.|3301.01|3500|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|400.01||
+CC|CORP.GRUPO QUIMICO, C.A.|16000|17999|
+CC|DOMINGUEZ & CIA., S.A.|13500|13950|
+CC|ENVASES VENEZOLANOS S.A.|7950.01|8000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||12000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|300|400|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|275|289|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|17501|22800|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1900|2279|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|86500|86600|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|85500|93000|
+CC|PROAGRO C.A.|681|749|
+CC|PRODUCTOS EFE S.A.|1401|1700|
+CC|PROTINAL C.A.|801||
+CC|SIVENSA, S.A||5300|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|BOLSA DE VALORES DE CARACAS: Informa<BR>COMUNICADO SUPERINTENDENCIA DE BANCOS PANAMA<BR><BR>La Superintendencia de Bancos de Panamá, mediante Resolución SBP- 0205-2019 de 8 de noviembre de 2019, ordenó la Liquidación Forzosa de Allbank, Corp., a partir de las 3:00 p.m. del día ocho (8) de noviembre de dos mil diecinueve (2019), según los términos dispuestos en los Artículos 154 y subsiguientes del Capítulo XVIII, Título III de la Ley Bancaria.<BR> Esta medida fue adoptada luego de la evaluación desplegada en el Informe del Administrador Interino, así como de la valoración de esta Superintendencia de Bancos, donde se demuestra que, debido a la situación financiera, operacional y de gobierno corporativo de Allbank, Corp., no procede reorganizarlo o intentar su venta a otro banco.<BR> La incertidumbre sobre la posibilidad de realizar los activos líquidos y portafolio de inversiones en valores colocados y custodiados en instituciones de su grupo bancario hacen inviable el banco como negocio en marcha, dado lo débil y frágil de su real liquidez y solvencia. Ante esta situación, Allbank, Corp. no presentó una solución efectiva a corto plazo, ni propuestas financieras adecuadas, sobre la disponibilidad real de los fondos y títulos valores del Banco que mantiene en las entidades relacionadas. Las reiteradas evasivas, plazos y condiciones inviables demostraron el riesgo de la operación del Banco y su insostenibilidad debido a su agotado modelo de negocios.<BR> Lo antes expuesto, ameritará una prolija investigación por parte de entes jurisdiccionales que permitan una aclaración profunda y deslinde de responsabilidades, en beneficio del Centro Bancario Internacional (CBI). <BR>|
+NO||Esta Superintendencia de Bancos designó como Liquidador al señor Rafael Moscarella Valladares para que oriente la marcha del proceso de Liquidación Forzosa con criterios de celeridad, diligencia, simplicidad y transparencia de sus trámites y en el respeto de los derechos y prelaciones que reconoce la Ley Bancaria.<BR> Es importante señalar que se mantienen suspendidas todas las operaciones bancarias de Allbank, Corp. Además, según dispone el Artículo 159 de la Ley Bancaria, al encontrarse el Banco en estado de Liquidación Forzosa; se entienden suspendidos hasta por seis meses los términos de prescripción de todo derecho o acción de que es titular el Banco y los términos en los procesos judiciales o administrativos, en los que el Banco sea parte, salvo aquellos que persigan la ejecución de una prenda, hipoteca o garantía real.<BR> La Superintendencia de Bancos reitera la estabilidad y solidez del sistema bancario panameño. Esta medida no representa un riesgo de contagio para el resto del Sistema Bancario, dada la inexistente conexión de relaciones interbancarias del AllBank, Corp, con el resto del sistema. <BR>Se recomienda a la comunidad atender sólo las comunicaciones oficiales emitidas por esta institución y hacer caso omiso a cualquier rumor infundado que pueda ser publicado en las redes sociales u otros medios. Recordamos que quien divulgue noticias falsas que pongan en peligro la economía nacional o el crédito público incurre en hecho punible, según lo dispuesto en el Artículo 260 del Código Penal.<BR> Panamá, 8 de noviembre de 2019.<BR>|
+NO|SIDERURGICA VENEZOLANA (SIVENSA), S.A.|CONVOCATORIA A LOS ACCIONISTAS<BR> SIDERURGICA VENEZOLANA SIVENSA S.A.<BR><BR>Se convoca a los señores Accionistas para la celebración de la Asamblea General Ordinaria que se efectuará en la sede de la Compañía, ubicada en la Avenida Venezuela, Torrea América, piso 11, Urbanización Bello Monte de esta ciudad de Caracas, el día jueves 5 de diciembre de 2019, a las 10:00 a.m., en la que se conocerá de los siguientes asuntos:<BR><BR>1. Considerar y resolver, con vista a los informes de los Comisarios, sobre las cuentas que presenta la Junta Directiva correspondientes al ejercicio finalizado el 30 de septiembre de 2019, así como considerar y resolver sobre el Informe de la Junta Directiva.<BR>2. Considerar y resolver sobre la designación de los Miembros Principales y Suplentes de la Junta Directiva.<BR>3. Considerar y resolver sobre la designación de los Comisarios Principales y sus Suplentes, e igualmente decidir sobre la remuneración anual de los mismos.<BR>4. Considerar y resolver sobre la designación del Representante Judicial y su Suplente.<BR>5. Presentación del Informe Anual sobre el cumplimiento de los Principios de Gobierno Corporativo.<BR><BR>Caracas, 08 de noviembre de 2019.<BR><BR>Oscar Machado Koeneke<BR>Presidente<BR><BR>Nota: Se participa que el Informe de la Junta Directiva, los Estados Financieros, los Informes de los Comisarios, el Informe de los Auditores Externos y las ternas de candidatos para la elección de cada Comisario y su Suplente están a la disposición de los accionistas en la sede social de la Compañía, ubicada en la Avenida Venezuela, Torre América, piso 11, Urbanización Bello Monte, Caracas, Teléfonos: (0212) 707.6280 y 6466.<BR>|

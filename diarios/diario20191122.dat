@@ -1,0 +1,65 @@
+IG|22112019|61855.6|1000.72|1.64|62004.3|510.35|9621.92|18.42|
+IF|22112019|111743.35|1785.91|1.62|
+II|22112019|24293.59|413.16|1.73|
+R|B.OCC.DCTO.B.U.|BOU|11.36|11.9|.54|4.75|11.75|11.9|11.81|10|88960|1051049||1|
+R|BCO. CARIBE "A"|ABC.A|27000|26999.99|-.01|0|25000.01|26999.99|26478.26|3|23|608999.89||3|
+R|BCO. PROVINCIAL|BPV|96000|100000|4000|4.17|100000|100000|100000|9|259|24960000||1|
+R|BCO.NAC.CREDITO|BNC|386|390|4|1.04|389.99|392|390.04|22|478723631|184787236251.95||1|
+R|BOLSA V. CCAS.($)|BVCC|7400|7300|-100|-1.35|7260|7400|7292.06|9|1633|11915000||3|
+R|CORIMON C.A.|CRM.A|3400|3694|294|8.65|3350|3694|3440.33|11|962|3309600||1|
+R|CORP.GPO.QUIM.|CGQ|17700|17700|0|0|17700|17700|17700|1|1|17700||2|
+R|CORP.IND.ENERGIA|CIE|450|450|0|0|450|450|450|2|80|36000||2|
+R|DOMINGUEZ & CIA|DOM|14900|15000|100|.67|15000|15000|15000|1|9|135000||1|
+R|ENVASES VZLOS.|ENV|8390|8300|-90|-1.07|8250|8390|8299.66|8|147|1220050||3|
+R|FONDO V.INM.(A)|FVI.A|422|418|-4|-.95|418|418|418|3|863|360734||3|
+R|FONDO V.INM.(B)|FVI.B|278.99|277|-1.99|-.71|275|279|276.9|37|56492|15643524.9||3|
+R|GRUPO ZULIANO|GZL|14500|12500|-2000|-13.79|12500|13000|12580|6|1250|15725000||3|
+R|INM.VAL.Y CAP.|IVC|26000|28999|2999|11.53|26000|28999|26299.9|2|20|525998||1|
+R|MANPA, C.A. SACA|MPA|2250|2250|0|0|2200|2250|2247.62|2|105|236000||2|
+R|MERCANTIL S.(A)|MVZ.A|95000|95000|0|0|93000|95000|94018.3|7|3222|302438000||2|
+R|MERCANTIL S.(B)|MVZ.B|94950|94000|-950|-1|93000|94750|94636.9|5|42|3974750||3|
+R|PROAGRO|PGR|810|800|-10|-1.23|800|800|800|3|92|73600||3|
+R|PRODUCTOS EFE|EFE|1799.99|1601|-198.99|-11.06|1601|1789.99|1714.19|3|153|262270.47||3|
+R|PROTINAL|PTN|1100|1300|200|18.18|1300|1300|1300|3|261|339300||1|
+R|RON STA. TERESA|RST|16290|16288.9|-1.1|-.01|16288.9|16290|16289.27|9|131|2133728.1||3|
+R|SIVENSA, S.A.|SVS|5000|5999|999|19.98|5000|5999|5059.68|5|1340|6779968.5||1|
+R|T. PALO GRANDE|TPG|194.97|190|-4.97|-2.55|190|198|191.86|3|913|175167.7||3|
+P|BCO.NAC.CREDITO|BNC||390|||389.99|392|390.04|3|80934|31564260||
+P|BOLSA V. CCAS.|BVCC||7300|||7260|7400|7292.06|2|1379|10204600||
+P|FONDO V.INM.(A)|FVI.A||418|||418|418|418|1|15|6300||
+P|FONDO V.INM.(B)|FVI.B||277|||275|279|276.9|4|170650|46109500||
+P|MERCANTIL S.(B)|MVZ.B||94000|||93000|94750|94636.9|1|7|665000||
+P|RON STA. TERESA|RST||16288.9|||16288.9|16290|16289.27|2|371|6043590||
+VT|8|11|4|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|905|970|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|25000.01|26999.99|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|386|390|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|96000|100000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|11.75|11.9|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|7260|7300|
+CC|C.A. RON SANTA TERESA|16000|16288.9|
+CC|C.A. TELARES DE PALO GRANDE|157|190|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|5400|6800|
+CC|CERAMICA CARABOBO, SACA|92100|114000|
+CC|CORIMON, C.A.|3101|3694|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|405|450|
+CC|CORP.GRUPO QUIMICO, C.A.|15621|17700|
+CC|DOMINGUEZ & CIA., S.A.|14500.01|15000|
+CC|ENVASES VENEZOLANOS S.A.|7600|8300|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||11900|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|341|414.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|276|277|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|20810|28999|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|2001|2200|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|91000|95000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|91500|94000|
+CC|PROAGRO C.A.|750|800|
+CC|PRODUCTOS EFE S.A.|1601|1789|
+CC|PROTINAL C.A.|902|1315|
+CC|SIVENSA, S.A|5000|5999|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros Accionistas de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CENTRAL MADEIRENSE, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2019-I de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CENTRAL MADEIRENSE, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro 083 de fecha 17/07/2019.  <BR><BR>La sesión especial para la Serie I, de las Emisión 2019-I, por el monto de Bs. 600.000.000,00, de Papeles Comerciales al Portador, sería a partir del 22 de noviembre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 083 de fecha 17/07/2019<BR>Emisor	CENTRAL MADEIRENSE, C.A.<BR>Emisión 	2019-I<BR>Series a colocar	De la Serie I.<BR>Monto de Emisión. 	Bs.  1.200.000.000,00.<BR>Monto por serie 	Bs.     600.000.000,00.<BR>Códigos  ISIN	VEV00390WII2<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie I	       ME911P<BR>Fecha de Inicio de Sesión Especial 	22/11/2019<BR>Fecha de Vencimiento de las Series.	21/01/2020<BR>Agentes de la Colocación 	Activalores, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	90,00%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo, C.A. Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	De 9:30a.m  a  1:00 p.m.<BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|

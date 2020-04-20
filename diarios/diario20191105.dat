@@ -1,0 +1,64 @@
+IG|05112019|48124.21|675.61|1.42|62004.3|507.32|-4109.47|-7.87|
+IF|05112019|86380.79|741.66|.87|
+II|05112019|19411.54|704.93|3.77|
+R|B.DE VENEZUELA|BVL|700|700|0|0|750|750|750|1|2|1500||2|
+R|B.OCC.DCTO.B.U.|BOU|6.4|6.2|-.2|-3.13|6.2|6.2|6.2|3|8015|49693||3|
+R|BCO. CARIBE "A"|ABC.A|22500|23000|500|2.22|23000|23000|23000|2|50|1150000||1|
+R|BCO. PROVINCIAL|BPV|73000|74000|1000|1.37|73000|76000|73205.14|19|683|49999112.6||1|
+R|BCO.NAC.CREDITO|BNC|340|350|10|2.94|340|350|342.51|30|94130|32240210||1|
+R|BOLSA V. CCAS.($)|BVCC|6250|6347|97|1.55|6200|6400|6218.09|17|21311|132534258||1|
+R|CANTV CLASE (D)|TDV.D|5700|5700|0|0|5700|6100|5723.99|5|2234|12787400||2|
+R|CORIMON C.A.|CRM.A|3300|3200|-100|-3.03|3200|3300|3210.49|6|4804|15423200||3|
+R|CORP.IND.ENERGIA|CIE|500|400.01|-99.99|-20|400.01|450|417.13|3|1521|634460||3|
+R|DOMINGUEZ & CIA|DOM|12800|13000|200|1.56|12800|13000|12816.51|2|218|2794000||1|
+R|ENVASES VZLOS.|ENV|6200|6500|300|4.84|6500|6500|6500|1|135|877500||1|
+R|FONDO V.INM.(A)|FVI.A|333.95|330|-3.95|-1.18|330|334.99|334.11|5|1634|545931.55||3|
+R|FONDO V.INM.(B)|FVI.B|215|220|5|2.33|220|225|220.05|40|603782|132844190||1|
+R|GRUPO ZULIANO|GZL|13000|12500|-500|-3.85|12500|12500|12500|1|75|937500||3|
+R|INM.VAL.Y CAP.|IVC|19000|17000|-2000|-10.53|17000|19000|17399.15|5|937|16303000||3|
+R|MANPA, C.A. SACA|MPA|1900|1900|0|0|1900|1900|1900|8|6000|11400000||2|
+R|MERCANTIL S.(A)|MVZ.A|72999.99|72000|-999.99|-1.37|72000|72002|72000.17|13|1498|107856084||3|
+R|MERCANTIL S.(B)|MVZ.B|72000|72500|500|.69|72000|73000|72020.52|18|2589|186460500||1|
+R|PROAGRO|PGR|651|660|9|1.38|660|660|660|3|268|176880||1|
+R|PROTINAL|PTN|985|985|0|0|950|950|950|1|30|28500||2|
+R|RON STA. TERESA|RST|11800|12800|1000|8.47|12000|12800|12765.8|16|1717|21918875||1|
+R|T. PALO GRANDE|TPG|139|139|0|0|130|139|135.65|4|13770|1867860||2|
+P|BOLSA V. CCAS.|BVCC||6347|||6200|6400|6218.09|2|560|4215022||
+P|FONDO V.INM.(B)|FVI.B||220|||220|225|220.05|2|16196|4215089.98||
+P|MERCANTIL S.(A)|MVZ.A||72000|||72000|72002|72000.17|1|250|18000000||
+VT|10|7|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)DL91P-Colocación Primaria. Destileria Carupano.|
+BP|PC.D.CARUP.19 1P|DL91P|91|91|0|0|91|91||4|2000000000|1820000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|763|815|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|23000|25715|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|340|350|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|74000|75000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|5.8|6.2|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6205|6347|
+CC|C.A. RON SANTA TERESA|11201|12500|
+CC|C.A. TELARES DE PALO GRANDE|135|139|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|5500|6000|
+CC|CERAMICA CARABOBO, SACA|95000|100000|
+CC|CORIMON, C.A.|3000.01|3300|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|400.01|470|
+CC|CORP.GRUPO QUIMICO, C.A.|11760.01|14000|
+CC|DOMINGUEZ & CIA., S.A.|12305|13000|
+CC|ENVASES VENEZOLANOS S.A.|6450|6999|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|9600|12000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|270|329.95|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|220|224|
+CC|GRUPO ZULIANO, C.A.|10400.01|12500|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|17100|19000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1900|1950|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|73500|77900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|72050|80000|
+CC|PROAGRO C.A.|650|700|
+CC|PRODUCTOS EFE S.A.|1360.01|1600|
+CC|PROTINAL C.A.|950|975|
+CC|SIVENSA, S.A|4400|5000|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|ALIMENTOS DIFRESCA, CA.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros  de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de ALIMENTOS DIFRESCA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, por un monto de Bs. 3.000.000.000,00, de la Emisión 2019-I de Papeles Comerciales al Portador, emitidos por la Empresa Emisora ALIMENTOS DIFRESCA, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 106 de fecha 30/09/2019.  <BR><BR>La sesión especial para la Serie I, por Bs. 3.000.000.000,00, de la Emisión 2019-I de Papeles Comerciales, sería a partir del 05 de noviembre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 106 de fecha 30/09/2019<BR>Emisor	ALIMENTOS DIFRESCA, C.A<BR>Emisión 	2019-I<BR>Series a colocar		De la Serie I.<BR>Monto de Emisión. 	Bs.  3.000.000.000,00<BR>Monto por serie 	Bs.  3.000.000.000,00.<BR>Códigos  ISIN	Serie I	           VEV00381WIE0<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie I    	AD911P	<BR>Fecha de Inicio de Sesión Especial 	05/11/2019<BR>Fecha de Vencimiento de la Serie	03/02/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, S.A. <BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	87,32%<BR>Base de cálculo 	Real/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo - Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m  a  1:00 p.m.<BR>|
+NO||BOLSA DE VALORES DE CARACAS: Informa<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros  de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Obligaciones Quirografarias de DESTILERIA CARUPANO, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Series I y II, de la Emisión 2019, de Obligaciones Quirografarias, emitidas por la Empresa Emisora DESTILERIA CARUPANO, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 109 de fecha 22/10/2019.  <BR><BR>La sesión especial para las Series I y II, por un monto de Bs. 250.000.000,00, c/u. de la Emisión 2019, de Obligaciones Quirografarias, sería a partir del 08 de noviembre de 2019.<BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Obligaciones Quirografarias <BR>Autorización SNV 	Providencia Nro. 109 de fecha 22/10/2019<BR>Emisor	DESTILERIA CARUPANO, C.A.<BR>Emisión 	2019.<BR>Series a colocar		Serie I y II<BR>Monto de Emisión. 	Bs.  500.000.000,00<BR>Monto por serie 	Bs.  250.000.000,00 c/u.<BR>Códigos  ISIN	Serie I             VEV00389ORF8<BR>Serie II  	VEV00389ORG6<BR>Código del Activo	OQ<BR>Código de Símbolo en SIBE, Mercado Primario	<BR>Serie I        DL191P <BR>Serie II  	  DL192P		<BR>Fecha de Inicio de Sesión Especial 	08/11/2019<BR>Fecha de Vencimiento de la Serie	08/02/2021<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, S.A. <BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	75,83%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo, Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m  a  1:00 p.m.<BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|

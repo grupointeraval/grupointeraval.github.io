@@ -1,0 +1,67 @@
+IG|05122019|70514.51|-653.26|-.92|71167.77|745.22|18280.83|35|
+IF|05122019|128613.63|-1707.93|-1.31|
+II|05122019|26567.2|227.97|.87|
+R|B.DE VENEZUELA|BVL|1150|1005|-145|-12.61|1005|1299|1140.1|5|829|945140||3|
+R|B.OCC.DCTO.B.U.|BOU|11.99|12|.01|.08|11.99|12.5|11.99|10|367538|4408327.35||1|
+R|BCO. CARIBE "A"|ABC.A|27499|27500|1|0|27500|27500|27500|2|44|1210000||1|
+R|BCO. PROVINCIAL|BPV|115000|114000|-1000|-.87|114000|115000|114873.02|9|126|14474000||3|
+R|BCO.NAC.CREDITO|BNC|409|414|5|1.22|408|418|411|29|209673|86772648||1|
+R|BOLSA V. CCAS.($)|BVCC|8999|8900|-99|-1.1|8900|9150|8944.8|12|914|8175550||3|
+R|CANTV CLASE (D)|TDV.D|7500|7000|-500|-6.67|7000|7500|7490|4|500|3745000||3|
+R|CORIMON C.A.|CRM.A|3699|3600|-99|-2.68|3600|3600|3600|1|160|576000||3|
+R|CORP.GPO.QUIM.|CGQ|20000|23999|3999|20|23999|23999|23999|1|5|119995||1|
+R|DOMINGUEZ & CIA|DOM|15000|15500|500|3.33|15500|15500|15500|2|30|465000||1|
+R|ENVASES VZLOS.|ENV|9700|9800|100|1.03|9700|9800|9792.23|8|399|3907100||1|
+R|FONDO V.INM.(A)|FVI.A|500|499|-1|-.2|499|499|499|1|100|49900||3|
+R|FONDO V.INM.(B)|FVI.B|309.8|305|-4.8|-1.55|300|309.75|300.28|37|3304887|992626630.75||3|
+R|GRUPO ZULIANO|GZL|17000|18000|1000|5.88|18000|19000|18148.15|2|27|490000||1|
+R|INM.VAL.Y CAP.|IVC|25000|25000|0|0|25000|25000.01|25000|3|45|1125000.15||2|
+R|MANPA, C.A. SACA|MPA|2300|2300|0|0|2300|2300|2300|7|12097|27823100||2|
+R|MERCANTIL S.(A)|MVZ.A|118000|115000|-3000|-2.54|115000|117998|117853.5|10|3353|393094000||3|
+R|MERCANTIL S.(B)|MVZ.B|118000|115000|-3000|-2.54|115000|117000|115038.54|21|566|65205800||3|
+R|PROAGRO|PGR|805|701|-104|-12.92|701|701|701|1|488|342088||3|
+R|PRODUCTOS EFE|EFE|1650|1650|0|0|1949|1949|1949|1|3|5847||2|
+R|RON STA. TERESA|RST|16300|17000|700|4.29|16300|17000|16943.75|17|255|4310999.5||1|
+R|SIVENSA, S.A.|SVS|8048|8050|2|.02|8049.98|8050|8050|4|23007|185206348.16||1|
+R|T. PALO GRANDE|TPG|190|190|0|0|154|219.99|162.25|2|176|28555.78||2|
+P|BOLSA V. CCAS.|BVCC||8900|||8900|9150|8944.8|1|560|5012000||
+P|RON STA. TERESA|RST||17000|||16300|17000|16943.75|1|20|327000||
+VT|9|10|4|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)DO911P-Colocación Primaria. Dominguez y Cia.|
+BP|P.C. AP.19-I-2P|AP912P|90|90|0|0|90|90||2|200000000|180000000||
+BP|PC.DOM.2019-I 1P|DO911P|87.31|87.32|.01|.01|87.32|87.32||2|600000000|523890000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1005|1299|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|27500|28999|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|412|414|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|114000|116000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|11.99|12|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|8500|8900|
+CC|C.A. RON SANTA TERESA|17000||
+CC|C.A. TELARES DE PALO GRANDE|154|219.99|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|7000|7499|
+CC|CERAMICA CARABOBO, SACA|90000||
+CC|CORIMON, C.A.|3251|3600|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|410|540|
+CC|CORP.GRUPO QUIMICO, C.A.|16001|22900|
+CC|DOMINGUEZ & CIA., S.A.|14000|15500|
+CC|ENVASES VENEZOLANOS S.A.|9700|9800|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||11500|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|400|499|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|300|305|
+CC|GRUPO ZULIANO, C.A.|13770|18000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|25000|27500|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|2000|2699|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|115000|116900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|110000|114999|
+CC|PROAGRO C.A.|701|819.99|
+CC|PRODUCTOS EFE S.A.||1949|
+CC|PROTINAL C.A.|1280.02|1549|
+CC|SIVENSA, S.A|6501|8049.25|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CARGILL DE VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Series I y II, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CARGILL DE VENEZUELA, S.R.L. e inscrita en el Registro Nacional de Valores según Providencia Nro. 123 de fecha 30/10/2019.<BR><BR>La sesión especial para las Series I y II, de la Emisión 2019-I, por el monto de Bs. 5.000.000.000,00 c/u., de Papeles Comerciales al Portador, sería a partir del 06 de diciembre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 123 de fecha 30/10/2019<BR>Emisor	CARGILL DE VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>Series a colocar		Serie I   y Serie II<BR>Monto de Emisión. 	Bs.  15.000.000.000,00.<BR>Monto por serie 	Bs.    5.000.000.000,00 c/u.<BR>Códigos  ISIN	<BR>Serie I:      VEV00392WIO6<BR>Serie II:      VEV00392WIP3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	<BR>Serie I:	CV911P<BR>Serie II:	CV912P<BR>Fecha de Inicio de Sesión Especial 	06/12/2019<BR>Fecha de Vencimiento de las Series.	Serie   I:      04/04/2020<BR>Serie  II:      03/06/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	Serie   I:      87,21% y  Serie  II:      80,88%<BR>Base de cálculo 	Actual 30/360<BR>Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30a.m a 1:00 p.m.<BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR><BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|
+NO|C.A. NACIONAL TELEFONOS DE VENEZUELA|INFORMACIÓN DE HECHO DE IMPORTANCIA  <BR>COMPAÑÍA ANÓNIMA NACIONAL TELÉFONOS DE VENEZUELA (CANTV).<BR> <BR>       <BR>En cumplimiento del Decreto 3.870 de fecha 10/06/2019, publicado en Gaceta Oficial de la República Bolivariana de Venezuela Nro. 41.651, de la misma fecha, se crea la Corporación Socialista de las Telecomunicaciones y Servicios Postales, C.A., cuyo objeto es la dirección de las empresas del Estado pertenecientes al sector de las telecomunicaciones, con la finalidad de implementar el modelo productivo socialista en el desarrollo de las telecomunicaciones del país.<BR><BR>En dicho decreto se prevé la adscripción de la Compañía Anónima Teléfonos de Venezuela (CANTV) y Telecomunicaciones Movilnet C.A., a la referida empresa, quien será la tenedora y representante legal de las empresas en el área de las telecomunicaciones creadas y por crear, según se desprende del artículo 4 del referido decreto, que textualmente indica:<BR><BR>¿¿.Artículo 4 La Corporación Socialista de las Telecomunicaciones y Servicios Postales C.A., en cumplimiento de su objeto, funcionará como empresa matriz y ejercerá la tenencia y representación de las acciones del Estado en las empresas filiales y mixtas existentes o por existir en el área de las Telecomunicaciones que le sean adscritas por el ciudadano Presidente de la República Bolivariana de Venezuela; en atención a ello, la referida empresa cumplirá y ejecutará las políticas que dicte el Ejecutivo Nacional en materia de Telecomunicaciones y Servicios Postales¿¿<BR>|
+NO||En virtud de lo antes señalado, queremos comunicarle que se procederá en los próximos días en reunión de la Asamblea de Accionistas, a la entrega de la representación legal y tenencia de las Acciones de CANTV, por parte del Ministerio del Poder Popular para Ciencia y Tecnología y el Banco de Desarrollo Económico y Social de Venezuela (Bandes) como actuales representantes de la cantidad de 716.440.108 acciones Clase B propiedad de la República Bolivariana de Venezuela, las cuales representan el 91,02% del capital social de la misma, a la Corporación Socialista de las Telecomunicaciones y Servicios Postales, C.A.<BR>Igualmente, CANTV debe entregar a la Corporación Socialista de las Telecomunicaciones y Servicios Postales, C.A., la propiedad de la cantidad de 4.202.201 acciones que representan el 100% del capital social de Telecomunicaciones Movilnet, C.A.<BR><BR>Es importante destacar, que la entrega antes mencionada no traerá ninguna consecuencia o perjuicio para los accionistas minoritarios de la empresa, garantizando todos y cada uno de los derechos que les corresponden a los accionistas Clase C y Clase D, de conformidad a lo establecido en el Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores.<BR><BR>Helen Hernández<BR>Gerente de la Gerencia de Asuntos Corporativos<BR>Caracas 04 de diciembre de 2019<BR>|
+NO||CONVOCATORIA                                      <BR> C.A. NACIONAL TELÉFONOS DE VENEZUELA (CANTV)<BR><BR>De conformidad con lo dispuesto en los Artículos 8 y 9 de los Estatutos Sociales de la Compañía Anónima Nacional Teléfonos de Venezuela (CANTV), se convoca a los Accionistas de esta Compañía a la Asamblea Extraordinaria de Accionistas de CANTV que se celebrará el día viernes 20 de diciembre de 2019, a las 9:00 a.m., en el Teatro CANTV, Planta Baja, Edificio NEA, Avenida Libertador, Caracas. El punto único a tratar:<BR><BR>1.-  Cumplimiento del Decreto 3.874 de fecha 10/06/2019, publicado en Gaceta Oficial Nro. 41.651 de la misma fecha.<BR><BR>Nota:<BR>    El Accionista que no pueda o no desee asistir personalmente a la mencionada Asamblea, podrá hacerse representar por Carta-Poder, mediante la cual designe a la persona que lo representará en la Asamblea de Accionistas. El modelo de esta Carta-Poder estará a la disposición del interesado/a en la oficina de la Secretaría de la Junta Directiva. Una vez otorgada, deberá ser consignada ante la misma oficina y con no menos de cuarenta y ocho (48) con cuarenta y ocho (48) horas de anticipación a la celebración de la Asamblea.<BR><BR>Caracas, 05 de diciembre de 2019<BR>La Junta Directiva<BR>|

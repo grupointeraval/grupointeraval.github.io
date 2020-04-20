@@ -1,0 +1,68 @@
+IG|06022020|127178.88|1610.47|1.28|129541.1|4640.24|74945.2|143.48|
+IF|06022020|231394.22|2893.34|1.27|
+II|06022020|48440.78|647.19|1.35|
+R|B.DE VENEZUELA|BVL|2250|2400|150|6.67|2400|2400|2400|2|245|588000||1|
+R|B.OCC.DCTO.B.U.|BOU|18.47|19.49|1.02|5.52|19.49|19.5|19.5|5|23450|457263.8||1|
+R|BCO. CARIBE "A"|ABC.A|44999|45000|1|0|45000|45000|45000|1|4|180000||1|
+R|BCO. PROVINCIAL|BPV|207000|210000|3000|1.45|200000|210000|205678.29|8|516|106130000||1|
+R|BCO.NAC.CREDITO|BNC|685|690|5|.73|685|690|687.07|24|34324|23582960||1|
+R|BOLSA V. CCAS.($)|BVCC|20750|22000|1250|6.02|21000|22000|21002.66|17|11536|242271000||1|
+R|CANTV CLASE (D)|TDV.D|9000|9500|500|5.56|8999|9500|9435.33|6|1162|10963850||1|
+R|CORIMON C.A.|CRM.A|5000|5499|499|9.98|5000|5499|5461.88|6|578|3156965||1|
+R|CORP.GPO.QUIM.|CGQ|27000|27000|0|0|27000|27000|27000|1|12|324000||2|
+R|CORP.IND.ENERGIA|CIE|2850|3419.99|569.99|20|3419.99|3419.99|3419.99|1|71|242819.29||1|
+R|DOMINGUEZ & CIA|DOM|32000|33000|1000|3.13|33000|33000|33000|2|419|13827000||1|
+R|ENVASES VZLOS.|ENV|17500|17000|-500|-2.86|17000|18000|17136.44|15|11716|200780000||3|
+R|FONDO V.INM.(A)|FVI.A|800|795|-5|-.63|795|795|795|4|328|260760||3|
+R|FONDO V.INM.(B)|FVI.B|575|590|15|2.61|575|590|583.93|34|1528965|887357462||1|
+R|GRUPO ZULIANO|GZL|44000|44000|0|0|43000|44000|43952.02|9|917|40304000||2|
+R|MANPA, C.A. SACA|MPA|4000|4000|0|0|4000|4000|4000|7|2000|8000000||2|
+R|MERCANTIL S.(A)|MVZ.A|203000|205000|2000|.99|203000|210000|203559.67|4|243|49465000||1|
+R|MERCANTIL S.(B)|MVZ.B|203000|205000|2000|.99|203000|205000|203059.61|12|671|136253000.01||1|
+R|PROAGRO|PGR|1350|1350|0|0|1350|1350|1350|2|2803|3784050||2|
+R|PRODUCTOS EFE|EFE|2900|3400|500|17.24|3400|3400|3400|2|594|2019600||1|
+R|R.S.TERESA "B"|RST.B|37600|37000|-600|-1.6|37000|37000|37000|2|22|814000||3|
+R|RON STA. TERESA|RST|34000|34500|500|1.47|34000|35500|34577.44|15|716|24757445||1|
+R|SIVENSA, S.A.|SVS|13500|13500|0|0|13500|13500|13500|1|25|337500||2|
+R|T. PALO GRANDE|TPG|390|390|0|0|390|390|390|4|2305|898950||2|
+P|BOLSA V. CCAS.|BVCC||22000|||21000|22000|21002.66|5|49370|1241934000.2||
+P|ENVASES VZLOS.|ENV||17000|||17000|18000|17136.44|2|22|385000||
+P|GRUPO ZULIANO|GZL||44000|||43000|44000|43952.02|1|19|836000||
+P|R.S.TERESA "B"|RST.B||37000|||37000|37000|37000|3|5|131600||
+VT|15|3|6|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)AI91P-Colocación Primaria. Agroinsa|
+BP|P.C. AP.19-I-3P|AP913P|86|86|0|0|86|86||4|2150000000|1849000000||
+BP|P.C.AI-2019 S-1P|AI91P|83.76|83.77|.01|.01|83.77|83.77||1|119000000|99680350||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1825|2250|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|40000|44998|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|689|690|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|205000|210000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|18.05|19.49|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|21000|22000|
+CC|C.A. RON SANTA TERESA|34000|34500|
+CC|C.A. RON SANTA TERESA (CLASE B)|34000|37000|
+CC|C.A. TELARES DE PALO GRANDE|312.02|390|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8000|9500|
+CC|CERAMICA CARABOBO, SACA|85000||
+CC|CORIMON, C.A.|5000|5499|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2280.01|3419.99|
+CC|CORP.GRUPO QUIMICO, C.A.|27100|32399|
+CC|DOMINGUEZ & CIA., S.A.|32500|33000|
+CC|ENVASES VENEZOLANOS S.A.|14500|17000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||14580|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|700|795|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|580|590|
+CC|GRUPO ZULIANO, C.A.|43000|44000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|32000||
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4000|4200|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|205000||
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|205000|230000|
+CC|PROAGRO C.A.|1080.01|1350|
+CC|PRODUCTOS EFE S.A.|2321||
+CC|PROTINAL C.A.|2400.01|3599.97|
+CC|SIVENSA, S.A|10802|13799|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|ALIMENTOS DIFRESCA, C.A.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de ALIMENTOS DIFRESCA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie II, por un monto de Bs. 3.000.000.000,00, de la Emisión 2019-I de Papeles Comerciales al Portador, emitidos por la Empresa Emisora ALIMENTOS DIFRESCA, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 106 de fecha 30/09/2019.  <BR><BR>La sesión especial para la Serie II, por Bs. 3.000.000.000,00, de la Emisión 2019-I de Papeles Comerciales, sería a partir del 07 de febrero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 106 de fecha 30/09/2019<BR>Emisor	ALIMENTOS DIFRESCA, C.A<BR>Emisión 	2019-I<BR>Series a colocar	De la Serie II.<BR>Monto de Emisión. 	Bs.  3.000.000.000,00<BR>Monto por serie 	Bs.  3.000.000.000,00.<BR>Códigos  ISIN	Serie I	           VEV00381WJK5<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie I    	AD912P	<BR>Fecha de Inicio de Sesión Especial 	07/02/2020<BR>Fecha de Vencimiento de la Serie	05/08/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, S.A. <BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	82,08%<BR>Base de cálculo 	Actual/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo - Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m  a  1:00 p.m.<BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR><BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|

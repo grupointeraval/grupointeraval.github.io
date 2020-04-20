@@ -1,0 +1,69 @@
+IG|30092019|48856.03|-1185.28|-2.37|62004.3|347.92|-3377.65|-6.47|
+IF|30092019|87217.61|-2321.09|-2.59|
+II|30092019|20142.06|-300.74|-1.47|
+R|B.DE VENEZUELA|BVL|949.5|900|-49.5|-5.21|900|900|900|6|192|172800||3|
+R|B.OCC.DCTO.B.U.|BOU|8.1|7.5|-.6|-7.41|7.5|8.1|7.79|15|205451|1600595.6||3|
+R|BCO. PROVINCIAL|BPV|82000|78500|-3500|-4.27|78500|82000|79583.43|10|344|27376700||3|
+R|BCO.NAC.CREDITO|BNC|360|357.95|-2.05|-.57|350|369|351.17|34|123465|43357674.1||3|
+R|BOLSA V. CCAS.($)|BVCC|6500|6500|0|0|6500|6500|6500|8|252|1657500||2|
+R|CANTV CLASE (D)|TDV.D|5000|4000|-1000|-20|4000|4750|4005.12|3|2061|8254547||3|
+R|CORIMON C.A.|CRM.A|3650|3680|30|.82|3650|3680|3658.88|5|169|618350||1|
+R|CORP.IND.ENERGIA|CIE|850|788|-62|-7.29|788|800|791.04|2|134|106000||3|
+R|DOMINGUEZ & CIA|DOM|13000|12900|-100|-.77|12900|12900|12900|2|4|51600||3|
+R|ENVASES VZLOS.|ENV|7200|7100|-100|-1.39|7100|7200|7189.35|9|1033|7426600||3|
+R|FONDO V.INM.(A)|FVI.A|300|300|0|0|320|320|320|1|2|640||2|
+R|FONDO V.INM.(B)|FVI.B|222.25|230|7.75|3.49|224|230|226.22|33|226795|51786632||1|
+R|GRUPO ZULIANO|GZL|13000|13000|0|0|12900|12900|12900|1|2|25800||2|
+R|MANPA, C.A. SACA|MPA|2030|1900|-130|-6.4|1900|2030|1910.8|4|2407|4599300||3|
+R|MERCANTIL S.(A)|MVZ.A|72500|72000|-500|-.69|70000|72000|70260|37|958|67919000||3|
+R|MERCANTIL S.(B)|MVZ.B|72500|70000|-2500|-3.45|70000|73000|70065.56|12|1144|80155000||3|
+R|PROAGRO|PGR|820|820|0|0|820|820|820|1|1900|1558000||2|
+R|RON STA. TERESA|RST|14000|13945|-55|-.39|13945|14000|13957.53|6|89|1242220||3|
+R|SIVENSA, S.A.|SVS|4200|4200|0|0|4500|4500|4500|1|6|27000||2|
+R|T. PALO GRANDE|TPG|130|130|0|0|134|134|134|1|111|14874||2|
+P|B.DE VENEZUELA|BVL||900|||900|900|900|1|3029|2726100||
+P|B.OCC.DCTO.B.U.|BOU||7.5|||7.5|8.1|7.79|1|2400500|19444050||
+P|BCO. PROVINCIAL|BPV||78500|||78500|82000|79583.43|1|368|29992000||
+P|BCO.NAC.CREDITO|BNC||357.95|||350|369|351.17|2|134557|47861725||
+P|BOLSA V. CCAS.|BVCC|||||6500|6500|6500|2|49925|329505000||
+P|CANTV CLASE (D)|TDV.D||4000|||4000|4750|4005.12|1|1234|6170000||
+P|FONDO V.INM.(B)|FVI.B||230|||224|230|226.22|4|26282|5884668||
+P|GRUPO ZULIANO|GZL||13000|||12900|12900|12900|1|10000|130000000||
+P|MERCANTIL S.(A)|MVZ.A||72000|||70000|72000|70260|3|915|66334000||
+P|MERCANTIL S.(B)|MVZ.B||70000|||70000|73000|70065.56|1|816|59568000||
+P|RON STA. TERESA|RST||13945|||13945|14000|13957.53|1|4|56000||
+VT|2|12|6|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|781|900|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|16000|23000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|350|357.95|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|78500|80000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|7.5|8|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6350|6500|
+CC|C.A. RON SANTA TERESA|11250|13950|
+CC|C.A. TELARES DE PALO GRANDE|131|134|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|3250|4600|
+CC|CERAMICA CARABOBO, SACA||105000|
+CC|CORIMON, C.A.|3650|3700|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||788|
+CC|CORP.GRUPO QUIMICO, C.A.|6010|7011|
+CC|DOMINGUEZ & CIA., S.A.|12201|12900|
+CC|ENVASES VENEZOLANOS S.A.|7100|7200|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6002|9000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|241|320|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|230|234|
+CC|GRUPO ZULIANO, C.A.||12900|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1750|1900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|70000|72500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|70000|72950|
+CC|PROAGRO C.A.|677|809|
+CC|PRODUCTOS EFE S.A.||1650|
+CC|PROTINAL C.A.|801|1000|
+CC|SIVENSA, S.A|4200|4500|
+NO|BANCO DE VENEZUELA, S.A. BCO. UNIVERSAL|<BR>RESULTADO ASAMBLEA DE ACCIONISTAS<BR> ASAMBLEA ORDINARIA   BANCO DE VENEZUELA, S.A Banco Universal<BR><BR>La Asamblea General Ordinaria de Accionistas de la empresa emisora BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL, celebrada en fecha veintisiete (27) de septiembre de 2019, previa convocatoria de conformidad con la ley, se adoptaron las siguientes decisiones <BR><BR>Primero. -  Se aprobó el Balance General y el Estado de Ganancias y Pérdidas y los Estados Financieros consolidados correspondientes al semestre concluido el 30 de junio de 2019, con vista de los Informes de la Junta Directiva, de los Auditores Externos, así como de los Comisarios para dicho semestre.<BR><BR>Segundo.   Se aprobó un dividendo de Bs.1.82279 por acción y se facultó a la Junta Directiva del Banco para determinar la oportunidad de pago de los dividendos decretados.<BR><BR>Caracas, 30 de septiembre de 2019<BR>Bertha Morales O. <BR>Gerente de Operaciones de Accionistas y Custodia<BR><BR>|
+NO|BANCO DEL CARIBE, C.A. BANCO UNIVERSAL|RESULTADO ASAMBLEA DE ACCIONISTAS<BR> BANCO DEL CARIBE, CA Banco Universal, (BANCARIBE)<BR><BR>La Asamblea General Ordinaria de Accionistas de la empresa emisora BANCO DEL CARIBE, CA Banco Universal, (BANCARIBE), celebrada en fecha diecinueve (19) de septiembre de 2019, previa convocatoria de conformidad con la ley, con un quorum del 91,41% de acciones representadas, se adoptaron las siguientes decisiones <BR><BR>Primero.   Se aprobó el Balance General y el Estado de Ganancias y Pérdidas y los Estados Financieros consolidados correspondientes al primer semestre de 2019, con vista del Informe de los Comisarios. <BR><BR>Segundo.   Tomado en consideración los necesarios equilibrios financieros del banco y una vez efectuadas las reservas legales, de impuestos y demás apartados. Se aprobó el decreto y pago de un dividendo en efectivo, con cargo a la cuenta de Superávit por aplicar, por la cantidad de doscientos veinte millones de bolívares (Bs 220.000.000), a ser distribuido entre los titulares de acciones Clase A y Clase B, a razón de dos bolívares por cada acción.<BR>|
+NO||RESULTADO ASAMBLEA DE ACCIONISTAS EXTRAORDINARIA<BR> BANCO DEL CARIBE, CA Banco Universal, (BANCARIBE)<BR><BR>La Asamblea General Extraordinaria de Accionistas de la empresa emisora BANCO DEL CARIBE, CA Banco Universal, (BANCARIBE), celebrada en fecha diecinueve (19) de septiembre de 2019, previa convocatoria de conformidad con la ley, con un quorum del 91,41% de acciones representadas, se adoptaron las siguientes decisiones <BR>Primero.  Se dio lectura al texto del Informe de la Junta Directiva. ¿Informe sobre la propuesta que presenta la Junta Directiva de dejar sin efecto el acuerdo de fusión por absorción del Banco de la Gente Emprendedora (Bangente), C.A. por el Banco del Caribe, C.A., Banco Universal (Bancaribe) adoptado por la Asamblea por la Asamblea Extraordinaria de Accionistas del 30 de noviembre de 2016¿. Se aprobó la misma <BR>|
+NO||A continuación, se informa el precio de ajuste de las acciones de la sociedad emisora Banco del Caribe, CA., Banco Universal (BANCARIBE), como consecuencia del pago de un dividendo en efectivo por una cantidad de doscientos veinte millones de bolívares (Bs. 220.000.000,00), a razón de Bs. 2,00 por cada acción Clase A y Clase B en tenencia.<BR><BR>Fecha Junta / Asamblea	19/09/2019<BR>Fecha Limite de Transacción con Beneficio	27/09/2019<BR>Fecha Efectiva de Registro del Beneficio 	04/10/2019<BR><BR>Símbolo		<BR>ABC.A<BR>Precio de Cierre               Bs. 20.000,00	<BR>Precio  de Ajuste             Bs. 19.998,00<BR>Monto de Beneficio          Bs.  183.333.334,00<BR>Símbolo<BR>ABC.B	  <BR>Precio de Cierre                  N/A<BR>Precio de Ajuste                  N/A<BR>Monto de Beneficio          Bs.     36.666.666,00|
+NO|MERCANTIL SERVICIOS FINANCIEROS C.A|RESULTADO ASAMBLEA DE ACCIONISTAS<BR>MERCANTIL SERVICIOS FINANCIEROS, C.A.<BR><BR>La Asamblea General Ordinaria de Accionistas de la empresa emisora, MERCANTIL SERVICIOS FINANCIEROS, C.A. celebrada en fecha 27 de septiembre de 2019, previa convocatoria de conformidad con la ley, se adoptaron las siguientes decisiones:<BR> <BR>Primero. - Se aprobó los Estados Financieros Auditados de la Compañía correspondientes al semestre finalizado el 30 de junio de 2019, con vista al Informe de los Comisarios y el informe de la Junta Directiva<BR><BR>Segundo. -  Se aprobó la Propuesta para la Cuadragésima Fase del Programa de Recompra de Acciones de la Compañía.<BR><BR>Tercero. - Se aprobó la Propuesta para la Emisión y Colocación de Obligaciones y/o de Papeles Comerciales de Mercantil Servicios Financieros, C.A. <BR><BR>Al finalizar la respectiva Asamblea, Gustavo Vollmer A, presidente de Mercantil Servicios Financieros se refirió al proceso de reorganización corporativa que adelanta la organización, señalando que el objetivo central es mantener a los negocios de las diferentes geografías bajo una misma dirección y orientación gerencial, garantizando el debido flujo de recursos que requieren para su expansión y crecimiento. Hizo especial énfasis en las operaciones de las empresas Mercantil en Venezuela que, el próximo año, cumplen 95 años de actividades y que esperan continuar por otros 95 años más.<BR>Caracas, 30 de septiembre de 2019<BR>Por Mercantil Servicios Financieros, C.A.<BR><BR>Guillermo Ponce Trujillo<BR>Secretario Junta Directiva<BR>|

@@ -1,0 +1,50 @@
+IG|16032020|103887.72|-1919.92|-1.81|129541.1|8249.07|51654.04|98.89|
+IF|16032020|176961.91|-4913.48|-2.7|
+II|16032020|50637.12|572.66|1.14|
+R|B.DE VENEZUELA|BVL|2500|2500|0|0|2639|2639|2639|1|11|29029||2|
+R|B.OCC.DCTO.B.U.|BOU|23.96|23.98|.02|.08|23.98|23.98|23.98|1|8000|191840||1|
+R|BCO. PROVINCIAL|BPV|150000|140000|-10000|-6.67|140000|150000|140566.04|3|53|7450000||3|
+R|BCO.NAC.CREDITO|BNC|670|670|0|0|670|670|670|1|90|60300||2|
+R|BOLSA V. CCAS.($)|BVCC|19500|18500|-1000|-5.13|18500|20500|18505.74|6|27088|501283498||3|
+R|CORIMON C.A.|CRM.A|6100|6598|498|8.16|6598|6598|6598|1|10|65980||1|
+R|FONDO V.INM.(B)|FVI.B|510|510|0|0|510|510|510|6|213|108630||2|
+R|GRUPO ZULIANO|GZL|49998|40000|-9998|-20|40000|40000|40000|1|32|1280000||3|
+R|RON STA. TERESA|RST|39000|39500|500|1.28|39500|39500|39500|4|405|15997500||1|
+R|T. PALO GRANDE|TPG|350|360|10|2.86|360|360|360|1|300|108000||1|
+P|BOLSA V. CCAS.|BVCC||18500|||18500|20500|18505.74|6|65162|1352070621.5||
+VT|4|3|3|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)DT951P-Colocación primaria. Dayco Telecom|
+DV|(&)GM93P-Colocación primaria Galaxia Medica|
+BP|PC.DAYCO 19-5 S1|DT951P|74.62|74.62|0|0|74.62|74.62||8|4000000000|2984800000||
+BP|PC.G.MEDICA 193P|GM93P|86.61|86.61|0|0|86.61|86.61||3|2060000000|1784166000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL||2639|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)||50000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|536|650|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|120000|149950|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL||23.97|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|18500|18999|
+CC|C.A. RON SANTA TERESA|39500|40000|
+CC|C.A. RON SANTA TERESA (CLASE B)||36000|
+CC|C.A. TELARES DE PALO GRANDE|360|419|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)||9000|
+CC|CERAMICA CARABOBO, SACA|360050|450000|
+CC|CORIMON, C.A.|5800|6598|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|1881|2257.19|
+CC|CORP.GRUPO QUIMICO, C.A.||65999|
+CC|DOMINGUEZ & CIA., S.A.|26400|33700|
+CC|ENVASES VENEZOLANOS S.A.|12800|18400|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)||940|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|408|510|
+CC|GRUPO ZULIANO, C.A.||40000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|30400|39999|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.||5599|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|130000|300000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|128000||
+CC|PROAGRO C.A.|1160|1448.99|
+CC|PRODUCTOS EFE S.A.||2881|
+CC|PROTINAL C.A.||2900|
+CC|SIVENSA, S.A||12989|
+NO|NETUNO, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de NETUNO, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie VI, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora NETUNO, C.A., e inscrita en el Registro Nacional de Valores, según Providencia Nro. 086 de fecha 29/07/2019.<BR><BR>La sesión especial para la Serie VI, de la Emisión 2019-I, por el monto de Bs. 1.029.000.000,00, de Papeles Comerciales al Portador, es partir del 17 de marzo de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 086 de fecha 29/07/2019<BR>Emisor	NETUNO, C.A.<BR>Emisión 	2019-I<BR>Series a colocar		Serie VI.<BR>Monto de Emisión. 	Bs.  6.000.000.000,00.<BR>Monto por serie 	Bs.  1.029.000.000,00.<BR>Códigos  ISIN	VEV00354WKA1<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	NU916P<BR><BR>Fecha de Inicio de Sesión Especial 	17/03/2020<BR>Fecha de vencimiento de la serie	15/06/2020<BR>Agentes de la Colocación 	MERCOSUR Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	83,62%<BR>Base de cálculo 	Actual/360<BR>Calificación de Riesgo	Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m a 1:00 p.m. <BR>|

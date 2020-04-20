@@ -1,0 +1,67 @@
+IG|31032020|105615.79|4420.85|4.37|129541.1|8249.07|53382.11|102.2|
+IF|31032020|181346.41|7307.49|4.2|
+II|31032020|50156.57|2359.52|4.94|
+R|B.OCC.DCTO.B.U.|BOU|23.9|23.9|0|0|23.91|23.91|23.91|2|684|16354.44||2|
+R|BCO. CARIBE "A"|ABC.A|45000|45500|500|1.11|45500|45500|45500|1|5|227500||1|
+R|BCO. PROVINCIAL|BPV|155000|155000|0|0|141001|157000|153542.34|8|225|34547027||2|
+R|BCO.NAC.CREDITO|BNC|615.01|640|24.99|4.06|620|640|622.33|4|8595|5348900||1|
+R|BOLSA V. CCAS.($)|BVCC|20500|20495|-5|-.02|20000|20500|20070.29|15|5908|118613317||3|
+R|CANTV CLASE (D)|TDV.D|9000|9000|0|0|9000|9200|9000.65|3|310|2790200||2|
+R|CORIMON C.A.|CRM.A|5650|6100|450|7.96|6100|6100|6100|1|10|61000||1|
+R|CORP.GPO.QUIM.|CGQ|54500|65399|10899|20|65399|65399|65399|1|12|784788||1|
+R|CORP.IND.ENERGIA|CIE|2300|2599.99|299.99|13.04|2599.99|2599.99|2599.99|1|45|116999.55||1|
+R|DOMINGUEZ & CIA|DOM|30000|31000|1000|3.33|31000|31000|31000|1|10|310000||1|
+R|ENVASES VZLOS.|ENV|15000|15000|0|0|15000|15500|15100|3|475|7137500||2|
+R|FAB.N.CEMENTOS|FNC|20200|24239|4039|20|24239|24239|24239|1|13|315107||1|
+R|FONDO V.INM.(A)|FVI.A|620|701|81|13.06|701|701|701|1|101|70801||1|
+R|FONDO V.INM.(B)|FVI.B|527.5|560|32.5|6.16|530|560|550.09|14|63045|34680430||1|
+R|GRUPO ZULIANO|GZL|45000|52000|7000|15.56|52000|52000|52000|1|7|364000||1|
+R|MANPA, C.A. SACA|MPA|5500|5700|200|3.64|5500|5700|5625.07|8|16049|90276700||1|
+R|MERCANTIL S.(A)|MVZ.A|143000|150000|7000|4.9|150000|150000|150000|2|175|27250000||1|
+R|MERCANTIL S.(B)|MVZ.B|130010|155000|24990|19.22|155000|155000|155000|9|283|43865000||1|
+R|PROAGRO|PGR|1449|1449|0|0|1449|1450|1449.01|2|251299|364133550||2|
+R|PRODUCTOS EFE|EFE|1800|1800|0|0|1800|1800|1800|3|2000|3600000||2|
+R|R.S.TERESA "B"|RST.B|27000|27000|0|0|27000|27000|27000|2|33|891000||2|
+R|RON STA. TERESA|RST|36500|38999|2499|6.85|38000|39000|38567.31|6|74|2853981||1|
+R|SIVENSA, S.A.|SVS|12479|12750|271|2.17|12478|12750|12708.15|2|910|11564420||1|
+R|T. PALO GRANDE|TPG|270|270|0|0|270|270|270|3|5165|1394550||2|
+P|BOLSA V. CCAS.|BVCC||20495|||20000|20500|20070.29|1|3692|75689692||
+P|ENVASES VZLOS.|ENV||15000|||15000|15500|15100|1|300|4500000||
+VT|15|1|8|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)PN914P-Colocación Primaria. Purina|
+BP|PC CARGILL 19-3P|CV923P|84.84|86.59|1.75|2.06|86.59|86.59||1|3000000|2597700||
+BP|PC PURINA 19-4 P|PN914P|86.59|86.59|0|0|86.59|86.59||1|300000|259770||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2100|2975|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|40000|47000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|660|674.95|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|160000|170000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|23.1|23.9|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|19500|20499|
+CC|C.A. RON SANTA TERESA|36800|39000|
+CC|C.A. RON SANTA TERESA (CLASE B)|25250|27000|
+CC|C.A. TELARES DE PALO GRANDE|270|323|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|9000|9200|
+CC|CERAMICA CARABOBO, SACA|361000|450000|
+CC|CORIMON, C.A.|6000|6121|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|1850|3300|
+CC|CORP.GRUPO QUIMICO, C.A.||65399|
+CC|DOMINGUEZ & CIA., S.A.|26000|31000|
+CC|ENVASES VENEZOLANOS S.A.|14500|15400|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||24239|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|651||
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|552|587|
+CC|GRUPO ZULIANO, C.A.||52000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|34005|38000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4403|5700|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|160000|170000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|150000|170000|
+CC|PROAGRO C.A.|1161|1449|
+CC|PRODUCTOS EFE S.A.|1800|2169|
+CC|PROTINAL C.A.|2401|3474|
+CC|SIVENSA, S.A|12200|12750|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|PASTEURIZADORA TACHIRA, C.A. VENEZUELA<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL VENEZUELA, a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL CARACAS, e inscrita en el Registro Nacional de Valores según Providencia Nro 029/2020 de fecha 04/03/2020.<BR><BR>La sesión especial para la Serie I, de la Emisión 2019-I, por el monto de Bs. 7.500.000.000,00, de Papeles Comerciales al Portador, es a partir del 03 de abril de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 029/2020 de fecha 04/03/2020<BR>Emisor	PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL VENEZUELA.<BR>Emisión 	2019-I<BR>Series a colocar		Serie I.<BR>Monto de Emisión. 	Bs.  7.500.000.000,00.<BR>Monto por serie 	Bs.  7.500.000.000,00.<BR>Códigos  ISIN	VEV00372WKC9<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	PT911P<BR>Fecha de Inicio de Sesión Especial 	03/04/2020<BR>Fecha de Vencimiento de la Serie.	03/07/2020<BR>Agentes de la Colocación 	FIVENCA Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	84,35%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 12:00 p.m<BR>|
+NO||ALIMENTOS DIFRESCA, C.A.<BR><BR>COMUNICADO<BR><BR>En Alimentos Difresca, CA estamos muy agradecidos por la confianza que han puesto en nosotros quienes han invertido en nuestras diferentes emisiones de Bonos.<BR><BR>En estos momentos de crisis mundial queremos ratificar nuestro compromiso con cada uno de ustedes.<BR><BR>Este comunicado tiene un unico fin, garantizar el cumplimiento de los Terminos y Condiciones establecidos en cada una de las Emisiones debidamente aprobadas por la Superintendencia Nacional de Valores (SUNAVAL) y que se tienen en proceso de circulacion dentro de los montos y plazos autorizados, continuamos cumpliendo a cabalidad nuestras obligaciones laborales, comerciales, regulatorias y financieras.<BR><BR>Lic Alexander Perez<BR>Gerente de Finanzas<BR>|
+NO|NETUNO, C.A.|NETUNO, C.A.<BR><BR>COMUNICADO<BR><BR>En NetUno, CA estamos muy agradecidos por la confianza que han puesto en nosotros quienes han invertido en nuestras diferentes emisiones de Bonos.<BR><BR>En estos momentos de crisis mundial queremos ratificar nuestro compromiso con cada uno de ustedes.<BR><BR>Este comunicado tiene un unico fin, garantizar el cumplimiento de los Terminos y Condiciones establecidos en cada una de las Emisiones debidamente aprobadas por la Superintendencia Nacional de Valores (SUNAVAL)y que se tienen en proceso de circulacion dentro de los montos y plazos autorizados, continuamos cumpliendo a cabalidad nuestras obligaciones laborales, comerciales, regulatorias y financieras<BR>|

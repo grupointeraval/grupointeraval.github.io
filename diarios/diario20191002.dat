@@ -1,0 +1,61 @@
+IG|02102019|47532.78|-1168.46|-2.4|62004.3|347.92|-4700.9|-9|
+IF|02102019|85028.23|-1944.43|-2.24|
+II|02102019|19438.13|-611.37|-3.05|
+R|B.DE VENEZUELA|BVL|900|900|0|0|900|900|900|2|182|163800||2|
+R|B.OCC.DCTO.B.U.|BOU|7.7|7.99|.29|3.77|7|8|7.05|9|285540|2012177.63||1|
+R|BCO. CARIBE "A"(&)|ABC.A|19998|20620|622|3.11|20620|20707|20621.74|2|50|1031087||1|
+R|BCO. PROVINCIAL|BPV|79480|75000|-4480|-5.64|72000|79000|75150.15|15|683|51327550||3|
+R|BCO.NAC.CREDITO|BNC|350|344|-6|-1.71|335|350|339.38|34|356738|121255992||3|
+R|BOLSA V. CCAS.($)|BVCC|6500|6500|0|0|6500|6500|6500|18|19902|125279850||2|
+R|CANTV CLASE (D)|TDV.D|4000|4000|0|0|4000|4700|4001.02|9|4209|16900200||2|
+R|CORIMON C.A.|CRM.A|3690|3000|-690|-18.7|3000|3650|3045.35|3|215|654750||3|
+R|CORP.GPO.QUIM.|CGQ|7011|8412|1401|19.98|8200|8412|8306|2|14|116284||1|
+R|CORP.IND.ENERGIA|CIE|799|760|-39|-4.88|760|770|766.15|2|260|199200||3|
+R|DOMINGUEZ & CIA|DOM|12900|12800|-100|-.78|12800|12800|12800|5|4006|51276800||3|
+R|ENVASES VZLOS.|ENV|7000|6500|-500|-7.14|6500|7000|6893.75|4|32|220600||3|
+R|FONDO V.INM.(A)|FVI.A|320|320|0|0|320|320|320|1|50|16000||2|
+R|FONDO V.INM.(B)|FVI.B|225|230|5|2.22|220|230|228.7|25|569429|130129180||1|
+R|MANPA, C.A. SACA|MPA|1900|1900|0|0|1900|1900|1900|2|217|412300||2|
+R|MERCANTIL S.(A)|MVZ.A|70000|70000|0|0|70000|71000|70003.93|10|764|53483000||2|
+R|MERCANTIL S.(B)|MVZ.B|70000|70000|0|0|70000|70000.1|70000.06|6|869|60830050||2|
+R|PROAGRO|PGR|820|820|0|0|789|789|789|1|20|15780||2|
+R|PRODUCTOS EFE|EFE|1400|1400|0|0|1600|1600|1600|1|2|3200||2|
+R|RON STA. TERESA|RST|13890|13880|-10|-.07|13880|14000|13895.76|14|205|2848630||3|
+R|T. PALO GRANDE|TPG|130|130|0|0|130|132|131.9|2|210|27700||2|
+P|BOLSA V. CCAS.|BVCC||||0|6500|6500|6500|1|15000|82500000||
+P|GRUPO ZULIANO|GZL||13000|||0|0|0|1|3430|44247000||
+P|MERCANTIL S.(A)|MVZ.A||70000|||70000|71000|70003.93|1|11|781000||
+VT|4|7|10|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)ABC.A-Dividendo en Efectivo de Bs 2,00 por acción en tenencia, FLTB 27/09/2019 y FERB 04/10/2019|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|731|900|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|20000|22500|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|335|344|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|72000|78850|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|7.75|7.99|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6500|6550|
+CC|C.A. RON SANTA TERESA|11350|13500|
+CC|C.A. TELARES DE PALO GRANDE|101|129|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|3801|4000|
+CC|CERAMICA CARABOBO, SACA||105000|
+CC|CORIMON, C.A.|3000|3500|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||760|
+CC|CORP.GRUPO QUIMICO, C.A.|6251||
+CC|DOMINGUEZ & CIA., S.A.|12800|12900|
+CC|ENVASES VENEZOLANOS S.A.|6001|6950|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6002|8799.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|261|320|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|220|230|
+CC|GRUPO ZULIANO, C.A.|10400|12900|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|11201|24000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1750|1900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|70000|72000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|70000||
+CC|PROAGRO C.A.|751|761|
+CC|PRODUCTOS EFE S.A.||1600|
+CC|PROTINAL C.A.|801|1000|
+CC|SIVENSA, S.A|3361|4500|
+NO|BANCO PROVINCIAL, S.A., BANCO UNIVERSAL|RESULTADO ASAMBLEA DE ACCIONISTAS<BR>  BANCO PROVINCIAL, S.A., BANCO UNIVERSAL<BR><BR>La Asamblea General Ordinaria de Accionistas del BANCO PROVINCIAL, S.A., BANCO UNIVERSAL, celebrada en esta ciudad de Caracas el día 26 de septiembre de 2019, previa convocatoria de conformidad con la ley, que en la reunión se encontraban presentes o representadas más del Ochenta y tres por ciento (83%) de las acciones que forman el capital social del Banco, se adoptaron las siguientes decisiones <BR><BR>Primero.  Se aprobó el Informe del Consejo de Administración sobre las actividades realizadas por el Banco Provincial, S.A., Banco universal, durante el primer semestre del año 2019, el Balance General y el Estado de Resultados, todo ello con vista del dictamen de los Auditores Externos, del Informe de los Comisarios y del Informe del Auditor Interno.<BR><BR>Segundo.  Se aprobó la propuesta presentada por el Consejo de Administración de mantener en el patrimonio del Banco, en la cuenta Superávit por Aplicar, el monto correspondiente a la utilidad neta y disponible obtenida por la institución en el primer semestre del año 2019, la cantidad de Bs. 49.802.454.559, a fin de reforzar la estructura patrimonial del Banco Provincial y asegurar de ese modo el cumplir, como hasta ahora, con el índice de adecuación patrimonial y con los indicadores de liquidez y solvencia contable fijados por la Superintendencia de las Instituciones del Sector Bancario <BR><BR>Tercero.  Se aprobaron los honorarios de los Comisarios Principales y Suplentes correspondientes al primer semestre de 2019.<BR><BR>José Agustín Antón Burgos<BR>Presidente Ejecutivo.<BR>Banco Provincial, SA, Banco Universal <BR>Caracas, 30 de septiembre de 2019<BR>|
+NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|RESULTADO ASAMBLEA DE ACCIONISTAS<BR> BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.<BR><BR>La Asamblea General Ordinaria de Accionistas del BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A., celebrada en esta ciudad de Caracas el día Veintiséis (26) de septiembre de 2019, previa convocatoria de conformidad con la ley, que en la reunión se encontraban presentes o representadas más del Ochenta y seis por ciento (86,26%) de las acciones que forman el capital social del Banco, se adoptaron las siguientes decisiones<BR> <BR>Primero. Se aprobó por unanimidad el informe que presenta la Junta Directiva, el balance general, estado de resultados y demás estados financieros auditados y dictaminados por contadores públicos independientes K.P.M.G. Ostos, Velásquez & Asociados, con vista del informe de los comisarios correspondientes al primer semestre de 2019.<BR><BR>Segundo.  Se aprobó la propuesta de la Junta Directiva, que la Utilidad líquida disponible del ejercicio de Once Mil Trescientos Ocho Millones Ochocientos Sesenta y Ocho Mil Veintidós Bolívares con Sesenta y Un Céntimos (11.308.868.022,61 Bs.), sea distribuida de la siguiente manera a) El cincuenta por ciento (50%), equivalente a la cantidad de Bs 5.654.434.011,31., a la cuenta Superávit Restringido y el b) El cincuenta por ciento (50%) restante, es decir,  Bs 5.654.434.011,31., a la cuenta Superávit Por Aplicar.<BR>Tercero. Se aprobó el nombramiento de los Comisarios Principales y sus suplentes, para el período 2019-2021. <BR><BR>Cuarto. ¿ Se ratificó al ciudadano José Alberto Hernández como Defensor del Cliente y Usuario Bancario para el período 2019-2021.<BR>Caracas, 02 de octubre de 2019<BR> Banco Occidental de Descuento, Banco Universal, C.A.<BR>Abg. Nairelys Atencio<BR>Gerente Legal-Gerencia de Atención al Accionista.<BR>|

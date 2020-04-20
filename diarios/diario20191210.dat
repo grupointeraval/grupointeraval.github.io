@@ -1,0 +1,61 @@
+IG|10122019|66208.62|-1374.31|-2.03|71167.77|745.22|13974.94|26.75|
+IF|10122019|119238.66|-2500.61|-2.05|
+II|10122019|26341.52|-523.33|-1.95|
+R|B.DE VENEZUELA|BVL|1012|1012|0|0|1195|1195|1195|2|10|11950||2|
+R|B.OCC.DCTO.B.U.|BOU|12|12|0|0|11.99|12|12|8|137434|1649207.56||2|
+R|BCO. CARIBE "A"|ABC.A|27500|28999|1499|5.45|28200|28999|28364.87|2|63|1786987||1|
+R|BCO. PROVINCIAL|BPV|100000|95000|-5000|-5|95000|100000|99309.56|16|659|65445000||3|
+R|BCO.NAC.CREDITO|BNC|400|400|0|0|385|405|399.95|27|731642|292651374||2|
+R|BOLSA V. CCAS.($)|BVCC|8400|7600|-800|-9.52|7600|8400|7991.68|10|3088|24678300||3|
+R|CANTV CLASE (D)|TDV.D|6700|6700|0|0|6700|7000|6958.32|4|150|1043747.5||2|
+R|CORIMON C.A.|CRM.A|3150|3150|0|0|3150|3150|3150|3|100|315000||2|
+R|CORP.IND.ENERGIA|CIE|450|450|0|0|450|450|450|3|364|163800||2|
+R|DOMINGUEZ & CIA|DOM|15999.95|15999|-.95|-.01|15999|15999.95|15999.88|5|1078|16747990.4||3|
+R|ENVASES VZLOS.|ENV|9800|9799|-1|-.01|9799|9800|9799.98|2|1020|9995980||3|
+R|FAB.N.CEMENTOS|FNC|12000|11900|-100|-.83|10800|11900|10807.8|2|282|3047800||3|
+R|FONDO V.INM.(A)|FVI.A|495|450|-45|-9.09|450|495|455.6|5|1945|886150||3|
+R|FONDO V.INM.(B)|FVI.B|295|285|-10|-3.39|285|295|288.6|43|300662|87157561||3|
+R|GRUPO ZULIANO|GZL|18500|18000|-500|-2.7|18000|18000|18000|1|35|630000||3|
+R|MERCANTIL S.(A)|MVZ.A|116000|114000|-2000|-1.72|114000|114000|114000|1|15|1710000||3|
+R|MERCANTIL S.(B)|MVZ.B|114000|114000|0|0|114000|114000|114000|2|22|2508000||2|
+R|PROAGRO|PGR|819|819|0|0|819|819|819|3|997|816543||2|
+R|PRODUCTOS EFE|EFE|1900|1950|50|2.63|1950|2198|1977.56|3|27|53394||1|
+R|RON STA. TERESA|RST|17998|17700|-298|-1.66|17000|17800|17549.96|16|1268|22382296.2||3|
+R|SIVENSA, S.A.|SVS|8549|7980|-569|-6.66|7980|8000|7995.04|2|113|903440||3|
+R|T. PALO GRANDE|TPG|192|213|21|10.94|213|213|213|4|2268|483084||1|
+P|BOLSA V. CCAS.|BVCC||7600|||7600|8400|7991.68|2|5860|46180000||
+P|FONDO V.INM.(B)|FVI.B||285|||285|295|288.6|1|100|29500||
+VT|3|11|8|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1013|1195|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|27502|28999|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|380|400|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|91000|95000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|11.02|11.99|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|7500|7600|
+CC|C.A. RON SANTA TERESA|17000|17700|
+CC|C.A. TELARES DE PALO GRANDE|192|213|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|6000|6700|
+CC|CERAMICA CARABOBO, SACA|100000||
+CC|CORIMON, C.A.|3150|3685|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|401.03|450|
+CC|CORP.GRUPO QUIMICO, C.A.|19200|28798|
+CC|DOMINGUEZ & CIA., S.A.|15000|15999|
+CC|ENVASES VENEZOLANOS S.A.|8550|9799|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|9600|11950|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|420|450|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|280|285|
+CC|GRUPO ZULIANO, C.A.||18000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|23000|26500|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|2300|2600|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|100000|114000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|100000|114000|
+CC|PROAGRO C.A.|800|819.98|
+CC|PRODUCTOS EFE S.A.|1950|2198|
+CC|PROTINAL C.A.|1000|1499|
+CC|SIVENSA, S.A|7500|7980|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales de MOORE DE VENEZUELA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie II, de la Emisión 2019-I de Papeles Comerciales, emitidos por la Empresa Emisora MOORE DE VENEZUELA, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro 103 de fecha 19/09/2019.  <BR><BR>La sesión especial para la Serie II, por un monto de Bs. 570.000.000,00, de la Emisión 2019-I, de Papeles Comerciales, sería a partir del 11 de diciembre de 2019.<BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 103 de fecha 19/09/2019<BR>Emisor	MOORE DE VENEZUELA, C.A.<BR>Emisión 	2019-I.<BR>Series a colocar	De la Serie II.<BR>Monto de Emisión. 	Bs.  1.250.000.000,00<BR>Monto por serie 	Bs.  570.000.000,00<BR>Códigos  ISIN	Serie II  	VEV00379WIV8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie II  	MR912P		<BR>Fecha de Inicio de Sesión Especial 	11/12/2019<BR>Fecha de Vencimiento de la Serie	10/03/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, S.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	86,9963%<BR>Base de cálculo 	Actual/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo, Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m  a  1:00 p.m. <BR>|
+NO|NETUNO, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de NETUNO, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR>Los títulos a ser colocados son los correspondientes a la Serie III, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora NETUNO, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 086/2019 de fecha 29/07/2019.<BR><BR>La sesión especial para la Serie III, de la Emisión 2019-I, por el monto de Bs. 2.664.000.000,00, de Papeles Comerciales al Portador, sería a partir del 11 de diciembre de 2019.<BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 086/2019 de fecha 29/07/2019<BR>Emisor	NETUNO, C.A.<BR>Emisión 	2019-I<BR>Series a colocar	Serie III.<BR>Monto de Emisión. 	Bs.  6.000.000.000,00.<BR>Monto por serie 	Bs.  2.664.000.000,00.<BR>Códigos  ISIN	Serie III         VEV00354WIW9<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie III         NU913P<BR>Fecha de Inicio de Sesión Especial 	11/12/2019<BR>Fecha de vencimiento de la Emisión 	10/03/2020<BR>Agentes de la Colocación 	MERCOSUR Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	87,00%<BR>Base de cálculo 	REAL/360<BR>Calificación de Riesgo	Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m. <BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|

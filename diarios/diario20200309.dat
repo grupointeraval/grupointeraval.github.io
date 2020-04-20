@@ -1,0 +1,63 @@
+IG|09032020|103906.3|-4290.53|-3.97|129541.1|8194.59|51672.62|98.93|
+IF|09032020|177825.58|-8362.59|-4.49|
+II|09032020|49882.34|-1123.53|-2.2|
+R|B.DE VENEZUELA|BVL|2295|2100|-195|-8.5|2100|2100|2100|2|620|1302000||3|
+R|B.OCC.DCTO.B.U.|BOU|23.96|23.9|-.06|-.25|23.9|23.94|23.93|7|49189|1177228.62||3|
+R|BCO. PROVINCIAL|BPV|150000|149499.99|-500.01|-.33|148000|149500|148771.84|7|103|15323499.56||3|
+R|BCO.NAC.CREDITO|BNC|644|635|-9|-1.4|605|645|641.45|10|7455|4781743||3|
+R|BOLSA V. CCAS.($)|BVCC|17390|17199|-191|-1.1|17000|17390|17136.69|17|1579|27099166||3|
+R|CANTV CLASE (D)|TDV.D|8999|8999|0|0|8999|8999|8999|1|20|179980||2|
+R|CORIMON C.A.|CRM.A|6000|6000|0|0|5100|6500|5607.62|9|956|5380500||2|
+R|CORP.GPO.QUIM.|CGQ|46000|46000|0|0|46000|46000|46000|1|25|1150000||2|
+R|CORP.IND.ENERGIA|CIE|3099|3050|-49|-1.58|3050|3050|3050|1|100|305000||3|
+R|CR.CARABOBO|CCR|450000|450000|0|0|450000|450000|450000|1|10|4500000||2|
+R|DOMINGUEZ & CIA|DOM|33000|33000|0|0|33000|33000|33000|5|12003|396099000||2|
+R|ENVASES VZLOS.|ENV|17000|16000|-1000|-5.88|16000|17000|16507.83|16|12391|204548530||3|
+R|FONDO V.INM.(A)|FVI.A|700|700|0|0|700|700|700|4|1301|910700||2|
+R|FONDO V.INM.(B)|FVI.B|558|500|-58|-10.39|500|560|554.55|23|28836|15990928.3||3|
+R|INM.VAL.Y CAP.|IVC|37000|37000|0|0|37000|37000|37000|2|30|1110000||2|
+R|MANPA, C.A. SACA|MPA|4900|4900|0|0|4900|4900|4900|1|5|24500||2|
+R|MERCANTIL S.(A)|MVZ.A|180000|150000|-30000|-16.67|150000|168000|150675|10|182|27354000||3|
+R|MERCANTIL S.(B)|MVZ.B|162250|162000|-250|-.15|150000|162300|150909.88|15|2935|442920485||3|
+R|PROAGRO|PGR|1215|1215|0|0|1215|1215|1215|4|3312|4024080||2|
+R|R.S.TERESA "B"|RST.B|29000|30000|1000|3.45|30000|30000|30000|2|9|270000||1|
+R|RON STA. TERESA|RST|39000|39015|15|.04|39000|39300|39008|22|3045|118779367.7||1|
+R|SIVENSA, S.A.|SVS|13400|13299|-101|-.75|13299|13299|13299|1|100|1329900||3|
+R|T. PALO GRANDE|TPG|450|400|-50|-11.11|400|450|402.43|4|2468|993200||3|
+P|BOLSA V. CCAS.|BVCC||17199|||17000|17390|17136.69|10|203374|4097963769.35||
+P|MERCANTIL S.(A)|MVZ.A||150000|||150000|168000|150675|1|300|52500000||
+P|R.S.TERESA "B"|RST.B||30000|||30000|30000|30000|1|262|7342798.9||
+VT|2|12|9|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2261|2296|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|40000|47479|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|610|635|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|145100|149499.99|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|20|23.9|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|17000|17199|
+CC|C.A. RON SANTA TERESA|39015|39400|
+CC|C.A. RON SANTA TERESA (CLASE B)|25000|30000|
+CC|C.A. TELARES DE PALO GRANDE||400|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8000|8995|
+CC|CERAMICA CARABOBO, SACA|360001|450000|
+CC|CORIMON, C.A.|6000|6500|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||3020|
+CC|CORP.GRUPO QUIMICO, C.A.|46000|54000|
+CC|DOMINGUEZ & CIA., S.A.|26401|33000|
+CC|ENVASES VENEZOLANOS S.A.|13601|16000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||20399|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|701|839.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|505|554.95|
+CC|GRUPO ZULIANO, C.A.||49990|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|30000|38700|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4000|4900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|150001|180000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|151000|162000|
+CC|PROAGRO C.A.|1251|1457.98|
+CC|PRODUCTOS EFE S.A.|2401|3399|
+CC|PROTINAL C.A.||3400|
+CC|SIVENSA, S.A|11001|13100|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|        CONVOCATORIA ASAMBLEA ORDINARIA DE ACCIONISTAS<BR>                 BOLSA DE VALORES DE CARACAS, C.A<BR><BR>Se convoca a los señores accionistas para la Asamblea Ordinaria, a celebrarse en la sede de la compañía, ubicada en el Edificio Atrium, avenida Sorocaima, urbanización El Rosal, Salón de Inversionistas, Planta Baja, el día 26 de marzo de 2020, a las 2:30 p.m., con el siguiente objeto:<BR><BR>1. Discutir, aprobar o modificar el balance y cuentas que presenta en su informe la Junta Directiva, con vista al informe de los comisarios y de los auditores externos, del ejercicio terminado el 31 de diciembre de 2019.<BR>2. Considerar y resolver, acerca del destino de la utilidad neta obtenida en el ejercicio que finalizó el 31 de diciembre de 2019 y sobre la propuesta de aumento de capital que presenta la Junta Directiva.<BR>3. Considerar y resolver sobre la propuesta de modificación estatutaria de la sociedad y de refundir en un solo texto las modificaciones acordadas.<BR>4. Autorizar a la Junta Directiva para realizar los actos materiales y jurídicos necesarios para ejecutar las decisiones tomadas por la asamblea.<BR><BR>GUSTAVO PULIDO MEDINA<BR>Presidente<BR>Caracas, 09 de marzo de 2020	<BR><BR>Nota: La documentación a ser considerada en la Asamblea, estará a disposición de los señores accionistas durante los quince (15) días precedentes a la fecha de celebración de la Asamblea en el departamento de Gestión de Accionistas de la Bolsa de Valores de Caracas, C.A., Email: gestión.accionistas@bolsadecaracas.com <BR>|
+NO|C.A. RON SANTA TERESA,|A continuación, se informa la inscripción en pizarra de las acciones en circulación de la sociedad emisora CA Ron Santa Teresa Clase B, mediante la emisión de 738.437 de nuevas acciones Clase B, concluido el proceso de la colocación primaria de la segunda ronda el 06/03/2020.<BR><BR>Esta colocación Primaria fue acordada en la Asamblea General Extraordinaria de Accionistas celebrada el 16/11/2018, aprobado por la Superintendencia Nacional de Valores (SNV), bajo la Providencia Nro.  DSNV/01504 131-2019 de fecha 14/11/2019.<BR><BR>Símbolo			RST.B<BR>	<BR>Nro. de Acciones en Circulación hoy          1.009.250	<BR>Nuevas Acciones Emitidas                              738.437 	<BR>Total Nro. de Acciones en Circulación         1.747.687<BR>|

@@ -1,0 +1,59 @@
+IG|13012020|123483.57|4240.61|3.56|123483.57|4640.24|71249.89|136.41|
+IF|13012020|225093.45|8609.59|3.98|
+II|13012020|46645.24|794.43|1.73|
+R|B.DE VENEZUELA|BVL|1715|2056|341|19.88|2056|2056|2056|1|110|226160||1|
+R|B.OCC.DCTO.B.U.|BOU|18|19.99|1.99|11.06|19.25|19.99|19.95|5|176940|3529364.6||1|
+R|BCO. CARIBE "A"|ABC.A|41000|41000|0|0|41000|41000|41000|2|13|533000||2|
+R|BCO. PROVINCIAL|BPV|195000|200000|5000|2.56|195000|205000|197917.93|11|329|65115000||1|
+R|BCO.NAC.CREDITO|BNC|680|729.99|49.99|7.35|700|729.99|700.38|24|157386|110215187||1|
+R|BOLSA V. CCAS.($)|BVCC|18000|18110|110|.61|18110|20000|18593|19|2013|37449477||1|
+R|CANTV CLASE (D)|TDV.D|9000|10300|1300|14.44|10000|10500|10251.96|7|1790|18351000||1|
+R|DOMINGUEZ & CIA|DOM|31000|32099|1099|3.55|31000|32150|31333.54|7|5219|163529741||1|
+R|ENVASES VZLOS.|ENV|16000|16000|0|0|15500|16000|15979.17|7|240|3835000||2|
+R|FONDO V.INM.(A)|FVI.A|730|730|0|0|780|780|780|1|10|7800||2|
+R|FONDO V.INM.(B)|FVI.B|485|525|40|8.25|485|549.95|518.14|26|82542|42768073.72||1|
+R|GRUPO ZULIANO|GZL|37400|44879.99|7479.99|20|44879.99|44879.99|44879.99|1|2|89759.98||1|
+R|MERCANTIL S.(A)|MVZ.A|190000|205000|15000|7.89|200000|205000|201103.65|45|521|104775001.02||1|
+R|MERCANTIL S.(B)|MVZ.B|200000|205000|5000|2.5|200000.01|205000|203988.38|46|863|176045003.55||1|
+R|PROAGRO|PGR|1200|1200|0|0|1199|1200|1199.99|5|20300|24359700||2|
+R|PRODUCTOS EFE|EFE|2000|2399.01|399.01|19.95|2399.01|2399.01|2399.01|1|50|119950.5||1|
+R|PROTINAL|PTN|2764.5|2300|-464.5|-16.8|2300|2300|2300|1|500|1150000||3|
+R|RON STA. TERESA|RST|33900|33889|-11|-.03|33889|33889|33889|8|558|18910062||3|
+R|SIVENSA, S.A.|SVS|13000|13000|0|0|11500|15500|11818.18|5|132|1560000||2|
+P|BOLSA V. CCAS.|BVCC||18110|||18110|20000|18593|4|10442|177514000||
+P|CORIMON C.A.|CRM.A||5200|||0|0|0|1|15|78000||
+P|FONDO V.INM.(B)|FVI.B||525|||485|549.95|518.14|3|4340|1933980||
+P|RON STA. TERESA|RST||33889|||33889|33889|33889|1|2662|90212518||
+VT|12|2|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1830|2056|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|35000|41000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|729.99|730|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|200000|219000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|19.25|19.98|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|18110|19450|
+CC|C.A. RON SANTA TERESA||33889|
+CC|C.A. TELARES DE PALO GRANDE|268.01|400|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|10300||
+CC|CERAMICA CARABOBO, SACA|100000||
+CC|CORIMON, C.A.|5200|6700|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||1447.1|
+CC|CORP.GRUPO QUIMICO, C.A.|18205|25800|
+CC|DOMINGUEZ & CIA., S.A.|25000|32099|
+CC|ENVASES VENEZOLANOS S.A.|13000|16200|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|11424.01|17000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|700|849|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|485|525|
+CC|GRUPO ZULIANO, C.A.|34000|40000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|38000|40000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|3800|4799.97|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|205000|220000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|205000|218000|
+CC|PROAGRO C.A.|1001|1350|
+CC|PRODUCTOS EFE S.A.|2399.01||
+CC|PROTINAL C.A.|2300|2765|
+CC|SIVENSA, S.A|12000|15500|
+NO|C.A. NACIONAL TELEFONOS DE VENEZUELA|CONVOCATORIA                                      <BR> C.A. NACIONAL TELÉFONOS DE VENEZUELA (CANTV)<BR><BR>De conformidad con lo dispuesto en los Artículos 8 y 9 de los Estatutos Sociales de la Compañía Anónima Nacional Teléfonos de Venezuela (CANTV), se convoca a los Accionistas de esta Compañía a la Asamblea Extraordinaria de Accionistas de CANTV que se celebrará el día viernes 24 de enero de 2020, a las 9:00 a.m., en el Teatro CANTV, Planta Baja, Edificio NEA, Avenida Libertador, Caracas. Será tratado como punto único:<BR><BR>1.- Nombramiento de la Junta Directiva.<BR><BR>Nota:<BR>    El Accionista que no pueda o no desee asistir personalmente a la mencionada Asamblea, podrá hacerse representar por Carta-Poder, mediante la cual designe a la persona que lo representará en la Asamblea de Accionistas. El modelo de esta Carta-Poder estará a la disposición del interesado/a en la oficina de la Secretaría de la Junta Directiva. Una vez otorgada, deberá ser consignada ante la misma oficina y con no menos de cuarenta y ocho (48) con cuarenta y ocho (48) horas de anticipación a la celebración de la Asamblea.<BR><BR>Caracas, 09 de enero de 2020<BR>La Junta Directiva<BR>|
+NO|C.A. RON SANTA TERESA,|AVISO DE PAGO DE DIVIDENDO EN EFECTIVO<BR>C.A. RON SANTA TERESA,<BR><BR>Se informa a los Accionistas de la C.A. Ron Santa Teresa, que la Junta Directiva ha designado a la CAJA VENEZOLANA DE VALORES, S.A., como agente pagador del dividendo en Efectivo aprobado por la Asamblea General Ordinaria de Accionistas celebrada el pasado día Veintiocho (28) de octubre de 2019, por un monto de Quinientos Setenta y Un Mil Doscientos Ochenta y Cinco Dólares de los Estados Unidos de América ($571.285), a razón de $ 0,002 en dinero en efectivo por cada acción en circulación suscrita y pagada ($0,002/1 acción)  (Dividendo en Dinero Efectivo), los cuales serán pagaderos únicamente en Bolivares, calculados a la tasa de cambio vigente proveniente de las operaciones de las mesas de cambio autorizadas por el Banco Central de Venezuela, vigente para la fecha de transacción con beneficio, siendo la <BR><BR>FECHA LIMITE DE TRANSACCION CON BENEFICIO: el dia 17 de febrero del 2020<BR>FECHA EFECTIVA DEL REGISTRO DEL BENEFICIO: el dia 28 de febrero del 2020<BR><BR>Todo conforme a la decisión aprobada por la Junta Directiva en delegación de la Asamblea General Extraordinaria de Accionistas celebrada en fecha 28 de octubre de 2019, debidamente notificada a la Superintendencia Nacional de Valores. De igual forma, según decisión aprobada por la Junta Directiva, se estableció como fechas de pago de este dividendo el día 28 de febrero de 2020.<BR><BR>En este sentido, a partir del dia 28 de febrero de 2020, los Accionistas pueden dirigirse a la sede de la CAJA VENEZOLANA DE VALORES, S.A., ubicada en la Avenida Sorocaima entre Ave. Venezuela y Avenida Tamanaco, Edificio Atrium, Piso 1 Urbanización el Rosal, Chacao, de la ciudad de Caracas DC, para cobrar el dividendo en dinero efectivo antes mencionado en las fechas antes indicadas.<BR><BR>Alberto C. Vollmer<BR>Presidente Ejecutivo<BR>|

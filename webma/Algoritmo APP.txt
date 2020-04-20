@@ -1,0 +1,53 @@
+data.frame(getSymbols("AAPL", auto.assign = FALSE))
+library(highcharter)
+library(quantmod)
+##############################################################
+
+VES=getSymbols("VES=X", src="yahoo", auto.assign=T) 
+    grafico_VES=highchart(type = "stock") %>%  
+    hc_yAxis_multiples(create_yaxis(2, height = c(3, 1), turnopposite = TRUE)) %>% 
+    hc_add_series(`VES=X`[,1:4], yAxis = 0) %>%  
+    hc_add_series(`VES=X`[,5], color = "gray", yAxis = 1, type = "column")  
+grafico_VES
+
+##############################################################
+IBC=getSymbols("IBC.CR", src="yahoo", auto.assign=T) 
+    grafico_IBC=highchart(type = "stock") %>%  
+    hc_yAxis_multiples(create_yaxis(2, height = c(3, 1), turnopposite = TRUE)) %>% 
+    hc_add_series(IBC[,1:4], yAxis = 0) %>%  
+    hc_add_series(IBC[,5], color = "gray", yAxis = 1, type = "column")  
+
+ABC=getSymbols("ABC-A.CR", src="yahoo", auto.assign=T) 
+
+    grafico_ABC=highchart(type = "stock") %>%  
+    hc_yAxis_multiples(create_yaxis(2, height = c(3, 1), turnopposite = TRUE)) %>% 
+    hc_add_series(`ABC-A.CR`[,1:4], yAxis = 0) %>%  
+    hc_add_series(`ABC-A.CR`[,5], color = "gray", yAxis = 1, type = "column")  
+
+BNC=getSymbols("BNC.CR", src="yahoo", auto.assign=T) 
+BOU=getSymbols("BOU.CR", src="yahoo", auto.assign=T) 
+BPV=getSymbols("BPV.CR", src="yahoo", auto.assign=T) 
+BVCC=getSymbols("BVCC.CR", src="yahoo", auto.assign=T) 
+BVL=getSymbols("BVL.CR", src="yahoo", auto.assign=T) 
+CCR=getSymbols("CCR.CR", src="yahoo", auto.assign=T) 
+CGQ=getSymbols("CGQ.CR", src="yahoo", auto.assign=T)
+CIE=getSymbols("CIE.CR", src="yahoo", auto.assign=T)
+CRMA=getSymbols("CRM-A.CR", src="yahoo", auto.assign=T)   
+DOM=getSymbols("DOM.CR", src="yahoo", auto.assign=T) 
+EFE=getSymbols("EFE.CR", src="yahoo", auto.assign=T) 
+ENV=getSymbols("ENV.CR", src="yahoo", auto.assign=T)
+FNC=getSymbols("FNC.CR", src="yahoo", auto.assign=T) 
+FVIA=getSymbols("FVI-A.CR", src="yahoo", auto.assign=T)
+FVIB=getSymbols("FVI-B.CR", src="yahoo", auto.assign=T)   
+GZL=getSymbols("GZL.CR", src="yahoo", auto.assign=T)
+IVC=getSymbols("IVC.CR", src="yahoo", auto.assign=T) 
+MPA=getSymbols("MPA.CR", src="yahoo", auto.assign=T)
+MVZA=getSymbols("MVZ-A.CR", src="yahoo", auto.assign=T)
+MVZB=getSymbols("MVZ-B.CR", src="yahoo", auto.assign=T)
+PGR=getSymbols("PGR.CR", src="yahoo", auto.assign=T)
+PTN=getSymbols("PTN.CR", src="yahoo", auto.assign=T)
+RST=getSymbols("RST.CR", src="yahoo", auto.assign=T)
+RSTB=getSymbols("RST-B.CR", src="yahoo", auto.assign=T)
+SVS=getSymbols("SVS.CR", src="yahoo", auto.assign=T)
+TDVD=getSymbols("TDV-D.CR", src="yahoo", auto.assign=T)
+TPG=getSymbols("TPG.CR", src="yahoo", auto.assign=T)           

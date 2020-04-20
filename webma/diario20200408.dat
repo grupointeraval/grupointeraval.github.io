@@ -1,0 +1,65 @@
+IG|08042020|191984.67|27630.25|16.81|191984.67|8494.06|139750.99|267.55|
+IF|08042020|346341.97|53529.06|18.28|
+II|08042020|75890.02|7567.98|11.08|
+R|B.DE VENEZUELA|BVL|2899.99|3420|520.01|17.93|2900|3420|3274.64|3|347|1136300||1|
+R|B.OCC.DCTO.B.U.|BOU|22.27|25|2.73|12.26|24|25|24.81|7|535703|13292575||1|
+R|BCO. PROVINCIAL|BPV|260000|320000|60000|23.08|270000|320000|300407.13|12|1838|551994000||1|
+R|BCO.NAC.CREDITO|BNC|870|950|80|9.2|908|950|925.26|33|220039|203592612||1|
+R|BOLSA V. CCAS.($)|BVCC|34800|36999.99|2199.99|6.32|34800|37000|35675.96|23|7366|261459199.3||1|
+R|CORIMON C.A.|CRM.A|6595|6600|5|.08|6600|6600|6600|8|6175|40755000||1|
+R|CORP.GPO.QUIM.|CGQ|75000|82500|7500|10|82500|82500|82500|2|40|3300000||1|
+R|CORP.IND.ENERGIA|CIE|2700|3240|540|20|3240|3240|3240|1|25|81000||1|
+R|DOMINGUEZ & CIA|DOM|49500|59000|9500|19.19|50000|59000|54628.85|8|6170|337060000||1|
+R|ENVASES VZLOS.|ENV|28100|33000|4900|17.44|29000|33000.01|31153.6|11|8828|275024000.01||1|
+R|FAB.N.CEMENTOS|FNC|29999.97|35999.95|5999.98|20|35999.95|35999.95|35999.95|1|108|3887994.6||1|
+R|FONDO V.INM.(A)|FVI.A|1075|1290|215|20|1290|1290|1290|1|321|414090||1|
+R|FONDO V.INM.(B)|FVI.B|690|780|90|13.04|690|780|740.03|14|175316|128357406||1|
+R|I.CRECEPYMES -B-|ICP.B|6900|12962|6062|87.86|9002|12962|11226.23|10|643|7218468||1|
+R|INM.VAL.Y CAP.|IVC|68999.99|82700|13700.01|19.86|82700|82700|82700|2|42|3473400||1|
+R|MANPA, C.A. SACA|MPA|6800|7400|600|8.82|7100|7400|7246.72|4|13700|99280000||1|
+R|MERCANTIL S.(A)|MVZ.A|245999|295180|49181|19.99|270000.01|295198|293756.78|6|176|51701194.1||1|
+R|MERCANTIL S.(B)|MVZ.B|260000|312000|52000|20|270000|312000|273133.93|11|1173|320386100||1|
+R|PROAGRO|PGR|1500|1550|50|3.33|1500|1550|1534.1|8|60536|92868000||1|
+R|PROTINAL|PTN|3474|4000|526|15.14|4000|4000|4000|1|250|1000000||1|
+R|R.S.TERESA "B"|RST.B|45000|49995|4995|11.1|47000|49995|47096.61|4|155|7299975||1|
+R|RON STA. TERESA|RST|50000|55000|5000|10|50000|55000|51034.84|9|1464|74715002.5||1|
+R|SIVENSA, S.A.|SVS|15995|17000|1005|6.28|17000|17000|17000|2|1003|17051000||1|
+P|BOLSA V. CCAS.|BVCC||36999.99|||34800|37000|35675.96|2|6294|233457834.75||
+P|ENVASES VZLOS.|ENV||33000|||29000|33000.01|31153.6|1|500|13800000||
+VT|23|0|0|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|PC FEMSA  19I 2P|CF912P|87.13|87.13|0|0|87.13|87.13||5|1829631931|1594158301.48||
+BP|T.P. N.V. 19-1-1|TN911P|85|85|0|0|85|85||3|11000000|9350000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|3479.98|5000|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|70000|73831.19|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|925|965|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|320000|350000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|24.5|25|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|35001|36999.99|
+CC|C.A. RON SANTA TERESA|50000|58000|
+CC|C.A. RON SANTA TERESA (CLASE B)|43000|50000|
+CC|C.A. TELARES DE PALO GRANDE|440|514|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|14760|15000|
+CC|CERAMICA CARABOBO, SACA|421000|479999.99|
+CC|CORIMON, C.A.|6625|6700|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3000|3599|
+CC|CORP.GRUPO QUIMICO, C.A.||82450|
+CC|DOMINGUEZ & CIA., S.A.|59000||
+CC|ENVASES VENEZOLANOS S.A.|33000||
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|24000|34000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|1290|1547.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|771|780|
+CC|GRUPO ZULIANO, C.A.|57000|62500|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||82700|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|10000|14043.12|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|6800|7700|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|295198.8|325000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|300000|325000|
+CC|PROAGRO C.A.|1548|1550|
+CC|PRODUCTOS EFE S.A.|4500||
+CC|PROTINAL C.A.|3100||
+CC|SIVENSA, S.A|13000|17000|
+NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|AVISO A LOS ACCIONISTAS DIFERIMIENTO DE LA ASAMBLEA ORDINARIA DE ACCIONISTAS<BR>                 BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.<BR><BR> El Banco Occidental de Descuento, Banco Universal, C.A. informa a sus Accionistas del diferimiento de la Asamblea General Ordinaria  convocada para el lunes 30 de marzo de 2020, a las 9:00 a.m., según publicaciones del 4 de marzo del presente año en los diarios El Universal y Ultimas Noticias, con el fin de: 1. Considerar el informe que presenta la Junta Directiva, el balance general, estado de resultados y demás estados financieros auditados y dictaminados por contadores públicos independientes, con vista del informe de los comisarios sobre los resultados del segundo semestre de 20192. 2.  Resolver sobre el destino de las utilidades obtenidas en el segundo semestre de 2019. El diferimiento de la referida reunión de Asamblea se sustenta en las instrucciones y lineamientos impartidos por la Superintendencia de Instituciones del Sector Bancario (SUDEBAN) en el Oficio Nro. SIB-II-GGIBPV-GIB-PVG-02428 de fecha 20 de marzo de 2020 y en la Circular Nro. SIB-DSB-CJ-OD-02415 de fecha 15 de marzo de 2020; así como, en el Decreto Nro. 4160 del 13 de marzo del año en curso, publicado en la Gaceta Oficial de la República Bolivariana de Venezuela Nro. 6.519 Extraordinaria de esa misma fecha, atinentes respectivamente, entre otros:<BR><BR>i)	Al diferimiento de la Asamblea; ii) A la suspensión de las actividades en las sedes administrativas de los Bancos en todo el país a partir del 16 de marzo de 2020; y iii) A la declaración por parte del Ejecutivo Nacional del Estado de Alarma para atender la emergencia sanitaria del Coronavirus (COVID-19).<BR>Maracaibo, 28 de marzo de 2020<BR><BR>Por la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A.<BR>Victor J. Vargas Irausquín<BR>Presidente<BR>|
+NO|INVERSIONES CRECE PYMES, C.A.|HECHO DE IMPORTANCIA<BR><BR>PASE A CONDICION DE TITULO REGULAR<BR><BR>La Bolsa de Valores de Caracas informa al público en general que a partir de día miércoles 08 de abril de 2020, la cotización de las acciones de la empresa emisora INVERSIONES CRECEPYMES C.A., pasará de su estado actual (negociación en mercado fixing) a la condición de título de mercado regular, dando cumplimiento a lo establecido en el PROCEDIMIENTO PARA LA NEGOCIACION DE TITULOS INACTIVOS, aprobado por la Junta Directiva en su Sesión Extraordinaria N° 1.583, celebrada en fecha 12 de junio de 2017<BR>|

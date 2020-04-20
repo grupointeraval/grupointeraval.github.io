@@ -1,0 +1,68 @@
+IG|31012020|129541.1|7785.88|6.39|129541.1|4640.24|77307.42|148|
+IF|31012020|236161.19|16293.6|7.41|
+II|31012020|48909.89|1012.21|2.11|
+R|B.DE VENEZUELA|BVL|1900|2270|370|19.47|2000|2270|2116.42|4|109|230690||1|
+R|B.OCC.DCTO.B.U.|BOU|18.7|19.98|1.28|6.84|19.98|19.99|19.98|7|16316|326018.84||1|
+R|BCO. CARIBE "A"|ABC.A|40000|44500|4500|11.25|44500|44500|44500|1|29|1290500||1|
+R|BCO. PROVINCIAL|BPV|195000|220000|25000|12.82|200000|220000|210277.07|22|794|166959995||1|
+R|BCO.NAC.CREDITO|BNC|699|675|-24|-3.43|675|710|699.74|32|146011|102088816||3|
+R|BOLSA V. CCAS.($)|BVCC|20000|23000|3000|15|22000|23000|22682.54|12|504|11300000||1|
+R|CANTV CLASE (D)|TDV.D|9500|9500|0|0|9500|9500|9500|7|1701|16159500||2|
+R|CORIMON C.A.|CRM.A|5200|5200.05|.05|0|5200.05|6000|5372.96|3|477|2562900.25||1|
+R|CORP.GPO.QUIM.|CGQ|27000|27000|0|0|27000|27000|27000|2|18|486000||2|
+R|DOMINGUEZ & CIA|DOM|30800|32500|1700|5.52|32500|32500|32500|4|1038|33735000||1|
+R|ENVASES VZLOS.|ENV|17500|18000|500|2.86|18000|18000|18000|6|220|3960000||1|
+R|FONDO V.INM.(A)|FVI.A|785|784|-1|-.13|784|785|784.03|2|2054|1610390||3|
+R|FONDO V.INM.(B)|FVI.B|560|580.01|20.01|3.57|570|585|579.72|26|95456|54550330||1|
+R|INM.VAL.Y CAP.|IVC|36500|36000|-500|-1.37|36000|36000|36000|2|250|9000000||3|
+R|MANPA, C.A. SACA|MPA|4000|4000|0|0|4000|4000|4000|5|3016|12064000||2|
+R|MERCANTIL S.(A)|MVZ.A|200000|210000|10000|5|200000|210000|200196.08|7|58|11610000||1|
+R|MERCANTIL S.(B)|MVZ.B|200000|200000|0|0|200000|200000|200000|5|156|31200000||2|
+R|PROAGRO|PGR|1000|1350|350|35|1200|1350|1213.64|2|1100|1335000||1|
+R|PRODUCTOS EFE|EFE|2899|2900|1|.03|2900|2900|2900|3|155|449500||1|
+R|PROTINAL|PTN|2400.01|2500|99.99|4.17|2500|2500|2500|1|83|207500||1|
+R|R.S.TERESA "B"|RST.B|35000|36000|1000|2.86|36000|38000|36669.92|7|123|4510400||1|
+R|RON STA. TERESA|RST|35000|36900|1900|5.43|36000|36900|36091.44|10|187|6749099.72||1|
+R|SIVENSA, S.A.|SVS|12000|10100|-1900|-15.83|10100|10100|10100|1|45|454500||3|
+R|T. PALO GRANDE|TPG|332|332|0|0|332|332|332|5|5000|1660000||2|
+P|BCO.NAC.CREDITO|BNC||675|||675|710|699.74|2|19283|13478817||
+P|BOLSA V. CCAS.|BVCC||23000|||22000|23000|22682.54|16|251602|4606188106.5||
+P|ENVASES VZLOS.|ENV||18000|||18000|18000|18000|1|500|9000000||
+P|MERCANTIL S.(A)|MVZ.A||210000|||200000|210000|200196.08|1|160|32000000||
+P|RON STA. TERESA|RST||36900|||36000|36900|36091.44|1|27|972000||
+VT|15|4|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|PAICA 2018-I 6 P|PA8I6P|88.49|88.72|.23|.26|88.6|88.72||2|36000000|31935440||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2005|2270|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|38000|44500|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|675|698|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|209000|220000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|18|19.98|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|22500|23000|
+CC|C.A. RON SANTA TERESA|36200|36900|
+CC|C.A. RON SANTA TERESA (CLASE B)|36000|38000|
+CC|C.A. TELARES DE PALO GRANDE|295|332|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8300|9500|
+CC|CERAMICA CARABOBO, SACA|100000||
+CC|CORIMON, C.A.|5200|5498|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2280.01|3200|
+CC|CORP.GRUPO QUIMICO, C.A.|27000|30959|
+CC|DOMINGUEZ & CIA., S.A.|28000|32500|
+CC|ENVASES VENEZOLANOS S.A.|13001|18000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||14250|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|635|784|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|580|585|
+CC|GRUPO ZULIANO, C.A.|36500|44500|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|29202||
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|3201|4799.99|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|188000|210000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|182000|235000|
+CC|PROAGRO C.A.|1200|1399|
+CC|PRODUCTOS EFE S.A.|2321|2900|
+CC|PROTINAL C.A.|2500|2770|
+CC|SIVENSA, S.A|10001|10100|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|CARGILL DE VENEZUELA, SRL<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CARGILL DE VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Series I y II, de la Emisión 2019-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CARGILL DE VENEZUELA, S.R.L. e inscrita en el Registro Nacional de Valores según Providencia Nro. 121 de fecha 30/10/2019.<BR><BR>La sesión especial para las Series I y II, de la Emisión 2019-II, por el monto de Bs. 5.000.000.000,00 c/u., de Papeles Comerciales al Portador, sería a partir del 30 de enero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 123 de fecha 30/10/2019<BR>Emisor	CARGILL DE VENEZUELA, S.R.L.<BR>Emisión 	2019-II<BR>Series a colocar	<BR>Serie I<BR>Serie II<BR>Monto de Emisión. 	Bs.  15.000.000.000,00.<BR>Monto por serie 	Bs.    5.000.000.000,00 c/u.<BR>Códigos  ISIN	<BR>Serie I:      VEV00392WJG0<BR>Serie II:     VEV00392WJH8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	<BR>Serie I:	CV921P<BR>Serie II:	CV922P<BR>Fecha de Inicio de Sesión Especial 	30/01/2020<BR>Fecha de Vencimiento de las Series.	Serie   I:      30/04/2020<BR>Serie  II:      30/07/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	<BR>Serie   I:      85,47%<BR>Serie  II:      78,86%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Clave Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	* De 9:30a.m a 1:00 p.m. <BR>|
+NO|MONTANA GRAFICA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Obligaciones Quirografarias al Portador de MONTANA GRÁFICA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados serían los correspondientes a la Serie III y IV, por un monto de Bs. 1.000.000.000,00 c/u. de la Emisión 2019 de Obligaciones Quirografarias al Portador, emitidos por la Empresa Emisora MONTANA GRÁFICA, C.A., inscrita en el Registro Nacional de Valores según Providencia Nro. 045/2019 de fecha 08/05/2019.  <BR><BR>La sesión especial para las Series III y IV, por Bs. 1.000.000.000,00 c/u., de la Emisión 2019 de Obligaciones Quirografarias, sería a partir del 30 de enero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Obligaciones Quirografarias<BR>Autorización SNV 	Providencia N° 045/2019 de fecha 08/05/2019<BR>Emisor	MONTANA GRÁFICA, C.A.,<BR>Emisión 	2019<BR>Series a colocar	Serie III y IV.<BR>Monto de Emisión. 	Bs.  8.000.000.000,00<BR>Monto por serie 	Bs.  1.000.000.000,00 c/u.<BR>Códigos  ISIN	<BR>Serie III         VEV00364ORN5<BR>Serie IV         VEV00364ORO3<BR>Código del Activo	O.Q.<BR>Código de Símbolo en SIBE, Mercado Primario	Serie III   	MG193P<BR>Serie IV   	MG194P<BR>Fecha de Inicio de Sesión Especial 	30/01/2020<BR>Fecha de vencimiento de la serie	30/04/2021<BR>Agentes de la Colocación 	FIVENCA CASA DE BOLSA, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	58,51%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Global Ratings Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo - Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	* De 9:30a.m a 1:00 p.m.<BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR><BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|

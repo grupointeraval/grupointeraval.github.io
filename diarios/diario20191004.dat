@@ -1,0 +1,64 @@
+IG|04102019|49080.14|1790.26|3.79|62004.3|347.92|-3153.54|-6.04|
+IF|04102019|88007.59|3618.86|4.29|
+II|04102019|19877.27|350.68|1.8|
+R|B.DE VENEZUELA|BVL|900|900|0|0|900|900|900|1|77|69300||2|
+R|B.OCC.DCTO.B.U.|BOU|7.2|7.01|-.19|-2.64|7.01|8.48|7.07|16|762109|5389663.5||3|
+R|BCO. CARIBE "A"|ABC.A|20620|22000|1380|6.69|21999|23951|22100.4|4|58|1281823||1|
+R|BCO. PROVINCIAL|BPV|74000|77000|3000|4.05|75000|80000|78664.22|12|344|27049500||1|
+R|BCO.NAC.CREDITO|BNC|340|350|10|2.94|340|350|340.09|34|323960|110173081||1|
+R|BOLSA V. CCAS.($)|BVCC|6500|6650|150|2.31|6650|6650|6650|20|25830|164650250||1|
+R|CANTV CLASE (D)|TDV.D|4000|4000|0|0|4000|4000|4000|4|2122|8488000||2|
+R|CORIMON C.A.|CRM.A|3200|3650|450|14.06|3200|3650|3474.79|6|1073|3731930||1|
+R|CORP.GPO.QUIM.|CGQ|8412|10094|1682|20|10094|10094|10094|1|13|131222||1|
+R|DOMINGUEZ & CIA|DOM|12800|12900|100|.78|12800|12900|12899.33|4|150|1934900||1|
+R|ENVASES VZLOS.|ENV|6900|6890|-10|-.14|6810|6890|6876.65|12|1811|12469635||3|
+R|FAB.N.CEMENTOS|FNC|8500|8550|50|.59|8550|8550|8550|3|63|538650||1|
+R|FONDO V.INM.(B)|FVI.B|228|228.01|.01|0|220|230|224.78|28|668404|150246964.95||1|
+R|GRUPO ZULIANO|GZL|13000|13000|0|0|13000|13000|13000|2|950|12350000||2|
+R|MANPA, C.A. SACA|MPA|1900|1900|0|0|2030|2050|2036.67|2|3|6110||2|
+R|MERCANTIL S.(A)|MVZ.A|70000|72000|2000|2.86|71000|72000|71871.13|6|806|57947030||1|
+R|MERCANTIL S.(B)|MVZ.B|70000|74900|4900|7|71000|75000|71888.87|12|2373|170592300||1|
+R|PROAGRO|PGR|760|755|-5|-.66|755|755|755|2|1550|1170250||3|
+R|PRODUCTOS EFE|EFE|1400|1400|0|0|1400|1500|1493.33|2|15|22400||2|
+R|PROTINAL|PTN|1000|999.99|-.01|0|999.99|999.99|999.99|2|371|370996.29||3|
+R|RON STA. TERESA|RST|13510|13500|-10|-.07|13500|13900|13564.83|16|1231|16698300.08||3|
+R|SIVENSA, S.A.|SVS|4200|4500|300|7.14|4500|4500|4500|2|109|490500||1|
+R|T. PALO GRANDE|TPG|130|128.99|-1.01|-.78|128.99|130|129|3|607|78303||3|
+P|BCO.NAC.CREDITO|BNC||350|||340|350|340.09|1|84159|28614060||
+P|BOLSA V. CCAS.|BVCC|||||6650|6650|6650|5|125093|811412900||
+P|FONDO V.INM.(B)|FVI.B||228.01|||220|230|224.78|2|8528009|1918802025||
+P|MANPA, C.A. SACA|MPA||1900|||2030|2050|2036.67|1|890|1691000||
+P|PROAGRO|PGR||755|||755|755|755|1|100000|70100000||
+VT|12|6|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|771|900|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)||22000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|350|370|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|72000|77000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|6.5|7.01|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6650|6900|
+CC|C.A. RON SANTA TERESA|13000|13500|
+CC|C.A. TELARES DE PALO GRANDE|101|128.99|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|3875|4000|
+CC|CERAMICA CARABOBO, SACA||105000|
+CC|CORIMON, C.A.|3100|3649|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|500|620|
+CC|CORP.GRUPO QUIMICO, C.A.|6751||
+CC|DOMINGUEZ & CIA., S.A.|12201|12800|
+CC|ENVASES VENEZOLANOS S.A.|6750|6890|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6002|8550|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|257|300|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|228.01|235|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|11201|24150|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1750|2030|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|73500|79500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|73000|75000|
+CC|PROAGRO C.A.|701|755|
+CC|PRODUCTOS EFE S.A.||1500|
+CC|PROTINAL C.A.|900|1000|
+CC|SIVENSA, S.A|3361|4500|
+NO|CORPORACION GRUPO QUIMICO, C.A|AVISO A LOS ACCIONISTAS<BR> CORPORACION GRUPO QUIMICO, C.A.<BR><BR> En cumplimiento con lo establecido en el artículo 5 de la Resolución Nro. 110-2004 de la Comisión Nacional de Valores-actual Superintendencia Nacional de Valores-contentiva de las Normas relativas a la información sobre el pago de dividendos que deben suministrar las empresas que hacen Oferta Pública de sus acciones, publicada en la Gaceta Oficial de la República Bolivariana de Venezuela Nro. 38.007 de fecha 24 de agosto de 2004, la Junta Directiva de CORPORACIÓN GRUPO QUIMICO, C.A., informa a sus accionistas que la Asamblea Extraordinaria celebrada el día 26 de septiembre de 2019, aprobó el decreto de dividendo por la cantidad de DOSCIENTOS MILLONES NOVENTA Y SEIS MIL CUATROCIENTOS NOVENTA BOLIVARES SIN CENTIMOS (Bs. 200.096.4900,00), pagadero en efectivo, con cargo a la partida Utilidades no distribuidas, a razón de Bs 2,19 por cada acción,  de acuerdo con la propuesta de la Junta Directiva. Así mismo acordó realizar el pago de la siguiente manera:<BR><BR>1-	 La fecha Límite de Transacción con Beneficio será el 11 de octubre de 2019.<BR>2-	La Fecha Efectiva de Registro del Beneficio será el 21 de octubre de 2019.<BR>|
+NO||En vista de lo anterior, se agradece a los accionistas acudir al Departamento de Accionistas, en las oficinas de Corporación Grupo Químico, C.A., ubicados en la Avenida Río de Janeiro, entre Calles Caroní y Nueva York, Local Pintacasa, Planta Alta, Urbanización Las Mercedes. Caracas o comunicarse con el mismo, a los números telefónicos 0212 953-7935 ó 0212-993-4581 para proceder al pago correspondiente a partir de la fecha efectiva de registro del beneficio, así como a la actualización de sus datos en cumplimiento con lo establecido en la Resolución de la Superintendencia Nacional de Valores SUNAVAL, por lo cual se dictan las Normas relativas a la Administración y Fiscalización de los Riesgos relacionados con los delitos de legitimación de capitales y financiamiento al terrorismo aplicable a las instituciones reguladas por esta Superintendencia, publicada en la Gaceta Oficial de la República Bolivariana de Venezuela Nro. 39.691 de fecha 08 de junio de 2011.  <BR><BR>Caracas, 03 de octubre de 2019<BR> La Junta Directiva<BR>Corporación Grupo Químico, C.A.<BR>|

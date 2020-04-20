@@ -1,0 +1,62 @@
+IG|12122019|61124.75|-792.79|-1.28|71167.77|745.22|8891.07|17.02|
+IF|12122019|108745.34|-1608.88|-1.46|
+II|12122019|25546.74|-149.16|-.58|
+R|B.DE VENEZUELA|BVL|1000|1000|0|0|1000|1000|1000|1|132|132000||2|
+R|B.OCC.DCTO.B.U.|BOU|12|12|0|0|11.99|12|12|7|249503|2994027.32||2|
+R|BCO. CARIBE "A"|ABC.A|25000|25000|0|0|25000|25000|25000|3|240|6000000||2|
+R|BCO. PROVINCIAL|BPV|94100|91000|-3100|-3.29|91000|94000|91659.67|20|2001|183411000||3|
+R|BCO.NAC.CREDITO|BNC|384.99|389|4.01|1.04|384|390|385.42|20|1835552|703003475||1|
+R|BOLSA V. CCAS.($)|BVCC|6890|6890|0|0|6800|7100|6924.48|19|3985|27594057.5||2|
+R|CANTV CLASE (D)|TDV.D|6400|6260|-140|-2.19|6260|6265|6260.35|6|3002|18793570||3|
+R|CORIMON C.A.|CRM.A|3150|3680|530|16.83|3600|3680|3668.97|2|29|106400||1|
+R|ENVASES VZLOS.|ENV|9500|9500|0|0|9400|9500|9480.13|3|156|1478900||2|
+R|FONDO V.INM.(A)|FVI.A|361|359.99|-1.01|-.28|359.99|361|360.97|7|13429|4847445.81||3|
+R|FONDO V.INM.(B)|FVI.B|270|260|-10|-3.7|260|271|260.39|45|1174104|305716799.78||3|
+R|GRUPO ZULIANO|GZL|18000|16900|-1100|-6.11|16900|16900|16900|2|53|895700||3|
+R|MANPA, C.A. SACA|MPA|2200|2590|390|17.73|2200|2590|2201.6|4|1461|3216540||1|
+R|MERCANTIL S.(A)|MVZ.A|100000|99999.99|-.01|0|99999.98|100000|100000|13|1927|192699999.74||3|
+R|MERCANTIL S.(B)|MVZ.B|99500|98000|-1500|-1.51|97900|98000|97962.26|5|265|25960000||3|
+R|PRODUCTOS EFE|EFE|1700|1700|0|0|0|0|0|1|52|105820||2|
+R|RON STA. TERESA|RST|17400|16500|-900|-5.17|16500|17000|16541.04|9|787|13017795.49||3|
+R|SIVENSA, S.A.|SVS|8499|8529|30|.35|8360|8529|8399|2|26|218374||1|
+P|B.OCC.DCTO.B.U.|BOU||12|||11.99|12|12|1|1650|19800||
+P|BCO.NAC.CREDITO|BNC||389|||384|390|385.42|1|1488|565440||
+P|MERCANTIL S.(A)|MVZ.A||99999.99|||99999.98|100000|100000|1|157|15699998.43||
+P|RON STA. TERESA|RST||16500|||16500|17000|16541.04|1|1|16240||
+P|SIVENSA, S.A.|SVS||8529|||8360|8529|8399|1|11650|99025000||
+VT|4|8|6|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)CV912P-Colocacion Primaria de Cargill de Venezuela|
+BP|NETUNO 19-I-3 P|NU913P|87|87.12|.12|.14|87.12|87.12||1|230000000|200373700||
+BP|P.C. AP.19-I-2P|AP912P|90|90|0|0|90|90||1|900000000|810000000||
+BP|PC CARGILL 19-2|CV912P|81369|81.37|-81287.63|-99.9|81.37|81.37||1|500000000|406845000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|901|1000|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|23700|25000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|350|389|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|91000|94000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|10.85|11.99|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6850|6900|
+CC|C.A. RON SANTA TERESA|16100|16500|
+CC|C.A. TELARES DE PALO GRANDE|171|215|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|6260|6400|
+CC|CERAMICA CARABOBO, SACA|90000||
+CC|CORIMON, C.A.|3161|3600|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|400|520|
+CC|CORP.GRUPO QUIMICO, C.A.|19200|28798|
+CC|DOMINGUEZ & CIA., S.A.|15100|15685|
+CC|ENVASES VENEZOLANOS S.A.|8550|9500|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||11880|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|321|359.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|260|278|
+CC|GRUPO ZULIANO, C.A.|14500|16900|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|21000|26000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|2210|2590|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|90000|99999.95|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|90000|98000|
+CC|PROAGRO C.A.|711|800|
+CC|PRODUCTOS EFE S.A.||2000|
+CC|PROTINAL C.A.|1241|1499|
+CC|SIVENSA, S.A|6800|8529|
+NO|SIDERURGICA VENEZOLANA (SIVENSA), S.A.|RESULTADO ASAMBLEA ORDINARIA DE ACCIONISTAS                                     <BR>    SIDERÚRGICA VENEZOLANA SIVENSA S.A.<BR><BR>La Asamblea General Ordinaria de Accionistas de la compañía SIDERÚRGICA VENEZOLANA SIVENSA S.A. celebrada en fecha jueves cinco (05) de diciembre de 2019, previa convocatoria de conformidad con la ley, con un quorum del 66,63% de acciones representadas, se adoptaron las siguientes decisiones: <BR><BR>Primer Punto.  Fueron Leídos y se analizaron los Estados Financieros Consolidados y No consolidados de la Compañía, con vista a los respectivos Informes de los Comisarios,  el Informe de la Junta Directiva y  el de los Contadores Públicos Independientes de la firma Pacheco, Apostólico y Asociados, relativos al ejercicio económico comprendido entre el 1 de octubre de 2018 al 30 de septiembre de 2019, los cuales fueron aprobados por unanimidad, absteniéndose de votar para su aprobación los directores de la Junta Directiva presentes en la Asamblea.<BR><BR> Segundo Punto.  Se aprobó la designación de los Miembros Principales y Suplentes de la Junta Directiva como a continuación se detalla:<BR><BR>Directores Principales: Oscar Machado Koeneke, Henrique Machado Zuloaga, Francisco Monaldi, Luis Ignacio Mendoza, Arnold Volkenborn, Pedro Agustín Palma, Jose Maria Fragachan y Andrés Gonzalo Benacerraf<BR>Directores Suplentes: Armando Loynaz Reveron, Horacio Álvarez, Elkin Montoya, Ignacio Sosa Branger, Francisco J. Sananez, Leopoldo B. Zuloaga, Neil J. Malloy y Fortunato Benacerraf Saias.<BR><BR>Tercer Punto. Se aprobó la Designación de los Comisarios Principales Lcda. Luisa Elena Tovar y Lcda. Iris Campos y Comisarios Suplentes Economista Martín González y Lcdo. José Requena.<BR>Caracas, 12 de diciembre de 2019.<BR><BR>Víctor R. Vera Romero<BR>Representante Judicial<BR>|

@@ -1,0 +1,71 @@
+IG|06042020|150484.88|17398.43|13.07|150484.88|8494.06|98251.2|188.1|
+IF|06042020|266851.78|30945.95|13.12|
+II|06042020|63695.64|7278.93|12.9|
+R|B.DE VENEZUELA|BVL|2850|2850|0|0|2850|2899.99|2881.23|4|5329|15354066.71||2|
+R|B.OCC.DCTO.B.U.|BOU|24.5|24.5|0|0|24.5|24.5|24.5|8|39020|955990||2|
+R|BCO. PROVINCIAL|BPV|210000|253000|43000|20.48|220000|253000|244804.4|24|2676|655294001.53||1|
+R|BCO.NAC.CREDITO(&)|BNC|750|790|40|5.33|750|790|759.37|22|136434|103764000||1|
+R|BOLSA V. CCAS.($)|BVCC|22500|27500|5000|22.22|23000|28000|26646.88|19|8585|228763500||1|
+R|CANTV CLASE (D)|TDV.D|10000|11400|1400|14|10000|11400|10678.56|4|541|5777100||1|
+R|CORIMON C.A.|CRM.A|6001|6599.99|598.99|9.98|6599.99|6599.99|6599.99|3|50|329999.5||1|
+R|CORP.GPO.QUIM.|CGQ|65399|70000|4601|7.04|70000|70000|70000|4|478|33460000||1|
+R|DOMINGUEZ & CIA|DOM|38000|44000|6000|15.79|40000|44000|42598.09|10|6999|298144000||1|
+R|ENVASES VZLOS.|ENV|22000|25500|3500|15.91|22000|25500|23861.05|13|10529|251233000||1|
+R|FAB.N.CEMENTOS|FNC|25000|29999.97|4999.97|20|29999.97|29999.97|29999.97|1|25|749999.25||1|
+R|FONDO V.INM.(A)|FVI.A|840|900|60|7.14|900|1000|909.09|3|110|100000||1|
+R|FONDO V.INM.(B)|FVI.B|639.99|660|20.01|3.13|640|660|646.1|17|169734|109422880.9||1|
+R|GRUPO ZULIANO|GZL|52000|52000|0|0|52000|52000|52000|4|562|29224000||2|
+R|INM.VAL.Y CAP.|IVC|47998.8|57598|9599.2|20|57598|57598|57598|1|1|57598||1|
+R|MANPA, C.A. SACA|MPA|6500|6800|300|4.62|6500|6800|6647.13|3|14885|98942500||1|
+R|MERCANTIL S.(A)|MVZ.A|201000.02|205000.1|4000.08|1.99|201100|205000.1|204237.44|9|1170|238510315||1|
+R|MERCANTIL S.(B)|MVZ.B|200000|239000|39000|19.5|220000|239000|220989.58|6|106|23215000||1|
+R|PROAGRO|PGR|1475|1500|25|1.69|1480|1500|1480.03|5|27034|40011000||1|
+R|PRODUCTOS EFE|EFE|2700|2700|0|0|2700|2700|2700|6|2450|6615000||2|
+R|R.S.TERESA "B"|RST.B|36000|42995|6995|19.43|37000|42995|37449.03|4|334|12507975||1|
+R|RON STA. TERESA|RST|40000|46000|6000|15|41000|46000|45559.75|6|159|7244000||1|
+R|SIVENSA, S.A.|SVS|13600|15999.99|2399.99|17.65|15999.99|16000|15999.99|5|1151|18415993.49||1|
+R|T. PALO GRANDE|TPG|359|360|1|.28|360|400|360.01|9|11966|4307840||1|
+P|BOLSA V. CCAS.|BVCC||27500|||23000|28000|26646.88|4|92568|2406212475.6||
+VT|20|0|4|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)BNC-|
+DV|(&)CF912P-Colocación Primaria. COCA-COLA|
+BP|PC CARGILL 19-3P|CV923P|86.92|87.58|.66|.76|87.58|87.58||1|10000000|8757800||
+BP|PC FEMSA  19I 2P|CF912P|87.13|87.13|0|0|87.13|87.13||1|918168|799999.78||
+BP|PC PURINA 19-4 P|PN914P|86.75|87.58|.83|.96|87.58|87.58||1|3000000|2627340||
+BP|T.P. N.V. 19-1-1|TN911P|85|85|0|0|85|85||2|15000000|12750000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2201|2850|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|51300|61526|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|770|785|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|253000|255000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|19.61|24.5|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|27000|27500|
+CC|C.A. RON SANTA TERESA|45000|46000|
+CC|C.A. RON SANTA TERESA (CLASE B)|37500|42995|
+CC|C.A. TELARES DE PALO GRANDE|300|360|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|11250|11400|
+CC|CERAMICA CARABOBO, SACA|326000||
+CC|CORIMON, C.A.|5401|6599.99|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2450|3599|
+CC|CORP.GRUPO QUIMICO, C.A.|52500|70000|
+CC|DOMINGUEZ & CIA., S.A.|44000|45000|
+CC|ENVASES VENEZOLANOS S.A.|25500|26000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||29999.97|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|900|950|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|652|659.99|
+CC|GRUPO ZULIANO, C.A.|41601|52000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|45000|57598|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|6800|7100|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|205000|239000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|221000|230000|
+CC|PROAGRO C.A.|1480|1500|
+CC|PRODUCTOS EFE S.A.|2700|3239|
+CC|PROTINAL C.A.|2800||
+CC|SIVENSA, S.A|11000|15999.99|
+NO|BANCO DEL CARIBE, C.A. BANCO UNIVERSAL|A continuación, se informa el precio de ajuste de la sociedad emisora Banco del Caribe Banco Universal (Bancaribe), como consecuencia de un dividendo en acciones a razón de una nueva acción por cada diez acciones Clase A y Clase B en tenencia. <BR> <BR>Fecha Junta / Asamblea	25/03/2020<BR>Fecha Limite de Transacción con Beneficio	03/04/2020<BR>Fecha Efectiva de Registro del Beneficio	<BR>El aumento del capital y consiguiente registro del beneficio a favor de los accionistas se materializará una vez se obtengan las autorizaciones de los organismos competentes para la inscripción de las nuevas acciones en el Registro Mercantil correspondiente, en el Libro de Accionistas del Banco, en el Registro Nacional de Valores y en la Bolsa de Valores de Caracas<BR><BR>Símbolo		 ABC.A                               ABC.B<BR>Precio de Cierre      Bs. 56.399,00        	Bs. 0.03<BR>Precio  de Ajuste	Bs. 51.271,82		    N/A<BR>Monto Efectivo        Bs      257,58       	Bs  51,52<BR><BR>Nota: <BR>El título ABC.B no ajusta su precio ya que este es menor que el monto del dividendo otorgado. <BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|COCA COLA FEMSA DE VENEZUELA, SA<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de COCA COLA FEMSA DE VENEZUELA, S.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondiente a la Serie II, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora COCA COLA FEMSA DE VENEZUELA, S.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 020 de fecha 11/02/2020.<BR><BR>La sesión especial para la Serie II, de la Emisión 2019-I, por el monto de Bs. 15.000.000.000,00, de Papeles Comerciales al Portador, es a partir del 06 de abril de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 020 de fecha 11/02/2020<BR>Emisor	COCA COLA FEMSA DE VENEZUELA, S.A.<BR>Emisión 	2019-I<BR>Serie a colocar		Serie II<BR>Monto de Emisión. 	Bs.    40.000.000.000,00.<BR>Monto de la serie. 	Bs.    15.000.000.000,00.<BR>Códigos  ISIN	VEV00396WKG9<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	CF912P<BR>Fecha de Inicio de Sesión Especial 	06/04/2020<BR>Fecha de Vencimiento de la Serie.	06/10/2020<BR>Agentes de la Colocación 	Caja Caracas Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	87,13%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m a 12:00 p.m. <BR>|
+NO|MERCANTIL SERVICIOS FINANCIEROS C.A|               RESULTADO ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS<BR>MERCANTIL SERVICIOS FINANCIEROS, C.A.<BR><BR>La Asamblea General Ordinaria de Accionistas de la empresa emisora, MERCANTIL SERVICIOS FINANCIEROS, C.A. celebrada en fecha 27 de marzo de 2020, previa convocatoria, se encontraban debidamente representados más del 83% de las acciones comunes A emitidas y en circulación y el 75,72% de las acciones comunes B en circulación que conforman el capital social, de conformidad con la ley, se adoptaron las siguientes decisiones <BR>El Presidente informo que, como un aspecto novedoso, se preparó un video que compila el Informe de Gestion que presenta la Junta Directiva, los estados Financieros Auditados y el Informe de los Comisarios. Una vez concluida la proyección del video en cuestión se sometió a consideración de la Asamblea.<BR><BR>Primero.  Se aprobó los Estados Financieros Auditados de la Compañía correspondientes al semestre finalizado el 31 de diciembre de 2019, con vista al Informe de los Comisarios y el informe de la Junta Directiva.<BR><BR>Segundo. Se aprobó el Informe sobre el Grado de Cumplimiento de los Principios de Gobierno Corporativo. Donde se expuso que la Junta Directiva, en su sesión de fecha 20 de febrero de 2020, realizo el examen sobre la independencia de cada Director, concluyendo que por lo menos una quinta parte de sus miembros son Directores Independientes. <BR><BR>Tercero. Resultaron electos por unanimidad para el periodo estatutario 2020 2023, los Directores que se señalan a continuación<BR>Directores Principales  Alfredo Travieso P., Victor Sierra A., Federico Vollmer A.<BR>Directores Suplentes Francisco J. Mier y Terán., Carlos Zuloaga T., Fernando Eseverri I., Rafael Sanchez B., Enrique Mier y Terán.<BR>La Composición de la Junta directiva de la Compañía<BR>|
+NO||Directores Principales Gustavo J. Vollmer Acedo., Alfredo Travieso P., Gustavo Galdo C., Victor Sierra A., Luis A. Marturet M., Federico Vollmer A., Roberto Vainrub A., Alejandro Gonzalez S., Rene Brillembourg C., Francisco Torres P.<BR>Directores Suplentes Francisco Javier Mier y Terán., Oscar Machado K., Claudio Dolman C., Carlos Zuloaga T., Gustavo Machado C., Miguel A. Capriles Capriles., Luis Pedro España., Alexandra Mendoza V., Rafael Sanchez B., Nelson Pinto A., Fernando Eseverri I., Gustavo A. Vollmer S. Carlos Acosta., Enrique Mier y Terán y John M. Johnson.<BR><BR>Cuarto. Se aprobó por unanimidad la elección de los Comisarios conformado por<BR>Comisarios Principales Licenciado Francisco De León y Economista Manuel Martinez Abreu y los Comisarios Suplentes Licenciada Gladis Gudiño y el Licenciado Umberto Chirico.<BR><BR>Quinto.   Se aprobó la Propuesta para la Cuadragésima Primera Fase del Programa de Recompra de Acciones de la Compañía.<BR>Sexto. - Se aprobó la Propuesta para la Emisión y Colocación de Obligaciones Quirografarias, Pagares Bursátiles  y/o de Papeles Comerciales de Mercantil Servicios Financieros, C.A. <BR><BR>Séptimo. Se aprobó por unanimidad la propuesta para que Mercantil Servicios Financieros CA, faculte a su Junta Directiva a aumentar su capital suscrito y pagado, que somete la Junta directiva.<BR><BR>Octavo. Se aprobó la Propuesta para modificar parcialmente los estatutos de Mercantil Servicios Financieros, CA que somete la junta Directiva donde se consideró el trasladar el domicilio social de la Compañía de su actual ubicación, Avenida francisco de Miranda de la Urbanización Los Palos Grandes, Centro Comercial El Parque, Segunda y Tercera Etapas, P03, Locales C 3 10, C 3 11, Chacao, Estado Miranda a la Avenida Andres Bello Nro. 1 Edificio Mercantil, Piso 26 San Bernardino Caracas.<BR>|
+NO||Noveno. Se aprobó por unanimidad la propuesta de Dividendos. Decretar un dividendo único en efectivo de Bs 60 con cargo a las utilidades correspondientes al 31 de diciembre de 2019, para cada una de las acciones comunes A y B en circulación, pagadero el día 20 de abril, fecha Efectiva de Registro del Beneficio, a los accionistas registrados en el libro respectivo el día 15 de abril de 2020, estableciéndose ese día como Fecha Límite de Transacción con Beneficio.<BR><BR>Caracas, 27 de marzo de 2020<BR>Por Mercantil Servicios Financieros, C.A.<BR><BR>Rafael Stern Schechner<BR>Secretario Junta Directiva<BR>|

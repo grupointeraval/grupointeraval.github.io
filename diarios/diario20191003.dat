@@ -1,0 +1,60 @@
+IG|03102019|47289.88|-242.9|-.51|62004.3|347.92|-4943.8|-9.46|
+IF|03102019|84388.73|-639.5|-.75|
+II|03102019|19526.59|88.46|.46|
+R|B.DE VENEZUELA|BVL|900|900|0|0|900|900|900|2|792|712800||2|
+R|B.OCC.DCTO.B.U.|BOU|7.99|7.2|-.79|-9.89|7|8|7.01|23|1279397|8970390.9||3|
+R|BCO. CARIBE "A"|ABC.A|20620|20620|0|0|20620|20620|20620|3|50|1031000||2|
+R|BCO. PROVINCIAL|BPV|75000|74000|-1000|-1.33|72990|75000|73323.76|12|378|27716380||3|
+R|BCO.NAC.CREDITO|BNC|344|340|-4|-1.16|336|350|343.7|30|685122|233276024||3|
+R|BOLSA V. CCAS.($)|BVCC|6500|6500|0|0|6500|6500|6500|12|12049|75566000||2|
+R|CANTV CLASE (D)|TDV.D|4000|4000|0|0|4000|4000|4000|13|2395|9580000||2|
+R|CORIMON C.A.|CRM.A|3000|3200|200|6.67|3200|3599|3311.95|7|443|1467193||1|
+R|CORP.IND.ENERGIA|CIE|760|615.6|-144.4|-19|615.6|615.6|615.6|1|999|614984.4||3|
+R|ENVASES VZLOS.|ENV|6500|6900|400|6.15|6900|6950|6916.67|2|300|2075000||1|
+R|FONDO V.INM.(B)|FVI.B|230|228|-2|-.87|220|235|225.74|19|29314206|6595714993.5||3|
+R|INM.VAL.Y CAP.|IVC|24150|24150|0|0|24150|24150|24150|1|5|120750||2|
+R|MANPA, C.A. SACA|MPA|1900|1900|0|0|1900|1900|1900|2|76|144400||2|
+R|MERCANTIL S.(A)|MVZ.A|70000|70000|0|0|70000|70000|70000|3|74|5180000||2|
+R|MERCANTIL S.(B)|MVZ.B|70000|70000|0|0|70000|71000|70493.42|8|304|21430000||2|
+R|PROAGRO|PGR|820|760|-60|-7.32|760|760|760|3|84|63840||3|
+R|PRODUCTOS EFE|EFE|1400|1400|0|0|1500|1600|1590.91|2|11|17500||2|
+R|PROTINAL|PTN|1045|1000|-45|-4.31|1000|1000|1000|2|40|40000||3|
+R|RON STA. TERESA|RST|13880|13510|-370|-2.67|13500|13800|13689.16|15|1753|23997100||3|
+R|SIVENSA, S.A.|SVS|4200|4200|0|0|0|0|0|1|1839|7723800||2|
+R|T. PALO GRANDE|TPG|130|130|0|0|128|128|128|1|11|1408||2|
+P|BCO.NAC.CREDITO|BNC||340|||336|350|343.7|8|62682613|21312088420||
+P|BOLSA V. CCAS.|BVCC|||||6500|6500|6500|2|92000|638181000||
+P|MERCANTIL S.(A)|MVZ.A||70000|||70000|70000|70000|1|100|7000000||
+VT|2|8|11|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|903|970|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|20000|21000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|330|340|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|71000|74000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|7.05|7.2|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6300|6500|
+CC|C.A. RON SANTA TERESA|13510|13650|
+CC|C.A. TELARES DE PALO GRANDE|101|127|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|3850|4000|
+CC|CERAMICA CARABOBO, SACA||105000|
+CC|CORIMON, C.A.|3200|3550|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|500|680|
+CC|CORP.GRUPO QUIMICO, C.A.|6731|10094|
+CC|DOMINGUEZ & CIA., S.A.|12600|12900|
+CC|ENVASES VENEZOLANOS S.A.|6810|6900|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6002|8599.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|257|320|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|221|228|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|11201|26000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1750|2050|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|71000||
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|70000||
+CC|PROAGRO C.A.|731|760|
+CC|PRODUCTOS EFE S.A.||1499|
+CC|PROTINAL C.A.|801|1000|
+CC|SIVENSA, S.A||4500|
+NO|ENVASES VENEZOLANOS, S.A.|PROPUESTA DE AUMENTO DE CAPITAL SOCIAL MEDIANTE AUMENTO DEL VALOR NOMINAL DE LA ACCIÓN<BR>   ENVASES VENEZOLANOS, S.A.<BR><BR>PROPUESTA DE AUMENTO DE CAPITAL SOCIAL <BR><BR>La junta Directiva propone a la Asamblea que con cargo a la cuenta Actualización del Capital Social, capitalizar la cantidad de doce mil cincuenta y un millones cuatrocientos quince mil quinientos sesenta y nueve bolívares con sesenta céntimos (Bs 12.051.415.569,60) y aumentar el valor nominal de la acción, de 0,05 bolívares a la cantidad de noventa y cinco bolívares (Bs 95,00) permaneciendo inalterado el número de acciones que conforman el capital social suscrito y pagado de la compañía, que es de 126.923.808 acciones. En consecuencia, aumentar el capital social de la compañía en la referida cantidad de doce mil cincuenta y un millones cuatrocientos quince mil quinientos sesenta y nueve bolívares con sesenta céntimos (Bs 12.051.415.569,60) con lo cual el Capital social alcanzaría la cantidad de doce mil cincuenta y siete millones setecientos sesenta y un mil setecientos sesenta Bolívares (Bs. 12.057.761.760,00). Una vez sea autorizada por la Superintendencia Nacional de Valores (SUNAVAL).<BR>|
+NO||PROPUESTA AUMENTO DE CAPITAL: De resultar aprobado el Aumento del Capital modificar el Artículo 4 del Documento Constitutivo/Estatutario de la Compañía de la siguiente manera:<BR><BR>Artículo 4: El capital de la Compañía es la cantidad de doce mil cincuenta y siete millones setecientos sesenta y un mil setecientos sesenta Bolívares (Bs. 12.057.761.760,00); totalmente suscrito y pagado. Dicho capital está representado por Ciento Veintiséis Millones Novecientas Veintitrés Mil Ochocientos Ocho (126.923.808) acciones comunes nominativas, íntegramente pagadas con un valor nominal de Noventa y Cinco Bolívares (Bs 95,00) cada una. Todas las acciones confieren a sus tenedores iguales derechos y cada una tendrá un voto en las Asambleas.<BR><BR>Caracas, 02 de octubre de 2019.<BR>Gerente de Accionistas y Legal<BR>Cecilia González Moleiro<BR>Envases Venezolanos, C.A.<BR>|

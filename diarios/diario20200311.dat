@@ -1,0 +1,61 @@
+IG|11032020|103457.46|-934.84|-.9|129541.1|8194.59|51223.78|98.07|
+IF|11032020|177758.03|-1265.86|-.71|
+II|11032020|49023.66|-755.46|-1.52|
+R|B.DE VENEZUELA|BVL|2244.95|2200|-44.95|-2|1801|2200|1815.42|3|633|1169160||3|
+R|B.OCC.DCTO.B.U.|BOU|22.99|23|.01|.04|22.99|23.94|23.23|3|4020|93399.8||1|
+R|BCO. CARIBE "A"|ABC.A|42485|42000|-485|-1.14|42000|42485|42041.45|4|117|4918850||3|
+R|BCO. PROVINCIAL|BPV|148000|148000|0|0|148000|150000|148053.62|9|373|55224000||2|
+R|BCO.NAC.CREDITO|BNC|610|630|20|3.28|610|635|616.65|27|48575|29953734||1|
+R|BOLSA V. CCAS.($)|BVCC|17200|19350|2150|12.5|17350|20400|19275.25|32|5296|102077900||1|
+R|CANTV CLASE (D)|TDV.D|8995|8994|-1|-.01|8878|8994|8961.53|10|12885|115469326||3|
+R|CORIMON C.A.|CRM.A|6000|6100|100|1.67|6100|6100|6100|1|11|67100||1|
+R|CORP.IND.ENERGIA|CIE|2440.01|2400|-40.01|-1.64|2400|2400|2400|1|499|1197600||3|
+R|ENVASES VZLOS.|ENV|16000|15000|-1000|-6.25|15000|16000|15173.58|3|229|3474750||3|
+R|FONDO V.INM.(B)|FVI.B|495|465|-30|-6.06|465|500|479.41|15|68198|32694900||3|
+R|MANPA, C.A. SACA|MPA|4900|4890|-10|-.2|4890|4890|4890|2|20|97800||3|
+R|MERCANTIL S.(A)|MVZ.A|160000|160000|0|0|160000|161000|160132.69|10|731|117057000||2|
+R|MERCANTIL S.(B)|MVZ.B|162000|150000|-12000|-7.41|150000|160000|150015.93|16|8786|1318040000||3|
+R|PROAGRO|PGR|1230|1450|220|17.89|1230|1450|1315.94|2|128|168440||1|
+R|PRODUCTOS EFE|EFE|3000|3000|0|0|3000|3000|3000|1|50|150000||2|
+R|PROTINAL|PTN|2999|2900|-99|-3.3|2900|2900|2900|1|421|1220900||3|
+R|R.S.TERESA "B"|RST.B|30000|30000|0|0|30000|30000|30000|5|121|3630000||2|
+R|RON STA. TERESA|RST|39015|39015|0|0|39000|39100|39060.16|15|3734|145847255||2|
+R|T. PALO GRANDE|TPG|330|365|35|10.61|330|365|339.39|2|2733|927545||1|
+VT|6|9|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2001|2200|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)||42990|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|621|630|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|145000|149000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|22.01|23|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|18300|19350|
+CC|C.A. RON SANTA TERESA||39400|
+CC|C.A. RON SANTA TERESA (CLASE B)|24001|30000|
+CC|C.A. TELARES DE PALO GRANDE|264|384|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8994|9200|
+CC|CERAMICA CARABOBO, SACA|360001|450000|
+CC|CORIMON, C.A.|5001|6498|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|1952.05|2400|
+CC|CORP.GRUPO QUIMICO, C.A.|40000|55000|
+CC|DOMINGUEZ & CIA., S.A.|26321|33000|
+CC|ENVASES VENEZOLANOS S.A.|13000|16700|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||20000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|705|839.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|471|495|
+CC|GRUPO ZULIANO, C.A.||49990|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|30000|38700|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|3921|4890|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|150000|160000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|145000|180000|
+CC|PROAGRO C.A.|1230|1300|
+CC|PRODUCTOS EFE S.A.|2401|3010|
+CC|PROTINAL C.A.||2900|
+CC|SIVENSA, S.A||12999|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|CARGILL DE VENEZUELA, S.R.L.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CARGILL DE VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Serie V, de la Emisión 2019-I, y Serie III, de la Emisión 2019-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CARGILL DE VENEZUELA, S.R.L. e inscrita en el Registro Nacional de Valores según Providencias Nro. 123 y 121 de fecha 30/10/2019.<BR><BR>La sesión especial para las Serie V, de la Emisión 2019-I y la Serie III de la Emisión 2019-II, por un monto de Bs. 5.000.000.000,00 c/u., de Papeles Comerciales al Portador, es a partir del 12 de marzo de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 123 y 121 de fecha 30/10/2019<BR>Emisor	CARGILL DE VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>2019-II<BR>Series a colocar		2019-I,  Serie V<BR>2019-II, Serie III<BR>Monto de Emisión. 	Bs.  15.000.000.000,00.<BR>Monto por serie 	2019-I,  Serie V,       Bs.    5.000.000.000,00.<BR>2019-II, Serie III,     Bs.    5.000.000.000,00.<BR>Códigos  ISIN	2019-I,   Serie V,       VEV00392WJX5<BR>2019-II,  Serie III,     VEV00392WJY3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	2019-I,   Serie V,   	CV915P<BR>2019-II,  Serie III, 	CV923P<BR>Fecha de Inicio de Sesión Especial 	12/03/2020<BR>Fecha de Vencimiento de las Series.	10/06/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>|
+NO||Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación de las Series.	83,62%<BR>Base de cálculo 	Actual 30/360<BR>Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 1:00 p.m. <BR>|
+NO||AGRIBRANDS PURINA VENEZUELA, SRL<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de AGRIBRANDS PURINA VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondiente a la Serie IV, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora AGRIBRANDS PURINA VENEZUELA, S.R.L. e inscrita en el Registro Nacional de Valores según Providencia Nro. 122 de fecha 30/10/2019.<BR><BR>La sesión especial para la Serie IV, de la Emisión 2019-I, por el monto de Bs. 3.350.000.000,00, de Papeles Comerciales al Portador, es a partir del 12 de marzo de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 122 de fecha 30/10/2019<BR>Emisor	AGRIBRANDS PURINA VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>Series a colocar		Serie IV<BR>Monto de Emisión. 	Bs.    5.000.000.000,00.<BR>Monto de la serie. 	Bs.    3.350.000.000,00.<BR>Códigos  ISIN	VEV00393WJZ8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	PN914P<BR>Fecha de Inicio de Sesión Especial 	12/03/2020<BR>Fecha de Vencimiento de la Serie.	10/06/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	83,62%<BR>Base de cálculo 	Actual 30/360<BR>Calificación de Riesgo	Clave, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	De 9:30 a.m a 1:00 p.m.<BR>|
+NO||PROPUESTA DE DIVIDENDOS Y MODIFICACIÓN DEL CAPITAL SOCIAL <BR>   BOLSA DE VALORES DE CARACAS, C.A. <BR><BR>Visto que al 31 de diciembre de 2019, la Utilidad Neta del ejercicio económico asciende a Bs 7.029.753.736,00, la Junta Directiva propone a la Asamblea acordar de esa suma un beneficio para los accionistas conforme al siguiente esquema:<BR>1. DIVIDENDO EN EFECTIVO<BR>Reparto de un Dividendo en Efectivo por la cantidad de OCHOCIENTOS SETENTA Y SIETE MILLONES QUINIENTOS MIL BOLÍVARES (Bs.877.500.000,00), a razón de Bs. 30,00 por cada una (1) de las 29.250.000 acciones comunes nominativas que conforman el capital social de la Bolsa<BR>de Valores de Caracas, C.A., cancelado con cargo a la cuenta ¿Utilidades no Distribuidas¿.<BR><BR>2. AUMENTO DE CAPITAL<BR>Aumento de capital social de DOS MILLONES NOVECIENTOS VEINTICINCO MIL BOLÍVARES (Bs. 2.925.000,00) a TRES MIL CUATROCIENTOS MILLONES DE BOLÍVARES (Bs. 3.400.000.000,00) a realizarse de la siguiente forma:<BR><BR>2.1. Dividendo en acciones por la cantidad de DOS MIL QUINIENTOS DIECINUEVE MILLONES QUINIENTOS SETENTA Y CINCO MIL BOLÍVARES (Bs.2.519.575.000,00), a través de la emisión de 25.195.750.000 acciones comunes nominativas, con un valor nominal de Bs 0,10 cada una, a razón de 861,393162393162 acciones nuevas por cada (1) acción en tenencia, totalmente canceladas con cargo a la cuenta ¿Utilidades no Distribuidas¿.<BR><BR>2.2. Suscripción de acciones por parte de los accionistas, por la cantidad de OCHOCIENTOS SETENTA Y SIETE MILLONES QUINIENTOS MIL BOLÍVARES (Bs. 877.500.000,00) a razón de 300 acciones comunes nominativas, no convertibles al portador con un valor nominal de Bs 0,10 a un precio de suscripción de Bs. 0,10, por cada una de las 29.250.000 acciones comunes nominativas que conforman el capital social de la Bolsa de Valores de Caracas, C.A.<BR>|
+NO||Se entenderá que los accionistas habrán ejercido su derecho preferente a suscribir las acciones, salvo que notifiquen por escrito a la Bolsa de Valores de Caracas lo contrario, dentro de los lapsos que se establezcan al efecto.<BR>Las acciones no suscritas por los accionistas en ejercicio de su derecho preferencial, así como las provenientes de la conjugación de las fracciones de acciones que resulten del dividendo en acciones,<BR>serán suscritas y pagadas a valor nominal, a quien corresponda, por la Fundación Instituto Venezolano de Mercado de Capitales.<BR><BR>3. CANJE DE ACCIONES<BR>Cambio del valor nominal de las acciones que conforman el capital social de la Bolsa de Valores de Caracas, C.A., de Bs. 0.10 a la cantidad de Bs. 68,00 y subsecuente canje de acciones, a razón de una (1) acción con un valor nominal Bs. 68,00 por cada 680 acciones con valor nominal Bs. 0,10 en<BR>tenencia, quedando representado el capital social de la Bolsa de Valores de Caracas, C.A. en TRES MIL CUATROCIENTOS MILLONES DE BOLÍVARES CON 00/100 (Bs. 3.400.000.000,00), dividido en 50.000.000 de acciones comunes nominativas no convertibles al potador, con un valor nominal de Bs. 68,00 cada una.<BR><BR>El aumento de capital se llevará a cabo una vez que haya sido autorizada la oferta pública de las nuevas acciones por la Superintendencia Nacional de Valores y éstas hayan sido inscritas en el Registro Nacional de Valores, debiéndose dar cumplimiento a lo establecido en las `¿NORMAS <BR>RELATIVAS A LA INFORMACIÓN SOBRE PAGO DE DIVIDENDOS QUE DEBEN SUMINISTRAR LAS EMPRESAS QUE HACEN OFERTA PÚBLICA DE SUS ACCIONES¿¿, dictadas por ese<BR>organismo y publicadas en la Gaceta Oficial de la República Bolivariana de Venezuela N° 38.007 de fecha 24 de agosto de 2004 y que el Acta de Asamblea contentiva de los Estatutos modificados sea protocolizada ante el Registro Mercantil Primero de la Circunscripción Judicial del Distrito Capital y Estado Miranda.|
+NO||Asimismo, el canje de las acciones por efecto de la modificación del valor nominal<BR>en la CVV Caja Venezolana de Valores, se realizará una vez que se hayan hecho los ajustes correspondientes en el asiento de inscripción correspondiente a las acciones de Bolsa de Valores de Caracas, C.A., que lleva el Registro Nacional de Valores, de conformidad con lo establecido en las ¿NORMAS RELATIVAS AL FUNCIONAMIENTO DEL REGISTRO NACIONAL DE VALORES¿, dictadas por ese Organismo y publicadas en la Gaceta Oficial de la República Bolivariana de Venezuela Nro. 39.574 de fecha 15 de diciembre de 2010.<BR>|

@@ -1,0 +1,68 @@
+IG|09102019|52777.46|2059.4|4.06|62004.3|347.92|543.78|1.04|
+IF|09102019|96180.11|4015.58|4.36|
+II|09102019|19961.43|538.34|2.77|
+R|B.DE VENEZUELA|BVL|900|900|0|0|899|899|899|1|4|3596||2|
+R|B.OCC.DCTO.B.U.|BOU|7.5|7|-.5|-6.67|7|7.5|7.03|18|1285162|9038387.57||3|
+R|BCO. CARIBE "A"|ABC.A|22000|22500|500|2.27|22500|23000|22993.51|3|77|1770500||1|
+R|BCO. PROVINCIAL|BPV|85000|88500|3500|4.12|85000|88500|86490.43|24|1774|153434018||1|
+R|BCO.NAC.CREDITO|BNC|334|332.5|-1.5|-.45|330|335|332.68|34|84590|28092388.5||3|
+R|BOLSA V. CCAS.($)|BVCC|6700|7230|530|7.91|7230|7230|7230|14|7696|52741430||1|
+R|CANTV CLASE (D)|TDV.D|4200|4500|300|7.14|4190|4500|4200.69|5|2015|8464400||1|
+R|CORIMON C.A.|CRM.A|3649|3650|1|.03|3150|3650|3189.54|5|693|2210350||1|
+R|CORP.GPO.QUIM.|CGQ|12112|12500|388|3.2|12500|13499|12653.69|3|52|657992||1|
+R|CORP.IND.ENERGIA|CIE|500|515|15|3|515|515|515|2|1100|566500||1|
+R|CR.CARABOBO|CCR|105000|105000|0|0|105000|105000|105000|1|1|105000||2|
+R|DOMINGUEZ & CIA|DOM|12880|13300|420|3.26|12900|13300|12992.93|4|4317|56090500||1|
+R|ENVASES VZLOS.|ENV|6750|7000|250|3.7|6750|7000|6801.49|10|2015|13705000||1|
+R|FAB.N.CEMENTOS|FNC|8550|10259.5|1709.5|19.99|10259.5|10259.5|10259.5|2|8|82076||1|
+R|FONDO V.INM.(A)|FVI.A|300|300|0|0|300|300|300|1|1|300||2|
+R|FONDO V.INM.(B)|FVI.B|224.95|220|-4.95|-2.2|220|225|220.4|26|254369|56025952.25||3|
+R|GRUPO ZULIANO|GZL|13000|13000|0|0|12990|13000|12993.75|2|40|519750||2|
+R|INM.VAL.Y CAP.|IVC|24150|24150|0|0|24150|24150|24150|1|1|24150||2|
+R|MANPA, C.A. SACA|MPA|1900|1900|0|0|1900|1900|1900|1|1509|2867100||2|
+R|MERCANTIL S.(A)|MVZ.A|75016.01|80000|4983.99|6.64|75200|80000|76107.45|19|979|74485600||1|
+R|MERCANTIL S.(B)|MVZ.B|75010|79500|4490|5.99|75200|79500|76392.15|15|822|62794350||1|
+R|PROAGRO|PGR|754|750|-4|-.53|745|750|749.57|6|3778|2831875||3|
+R|PRODUCTOS EFE|EFE|1400|1350|-50|-3.57|1350|1400|1351.05|4|285|385050||3|
+R|PROTINAL|PTN|1000|1000|0|0|970|970|970|1|2|1940||2|
+R|RON STA. TERESA|RST|12840|13500|660|5.14|12800|13500|12801.04|13|1344|17204600||1|
+R|SIVENSA, S.A.|SVS|4500|4500|0|0|4500|4500|4500|1|100|450000||2|
+R|T. PALO GRANDE|TPG|129.98|150|20.02|15.4|145|150|149.92|2|305|45725||1|
+P|BOLSA V. CCAS.|BVCC||||0|7230|7230|7230|1|11193|77231700||
+P|FONDO V.INM.(B)|FVI.B||220|||220|225|220.4|5|73919|16936365.99||
+VT|14|5|8|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)AP911P-Colocación Primaria. Automercados Plaza.|
+BP|P.C. AP.19-I-1P|AP911P|90|90|0|0|90|90||4|1550000000|1395000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|761|899|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|20000|22000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|331|332.5|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|87000|90000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|6.36|7|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6800|7230|
+CC|C.A. RON SANTA TERESA|12650|13500|
+CC|C.A. TELARES DE PALO GRANDE|104|144|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|4000|4500|
+CC|CERAMICA CARABOBO, SACA|80000|105000|
+CC|CORIMON, C.A.|3649|3650|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|470|515|
+CC|CORP.GRUPO QUIMICO, C.A.|12112|12500|
+CC|DOMINGUEZ & CIA., S.A.|12600|13300|
+CC|ENVASES VENEZOLANOS S.A.|6850|7000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6841|10259.5|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|271|300|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|220|224|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||24150|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1521|1950|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|78000|79500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|78000|79500|
+CC|PROAGRO C.A.|701|750|
+CC|PRODUCTOS EFE S.A.||1400|
+CC|PROTINAL C.A.|801|970|
+CC|SIVENSA, S.A|3601|4500|
+NO|BANCO PROVINCIAL, S.A., BANCO UNIVERSAL|HECHO DE IMPORTANCIA<BR> BANCO PROVINCIAL, S.A., BANCO UNIVERSAL<BR><BR>El Consejo de administración, atendiendo al exhorto formulado por la Superintendencia de las Instituciones del Sector Bancario de aumentar el capital social, le presentó a dicho organismo un Plan de Capitalización.<BR><BR>Primero. - Elevar el capital social de Banco Provincial SA Banco Universal a la cantidad de Bs. 3.750.000.000, mediante la capitalización hasta por la cantidad de Bs 3.749.989.217,25 de saldos disponibles al 31 de diciembre de 2018, lo cual se haría de la manera siguiente:  con cargo al superávit Restringido se capitalizaría la cantidad Bs 1.945.930.671,00 y con cargo a Superávit por Aplicar la cantidad de Bs 1.804.058.546,25. Dentro de esta cantidad están incluidos los Bs 21.565,50 los cuales la Asamblea apruebe previamente dejar sin efecto la decisión de la Asamblea General Ordinaria de Accionistas del 24 de septiembre de 2014, en lo atinente al pago de ese dividendo en acciones por Bs 21.565,50, a fin de evitar la duplicidad del aumento del capital social.<BR>El aumento de capital propuesto en la cantidad de Bs. 3.749.989.217,25, conlleva a la emisión de 37.499.892.172.525 nuevas acciones nominativas con un valor nominal de Bs 0,0001 cada una. Estas nuevas acciones serían distribuidas a título de dividendo en acciones entre los accionistas de la institución, lo cual se haría en proporción a la participación de cada accionista dentro del capital social del Banco, correspondiéndole a cada accionista por cada acción en tenencia, la cantidad 347.776,781126749, de esas nuevas acciones.<BR><BR>Segundo. - La modificación del valor nominal de la acción, de resultar aprobado por la Asamblea, se llevaría a cabo una vez distribuidas entre los accionistas las 37.499.892.172.525 acciones provenientes del aumento de capital.<BR>|
+NO||Con el cambio del valor nominal de la acción, en la Fecha de Canje se le entregaría al accionista por cada 100.000 acciones de Bs. 0,0001, una (1) nueva acción de Bs 10,00.<BR>Los accionistas, cuya fracción resultante sea igual o mayor a cinco décimas (0,5) de acción, tendrán el derecho de poder comprar la diferencia para completar la acción siguiente, calculado su precio con base en el nuevo valor nominal de Bs 10. Los accionistas, cuya fracción resultante sea menor a cinco décimas (0,5) de acción, tienen derecho a recibir el pago de dicha fracción calculado al precio de cierre de la Fecha Límite de Transacción con Beneficio, en que se coticen las acciones del Banco Provincial en la Bolsa de Valores de Caracas.<BR>Es importante resaltar que dichos actos se llevarán a cabo a partir de la fecha en que se obtengan las autorizaciones correspondientes de la Superintendencia de las Instituciones del Sector Bancario y de la superintendencia Nacional de Valores SUNAVAL.<BR>En virtud de lo expresado en el párrafo anterior y de conformidad con lo establecido en las Normas Relativas a la Información sobre Pago de Dividendos que deben suministrar las Empresas que hacen Oferta Pública de sus acciones, el Consejo de Administración le solicitara a la Asamblea de accionistas lo siguiente:<BR>1.	Que le delegue, en cuanto a la oportunidad y fecha de pago del dividendo en acciones provenientes del aumento de capital, la facultad para fijar la FECHA LÍMITE DE TRANSACCION CON BENEFICIO y la FECHA EFECTIVA DE REGISTRO DEL BENEFICIO.<BR>2.	Que le delegue, en cuanto al cambio del valor nominal de la acción, la facultad para fijar la FECHA DE CIERRE (el día hasta el cual se podrán adquirir las fracciones de acciones del banco, de conformidad con los términos antes expuestos, calculado su precio con base en el nuevo valor nominal de Bs 10,00) y la FECHA DE CANJE, (fecha en la cual serán sustituidas las acciones de Bs 0,0001 por las nuevas acciones de Bs 10,00).<BR>|
+NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|PROYECTO DE ASAMBLEA AUMENTO DE CAPITAL <BR>      BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.<BR><BR> De conformidad con los artículos 13 literal i, 17 y 31, numeral 8, de los estatutos sociales, la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A. ha resuelto convocar a los accionistas para la Asamblea General Extraordinaria que se celebrará el lunes 21 de octubre de 2019, a las 9:00 a.m., en la oficina del Banco ubicada en la avenida Blandín, La Castellana, Mezzanina Norte, Pent-house, Caracas, con el fin de tratar los siguientes puntos:<BR><BR> Primero. -  Considerar, aprobar o desaprobar un aumento del capital social.<BR>Propuesta a los accionistas siguiente Plan:<BR> 1) tendrán derecho a suscribir el aumento de capital en efectivo todos los accionistas que tienen esa cualidad de acuerdo con el libro de Accionistas para el momento de la celebración de esta ASAMBLEA, en proporción a su tenencia accionaria, de conformidad con el documento estatutario;<BR> 2) el plazo que se fija para que los accionistas formalicen su intención de suscripción de las acciones en atención a su participación accionaria y para proceder el pago correspondiente, será de diez (10) y veinticinco (25) días respectivamente, contados a partir del día siguiente de la publicación del aviso respectivo, de conformidad con lo establecido en el artículo 6 de los estatutos sociales del Banco Occidental de Descuento; y<BR> 3) los accionistas que así lo dispongan podrán solicitar su inscripción en una lista para suscribir y pagar proporcionalmente las acciones no suscritas o no pagadas por algún otro accionista.<BR>|

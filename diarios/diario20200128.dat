@@ -1,0 +1,60 @@
+IG|28012020|102104.8|-5956.4|-5.51|124789.33|4640.24|49871.12|95.48|
+IF|28012020|182812.69|-13003.23|-6.64|
+II|28012020|41608.56|-280.26|-.67|
+R|B.DE VENEZUELA|BVL|1500|1350|-150|-10|1300|1500|1303.13|12|20735|27020500||3|
+R|B.OCC.DCTO.B.U.|BOU|17|16.9|-.1|-.59|16.9|18|17|8|57968|986997||3|
+R|BCO. CARIBE "A"|ABC.A|39000|39000|0|0|0|0|0|2|75|3000000||2|
+R|BCO. PROVINCIAL|BPV|170000|160000|-10000|-5.88|150000|160000|155002.43|13|206|31930500.06||3|
+R|BCO.NAC.CREDITO|BNC|600|600|0|0|600|600|600|25|76182|45709200||2|
+R|BOLSA V. CCAS.($)|BVCC|17000.02|17000.02|0|0|17000|17800|17034.01|17|7255|123580059.57||2|
+R|CANTV CLASE (D)|TDV.D|8999|9000|1|.01|8999|9000|8999.93|8|760|6839945||1|
+R|CORP.IND.ENERGIA|CIE|2800|2800|0|0|2800|2800|2800|1|110|308000||2|
+R|DOMINGUEZ & CIA|DOM|30000|25000|-5000|-16.67|25000|25000|25000|3|300|8500000||3|
+R|ENVASES VZLOS.|ENV|14500|14500|0|0|0|0|0|1|500|7250000||2|
+R|FAB.N.CEMENTOS|FNC|12150|14580|2430|20|14580|14580|14580|1|20|291600||1|
+R|FONDO V.INM.(A)|FVI.A|637|764|127|19.94|764|764|764|2|2508|1743240||1|
+R|FONDO V.INM.(B)|FVI.B|450|425|-25|-5.56|400|450|404.82|14|20673|8524080||3|
+R|GRUPO ZULIANO|GZL|45000|45000|0|0|45000|45000|45000|1|6|270000||2|
+R|INM.VAL.Y CAP.|IVC|32000|32000|0|0|32000|32000|32000|1|250|8000000||2|
+R|MANPA, C.A. SACA|MPA|4000|4000|0|0|4000|4000|4000|1|145|580000||2|
+R|MERCANTIL S.(A)|MVZ.A|195000|162000|-33000|-16.92|162000|194000|167333.33|3|13|2202000||3|
+R|MERCANTIL S.(B)|MVZ.B|161000|162000|1000|.62|162000|162000|162000|3|144|27482000||1|
+R|PRODUCTOS EFE|EFE|2949.75|2900|-49.75|-1.69|2400|2900|2636.84|3|1575|4586403.75||3|
+R|RON STA. TERESA|RST|28000|28000.01|.01|0|27000|28001|27998.5|15|4526|126823037.91||1|
+R|T. PALO GRANDE|TPG|282|277|-5|-1.77|275|300|292.32|9|5499|1607473||3|
+P|BOLSA V. CCAS.|BVCC||17000.02|||17000|17800|17034.01|3|7750|132800000||
+P|ENVASES VZLOS.|ENV||14500|||0|0|0|2|9000|122700000||
+VT|5|8|8|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|NETUNO 19-I-4 P|NU914P|87.91|88.37|.46|.52|88.37|88.37||1|824000000|728193520||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1300|1350|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|36000|44000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|595|600|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|160000|165000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|15|16.99|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|17000.02|17800|
+CC|C.A. RON SANTA TERESA|28000.01||
+CC|C.A. TELARES DE PALO GRANDE|277|300|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8000||
+CC|CERAMICA CARABOBO, SACA|90000||
+CC|CORIMON, C.A.|4900|5189|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||3359.99|
+CC|CORP.GRUPO QUIMICO, C.A.|25000|30959|
+CC|DOMINGUEZ & CIA., S.A.|26000|30000|
+CC|ENVASES VENEZOLANOS S.A.|15000|15450|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||14580|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|510|764|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|410|450|
+CC|GRUPO ZULIANO, C.A.||44090|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|29000|34000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|3201|4000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|162000|192000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|162000|192500|
+CC|PROAGRO C.A.|961|1200|
+CC|PRODUCTOS EFE S.A.||2900|
+CC|PROTINAL C.A.|900||
+CC|SIVENSA, S.A||13000|
+NO|C.A. RON SANTA TERESA,|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Variable del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Acciones Comunes Clase B nominativas, no convertibles al portador, de C.A. Ron Santa Teresa, a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Acciones Comunes Clase B nominativas, no convertibles al portador, por un monto de Seis Millones (6.000.000) acciones, emitidas por la Empresa Emisora, C.A. Ron Santa Teresa, e inscritas en el Registro Nacional de Valores, según Providencia Nro. 0-131 de fecha 14/11/2019.<BR><BR>La sesión especial para la Colocación Primaria de las Acciones Comunes Clase B, de C.A. Ron Santa Teresa, se estarán colocando a través de rondas, siendo la primera ronda de Un Millón (1.000.000) de acciones, sería a partir del 29 de enero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Acciones Comunes Clase B<BR>Autorización SNV 	Providencia Nro. 0-131 de fecha 14/11/2019<BR>Emisor	C.A. Ron Santa Teresa<BR>Emisión 	2019<BR>Monto de Emisión. 	6.000.000 Acciones.<BR>Monto a Colocar Primera Ronda	1.000.000 Acciones<BR>Códigos  ISIN	VEV0006310B4<BR>Código de Símbolo en SIBE, Mercado Primario	RSB.O<BR><BR>Fecha de Inicio de Sesión Especial 	29/01/2020<BR>|
+NO||Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Agentes de Distribución	Rendivalores Casa de Bolsa, C.A.<BR>Solfin Casa de Bolsa, C.A.<BR>Caja Caracas Casa Bolsa, C.A.<BR>Fivenca, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos<BR><BR>Precio de Colocación	Bs. 25.650,00.<BR><BR>El precio por acción Clase B estará determinado con fundamento en el resultado de multiplicar el precio de cierre en la Bolsa de Valores de Caracas de la acción de C.A. Ron Santa Teresa, del día 24 de enero de 2020, por el factor de (95%).<BR>Horario de Sesión Especial	 De 9:00a.m a 1:00 p.m. <BR>Custodia.	Caja Venezolana de Valores, C.A<BR>|

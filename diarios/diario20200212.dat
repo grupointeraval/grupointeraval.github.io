@@ -1,0 +1,68 @@
+IG|12022020|128255.12|-898.04|-.7|129541.1|4640.24|76021.44|145.54|
+IF|12022020|231596.53|-1723|-.74|
+II|12022020|50462.68|-260.28|-.51|
+R|B.DE VENEZUELA|BVL|2415|2590|175|7.25|2590|2590|2590|3|525|1359750||1|
+R|B.OCC.DCTO.B.U.|BOU|19.48|20|.52|2.67|19|20|19.78|9|1265500|25077950||1|
+R|BCO. PROVINCIAL|BPV|207000|204000|-3000|-1.45|204000|207000|205333.33|10|120|24640000||3|
+R|BCO.NAC.CREDITO|BNC|697.98|698|.02|0|690|700|693.88|32|848829|567075272.15||1|
+R|BOLSA V. CCAS.($)|BVCC|23000|22450|-550|-2.39|22000|23000|22246.56|16|1934|43024850||3|
+R|CANTV CLASE (D)|TDV.D|9000|9000|0|0|9000|9000|9000|4|1400|12600000||2|
+R|CORIMON C.A.|CRM.A|6000|6050|50|.83|6050|6050|6050|1|30|181500||1|
+R|CORP.GPO.QUIM.|CGQ|28000|33599|5599|20|33599|33599|33599|1|5|167995||1|
+R|CORP.IND.ENERGIA|CIE|3400|3400|0|0|3400|3400|3400|3|50|170000||2|
+R|CR.CARABOBO|CCR|190000|227999|37999|20|190000|227999|201399.7|3|10|2013997||1|
+R|DOMINGUEZ & CIA|DOM|30000|31000|1000|3.33|30000|31000|30108.23|4|462|13910000||1|
+R|ENVASES VZLOS.|ENV|18000|18100|100|.56|18100|18400|18106.67|9|5420|98138170||1|
+R|FAB.N.CEMENTOS|FNC|16500|17000|500|3.03|17000|17000|17000|1|20|340000||1|
+R|FONDO V.INM.(A)|FVI.A|797|950|153|19.2|950|950|950|4|2967|2818650||1|
+R|FONDO V.INM.(B)|FVI.B|599|600.05|1.05|.18|599|600.05|599.99|26|595156|353256420||1|
+R|GRUPO ZULIANO|GZL|44000|42000|-2000|-4.55|42000|44000|42750|2|8|342000||3|
+R|MANPA, C.A. SACA|MPA|5500|5600|100|1.82|5600|6599.99|5818.75|2|32|186199.93||1|
+R|MERCANTIL S.(A)|MVZ.A|207000|206500|-500|-.24|206500|207000|206990.03|10|251|51954498.36||3|
+R|MERCANTIL S.(B)|MVZ.B|207000|206500|-500|-.24|206500|207000|206884.62|6|49|10133500||3|
+R|PROAGRO|PGR|1350|1100.01|-249.99|-18.52|1100.01|1330|1112|6|58213|65496149.33||3|
+R|R.S.TERESA "B"|RST.B|37000|37000|0|0|36000|37000|36459.46|6|185|6745000||2|
+R|RON STA. TERESA|RST|36100|36115|15|.04|36000|37000|36120.91|16|1098|39660030||1|
+R|SIVENSA, S.A.|SVS|13800|11500|-2300|-16.67|11050|13800|11991.32|5|680|8154100||3|
+R|T. PALO GRANDE|TPG|375|390|15|4|390|390|390|5|10667|4160130||1|
+P|BCO.NAC.CREDITO|BNC||698|||690|700|693.88|3|22968898|14929783700||
+P|CR.CARABOBO|CCR||227999|||190000|227999|201399.7|1|85|19379915||
+P|FONDO V.INM.(B)|FVI.B||600.05|||599|600.05|599.99|2|21337|12802150||
+P|PROAGRO|PGR||1100.01|||1100.01|1330|1112|1|20000|27000000||
+P|RON STA. TERESA|RST||36115|||36000|37000|36120.91|1|95|3439000||
+VT|14|7|3|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|PC.MR.VZL 19 3 P|MR913P|83.91|84.06|.15|.18|84.06|84.06||2|27000000|22697280||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1950|2588|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|40001|48400|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|680|698|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|204000|206000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|20|22|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|21500|22450|
+CC|C.A. RON SANTA TERESA|36115|37000|
+CC|C.A. RON SANTA TERESA (CLASE B)|35000|37000|
+CC|C.A. TELARES DE PALO GRANDE|375|390|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|9000|9300|
+CC|CERAMICA CARABOBO, SACA|161000|227999|
+CC|CORIMON, C.A.|5500|6589|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||3400|
+CC|CORP.GRUPO QUIMICO, C.A.|27000|33599|
+CC|DOMINGUEZ & CIA., S.A.|31000|33000|
+CC|ENVASES VENEZOLANOS S.A.|18100|18400|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||17000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|850|1100|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|600|609.99|
+CC|GRUPO ZULIANO, C.A.|40000|42000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|34000||
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4500|5600|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|192000|205000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|191000|205000|
+CC|PROAGRO C.A.|1102|1350|
+CC|PRODUCTOS EFE S.A.|2721|3999.99|
+CC|PROTINAL C.A.|2400.01|3599.97|
+CC|SIVENSA, S.A|11040|12500|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|BTP DISTRIBUCIONES, S.A.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de BTP DISTRIBUCIONES, S.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie II, de la Emisión 2019, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora BTP DISTRIBUCIONES, S.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 097 de fecha 26/08/2019.<BR><BR>La sesión especial para la Serie II, de la Emisión 2019, por el monto de Bs. 500.000.000,00, de Papeles Comerciales al Portador, sería a partir del 11 de febrero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 097 de fecha 26/08/2019<BR>Emisor	BTP DISTRIBUCIONES, S.A.<BR>Emisión 	2019<BR>Series a colocar		Serie II.<BR>Monto de Emisión. 	Bs.  7.000.000.000,00.<BR>Monto por serie 	Serie II       Bs. 500.000.000,00.<BR>Códigos  ISIN	Serie II       VEV00386WJO6<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie I	       PD92P<BR>Fecha de Inicio de Sesión Especial 	11/02/2020<BR>Fecha de Vencimiento de la Serie.	12/06/2020<BR>Agentes de la Colocación 	Interbono Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	83,55%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Global Ratings, Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Ala, Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m.<BR>|
+NO|C.A. RON SANTA TERESA,|OFERTA PÚBLICA DE QUINIENTOS MIL (500.000) ACCIONES CLASE B COMUNES, NOMINATIVAS, NO CONVERTIBLES AL PORTADOR<BR>La autorización otorgada por la Superintendencia Nacional de Valores para la presente emisión fue inscrita en el Registro Nacional de Valores, según Providencia número Nro. 0-131 de fecha 14 de noviembre de 2019, hasta por Seis Millones (6.000.000) de Acciones Clase B, comunes, nominativas, no convertibles al portador. <BR><BR>La presente emisión de acciones Clase B se ofrece de conformidad con lo resuelto en la Asamblea General Extraordinaria de Accionistas de C.A Ron Santa Teresa (CARST), por lo acordado por la Junta Directiva del Emisor, celebradas en fecha 16 de noviembre y 14 de diciembre respectivamente del año 2018, y Hoja de Términos de fecha 4 de febrero de 2020. <BR><BR>La Junta Directiva actuando suficiente y debidamente autorizada por la asamblea de accionistas de C.A. Ron Santa Teresa, y con base en lo establecido en el Punto No. 2 del Prospecto autorizado, decidió efectuar la colocación primaria de las acciones Clase B mediante sucesivas Rondas de Colocación Primaria Ronda, siendo esta segunda Ronda por la cantidad de quinientas mil (500.000) Acciones Clase B a ser colocadas bajo las siguientes condiciones: <BR>Tipo de valor:  Acciones Clase B, comunes, nominativas, no convertibles al portador. <BR>Precio por acción Clase B: El precio por acción Clase B estará determinado con fundamento en el resultado de multiplicar el precio de cierre en la Bolsa de Valores de Caracas de la acción Clase B de CARST del día tres (03) de marzo de 2020, por el factor de noventa y cinco por ciento (95%). <BR>Sistema de Colocación:  Colocación A Mayores Esfuerzos<BR>Comisión:  En ningún caso, dentro de esta colocación, podrá cobrarse monto alguno al inversionista por concepto de comisión de compra de acciones Clase B. <BR><BR><BR>|
+NO||Período de recepción de órdenes :<BR>El periodo de recepción de órdenes de la presente Ronda iniciará el trece (13) de febrero de 2020 a las 8:30 a.m. y culminará el tres (03) de marzo de 2020 a las 3:00 pm hora de la República Bolivariana de Venezuela según el  orden de preferencia revisar el comunicado de fecha 12 de febrero de 2020 de CA RON SANATA TERESA.<BR>|

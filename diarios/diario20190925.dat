@@ -1,0 +1,73 @@
+IG|25092019|50446.36|-291.38|-.57|62004.3|319.7|-1787.32|-3.42|
+IF|25092019|90254.14|-281.77|-.31|
+II|25092019|20616.78|-338.54|-1.62|
+R|B.DE VENEZUELA|BVL|951|950|-1|-.11|950|951|950.03|5|1701|1616002||3|
+R|B.OCC.DCTO.B.U.|BOU|9|7.2|-1.8|-20|7.2|9|7.28|26|1551100|11291343.21||3|
+R|BCO. CARIBE "A"|ABC.A|20000|20000|0|0|20000|20000|20000|2|220|4400000||2|
+R|BCO. PROVINCIAL|BPV|85000|85000|0|0|80000|85000|81094.51|27|773|62686056||2|
+R|BCO.NAC.CREDITO|BNC|386|382|-4|-1.04|380|385|381.93|16|6324696|2403412775||3|
+R|BOLSA V. CCAS.($)|BVCC|6500|6500|0|0|6500|6500|6500|26|4381|28567800||2|
+R|CANTV CLASE (D)|TDV.D|5500|5500|0|0|5500|5500|5500|3|78|429000||2|
+R|CORIMON C.A.|CRM.A|3681|3700|19|.52|3700|3700|3700|5|89|329300||1|
+R|DOMINGUEZ & CIA|DOM|13000|12980|-20|-.15|12500|12980|12673.63|7|71056|923525000||3|
+R|ENVASES VZLOS.|ENV|7200|6900|-300|-4.17|6900|7250|6942.15|8|1402|9732900||3|
+R|FONDO V.INM.(A)|FVI.A|300|300|0|0|299.99|300|300|4|2690|806997.5||2|
+R|FONDO V.INM.(B)|FVI.B|235|235.9|.9|.38|235|237|236.32|23|7665801|1793897004.8||1|
+R|INM.VAL.Y CAP.|IVC|20150|24150|4000|19.85|24150|24150|24150|1|60|1449000||1|
+R|MANPA, C.A. SACA|MPA|2050|2030|-20|-.98|2030|2047|2030.08|3|1015|2060535||3|
+R|MERCANTIL S.(A)|MVZ.A|70000|70000|0|0|70000|70000|70000|12|460|32200000||2|
+R|MERCANTIL S.(B)|MVZ.B|70000|70000|0|0|70000|70000|70000|9|120|8400000||2|
+R|PROAGRO|PGR|845|845|0|0|845|845|845|2|1200|1014000||2|
+R|RON STA. TERESA|RST|14100|14045|-55|-.39|14045|14160|14054.78|10|586|8236100||3|
+R|SIVENSA, S.A.|SVS|4750|4200|-550|-11.58|4200|4200|4200|1|937|3935400||3|
+R|T. PALO GRANDE|TPG|135|135|0|0|135|135|135|1|3575|482625||2|
+P|B.DE VENEZUELA|BVL||950|||950|951|950.03|2|29988|29958012||
+P|BCO.NAC.CREDITO|BNC||382|||380|385|381.93|2|1974|759816||
+P|BOLSA V. CCAS.|BVCC|||||6500|6500|6500|4|59382|372899480||
+P|CORP.IND.ENERGIA|CIE||900|||0|0|0|2|18900|17388000||
+P|CR.CARABOBO|CCR||106000|||0|0|0|2|42|4452000||
+P|ENVASES VZLOS.|ENV||6900|||6900|7250|6942.15|4|55267|414426750||
+P|FAB.N.CEMENTOS|FNC||7500|||0|0|0|2|670|5222650||
+P|FONDO V.INM.(B)|FVI.B||235.9|||235|237|236.32|1|199|46765||
+P|GRUPO ZULIANO|GZL||13000|||0|0|0|2|89844|1167972000||
+P|INM.VAL.Y CAP.|IVC||24150|||24150|24150|24150|2|7024|141533600||
+P|MERCANTIL S.(A)|MVZ.A||70000|||70000|70000|70000|4|3945|276150000||
+P|MERCANTIL S.(B)|MVZ.B||70000|||70000|70000|70000|4|4394|307580000||
+P|PROAGRO|PGR||845|||845|845|845|2|27162|23087700||
+P|PRODUCTOS EFE|EFE||1400|||0|0|0|2|368|441600||
+P|PROTINAL|PTN||1050|||0|0|0|2|660|693000||
+P|RON STA. TERESA|RST||14045|||14045|14160|14054.78|2|28358|397012000||
+P|SIVENSA, S.A.|SVS||4200|||4200|4200|4200|2|4320|20520000||
+P|T. PALO GRANDE|TPG||135|||135|135|135|2|22330|3103870||
+VT|3|8|9|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|950|999.98|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|16001|20000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|381|384|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|81000|85000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|7.2|7.25|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6300|6500|
+CC|C.A. RON SANTA TERESA|11500|14045|
+CC|C.A. TELARES DE PALO GRANDE|122|134|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|4500|5400|
+CC|CERAMICA CARABOBO, SACA||105000|
+CC|CORIMON, C.A.|2950|3820|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||899|
+CC|CORP.GRUPO QUIMICO, C.A.|5501||
+CC|DOMINGUEZ & CIA., S.A.|12500|12980|
+CC|ENVASES VENEZOLANOS S.A.|6900|6980|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6002|7900|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|241|300|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|235.05|235.3|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1651|2030|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|65000|71000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|65000|71000|
+CC|PROAGRO C.A.|676.03|825|
+CC|PRODUCTOS EFE S.A.||1350|
+CC|PROTINAL C.A.||1000|
+CC|SIVENSA, S.A|4200|4750|
+NO|BANCO DEL CARIBE, C.A. BANCO UNIVERSAL|A continuación, se informa la inscripción en pizarra de las acciones en circulación de la sociedad emisora Banco del Caribe, C.A. Banco Universal ¿BANCARIBE¿ como consecuencia de un aumento de capital social de Bs 84,30, mediante la emisión de 3.000.000 de nuevas acciones Clase A y B a ser suscritas y pagadas por los actuales accionistas del Banco a razón de tres (3) nuevas acciones por cada ciento cuatro acciones (104) en tenencia, emitidas con prima, con un valor nominal de BsF. 2,81 (BsS 0,0000281) por acción y con una prima de emisión de BsF. 329,19 (BsS 0,0032919) cada una para el momento.<BR><BR>Este aumento de capital fue acordado en la Asamblea General Extraordinaria de Accionistas celebrada el 15/09/2016, aprobado por la Superintendencia de las Instituciones del Sector Bancario mediante Oficio SIB-II-GGR-GA-01672 de fecha 08/02/2019 y autorizado por la Superintendencia Nacional de Valores (SNV), bajo la Providencia N° DSNV/0850 de fecha 11/07/2019.<BR><BR>ABC.A<BR>Nro. Acciones en Circulación                 89.166.667	<BR>Nuevas Acciones Emitidas                       500.000 	<BR>Total Nro De Acciones en Circulación    91.666.667<BR><BR>ABC.B<BR>Nro Acciones en Circulación                   17.833.333	<BR>Nuevas Acciones Emitidas                           500.000  	<BR>Total Nro de Acciones en Circulación      18.333.333<BR><BR>TOTAL   110.000.000  	<BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|NOTIFICACIÓN DSNV/CJU/01140<BR>SUPERINTENDENCIA NACIONAL DE VALORES (SUNAVAL)<BR><BR>Me es grato dirigirme a usted en la oportunidad de extenderle un cordial saludo en nombre de las trabajadoras y trabajadores de la Superintendencia Nacional de Valores, equipo comprometido con el Desarrollo Económico y Social de nuestra República Bolivariana de Venezuela; en relación a la suspensión temporal de la cotización de la acción del Banco Occidental de Descuento, Banco Universal C.A. (BOD), acordada en el oficio Nro. DSNV/CJU/01119 de fecha 13 de septiembre 2019.<BR>En virtud de lo antes expuesto, y de conformidad con los artículos 3 numeral 1, 94 y 98 numeral 7 del Decreto con Rango Valor y Fuerza de Ley de Mercado de Valores, por medio del presente, se ordena levantar la medida de suspensión temporal arriba indicada. <BR>Atentamente<BR><BR>Carlos Enrique Herrera Martínez<BR>Superintendente Nacional de Valores (E)<BR><BR>Caracas, 24 de septiembre de 2019<BR>|

@@ -1,0 +1,60 @@
+IG|05032020|104630.66|418.82|.4|129541.1|8194.59|52396.98|100.31|
+IF|05032020|178818.61|779.17|.44|
+II|05032020|50456.51|143.79|.29|
+R|B.OCC.DCTO.B.U.|BOU|22.99|23|.01|.04|23|23|23|4|21105|485415||1|
+R|BCO. PROVINCIAL|BPV|148000|149000|1000|.68|147000|150000|147815.53|11|103|15225000||1|
+R|BCO.NAC.CREDITO|BNC|630|645|15|2.38|630|645|635.9|15|51870|32984250||1|
+R|BOLSA V. CCAS.($)|BVCC|17790|17620|-170|-.96|17500|17700|17533.54|22|6607|115728025||3|
+R|CANTV CLASE (D)|TDV.D|9000|8999|-1|-.01|8999|8999|8999|1|35|314965||3|
+R|CORIMON C.A.|CRM.A|5401|6000|599|11.09|6000|6000|6000|2|11|66000||1|
+R|DOMINGUEZ & CIA|DOM|33000|33000|0|0|33000|33000|33000|4|430|14190000||2|
+R|ENVASES VZLOS.|ENV|17100|17000|-100|-.58|17000|17790|17096.34|3|41|700950||3|
+R|FONDO V.INM.(B)|FVI.B|559|559|0|0|559|559|559|6|49261|27342299||2|
+R|MANPA, C.A. SACA|MPA|5190|4900|-290|-5.59|4160|4900|4163.55|3|1004|4180200||3|
+R|MERCANTIL S.(A)|MVZ.A|162250|162250|0|0|162250|162250|162250|53|800|129800000||2|
+R|MERCANTIL S.(B)|MVZ.B|150000|150000|0|0|150000|150000|150000|16|323|48450000||2|
+R|PROAGRO|PGR|1450|1170|-280|-19.31|1170|1191|1173.77|4|18200|21362660||3|
+R|PRODUCTOS EFE|EFE|3200|3000|-200|-6.25|3000|3000|3000|3|379|1137000||3|
+R|R.S.TERESA "B"|RST.B|29501|29000|-501|-1.7|29000|30000|29036.23|9|3000|87108691||3|
+R|RON STA. TERESA|RST|38050|38000|-50|-.13|38000|38000|38000|3|829|31502000||3|
+R|T. PALO GRANDE|TPG|420|450|30|7.14|450|450|450|1|230|103500||1|
+P|BOLSA V. CCAS.|BVCC||17620|||17500|17700|17533.54|2|10646|233110139||
+VT|5|8|4|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)GC191P-Colocacion Primaria de Genia Care|
+BP|PC CALOX 19 S-1P|CX91P|77.24|77.33|.09|.12|77.33|77.33||1|500000000|386650000||
+BP|PC.GENIA C.19 1P|GC191P|82|82|0|0|82|82||1|500000000|410000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1800|2200|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|33989|41990|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|638|640|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|148000|149000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|22.5|23|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|17000|17620|
+CC|C.A. RON SANTA TERESA|38000|39000|
+CC|C.A. RON SANTA TERESA (CLASE B)|29000|34000|
+CC|C.A. TELARES DE PALO GRANDE|385|450|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|7601|8999|
+CC|CERAMICA CARABOBO, SACA||450000|
+CC|CORIMON, C.A.|5901|6000|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2480|3100|
+CC|CORP.GRUPO QUIMICO, C.A.||55000|
+CC|DOMINGUEZ & CIA., S.A.|31000|33000|
+CC|ENVASES VENEZOLANOS S.A.|14501|17790|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||20399|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|740|799.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|541|554|
+CC|GRUPO ZULIANO, C.A.|33000|49990|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|32001|39500|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4160|4900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|150000|162250|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|150000|160000|
+CC|PROAGRO C.A.|1183|1400|
+CC|PRODUCTOS EFE S.A.|2601|3000|
+CC|PROTINAL C.A.|2401|3100|
+CC|SIVENSA, S.A|10720|13299|
+NO|BANCO DE VENEZUELA, S.A. BCO. UNIVERSAL|CONVOCATORIA ASAMBLEA GENERAL ORDINARIA   <BR> BANCO DE VENEZUELA, S.A., BANCO UNIVERSAL<BR><BR> Se convoca a los señores accionistas del BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL para una Asamblea General Ordinaria de Accionistas que se celebrará en la ciudad de Caracas, el día veintisiete (27) de marzo de 2020 a las 10:00 a.m., en la sede principal del Banco, ubicada en la Torre Banco de Venezuela, Avenida Universidad, Esquina de Sociedad, en el Salón Simón Bolívar, Piso Ejecutivo, con el objeto de tratar los siguientes puntos:<BR><BR>Primero.   Considerar y resolver sobre el Balance General y el Estado de Ganancias y Pérdidas correspondientes al semestre concluido el 31 de diciembre de 2019, con vista de los Informes de la Junta Directiva, de los Auditores Externos, así como de los Comisarios para dicho semestre.<BR><BR>Segundo. Considerar y resolver acerca del reparto de Dividendos.<BR><BR>Tercero.  Considerar y resolver de la ratificación de los Comisarios del banco y fijarles su remuneración.<BR><BR>Caracas, 28 de febrero de 2020<BR>La Junta Directiva<BR><BR>Los Informes de la Junta Directiva de los Comisarios y de los Auditores Externos, así como los Estados Financieros debidamente auditados, se encuentran a disposición de los señores accionistas en la Gerencia de Accionistas del Banco, ubicada en su sede principal, de acuerdo a lo establecido en las disposiciones legales aplicables.<BR>|
+NO|C.A. RON SANTA TERESA,|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Variable del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Acciones Comunes Clase B nominativas, no convertibles al portador, de C.A. Ron Santa Teresa, a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Acciones Comunes Clase B nominativas, no convertibles al portador, por un monto de Seis Millones (6.000.000) acciones, emitidas por la Empresa Emisora, C.A. Ron Santa Teresa, e inscritas en el Registro Nacional de Valores, según Providencia Nro. 0-131 de fecha 14/11/2019.<BR><BR>La sesión especial para la Colocación Primaria de las Acciones Comunes Clase B, de C.A. Ron Santa Teresa, se estarán colocando a través de rondas, siendo la segunda ronda de Setecientas Treinta y Ocho Mil Cuatrocientas Treinta y Siete acciones (738.437 acciones), será el día 06 de marzo de 2020.<BR>|
+NO||Tipo  de Evento 	Colocación Primaria de Valores (Segunda Ronda)<BR>Valores a ser  colocados 	Acciones Comunes Clase B<BR>Autorización SNV 	Providencia Nro. 0-131 de fecha 14/11/2019<BR>Emisor	C.A. Ron Santa Teresa<BR>Emisión 	2019<BR>Monto de Emisión. 	6.000.000 Acciones.<BR>Monto a Colocar Segunda Ronda	738.437 Acciones<BR>Códigos  ISIN	VEV0006310B4<BR>Código de Símbolo en SIBE, Mercado Primario	RSB.O<BR><BR>Fecha de Inicio de Sesión Especial 	06/03/2020<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Agentes de Distribución	Banacci Casa de Bolsa, C.A.<BR>Bestinvest Casa de Bolsa, C.A.<BR>Caja Caracas Casa Bolsa, C.A.<BR>Fivenca Casa de Bolsa, C.A<BR>Interbono Casa de Bolsa, C.A.<BR>Intersec Casa de Bolsa, C.A.<BR>Maximiza Casa de Bolsa, C.A.<BR>Mercosur Casa de Bolsa, S.A.<BR>Rendivalores Casa de Bolsa, C.A.<BR>Solfin Casa de Bolsa, C.A.<BR>Statera Casa de Bolsa, C.A.<BR>Valoralta Casa de Bolsa, C.A.<BR>Valores Vencerd Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos<BR>Precio de Colocación	Bs. 28.025,95<BR>El precio por acción Clase B estará determinado con fundamento en el resultado de multiplicar el precio de cierre en la Bolsa de Valores de Caracas de la acción de C.A. Ron Santa Teresa (Clase B), del día 03 de marzo de 2020, por el factor de (95%).<BR>Horario de Sesión Especial	 De 9:00a.m a 1:00 p.m. <BR>Custodia.	Caja Venezolana de Valores, C.A<BR>|
+NO|DOMINGUEZ & CIA.,S.A.| DIVIDENDOS<BR> DOMINGUEZ & CIA, S.A.<BR><BR>La Junta Directiva de  DOMINGUEZ & CIA, S.A, de conformidad a la Resolución Nro. 110-2004 del 11 de Agosto de 2004, de la Superintendencia Nacional de Valores (SUNAVAL), cumple con informar que en Asamblea General Ordinaria de Accionistas celebrada el día 28 de febrero de 2020, se acordó el decreto de un dividendo en efectivo por un monto total de Bs 2.406.250.000,00 con cargo a utilidades retenidas,  esto es Bs. 100,00 por cada acción, para ser  pagado a los accionistas de Domínguez & Cía., S.A., en una sola porción de la siguiente forma:<BR><BR>Única Porción.     Bs 100,00 por acción, esto es, Bs 2.406.250.000,00<BR>Fecha Límite de Transacción con Beneficio:  El 09 de marzo de 2020.<BR>Fecha efectiva de registro del Beneficio:    El 17 de marzo de 2020.<BR><BR>Mauricio Caycedo S.<BR>Presidente Ejecutivo<BR>Caracas 29 de febrero de 2020<BR>El dividendo no causa impuesto<BR><BR>|

@@ -1,0 +1,67 @@
+IG|06122019|70997.36|482.85|.68|71167.77|745.22|18763.68|35.92|
+IF|06122019|128990.37|376.74|.29|
+II|06122019|27211.76|644.56|2.43|
+R|B.DE VENEZUELA|BVL|1005|1200|195|19.4|1100|1200|1186.03|3|358|424600||1|
+R|B.OCC.DCTO.B.U.|BOU|12|12|0|0|11.99|12|11.99|15|1101756|13214562.67||2|
+R|BCO. PROVINCIAL|BPV|114000|114000|0|0|114000|114000|114000|7|38|4332000||2|
+R|BCO.NAC.CREDITO|BNC|414|420|6|1.45|410|425|414.75|56|491028|203658873.4||1|
+R|BOLSA V. CCAS.($)|BVCC|8900|8799|-101|-1.13|8799|8998.95|8834.11|16|4155|36705711.95||3|
+R|CANTV CLASE (D)|TDV.D|7000|6700|-300|-4.29|6700|7000|6998.05|8|3075|21519000||3|
+R|CORIMON C.A.|CRM.A|3600|3700|100|2.78|3600|3700|3603.77|11|49641|178894570||1|
+R|CORP.IND.ENERGIA|CIE|450.05|450|-.05|-.01|450|450|450|1|1000|450000||3|
+R|ENVASES VZLOS.|ENV|9800|9800|0|0|9700|9800|9753.68|8|432|4213588||2|
+R|FAB.N.CEMENTOS|FNC|11500|12000|500|4.35|12000|12000|12000|2|66|792000||1|
+R|FONDO V.INM.(B)|FVI.B|305|299.98|-5.02|-1.65|299|307|301.29|36|139002|41875240.5||3|
+R|GRUPO ZULIANO|GZL|18000|18500|500|2.78|18500|18500|18500|1|57|1054500||1|
+R|INM.VAL.Y CAP.|IVC|25000|26200|1200|4.8|26200|26200|26200|3|19|496018||1|
+R|MANPA, C.A. SACA|MPA|2300|2330|30|1.3|2330|2330|2330|5|34145|79557850||1|
+R|MERCANTIL S.(A)|MVZ.A|115000|116000|1000|.87|116000|116000|116000|2|17|1972000||1|
+R|MERCANTIL S.(B)|MVZ.B|115000|115000|0|0|114000|115000|114995.85|14|1927|221596997.67||2|
+R|PROAGRO|PGR|701|819|118|16.83|810|819.99|817.87|6|2795|2285948.34||1|
+R|PRODUCTOS EFE|EFE|1650|1900|250|15.15|1900|1900|1900|4|547|1039300||1|
+R|PROTINAL|PTN|1600|1550|-50|-3.13|1550|1550|1550|2|1114|1726700||3|
+R|RON STA. TERESA|RST|17000|17950|950|5.59|17000|18000|17164.17|20|1736|29797000||1|
+R|SIVENSA, S.A.|SVS|8050|8599|549|6.82|8599|8599|8599|1|7|60193||1|
+R|T. PALO GRANDE|TPG|190|219.99|29.99|15.78|219.99|220|219.99|4|10013|2202783.22||1|
+P|BOLSA V. CCAS.|BVCC||8799|||8799|8998.95|8834.11|4|3062|29558870.65||
+P|T. PALO GRANDE|TPG||219.99|||219.99|220|219.99|2|800|156000||
+VT|13|5|4|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)PT825P-Colocación Primaria. Pateurizadora Tachira.|
+BP|P.TACHIR.18-2 5P|PT825P|88.54|88.54|0|0|88.54|88.54||2|410000000|363014000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1128|1200|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|27503|28950|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|410|420|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|112500|114000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|11.99|12.98|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|8000|8800|
+CC|C.A. RON SANTA TERESA|17500|17950|
+CC|C.A. TELARES DE PALO GRANDE|192|219|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|6600|6700|
+CC|CERAMICA CARABOBO, SACA|99000||
+CC|CORIMON, C.A.|3105|3699.99|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|415|450|
+CC|CORP.GRUPO QUIMICO, C.A.|19500|23500|
+CC|DOMINGUEZ & CIA., S.A.|14000|15499|
+CC|ENVASES VENEZOLANOS S.A.|9701|9800|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||12000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|425|495|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|299|299.98|
+CC|GRUPO ZULIANO, C.A.||18500|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|25125|27500|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|2000|2330|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|115000|116000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|113600|115000|
+CC|PROAGRO C.A.|810|819|
+CC|PRODUCTOS EFE S.A.|1700|1900|
+CC|PROTINAL C.A.|1401|1550|
+CC|SIVENSA, S.A|6701|8599|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de AGRIBRANDS PURINA VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Series I y II, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora AGRIBRANDS PURINA VENEZUELA, S.R.L. e inscrita en el Registro Nacional de Valores según Providencia Nro. 122 de fecha 30/10/2019.<BR><BR>La sesión especial para las Series I y II, de la Emisión 2019-I, por el monto de Bs. 2.500.000.000,00 c/u., de Papeles Comerciales al Portador, sería a partir del 06 de diciembre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 122 de fecha 30/10/2019<BR>Emisor	AGRIBRANDS PURINA VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>Series a colocar		<BR>Serie I<BR>Serie II<BR>Monto de Emisión. 	Bs.    5.000.000.000,00.<BR>Monto por serie 	Bs.    2.500.000.000,00 c/u.<BR>Códigos  ISIN	Serie  I:      VEV00393WIQ9<BR>Serie II:      VEV00393WIR7<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario<BR>Serie  I:	PN911P<BR>Serie II:	PN912P<BR>Fecha de Inicio de Sesión Especial 	06/12/2019<BR>Fecha de Vencimiento de las Series.	<BR>Serie   I:      04/04/2020<BR>Serie  II:      03/06/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	<BR>Serie   I:      87,21%<BR>Serie  II:      80,88%<BR>Base de cálculo 	Actual 30/360<BR>|
+NO||CARGILL DE VENEZUELA, S.R.L.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CARGILL DE VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Series I y II, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CARGILL DE VENEZUELA, S.R.L. e inscrita en el Registro Nacional de Valores según Providencia Nro. 123 de fecha 30/10/2019.<BR><BR>La sesión especial para las Series I y II, de la Emisión 2019-I, por el monto de Bs. 5.000.000.000,00 c/u., de Papeles Comerciales al Portador, sería a partir del 06 de diciembre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia N° 123 de fecha 30/10/2019<BR>Emisor	CARGILL DE VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>Series a colocar		<BR>Serie I<BR>Serie II<BR>Monto de Emisión. 	Bs.  15.000.000.000,00.<BR>Monto por serie 	Bs.    5.000.000.000,00 c/u.<BR>Códigos  ISIN	Serie I:      VEV00392WIO6<BR>Serie II:      VEV00392WIP3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	<BR>Serie I:	CV911P<BR>Serie II:	CV912P<BR>Fecha de Inicio de Sesión Especial 	06/12/2019<BR>Fecha de Vencimiento de las Series.	<BR>Serie   I:      04/04/2020<BR>Serie  II:      03/06/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	<BR>Serie   I:      87,21%<BR>Serie  II:      80,88%<BR>Base de cálculo 	Actual 30/360<BR>|
+NO||Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m.<BR>|
+NO|C.A. NACIONAL TELEFONOS DE VENEZUELA|CONVOCATORIA ASAMBLEA ORDINARIA DE ACCIOSNITAS                                     <BR>C.A. NACIONAL TELÉFONOS DE VENEZUELA (CANTV)<BR><BR>De conformidad con lo dispuesto en los Artículos 274 y 276 del Código de Comercio y, por cuanto la Asamblea Ordinaria de Accionistas de la Compañía Anónima Nacional Teléfonos de Venezuela (CANTV), convocada para los días 04/10/2019 y 07/10/2019, no logró efectuarse por falta de quórum, se procede a la segunda convocatoria, que se celebrará el día miércoles 11 de diciembre de 2019, a las 9:00 a.m., en el Teatro CANTV, Planta Baja, Edificio NEA, Avenida Libertador, Caracas. Serán tratados los siguientes puntos:<BR><BR>1.- Consideración del Balance General, Estado de Resultados, Estado de Movimiento de Cuentas del Patrimonio, Estado de Movimiento del efectivo al cierre del año 2018, con vista del Informe de los Comisarios.<BR>3.- Designación y remuneración de los Comisarios Principales y Suplentes para el ejercicio económico 2019.<BR>4.- Designación de los Auditores Externos para el ejercicio económico 2019.<BR><BR>Nota:<BR>    El Accionista que no pueda o no desee asistir personalmente a la mencionada Asamblea, podrá hacerse representar por Carta-Poder, mediante la cual designe a la persona que lo representará en la Asamblea de Accionistas. El modelo de esta Carta-Poder estará a la disposición del interesado/a en la oficina de la Secretaría de la Junta Directiva. Una vez otorgada, deberá ser consignada ante la misma oficina y con no menos de cuarenta y ocho (48) con cuarenta y ocho (48) horas de anticipación a la celebración de la Asamblea.<BR>|
+NO||Se hace del conocimiento de los accionistas de la Compañía que el Balance General, Estado de Resultados, Estado de Movimiento de Cuentas del Patrimonio, Estado de Movimiento del Efectivo que presenta la Junta Directiva, sobre la administración de la empresa durante el ejercicio económico finalizado el 31 de diciembre de 2018, con vista del Informe de los Comisarios, están a su disposición desde el día 20 de septiembre hasta el 11 de Diciembre de 2019, en las oficinas de la Secretaria de la Junta Directiva de la Compañía, ubicada en la Avenida Libertador, Edificio Nea, piso 1, ala norte, Caracas.<BR><BR>Caracas, 06 de diciembre de 2019<BR>La Junta Directiva<BR>|
+NO|PRODUCTOS EFE, S.A.|RESULTADO ASAMBLEA GENERAL DE ACCIONISTAS<BR> PRODUCTOS EFE, S.A.<BR><BR> La Asamblea Ordinaria de Accionistas de la empresa Productos EFE S.A celebrada en fecha veintiocho (28) de noviembre de 2019, previa convocatoria de conformidad con la ley, con un quorum del 88,306% de acciones representadas, se adoptaron las siguientes decisiones:<BR><BR>Punto Nro. 1.    Luego de su presentación y lectura, fueron aprobados en forma unánime el Informe de la Junta Directiva; y el Estado Consolidado de Situación Financiera y Estados Consolidados Conexos correspondientes al ejercicio económico finalizado el 30 de septiembre de 2019, con vista al informe del Comisario y del dictamen de los Contadores Públicos Independientes.<BR><BR> Punto Nro. 2.  Se aprobó en forma unánime aumentar el capital social de la Compañía por la cantidad de Bolívares Ciento Treinta y Nueve Millones Novecientos Noventa y Nueve Mil Novecientos Treinta (Bs. 139.999.930,00) mediante la conversión de la cantidad de la cantidad propuesta, la cual está incluida en la cuenta Capital social actualizado, en capital social de la Compañía conforme a lo dispuesto en las normas aplicables. Luego de la corrección (actualización) monetaria de la cuenta Capital Social, el capital social nominal de Productos EFE, S.A. será de Ciento Cuarenta Millones de Bolívares (Bs. 140.000.000).<BR><BR> Punto Nro. 3. Se aprobó unánimemente que, el aumento del capital social resuelto en el punto anterior se realice mediante el ajuste del valor nominal de la acción de la Compañía, aumentándolo de Bs. 0,00000010 a Bs 0,20.<BR><BR>Punto Nro. 4. Se reforma la Cláusula Quinta la cual quedó: El capital social de la compañía es de Ciento Cuarenta Millones de Bolívares (Bs 140.000.000,00) totalmente suscrito y pagado, representado en Setecientos Millones (700.000.000) de acciones, con un valor nominal de Veinte Céntimos de Bolívar (Bs 0,20) cada una<BR>|
+NO||Punto Nro. 5. Se aprobó, en forma unánime, la designación de las siguientes personas como miembros de la Junta Directiva para el período 2019-2020.<BR><BR>Directores Principales:<BR>Manuel Felipe Larrazábal, Luis Carmona, Manuel Torres Núñez, María Isabel Guinand y Antonio Planchart Mendoza.<BR><BR>Directores Suplentes:<BR>Jennifer Pose Saco, Yolibel Delgado, Manuel Bahamonde, Félix Gastón y Fernando Montilla.<BR><BR>Punto Nro. 6 Se designó unánimemente a la Lic. Ludy Borges C.P.C. Nro. 72.851 y Lic. Roberto Ferreira C.P.C. Nro. 15.344 como Comisarios Principales y Lic. Edickson Vásquez C.P.C. Nro. 44.916 y Lic. Aibis Urrutia C.P.C. Nro. 42.661, como Comisarios Suplentes<BR>|

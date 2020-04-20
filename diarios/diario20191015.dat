@@ -1,0 +1,63 @@
+IG|15102019|51073.71|-108.31|-.21|62004.3|361.33|-1159.97|-2.22|
+IF|15102019|93071.79|-300.25|-.32|
+II|15102019|19320.21|53.28|.28|
+R|B.DE VENEZUELA|BVL|899.97|849.99|-49.98|-5.55|720|900|755.04|6|4555|3439228.59||3|
+R|B.OCC.DCTO.B.U.|BOU|6.5|6|-.5|-7.69|5.8|7|6.18|7|90529|559691.6||3|
+R|BCO. CARIBE "A"|ABC.A|21500|23000|1500|6.98|22000|23000|22293.23|7|75|1671992||1|
+R|BCO. PROVINCIAL|BPV|84500|83000|-1500|-1.78|83000|84500|83218.64|16|762|63412600||3|
+R|BCO.NAC.CREDITO|BNC|335|335|0|0|330|335|332.05|29|70423|23383859.5||2|
+R|BOLSA V. CCAS.($)|BVCC|6750|6750|0|0|6750|6750|6750|15|16630|112252500||2|
+R|CANTV CLASE (D)|TDV.D|4800|4500|-300|-6.25|4500|4800|4794.49|8|5447|26115600||3|
+R|CORIMON C.A.|CRM.A|3102|3200|98|3.16|3151|3699.98|3208.13|9|971|3115093.4||1|
+R|CORP.GPO.QUIM.|CGQ|13500|14000|500|3.7|14000|14000|14000|2|10|140000||1|
+R|DOMINGUEZ & CIA|DOM|13600|14000|400|2.94|13600|14000|13612.45|4|2650|36073000||1|
+R|ENVASES VZLOS.|ENV|6750|6950|200|2.96|6750|7000|6948.55|21|21994|152826355.02||1|
+R|FONDO V.INM.(A)|FVI.A|300|275|-25|-8.33|275|300|286.84|2|190|54500||3|
+R|FONDO V.INM.(B)|FVI.B|225|230|5|2.22|225|230|228.2|20|38149|8705765||1|
+R|GRUPO ZULIANO|GZL|13000|13000|0|0|13000|13000|13000|1|2|26000||2|
+R|INM.VAL.Y CAP.|IVC|24150|22000|-2150|-8.9|22000|22000|22000|1|8|176000||3|
+R|MERCANTIL S.(A)|MVZ.A|79000|78500|-500|-.63|78500|79100|78562.5|8|384|30168000||3|
+R|MERCANTIL S.(B)|MVZ.B|78500|78500|0|0|78500|78600|78501.38|7|651|51104200||2|
+R|PROAGRO|PGR|730|730|0|0|730|730|730|1|49|35770||2|
+R|PRODUCTOS EFE|EFE|1350|1619.99|269.99|20|1619.99|1619.99|1619.99|1|30|48599.7||1|
+R|RON STA. TERESA|RST|12799|12700|-99|-.77|12200|12800|12623.22|19|1021|12888310||3|
+R|SIVENSA, S.A.|SVS|4500|4500|0|0|4500|4500|4500|1|60|270000||2|
+R|T. PALO GRANDE|TPG|144.95|144.95|0|0|120|120|120|1|226|27120||2|
+P|B.OCC.DCTO.B.U.|BOU||6|||5.8|7|6.18|2|252|1645||
+P|BCO. PROVINCIAL|BPV||83000|||83000|84500|83218.64|1|419|34777000||
+P|FONDO V.INM.(B)|FVI.B||230|||225|230|228.2|238|3917350|900990500||
+VT|7|8|7|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|731|849.99|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|18000|23000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|337|345|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|82490|84500|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|5.35|5.8|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6650|6750|
+CC|C.A. RON SANTA TERESA|12002|12700|
+CC|C.A. TELARES DE PALO GRANDE|120|130|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|4500|4799.5|
+CC|CERAMICA CARABOBO, SACA||104999|
+CC|CORIMON, C.A.|3501|3649|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|410|469.99|
+CC|CORP.GRUPO QUIMICO, C.A.|10803|14500|
+CC|DOMINGUEZ & CIA., S.A.|13800|14000|
+CC|ENVASES VENEZOLANOS S.A.|6950|7000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||11000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|275|300|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|225.07|230|
+CC|GRUPO ZULIANO, C.A.|10402|12850|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|19320.01|22000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1521|1900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|78500|85000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|72000|78500|
+CC|PROAGRO C.A.|601|730|
+CC|PRODUCTOS EFE S.A.||1619.99|
+CC|PROTINAL C.A.|750|1000|
+CC|SIVENSA, S.A|3601|4500|
+NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|COMUNICADO  <BR>BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.<BR><BR>Dado que la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN) a través de un acto emitió medidas administrativas para supervisar las actividades referidas al sistema de Prevención de Legitimación de Capitales y Financiamiento al Terrorismo, en el Banco Occidental de Descuento Banco Universal C.A., queremos informar a nuestros trabajadores, clientes y opinión pública en general que:<BR><BR>Primero.  El BOD Banco Universal C.A., en ningún modo está sujeto a medidas que impliquen la intervención del Estado en su operativa y funcionamiento. El acto se limita a medidas administrativas y de supervisión, lo que es competencia ordinaria de La Superintendencia de las Instituciones del Sector Bancario (SUDEBAN).<BR>Segundo. El BOD Banco Universal C.A., es una institución con 63 años de historia y durante todo este tiempo ha cumplido con todos los requerimientos de ley y ha trabajado de la mano de las autoridades en todas y cada una de las supervisiones programadas o extraordinarias sin que esto haya afectado en forma alguna la normal operación del banco.<BR>Tercero. El BOD Banco Universal C.A., siempre ha proporcionado de forma oportuna y eficiente, toda la información requerida a La Superintendencia de las Instituciones del Sector Bancario (SUDEBAN) y cualquier otra autoridad<BR>|
+NO||Cuarto., El BOD Banco Universal C.A., cumple con todos los sistemas y estándares para el monitoreo y prevención contra la legitimación de capitales y financiamiento al terrorismo y desde el pasado 31 de mayo del 2019 ha trabajado junto con la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN) para otorgar la debida información de las cuentas calificadas de riesgo alto, sin que se haya determinado hasta ahora ningún ilícito por parte de nuestra entidad o alguno de nuestros clientes.<BR>Quinto. El BOD Banco Universal C.A., realiza permanentemente inversiones en el área de prevención contra la legitimación de capitales y financiamiento al terrorismo en términos de infraestructura física, contratación de capital humano, entrenamiento e inversiones en equipamiento y ha adoptado con celeridad todas las recomendaciones indicadas por el ente regulador.<BR>Sexto. El BOD Banco Universal C.A., como lo ratifica la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN) es actualmente el segundo banco del país en cuanto estructura patrimonial, por lo que nuestra solidez financiera no se encuentra en duda.<BR>Séptimo.  Para el BOD Banco Universal C.A. el respaldo del Grupo Financiero BOD es parte de su patrimonio y nos sentimos orgullosos de ser pieza fundamental en su fundación y crecimiento.<BR>|
+NO|ENVASES VENEZOLANOS, S.A.|     RESULTADO ASAMBLEA DE ACCIONISTAS <BR>         ENVASES VENEZOLANOS, S.A.<BR><BR>La Asamblea General Ordinaria de Accionistas de la empresa ENVASES VENEZOLANOS, S.A., celebrada en esta ciudad de Caracas el día 10 de octubre de 2019, previa convocatoria de conformidad con la ley, que en la reunión se encontraban presentes o representadas el 81,86% de las acciones que forman el capital social de la compañía, se adoptaron las siguientes decisiones <BR><BR>1.- Fueron Leídos el Informe de la Junta Directiva, el de los Comisarios, el de los Contadores Públicos Independientes, así como el Balance y las Cuentas presentadas por aquéllos, relativos al ejercicio económico comprendido entre el 1° de septiembre de 2018 al 31 de agosto de 2019, los cuales fueron aprobados por unanimidad, sin que en ello participase el voto de las acciones pertenecientes a los Directores de la Empresa. <BR>2.- Luego de haber sido amplia y suficientemente debatido el punto en referencia la Asamblea acogió por unanimidad la recomendación propuesta y acordó distribuir un dividendo en efectivo con cargo a la partida ganancias retenidas por la cantidad Bs 10.153.904.640,00 a razón de Bs 80,00 por acción, a ser pagado en una sola porción, a los accionistas inscritos en el Libre de Accionistas de la Compañía a la Fecha Límite de Transacción con Beneficio: 24 de octubre de 2019, en la Fecha Efectiva de Registro del Beneficio: 1ero. De noviembre de 2019, de conformidad con la RESOLUCIÓN 110-2004 (SUNAVAL)<BR>|
+NO||3.- Se acordó que con cargo a la cuenta Actualización del Capital Social, capitalizar la cantidad 12.051.415.569,60 y aumentar el valor nominal de la acción de 0,05 a la cantidad de Bs 95,00 permaneciendo inalterado el número de acciones que conforman el capital social suscrito y pagado de la compañía, que es de 126.923.808 acciones. En consecuencia, el capital Social alcanzaría la cantidad de Bs 12.057.761.760,00. Una vez sea autorizada por la Superintendencia Nacional de Valores. Aprobado por Unanimidad.<BR> 4.- La Asamblea designó como miembros de la Junta Directiva que administrarán la Compañía hasta la próxima Asamblea Ordinaria Directores Principales: Gustavo Roosen P (presidente), Tomás Roosen (Presidente Ejecutivo), César Rojas Vivas (Secretario), Alejandro Zapata González, Carlos Enrique Betancourt, Germán A. Roosen, Giancarlo Pietri Velutini, Juan Carlos Restrepo, Silvano Gelleni y francisco Sanánez como directores principales y Manuel Alonso, Luis Alberto Tinoco, Robert Brewer, Benjamín Scharifker, Francisco Mota y Gabriel Machado Espinoza como directores Suplentes. <BR><BR>Caracas, 14 de octubre de 2019.<BR>Cecilia González Moleiro<BR>Gerente de Accionistas y Asesoría Legal<BR>|

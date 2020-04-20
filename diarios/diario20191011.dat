@@ -1,0 +1,63 @@
+IG|11102019|51782.03|-911.39|-1.73|62004.3|361.33|-451.65|-.86|
+IF|11102019|94129.86|-2054.62|-2.14|
+II|11102019|19801.32|15.98|.08|
+R|B.DE VENEZUELA|BVL|900|850|-50|-5.56|850|850|850|5|324|275400||3|
+R|B.OCC.DCTO.B.U.|BOU|7|6.5|-.5|-7.14|6|7|6.21|25|1055692|6557386.45||3|
+R|BCO. PROVINCIAL|BPV|89500|85000|-4500|-5.03|84000|89500|85281.94|11|407|34709750||3|
+R|BCO.NAC.CREDITO|BNC|330|334|4|1.21|330|335|330.13|29|322773|106547460||1|
+R|BOLSA V. CCAS.($)|BVCC|7100|7000|-100|-1.41|7000|7000|7000|4|128|896000||1|
+R|CANTV CLASE (D)|TDV.D|4500|4500|0|0|4500|4500|4500|5|4577|20596500||2|
+R|CORIMON C.A.|CRM.A|3648.98|3695|46.02|1.26|3600|3700|3661.72|8|1268|4643064.36||1|
+R|CORP.GPO.QUIM.|CGQ|12500|13000|500|4|13000|13000|13000|1|14|182000||1|
+R|DOMINGUEZ & CIA|DOM|13300|13600|300|2.26|13600|13600|13600|4|91|1237600||1|
+R|ENVASES VZLOS.|ENV|7000|6950|-50|-.71|6949|7000|6949.65|7|11411|79305600||3|
+R|FONDO V.INM.(B)|FVI.B|230|229.97|-.03|-.01|220|230|226.71|29|37573|8518308.72||3|
+R|INM.VAL.Y CAP.|IVC|24150|24150|0|0|24150|24150|24150|1|20|483000||2|
+R|MANPA, C.A. SACA|MPA|1900|1900|0|0|1900|1900|1900|1|14|26600||2|
+R|MERCANTIL S.(A)|MVZ.A|79000|79000|0|0|79000|79000|79000|4|460|36340000||2|
+R|MERCANTIL S.(B)|MVZ.B|79500|79000|-500|-.63|79000|79000|79000|8|863|68177000||3|
+R|PROAGRO|PGR|701|748.97|47.97|6.84|748.97|748.97|748.97|1|50|37448.5||1|
+R|PRODUCTOS EFE|EFE|1350|1350|0|0|1350|1350|1350|3|122|164200||2|
+R|PROTINAL|PTN|1000|801|-199|-19.9|801|801|801|1|145|116145||3|
+R|RON STA. TERESA|RST|13000|13000|0|0|12800|13200|12829.55|24|2109|27057514||2|
+R|T. PALO GRANDE|TPG|150|144.95|-5.05|-3.37|144|145|144.41|4|7778|1123237.35||3|
+P|MERCANTIL S.(B)|MVZ.B||79000|||79000|79000|79000|1|469|36113000||
+P|RON STA. TERESA|RST||13000|||12800|13200|12829.55|2|30|388500||
+P|SIVENSA, S.A.|SVS||4500|||0|0|0|1|1072|4824000||
+P|T. PALO GRANDE|TPG||144.95|||144|145|144.41|1|4100|590400||
+VT|5|9|6|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)PD91P-Colocación Primaria. BTP Distribuciones.|
+BP|PC.BTP 19 S-1 P|PD91P|80|80|0|0|80|80||1|13000000|10400000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|740|850|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|20000|22500|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|330|334|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|83600|85000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|6|6.5|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6800|7000|
+CC|C.A. RON SANTA TERESA|12650|13000|
+CC|C.A. TELARES DE PALO GRANDE|103.5|144.95|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|3700|4500|
+CC|CERAMICA CARABOBO, SACA||104999|
+CC|CORIMON, C.A.|3325|3695|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|405|475|
+CC|CORP.GRUPO QUIMICO, C.A.|9500|14534|
+CC|DOMINGUEZ & CIA., S.A.|12301|13600|
+CC|ENVASES VENEZOLANOS S.A.|6200|6950|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||10259.5|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|265|299.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|225|229.97|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||24150|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1521|1900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|79000||
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|79000|80000|
+CC|PROAGRO C.A.|601.01|748.97|
+CC|PRODUCTOS EFE S.A.|1400|1619.99|
+CC|PROTINAL C.A.|801|970|
+CC|SIVENSA, S.A|3602|4500|
+NO|C.A. RON SANTA TERESA,|CONVOCATORIA<BR>C.A. RON SANTA TERESA<BR><BR>Se convoca a los accionistas de la C.A. RON SANTA TERESA, a la Asamblea General Ordinaria de Accionistas que se celebrará el día lunes 28 de octubre de 2019, a las 10:00 a.m., en la sede social, ubicada en la Hacienda Santa Teresa, El Consejo, Estado Aragua, la cual tendrá por objeto deliberar sobre los siguientes asuntos:<BR><BR>Primero. Considerar y resolver sobre la conveniencia de aprobar o improbar el informe de la Junta Directiva, los Estatutos de Ganancias y Pérdidas y el Balance General correspondientes al ejercicio económico concluido al 30 de junio de 2019, con vista al Informe de los Comisarios y al informe auditado por los Contadores públicos independientes.<BR><BR>Segundo. De resultar aprobado el punto primero anterior, considerar y resolver sobre la conveniencia de aprobar o improbar un dividendo para los accionistas.<BR><BR>Tercero. Considerar y decidir acerca de la elección de los Comisarios, fijarles su remuneración y la forma de pago.<BR><BR>Cuarto. Designar o ratificar al Representante Judicial principal y su suplente.<BR>Caracas, DC, 09 de octubre de 2019.<BR><BR>Por la Junta Directiva<BR>Alberto C. Vollmer<BR>Presidente<BR><BR>1. Los Estados Financieros al 30 de junio de 2019), el Informe de la Junta Directiva, el Balance General, el Estado de Movimiento de las Cuentas de Patrimonio y el Estado de Flujos de Efectivo a la fecha de terminación del ejercicio fiscal, el Informe de los Comisarios actuales y las dos (2) ternas para el nombramiento de los próximos Comisarios, están disponibles para los accionistas en la sede de la Compañía.<BR>2. Los accionistas podrán hacerse representar en la Asamblea mediante poder otorgado por simple carta.<BR>3. Convocatoria participada a la Superintendencia Nacional de Valores, Bolsa de Valores de Caracas y Caja Venezolana de Valores.<BR>|
+NO||<BR>                                                                  CONVOCATORIA<BR>                                                              C.A. RON SANTA TERESA<BR><BR>Se convoca a los accionistas de la C.A. RON SANTA TERESA, a la Asamblea General Extraordinaria de Accionistas que se celebrará el día lunes 28 de octubre de 2019, a las 11:00 a.m., en la sede social, ubicada en la Hacienda Santa Teresa, El Consejo, Estado Aragua, la cual tendrá por objeto deliberar sobre los siguientes asuntos:<BR><BR>1. Considerar y resolver acerca de la conveniencia de emitir cualquier tipo de obligaciones, obligaciones convertibles, bonos , papeles  comerciales, derivativos o títulos de participación hasta por un monto equivalente a una y media ( 1 ½) veces el patrimonio de la compañía, considerando la inflación al momento de recibir la autorización para la emisión o su equivalente en moneda extranjera, si la emisión se hiciera en euromercado, en los términos y condiciones que apruebe la Junta Directiva de la compañía, todo de conformidad con lo establecido en el Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores y las Normas Relativas a la Oferta Pública y Colocación de Valores y a la publicación de las emisiones.<BR><BR> 2. Considerar y resolver acerca de la designación de los representantes comunes provisionales de los obligacionistas y/o tenedores de los títulos valores que se emitan y fijar su remuneración.<BR><BR> 3. Considerar y resolver sobre la conveniencia de facultar a la Junta Directiva para que esté suficientemente autorizada para adquirir acciones de la compañía hasta por un monto equivalente al quince por ciento (15%) de su capital social, según lo previsto en el Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores y las Normas relativas a la Oferta Pública y Colocación de Valores y a la Publicación de las emisiones.<BR><BR>|
+NO|| 4. Considerar y resolver acerca de la autorización dada a la Junta Directiva, en su condición de sociedad anónima de capital autorizado, S.A.C.A., para que previo el cumplimiento de las disposiciones vigentes sobre la materia, en la oportunidad en que la Junta Directiva lo decida y dentro de los dos (02) años siguientes a la celebración de la Asamblea, la Junta Directiva quede facultada suficientemente para aumentar el capital social hasta el doble del capital pagado.<BR><BR>Caracas, DC, 09 de octubre de 2019.<BR>Por la Junta Directiva<BR>Alberto C.  Vollmer<BR>Presidente<BR>a. Los Estados Financieros consolidados al 30 de junio de 2019 (Balance General, el Estado de Movimiento de las Cuentas de Patrimonio y el Estado de Flujos de Efectivo), están disponibles para los accionistas en la sede de la Compañía <BR>b. Los accionistas podrán hacerse representar en la Asamblea mediante poder otorgado por simple carta.<BR>c. Convocatoria participada a la Superintendencia Nacional de Valores, Bolsa de Valores de Caracas y Caja Venezolana de Valores.<BR>|

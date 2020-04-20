@@ -8,7 +8,7 @@ date: '`r paste("Actualizado al ", Sys.Date())`'
 library(readr)
 library(kableExtra)
 
-operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones15042020.dat", 
+operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones16042020.dat", 
      "|", escape_double = FALSE, col_names = FALSE, 
      col_types = cols(X1 = col_skip(), X10 = col_skip(), 
        X8 = col_skip(), X9 = col_skip()), 
@@ -93,7 +93,7 @@ library(dplyr)
 
 
 
-operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones15042020.dat", 
+operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones16042020.dat", 
      "|", escape_double = FALSE, col_names = FALSE, 
      col_types = cols(X1 = col_skip(), X10 = col_skip(), 
        X8 = col_skip(), X9 = col_skip()), 
@@ -178,7 +178,7 @@ library(dplyr)
 
 
 
-operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones15042020.dat", 
+operaciones <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io/operaciones16042020.dat", 
      "|", escape_double = FALSE, col_names = FALSE, 
      col_types = cols(X1 = col_skip(), X10 = col_skip(), 
        X8 = col_skip(), X9 = col_skip()), 

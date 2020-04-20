@@ -1,0 +1,65 @@
+IG|07102019|49633.87|553.73|1.13|62004.3|347.92|-2599.81|-4.98|
+IF|07102019|89863.55|1855.96|2.11|
+II|07102019|19310.91|-566.36|-2.85|
+R|B.OCC.DCTO.B.U.|BOU|7.01|7.01|0|0|7.9|7.99|7.94|5|34588|276480.2||2|
+R|BCO. PROVINCIAL|BPV|77000|81000|4000|5.19|76500|81000|78497.31|17|573|45001500||1|
+R|BCO.NAC.CREDITO|BNC|350|335|-15|-4.29|335|345|336.81|34|5037962|1712785832||3|
+R|BOLSA V. CCAS.($)|BVCC|6650|6550|-100|-1.5|6550|6550|6550|15|14210|94469600||3|
+R|CANTV CLASE (D)|TDV.D|4000|4000|0|0|3900|3900|3900|1|6|23400||2|
+R|CORIMON C.A.|CRM.A|3650|3639|-11|-.3|3639|3649|3648.52|2|105|383095||3|
+R|CORP.GPO.QUIM.|CGQ|10094|12112|2018|19.99|12112|12112|12112|1|15|181680||1|
+R|CORP.IND.ENERGIA|CIE|615.6|615|-.6|-.1|615|615|615|1|1526|938490||3|
+R|DOMINGUEZ & CIA|DOM|12900|12850|-50|-.39|12850|12900|12876.03|3|146|1879900||3|
+R|ENVASES VZLOS.|ENV|6890|6500|-390|-5.66|6500|6750|6700|3|150|1005000||3|
+R|FAB.N.CEMENTOS|FNC|8550|8550|0|0|8550|8550|8550|3|108|923400||2|
+R|FONDO V.INM.(A)|FVI.A|320|270|-50|-15.63|270|300|270.06|3|10021|2706300||3|
+R|FONDO V.INM.(B)|FVI.B|228.01|228|-.01|0|220|230|220.46|27|190587|42054476.96||3|
+R|GRUPO ZULIANO|GZL|13000|13000|0|0|0|0|0|1|3408|44304000||2|
+R|INM.VAL.Y CAP.|IVC|24150|24150|0|0|0|0|0|1|42|1014300||2|
+R|MANPA, C.A. SACA|MPA|1900|1900|0|0|1900|1900|1900|2|491|932900||2|
+R|MERCANTIL S.(A)|MVZ.A|72000|74900|2900|4.03|73000|74900|73103.65|14|4146|302935600||1|
+R|MERCANTIL S.(B)|MVZ.B|74900|73101|-1799|-2.4|73000|73101|73023.53|11|2213|161747282.5||3|
+R|PROAGRO|PGR|755|754|-1|-.13|754|755|754.97|4|1304|984486||3|
+R|PRODUCTOS EFE|EFE|1400|1400|0|0|1400|1400|1400|3|650|910000||2|
+R|PROTINAL|PTN|999.99|1000|.01|0|960|1000|982.35|2|34|33400||1|
+R|RON STA. TERESA|RST|13500|13000|-500|-3.7|13000|13000|13000|7|202|2626000||3|
+R|T. PALO GRANDE|TPG|128.99|128|-.99|-.77|127.99|128|127.99|4|7475|956726.75||3|
+P|BOLSA V. CCAS.|BVCC||||0|6550|6550|6550|1|25988|170221400||
+P|FONDO V.INM.(B)|FVI.B||228|||220|230|220.46|1|1663868|367714828||
+P|MERCANTIL S.(A)|MVZ.A||74900|||73000|74900|73103.65|3|30819|2249787000||
+P|MERCANTIL S.(B)|MVZ.B||73101|||73000|73101|73023.53|2|9660|705180000||
+VT|4|12|7|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)MG192P-COLOCACION PRIMARIA OBL.QUIR.DE MONTANA GRAFICA, EM. 2019|
+BP|MG-2019 S-2 (P)|MG192P|81.9|81.9|0|0|81.9|81.9||1|500000000|409500000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|751|900|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|22000|23951|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|335|339|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|81000|83000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|7.05|7.9|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6000|6600|
+CC|C.A. RON SANTA TERESA|12500|13000|
+CC|C.A. TELARES DE PALO GRANDE|104|128|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|3900|4000|
+CC|CERAMICA CARABOBO, SACA||105000|
+CC|CORIMON, C.A.|3051|3639|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|500|615|
+CC|CORP.GRUPO QUIMICO, C.A.|10001||
+CC|DOMINGUEZ & CIA., S.A.|12201|12850|
+CC|ENVASES VENEZOLANOS S.A.|6200.01|6500|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6841|9500|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|260.5|300|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|220|228|
+CC|GRUPO ZULIANO, C.A.||13000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||24150|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1521|1900|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|73100||
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|73130|74900|
+CC|PROAGRO C.A.|701|754|
+CC|PRODUCTOS EFE S.A.||1400|
+CC|PROTINAL C.A.|900|960|
+CC|SIVENSA, S.A|3601|4500|
+NO|AUTOMERCADO PLAZAS, C.A.|BOLSA DE VALORES DE CARACAS: Informa<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros  de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de AUTOMERCADOS PLAZA¿S, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2019-I de Papeles Comerciales al Portador, emitidos por la Empresa Emisora AUTOMERCADOS PLAZA¿S, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 089 de fecha 07/08/2019.  <BR><BR>La sesión especial para la Serie I, por un monto de Bs. 4.500.000.000,00, de la Emisión 2019-I, de Papeles Comerciales, sería a partir del 04 de octubre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 089 de fecha 07/08/2019<BR>Emisor	AUTOMERCADOS PLAZA¿S, C.A.<BR>Emisión 	2019-I.<BR>Series a colocar	De la Serie I.<BR>Monto de Emisión. 	Bs.  4.500.000.000,00<BR>Monto por serie 	Bs.  4.500.000.000,00<BR>Códigos  ISIN	Serie I  	VEV00357WHY0<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie I  	AP911P		<BR>Fecha de Inicio de Sesión Especial 	04/10/2019<BR>Agentes de la Colocación 	Activalores Casa de Bolsa, S.A. <BR>Solfin, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	90,00%<BR>Base de cálculo 	Actual/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo, Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30a.m  a  1:00 p.m.<BR>|
+NO|MONTANA GRAFICA, C.A.|BOLSA DE VALORES DE CARACAS: Informa<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros  de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Obligaciones Quirografarias al Portador de MONTANA GRÁFICA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados serían los correspondientes a la Serie II, por un monto de Bs. 1.000.000.000,00. de la Emisión 2019 de Obligaciones Quirografarias al Portador, emitidos por la Empresa Emisora MONTANA GRÁFICA, C.A., inscrita en el Registro Nacional de Valores según Providencia Nro. 045/2019 de fecha 08/05/2019.  <BR><BR>La sesión especial para la Serie II, por Bs. 1.000.000.000,00. de la Emisión 2019 de Obligaciones Quirografarias, sería a partir del 04 de octubre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Obligaciones Quirografarias<BR>Autorización SNV 	Providencia N° 045/2019 de fecha 08/05/2019<BR>Emisor	MONTANA GRÁFICA, C.A.,<BR>Emisión 	2019<BR>Series a colocar	Serie II.<BR>Monto de Emisión. 	Bs.  8.000.000.000,00<BR>Monto por serie 	Bs.  1.000.000.000,00<BR>Códigos  ISIN	        Serie II           VEV00364ORD6<BR>Código del Activo	O.Q.<BR>Código de Símbolo en SIBE, Mercado Primario	Serie II   	MG192P<BR>Fecha de Inicio de Sesión Especial 	04/10/2019<BR>Agentes de la Colocación 	FIVENCA CASA DE BOLSA, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	81.80%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Global Ratings Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo - Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m.<BR><BR>|

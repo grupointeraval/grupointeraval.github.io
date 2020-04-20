@@ -1,0 +1,58 @@
+IG|06112019|48085.34|-38.87|-.08|62004.3|507.32|-4148.34|-7.94|
+IF|06112019|86472|91.21|.11|
+II|06112019|19248.08|-163.46|-.84|
+R|B.DE VENEZUELA|BVL|700|800|100|14.29|800|815|800.11|3|1083|866520||1|
+R|B.OCC.DCTO.B.U.|BOU|6.2|6.2|0|0|6.2|6.7|6.38|4|36094|230109.8||2|
+R|BCO. PROVINCIAL|BPV|74000|75000|1000|1.35|74000|76900|75144.97|13|209|15700500||1|
+R|BCO.NAC.CREDITO|BNC|350|330|-20|-5.71|330|370|337.51|42|69286|23413640||3|
+R|BOLSA V. CCAS.($)|BVCC|6347|6400|53|.84|6365|6800|6451.13|18|3371|21746750||1|
+R|CANTV CLASE (D)|TDV.D|5700|5500|-200|-3.51|5500|5900|5748.82|4|721|4144900||3|
+R|CORIMON C.A.|CRM.A|3200|3300|100|3.13|3300|3300|3300|3|327|1079100||1|
+R|CORP.IND.ENERGIA|CIE|400.01|400.01|0|0|400.01|400.01|400.01|1|200|80002||2|
+R|CR.CARABOBO|CCR|100000|99000|-1000|-1|99000|99000|99000|4|292|28908000||3|
+R|DOMINGUEZ & CIA|DOM|13000|12800|-200|-1.54|12800|13000|12803.97|5|151|1933400||3|
+R|ENVASES VZLOS.|ENV|6500|6500|0|0|6500|7199|6893.52|16|1548|10671166||2|
+R|FONDO V.INM.(A)|FVI.A|330|293|-37|-11.21|291|348.75|331.55|6|8560|2838105||3|
+R|FONDO V.INM.(B)|FVI.B|220|220|0|0|220|230|220.46|69|380982|83991309.81||2|
+R|INM.VAL.Y CAP.|IVC|17000|17005|5|.03|17005|19000|17514.64|3|1030|18040075||1|
+R|MANPA, C.A. SACA|MPA|1900|1680|-220|-11.58|1550|1950|1669.64|3|112|187000||3|
+R|MERCANTIL S.(A)|MVZ.A|72000|73500|1500|2.08|73000|73500|73421.26|5|127|9324500||1|
+R|MERCANTIL S.(B)|MVZ.B|72500|71000|-1500|-2.07|71000|72002|71985.1|8|3350|241150082||3|
+R|PROAGRO|PGR|660|650|-10|-1.52|650|650|650|3|450|292500||3|
+R|RON STA. TERESA|RST|12800|12800|0|0|12799|13000|12826.97|19|522|6695680||2|
+R|T. PALO GRANDE|TPG|139|130|-9|-6.47|120.05|130|129.86|2|13894|1804220.05||3|
+P|MERCANTIL S.(A)|MVZ.A||73500|||73000|73500|73421.26|1|1500|108000000||
+VT|6|9|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|PC.BTP 19 S-1 P|PD91P|80|80|0|0|80|80||1|619408121|495526496.8||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|701|800|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|19100|25715|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|320|334.5|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|75000|77000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|6|6.2|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6100|6400|
+CC|C.A. RON SANTA TERESA|11201|12800|
+CC|C.A. TELARES DE PALO GRANDE|120.05|139.99|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|5500|5900|
+CC|CERAMICA CARABOBO, SACA|80000.01||
+CC|CORIMON, C.A.|3002|3499|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|375|470|
+CC|CORP.GRUPO QUIMICO, C.A.|12001|17639|
+CC|DOMINGUEZ & CIA., S.A.|12305|12800|
+CC|ENVASES VENEZOLANOS S.A.|6500|7000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||13500|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|293|348|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|220|225|
+CC|GRUPO ZULIANO, C.A.|10000.01||
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|17001|18950|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1550|1950|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|73500|78000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|71001|82700|
+CC|PROAGRO C.A.|650|725|
+CC|PRODUCTOS EFE S.A.|1360.01|2039.99|
+CC|PROTINAL C.A.|801|970|
+CC|SIVENSA, S.A|4400|5000|
+NO|C.A. RON SANTA TERESA,|RESULTADO ASAMBLEA DE ACCIONISTAS<BR>     C.A. RON SANTA TERESA<BR><BR>La Asamblea General Extraordinaria de Accionistas de C.A. RON SANTA TERESA., celebrada el día 28 de octubre de 2019, previa convocatoria de conformidad con la ley, que en la reunión se encontraban presentes o representadas más del 95,59% de las acciones que forman el capital social de la compañía, se acordaron, las siguientes decisiones: <BR><BR>1. Se aprobó por unanimidad la conveniencia de emitir cualquier tipo de obligaciones, obligaciones convertibles, bonos , papeles  comerciales, derivativos o títulos de participación hasta por un monto equivalente a una y media ( 1 ½) veces el patrimonio de la compañía, considerando la inflación al momento de recibir la autorización para la emisión o su equivalente en moneda extranjera, si la emisión se hiciera en euromercado, en los términos y condiciones que apruebe la Junta Directiva de la compañía, todo de conformidad con lo establecido en el Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores y las Normas Relativas a la Oferta Pública y Colocación de Valores y a la publicación de las emisiones.<BR><BR> 2. Se aprobó la designación de BBVA Banco Provincial como representante común y alternativamente propuso usar Banco Mercantil y/o Banco Nacional de Crédito, delegando en la Junta Directiva de la Compañía, la designación del Representante Común Provisional que estime conveniente.<BR>|
+NO|| 3. Se aprobó por unanimidad el plan de inversión previsto para los trabajadores de la compañía y se faculto a la Junta Directiva para que esté suficientemente autorizada para adquirir acciones de la compañía hasta por un monto equivalente al quince por ciento (15%) de su capital social, según lo previsto en el Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores y las Normas relativas a la Oferta Pública y Colocación de Valores y a la Publicación de las emisiones.<BR><BR> 4. Se aprobó por unanimidad la autorización dada a la Junta Directiva, en su condición de sociedad anónima de capital autorizado, S.A.C.A., para que previo el cumplimiento de las disposiciones vigentes sobre la materia, en la oportunidad en que la Junta Directiva lo decida y dentro de los dos (02) años siguientes a la celebración de la Asamblea, la Junta Directiva quede facultada suficientemente para aumentar el capital social hasta el doble del capital pagado.<BR><BR> Caracas, DC, 05 de noviembre de 2019.<BR><BR>|

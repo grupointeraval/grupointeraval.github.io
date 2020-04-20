@@ -1,0 +1,70 @@
+IG|05022020|125568.41|-367.97|-.29|129541.1|4640.24|73334.73|140.4|
+IF|05022020|228500.88|143.11|.06|
+II|05022020|47793.59|-886.15|-1.82|
+R|B.DE VENEZUELA|BVL|2500|2250|-250|-10|2250|2399|2372.65|7|315|747384.4||3|
+R|B.OCC.DCTO.B.U.|BOU|17.5|18.47|.97|5.54|18.05|18.5|18.46|16|508731|9391140.6||1|
+R|BCO. CARIBE "A"|ABC.A|45000|44999|-1|0|44999|45000|44999.03|3|61|2744941||3|
+R|BCO. PROVINCIAL|BPV|208000|207000|-1000|-.48|207000|210000|207081.43|18|1314|272105000||3|
+R|BCO.NAC.CREDITO|BNC|694|685|-9|-1.3|685|700|686.82|32|55729|38276885||3|
+R|BOLSA V. CCAS.($)|BVCC|20500|20750|250|1.22|20200|20750|20516.36|29|9563|196261030||1|
+R|CANTV CLASE (D)|TDV.D|9500|9000|-500|-5.26|9000|9500|9001.21|3|413|3717500||3|
+R|CORIMON C.A.|CRM.A|5000|5000|0|0|5000|5000|5000|4|2700|13500000||2|
+R|CORP.IND.ENERGIA|CIE|2850|2850|0|0|2850|2850|2850|1|256|729600||2|
+R|DOMINGUEZ & CIA|DOM|33000|32000|-1000|-3.03|31000|32000|31812.35|5|2518|80103500||3|
+R|ENVASES VZLOS.|ENV|17500|17500|0|0|17000|18000|17451.68|6|119|2076750||2|
+R|FONDO V.INM.(A)|FVI.A|800|800|0|0|700|800|796.77|4|31|24700||2|
+R|FONDO V.INM.(B)|FVI.B|560|575|15|2.68|550|578|564.19|56|342754|193352531||1|
+R|GRUPO ZULIANO|GZL|44500|44000|-500|-1.12|44000|44000|44000|1|1|44000||3|
+R|INM.VAL.Y CAP.|IVC|36000|34000|-2000|-5.56|34000|34000|34000|4|550|18700000||3|
+R|MANPA, C.A. SACA|MPA|4400|4000|-400|-9.09|4000|4000|4000|6|2130|8520000||3|
+R|MERCANTIL S.(A)|MVZ.A|200500|203000|2500|1.25|203000|203000|203000|20|269|54607000||1|
+R|MERCANTIL S.(B)|MVZ.B|203000|203000|0|0|203000|203000|203000|14|409|83027000||2|
+R|PROAGRO|PGR|1350|1350|0|0|1399|1399|1399|1|2|2798||2|
+R|PRODUCTOS EFE|EFE|2900|2900|0|0|2900|2900|2900|5|375|1087500||2|
+R|R.S.TERESA "B"|RST.B|37000|37600|600|1.62|37500|37600|37597.56|2|41|1541500||1|
+R|RON STA. TERESA|RST|36000|34000|-2000|-5.56|34000|36000|34773.7|14|304|10612900||3|
+R|SIVENSA, S.A.|SVS|12100|13500|1400|11.57|12100|13500|12216.67|3|60|733000||1|
+R|T. PALO GRANDE|TPG|390|390|0|0|390|390|390|2|309|120510||2|
+P|BOLSA V. CCAS.|BVCC||20750|||20200|20750|20516.36|1|24338|498929000||
+P|CORP.IND.ENERGIA|CIE||2850|||2850|2850|2850|1|100|285000||
+P|MERCANTIL S.(A)|MVZ.A||203000|||203000|203000|203000|1|250|50750000||
+P|RON STA. TERESA|RST||34000|||34000|36000|34773.7|1|1575|47250000||
+VT|6|10|8|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)AF9I1P-Colocacion Primaria de O.Q. Alimentos FM.|
+BP|AF-AM.2019 S.1P|AF9I1P|88|88|0|0|88|88||2|1000000000|880000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1910|2250|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|38000|44999|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|650|685|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|207000|215000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|17.7|18.47|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|20200|20750|
+CC|C.A. RON SANTA TERESA|32000|34000|
+CC|C.A. RON SANTA TERESA (CLASE B)|29600.01|37500|
+CC|C.A. TELARES DE PALO GRANDE|271|390|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8000|8999|
+CC|CERAMICA CARABOBO, SACA|95000||
+CC|CORIMON, C.A.|5000|5499|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2500|3419.99|
+CC|CORP.GRUPO QUIMICO, C.A.|23000|32399|
+CC|DOMINGUEZ & CIA., S.A.|32000|33000|
+CC|ENVASES VENEZOLANOS S.A.|15500|17500|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||16700|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|650|795|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|577|578|
+CC|GRUPO ZULIANO, C.A.||44000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|32000|36000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4000|4500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|203000|210000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|203000|210000|
+CC|PROAGRO C.A.|1081|1399|
+CC|PRODUCTOS EFE S.A.|2322|2900|
+CC|PROTINAL C.A.|2500|3499|
+CC|SIVENSA, S.A|10150|13500|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|AGROPECUARIA INSA DE VENEZUELA, C.A.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de AGROPECUARIA INSA DE VENEZUELA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2019, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora AGROPECUARIA INSA DE VENEZUELA, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro 138 de fecha 22/11/2019.<BR><BR>La sesión especial para la Serie I, de la Emisión 2019, por el monto de Bs. 7.500.000.000,00, de Papeles Comerciales al Portador, sería a partir del 06 de febrero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 138 de fecha 22/11/2019<BR>Emisor	AGROPECUARIA INSA DE VENEZUELA, C.A.<BR>Emisión 	2019<BR>Series a colocar	Serie I<BR>Monto de Emisión. 	Bs.  7.500.000.000,00.<BR>Monto por serie 	Bs.  7.500.000.000,00.<BR>Códigos  ISIN	Serie I:      VEV00368WJJ4<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie I:      AI91P<BR>Fecha de Inicio de Sesión Especial 	06/02/2020<BR>Fecha de Vencimiento de la Series.	06/05/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	83,77%<BR>Base de cálculo 	Actual/360<BR>Calificación de Riesgo	A1a Calificadores Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m.<BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR><BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|
+NO|C.A. RON SANTA TERESA,|AVISO DE PAGO DE DIVIDENDOS EN EFECTIVO<BR>C.A. RON SANTA TERESA<BR><BR>Se informa a los Accionistas de la empresa C.A. RON SANTA TERESA, que la Junta Directiva ha designado a la Caja Venezolana de Valores, SA., como Agente Pagador del dividendo en Efectivo aprobado por la Asamblea General Ordinaria de Accionistas celebrada el pasado Veintiocho (28) de octubre de 2019 por un monto de Quinientos Setenta y Tres Mil Trescientos Tres con cinco Dólares de los Estados Unidos de América ($573.303,50), a razón de $0,002 en dinero en efectivo por cada acción en circulación suscrita y pagada ($0,002/ 1 acción) (DIVIDENDO EN DINERO EFECTIVO),  a ser distribuidos entre los accionistas Clase A y Clase B, los cuales serán pagaderos únicamente en Bolívares, calculados a la tasa de cambio vigente proveniente de las operaciones de las mesas de cambio autorizadas por el Banco central de Venezuela, vigente para la fecha de transacción con beneficio, siendo la <BR>Fecha Limite de Transacción con Beneficio el día 17 de febrero de 2020,  y la <BR>Fecha Efectiva de Registro del beneficio, el día 28 de febrero de 2020, <BR>Todo conforme a la decisión aprobada por la Junta Directiva en delegación de la Asamblea General Extraordinaria de Accionistas celebrada en fecha 28 de octubre de 2019, debidamente notificada a la Superintendencia Nacional de Valores (SUNAVAL). De igual forma, según decisión aprobada por la Junta Directiva, se estableció como fecha de pago de este dividendo el mismo día 28 de febrero de 2020.<BR>|
+NO||En este sentido, a partir del día 28 de febrero de 2020, los Accionistas pueden dirigirse a la sede de Caja Venezolana de Valores, SA, ubicada en la Avenida Sorocaima entre Ave. Venezuela y Ave. Tamanaco Edificio Atrium Piso 1, Urbanización El Rosal, Chacao, de la ciudad de Caracas DC, o llamar por los teléfonos 0212-95203.32 al 37 (www.cajavenezolana.com) para cobrar el dividendo en dinero efectivo antes mencionado en las fechas indicadas.<BR><BR>Caracas, 03 de febrero de 2020.<BR>Alberto C. Vollmer<BR>Presidente Ejecutivo<BR>|
+NO|ENVASES VENEZOLANOS, S.A.|Modificación Valor Nominal Envases Venezolanos SA<BR>A continuación, se informa el precio de ajuste de valor nominal de las acciones de la empresa emisora Envases Venezolanos SA como consecuencia del aumento del capital social, aprobado en Asamblea General Ordinaria de Accionistas celebrada en fecha 10 de octubre del 2019. <BR><BR>El referido aumento fue realizado con cargo a la cuenta Actualización del Capital Social, capitalizar la cantidad 12.051.415.569,60 y aumentar el valor nominal de la acción de Bs 0,05 a la cantidad de Bs 95,00 permaneciendo inalterado el número de acciones que conforman el capital social suscrito y pagado de la compañía, que es de 126.923.808 acciones. En consecuencia, el capital Social alcanzaría la cantidad de Bs 12.057.761.760,00. <BR><BR>Símbolo		ENV<BR><BR>Valor Nominal Anterior      Bs.  0,05	<BR>Nuevo Valor Nominal        Bs.  95,00	<BR>Nuevo Capital Social         Bs  12.057.761.760,00<BR>|

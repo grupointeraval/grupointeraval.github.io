@@ -1,0 +1,66 @@
+IG|01042020|117920.12|12304.33|11.65|129541.1|8425.19|65686.44|125.75|
+IF|01042020|206403.75|25057.34|13.82|
+II|01042020|52391.58|2235.01|4.46|
+R|B.DE VENEZUELA|BVL|2500|2800|300|12|2800|2800|2800|4|879|2461200||1|
+R|B.OCC.DCTO.B.U.|BOU|23.9|23.9|0|0|23|23.9|23.85|7|54611|1302217.6||2|
+R|BCO. CARIBE "A"|ABC.A|45500|46000|500|1.1|46000|46000|46000|1|1|46000||1|
+R|BCO. PROVINCIAL|BPV|155000|186001|31001|20|160000|186001|180548.25|12|453|81788358||1|
+R|BCO.NAC.CREDITO|BNC|640|650|10|1.56|635|650|639.44|12|23200|14835000||1|
+R|BOLSA V. CCAS.($)|BVCC|20495|20500|5|.02|20500|20800|20530.35|10|2544|52229215||1|
+R|CANTV CLASE (D)|TDV.D|9000|9125|125|1.39|9125|9125|9125|1|50|456250||1|
+R|CORIMON C.A.|CRM.A|6100|6121|21|.34|6121|6121|6121|1|78|477438||1|
+R|CR.CARABOBO|CCR|450000|400000|-50000|-11.11|400000|440000|406666.67|2|12|4880000||3|
+R|DOMINGUEZ & CIA|DOM|31000|32000|1000|3.23|32000|32000|32000|2|147|4704000||1|
+R|ENVASES VZLOS.|ENV|15000|17000|2000|13.33|15000|17000|15807.02|13|5700|90100000||1|
+R|FAB.N.CEMENTOS|FNC|24239|24200|-39|-.16|24200|24200|24200|1|2|48400||3|
+R|FONDO V.INM.(B)|FVI.B|560|587|27|4.82|550|587|554.83|23|502041|280586110||1|
+R|GRUPO ZULIANO|GZL|52000|52000|0|0|52000|52000|52000|1|2|104000||2|
+R|INM.VAL.Y CAP.|IVC|38000|39999|1999|5.26|38100|39999|38347.7|3|230|8819970||1|
+R|MANPA, C.A. SACA|MPA|5700|5800|100|1.75|5700|5800|5797.2|4|21193|122860100||1|
+R|MERCANTIL S.(A)|MVZ.A|150000|179000|29000|19.33|179000|179000|179000|6|943|150937000||1|
+R|MERCANTIL S.(B)|MVZ.B|155000|170000|15000|9.68|155000|170000|169189.19|6|370|62600000||1|
+R|PROAGRO|PGR|1449|1449|0|0|1449|1449|1449|1|275|398475||2|
+R|R.S.TERESA "B"|RST.B|27000|26500|-500|-1.85|26500|27000|26507.26|3|551|14605500||3|
+R|RON STA. TERESA|RST|38999|40000|1001|2.57|39000|40000|39880.7|6|171|6819600||1|
+R|SIVENSA, S.A.|SVS|12750|13600|850|6.67|12750|13600|13573.67|4|15317|207907922||1|
+R|T. PALO GRANDE|TPG|270|300|30|11.11|300|300|300|4|10000|3000000||1|
+P|BOLSA V. CCAS.|BVCC||20500|||20500|20800|20530.35|4|880|19005854||
+P|GRUPO ZULIANO|GZL||52000|||52000|52000|52000|1|1680|87360000||
+VT|17|3|3|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)TN911P-Colocación Primaria. Tit. Nuevo Valor|
+BP|PC CARGILL 19-3P|CV923P|86.59|86.75|.16|.18|86.75|86.75||2|1000000000|867530000||
+BP|PC PURINA 19-4 P|PN914P|86.59|86.75|.16|.18|86.75|86.75||2|1000000000|867530000||
+BP|T.P. N.V. 19-1-1|TN911P|85|85|0|0|85|85||3|2000000000|1700000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2100|2975|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|42000|47000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|650|690|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|186001|202000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|21.5|23.9|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|20500|20999|
+CC|C.A. RON SANTA TERESA|38500|40000|
+CC|C.A. RON SANTA TERESA (CLASE B)|26500|27000|
+CC|C.A. TELARES DE PALO GRANDE|300|323|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8900||
+CC|CERAMICA CARABOBO, SACA||539000|
+CC|CORIMON, C.A.|6121|6359|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2200|3300|
+CC|CORP.GRUPO QUIMICO, C.A.|65000|65399|
+CC|DOMINGUEZ & CIA., S.A.|32000|33700|
+CC|ENVASES VENEZOLANOS S.A.|16000|17000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||24350|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|650|800|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|550|587|
+CC|GRUPO ZULIANO, C.A.||52000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|34101|39999|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4750|6000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|172250||
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|172250|185000|
+CC|PROAGRO C.A.|1449|1450|
+CC|PRODUCTOS EFE S.A.|2005|2169|
+CC|PROTINAL C.A.|2800|3474|
+CC|SIVENSA, S.A|12700||
+NO|BOLSA DE VALORES DE CARACAS, C.A.|CALOX INTERNATIONAL CA<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CALOX INTERNATIONAL, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CALOX INTERNATIONAL, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro 036/2020 de fecha 25/03/2020.<BR><BR>La sesión especial para la Serie I, de la Emisión 2019-I, es por el monto de Bs. 5.000.000.000,00, de Papeles Comerciales al Portador, sería a partir del 03 de abril de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 036/2020 de fecha 25/03/2020<BR>Emisor	CALOX INTERNATIONAL, C.A.<BR>Emisión 	2019-I<BR>Series a colocar		Serie I.<BR>Monto de Emisión. 	Bs.  5.000.000.000,00.<BR>Monto por de la serie 	Bs.  5.000.000.000,00.<BR>Códigos  ISIN	VEV00395WKE6<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	CX911P<BR><BR>Fecha de Inicio de Sesión Especial 	03/04/2020<BR>Fecha de vencimiento de la Emisión 	03/10/2020<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	72,32%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	<BR>Horario de Sesión Especial	 De 9:30 a.m a 12:00 p.m. <BR>|
+NO|GALAXIA MEDICA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de GALAXIA MEDICA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie IV, de la Emisión 2019, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora GALAXIA MEDICA, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 132/2019 de fecha 14/11/2019.  <BR><BR>La sesión especial para la Serie IV, de las Emisiones 2019, por el monto de Bs. 1.100.000.000,00, de Papeles Comerciales al Portador, es a partir del 03 de abril de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 132/2019 de fecha 14/11/2019<BR>Emisor	GALAXIA MEDICA, C.A.<BR>Emisión 	2019<BR>	<BR>Series a colocar		De la Serie IV.<BR>Monto de Emisión. 	Bs.  5.000.000.000,00.<BR>Monto por serie 	Bs.  1.100.000.000,00.<BR>Códigos  ISIN	VEV00391WKD7<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	GM94P<BR>Fecha de Inicio de Sesión Especial 	03/04/2020<BR>Fecha de Vencimiento de la Serie.	03/07/2020<BR>Agentes de la Colocación 	Fivenca Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	86,61%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 12:00 p.m.<BR>|

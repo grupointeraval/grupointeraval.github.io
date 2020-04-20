@@ -1,0 +1,73 @@
+IG|02032020|104721.4|-4050.26|-3.72|129541.1|8194.59|52487.72|100.49|
+IF|02032020|180105.97|-9441.31|-4.98|
+II|02032020|49460.75|359.61|.73|
+R|B.DE VENEZUELA|BVL|2100|2255|155|7.38|1701|2519|1734.51|4|1518|2632990||1|
+R|B.OCC.DCTO.B.U.|BOU|20.5|20|-.5|-2.44|20|20.5|20.33|9|178032|3619856||3|
+R|BCO. CARIBE "A"|ABC.A|43000|42500|-500|-1.16|42500|43000|42514.29|8|70|2976000||3|
+R|BCO. PROVINCIAL|BPV|155000|148000|-7000|-4.52|146500.01|150000|147389.41|23|2622|386360797.6||3|
+R|BCO.NAC.CREDITO|BNC|635|628|-7|-1.1|628|635|630.71|17|15369|9693380||3|
+R|BOLSA V. CCAS.($)|BVCC|18500|18395|-105|-.57|18395|18500|18447.6|6|1075|19831165||3|
+R|CORIMON C.A.|CRM.A|5900|6498|598|10.14|6001|6498|6249.5|2|14|87493||1|
+R|CORP.IND.ENERGIA|CIE|2721|3100|379|13.93|3100|3100|3100|1|50|155000||1|
+R|DOMINGUEZ & CIA|DOM|33650|33645|-5|-.01|33645|33700|33672.5|2|8|269380||3|
+R|ENVASES VZLOS.|ENV|18000|17800|-200|-1.11|17800|18249|17948.66|7|74|1328201||3|
+R|FONDO V.INM.(A)|FVI.A|800|810|10|1.25|800|810|808.06|3|102|86100||1|
+R|FONDO V.INM.(B)|FVI.B|540|580|40|7.41|550|600|558.47|10|1468|819838||1|
+R|GRUPO ZULIANO|GZL|40000|47990|7990|19.98|47990|47990|47990|1|4|191960||1|
+R|MANPA, C.A. SACA|MPA|5599|5500|-99|-1.77|4500|5559|4519.37|4|1019|4605240||3|
+R|MERCANTIL S.(A)|MVZ.A|175000|160000|-15000|-8.57|160000|175000|173971.83|6|71|12352000||3|
+R|MERCANTIL S.(B)|MVZ.B|175000|165000|-10000|-5.71|165000|175000|167500|2|4|670000||3|
+R|PROAGRO|PGR|1479|1450|-29|-1.96|1450|1450|1450|2|65|94250||3|
+R|PRODUCTOS EFE|EFE|2801|3300|499|17.82|3000|3300|3221.05|2|19|61200||1|
+R|PROTINAL|PTN|2500|2999|499|19.96|2999|2999|2999|1|15|44985||1|
+R|R.S.TERESA "B"|RST.B|31000|31000|0|0|29999|29999|29999|1|1|29999||2|
+R|RON STA. TERESA|RST|34000|33498.5|-501.5|-1.48|33498.5|34490|34064.58|16|11924|408249765||3|
+R|T. PALO GRANDE|TPG|400|400|0|0|400|445|426.47|3|34|14500||2|
+P|BOLSA V. CCAS.|BVCC||18395|||18395|18500|18447.6|4|54940|1252270220||
+P|GRUPO ZULIANO|GZL||47990|||47990|47990|47990|1|225|10797750||
+P|PRODUCTOS EFE|EFE||3300|||3000|3300|3221.05|1|12500|42012500||
+P|T. PALO GRANDE|TPG||400|||400|445|426.47|1|45008|20028560||
+VT|8|12|2|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)CX191P-Colocación Primaria. Calox Int.|
+DV|(&)CX192P-Colocación Primaria. Calox Int.|
+DV|(&)CX193P-Colocación Primaria. Calox Int.|
+DV|(&)CX194P-Colocación Primaria. Calox Int.|
+DV|(&)CX91P-Colocación Primaria. Calox Int.|
+BP|OQ CALOX 19 S-1P|CX191P|64.23|64.23|0|0|64.23|64.23||1|250000000|160575000||
+BP|OQ CALOX 19 S-2P|CX192P|64.23|64.23|0|0|64.23|64.23||1|250000000|160575000||
+BP|OQ CALOX 19 S-3P|CX193P|64.23|64.23|0|0|64.23|64.23||1|250000000|160575000||
+BP|OQ CALOX 19 S-4P|CX194P|64.23|64.23|0|0|64.23|64.23||2|250000000|160575000||
+BP|PC CALOX 19 S-1P|CX91P|77.04|77.04|0|0|77.04|77.04||6|3000000000|2311200000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2101|2255|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|42000|42500|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|600|629|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|150000|159000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|20.01|20.5|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|17500|18395|
+CC|C.A. RON SANTA TERESA|32000|33500|
+CC|C.A. RON SANTA TERESA (CLASE B)|28000|29999|
+CC|C.A. TELARES DE PALO GRANDE|400|445|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|7601|9489|
+CC|CERAMICA CARABOBO, SACA|314000|470000|
+CC|CORIMON, C.A.|6000|6498|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2100|3100|
+CC|CORP.GRUPO QUIMICO, C.A.|32001|46000|
+CC|DOMINGUEZ & CIA., S.A.|30100|33645|
+CC|ENVASES VENEZOLANOS S.A.|17310|17800|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||24478.75|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|700|800|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|550|580|
+CC|GRUPO ZULIANO, C.A.|33000|47985|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|32001|39000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.||5500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|140500|190000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|140500|170000|
+CC|PROAGRO C.A.|1191|1449|
+CC|PRODUCTOS EFE S.A.|2801|3300|
+CC|PROTINAL C.A.|2005|2999|
+CC|SIVENSA, S.A||13339|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|CALOX INTERNATIONAL, C.A.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Obligaciones Quirografaria de CALOX INTERNATIONAL, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Series I, II, III y IV, de la Emisión 2019, de Obligaciones Quirografarias, emitidos por la Empresa Emisora CALOX INTERNATIONAL, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 018/2020 de fecha 10/02/2020.<BR><BR>La sesión especial para las Series I, II, III y IV, de la Emisión 2019, es por los siguientes montos de Bs. 250.000.000,00 c/u., de Obligaciones Quirografarias, sería a partir del 02 de marzo de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Obligaciones Quirografarias <BR>Autorización SNV 	Providencia Nro. 018/2020 de fecha 10/02/2020<BR>Emisor	CALOX INTERNATIONAL, C.A.<BR>Emisión 	2019<BR>Series a colocar		Series I, II, III y IV.<BR>Monto de Emisión. 	Bs.  1.000.000.000,00.<BR>Monto por de cada serie 	Bs.     250.000.000,00 c/u.<BR>Códigos  ISIN	Serie   I:     VEV00395ORP4<BR>Serie  II:     VEV00395ORQ2<BR>Serie III:     VEV00395ORR0<BR>Serie IV:     VEV00395ORS8<BR>Código del Activo	O.Q.<BR>Código de Símbolo en SIBE, Mercado Primario	Serie    I:    CX191P<BR>Serie   II:    CX192P<BR>Serie  III:    CX193P<BR>Serie  IV:    CX194P<BR>Fecha de Inicio de Sesión Especial 	02/03/2020<BR>Fecha de vencimiento de las Series	02/06/2021<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	64,23%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A 1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3.<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3.<BR>|
+NO|DOMINGUEZ & CIA.,S.A.|  Resultado Asamblea General Ordinaria de Accionistas<BR>    DOMINGUEZ & CIA, S.A.<BR><BR>En la Asamblea General Ordinaria de Accionistas de DOMINGUEZ & CIA, S.A, reunida el día de hoy a las  8:30 am, día viernes veintiocho (28) de febrero de 2020, en caracas, se acordó a las 10:00 am, aprobar por unanimidad la propuesta de la Junta Directiva de Domínguez & CIA, SA., de un reparto de dividendos en efectivo por un monto total de DOS MIL CUATROCIENTOS SEIS MILLONES DOSCIENTOS CINCUENTA MIL BOLIVARES ( Bs 2.406.250.000,00) lo que representa un dividendo de CIEN BOLIVARES  (Bs. 100,00) por cada acción, el cual será pagado con cargo a utilidades retenidas, a los accionistas de Domínguez & Cía., S.A., en una sola porción de la siguiente forma:<BR>Única Porción.     Bs 100,00 por acción, esto es, Bs 2.406.250.000,00<BR>Fecha Límite de Transacción con Beneficio:  El 09 de marzo de 2020.<BR>Fecha efectiva de registro del Beneficio:    El 17 de marzo de 2020.<BR><BR>El dividendo no causa impuesto.<BR><BR>Mauricio Caycedo S.<BR>Presidente Ejecutivo<BR>Caracas 28 de febrero de 2020<BR>|

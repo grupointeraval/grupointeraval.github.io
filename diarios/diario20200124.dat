@@ -1,0 +1,73 @@
+IG|24012020|108272.44|-8371.52|-7.18|124789.33|4640.24|56038.76|107.28|
+IF|24012020|197117.25|-18358.77|-8.52|
+II|24012020|41127.43|-317.55|-.77|
+R|B.DE VENEZUELA|BVL|1600|1600|0|0|1600|1600|1600|2|240|384000||2|
+R|B.OCC.DCTO.B.U.|BOU|17|17|0|0|16.1|17|16.12|7|317425|5138725||2|
+R|BCO. CARIBE "A"|ABC.A|41000|40000|-1000|-2.44|40000|40000|40000|1|10|400000||3|
+R|BCO. PROVINCIAL|BPV|189000|172000|-17000|-8.99|172000|172000|172000|3|54|9288000||3|
+R|BCO.NAC.CREDITO|BNC|650|600|-50|-7.69|600|660|618.5|26|58355|36113300||3|
+R|BOLSA V. CCAS.($)|BVCC|18000|17000|-1000|-5.56|17000|17000|17000|18|7977|135609000||3|
+R|CR.CARABOBO|CCR|111000|105000|-6000|-5.41|105000|105000|105000|1|165|17325000||3|
+R|ENVASES VZLOS.|ENV|15000|14500|-500|-3.33|14500|16000|14582.08|9|3381|49302000||3|
+R|FONDO V.INM.(A)|FVI.A|780|795|15|1.92|780|799.95|799.31|4|1064|850470||1|
+R|FONDO V.INM.(B)|FVI.B|421|405.01|-15.99|-3.8|405.01|430|412.36|36|217093|89867849.04||3|
+R|INM.VAL.Y CAP.|IVC|34000|34000|0|0|34000|34000|34000|1|250|8500000||2|
+R|MANPA, C.A. SACA|MPA|4400|4000|-400|-9.09|4000|4500|4019.23|2|104|418000||3|
+R|MERCANTIL S.(A)|MVZ.A|199994|195000|-4994|-2.5|195000|195000|195000|7|208|40560000||3|
+R|MERCANTIL S.(B)|MVZ.B|200000|161000|-39000|-19.5|161000|200000|192777.78|3|27|5205000||3|
+R|PROAGRO|PGR|1150|1200|50|4.35|1160|1200|1160.17|3|3774|4378480||1|
+R|PRODUCTOS EFE|EFE|2900|2949.75|49.75|1.72|2949.75|2949.75|2949.75|2|12|35397||1|
+R|PROTINAL|PTN|2750|2750|0|0|2750|2750|2750|1|7|19250||2|
+R|RON STA. TERESA|RST|26550|27000|450|1.69|26000|28000|26819.74|15|1603|42946000||1|
+R|T. PALO GRANDE|TPG|280|282|2|.71|282|300|287.54|3|4965|1427650||1|
+P|BOLSA V. CCAS.|BVCC||17000|||17000|17000|17000|12|183026|3031981690.55||
+P|GRUPO ZULIANO|GZL||45000|||0|0|0|1|2000|80000000||
+P|MERCANTIL S.(A)|MVZ.A||195000|||195000|195000|195000|1|255|51000000||
+VT|5|10|4|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)CV913P-Colocación Primaria. Cargill|
+DV|(&)CV914P-Colocación Primaria. Cargill|
+DV|(&)NU914P-Colocación Primaria. NetUno|
+DV|(&)PA191P-Colocación Primaria. Paica|
+DV|(&)PA8I6P-Colocación Primaria. Paica|
+DV|(&)PN913P-Colocación Primaria. Purina|
+BP|NETUNO 19-I-4 P|NU914P|87.91|87.91|0|0|87.91|87.91||7|2647000000|2327030640||
+BP|PAICA 2018-I 6 P|PA8I6P|87.91|87.91|0|0|87.91|87.91||2|325000000|285714000||
+BP|PAICA 2019 1 P|PA191P|88.5|88.5|0|0|88.5|88.5||2|1000000000|885000000||
+BP|PC CARGILL 19-3|CV913P|87.04|87.05|.01|.01|87.05|87.05||1|57000000|49615650||
+BP|PC CARGILL 19-4|CV914P|82.08|82.08|0|0|82.08|82.08||2|1000000000|820800000||
+BP|PC PURINA 19-3 P|PN913P|87.04|87.05|.01|.01|87.05|87.05||2|1300000000|1131585000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1500|1598|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|33000|40000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|600|645|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|155000|189000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|15.01|17|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|16250|17500|
+CC|C.A. RON SANTA TERESA|26800|28000|
+CC|C.A. TELARES DE PALO GRANDE|225|282|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|7500|9000|
+CC|CERAMICA CARABOBO, SACA|90000||
+CC|CORIMON, C.A.|4801|5299|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2100|2900|
+CC|CORP.GRUPO QUIMICO, C.A.|21000|26000|
+CC|DOMINGUEZ & CIA., S.A.|24001|30000|
+CC|ENVASES VENEZOLANOS S.A.|14500|15000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||14579.97|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|650|780|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|405|420|
+CC|GRUPO ZULIANO, C.A.|36001|39900|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|34000|36000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|3900|4000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|161000|190000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|161000|198800|
+CC|PROAGRO C.A.|1001|1200|
+CC|PRODUCTOS EFE S.A.|2321|2899|
+CC|PROTINAL C.A.|1408|2200|
+CC|SIVENSA, S.A|12401|14999|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|CENTRAL MADEIRENSE, CA<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CENTRAL MADEIRENSE, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie III, de la Emisión 2019-I de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CENTRAL MADEIRENSE, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 083 de fecha 17/07/2019.  <BR><BR>La sesión especial para la Serie III, de las Emisión 2019-I, por el monto de Bs. 1.200.000.000,00, de Papeles Comerciales al Portador, sería a partir del 24 de enero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 083 de fecha 17/07/2019<BR>Emisor	CENTRAL MADEIRENSE, C.A.<BR>Emisión 	2019-I<BR>Series a colocar	Serie III.<BR>Monto de Emisión. 	Bs.  1.200.000.000,00.<BR>Monto por serie 	Bs.  1.200.000.000,00.<BR>Códigos  ISIN	VEV00390WJC3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	ME913P<BR>Fecha de Inicio de Sesión Especial 	24/01/2020<BR>Fecha de Vencimiento de las Series.	24/03/2020<BR>Agentes de la Colocación 	Activalores, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	86,00%<BR>Base de cálculo 	Actual/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo, C.A. Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	De 9:30 a.m  a  1:00 p.m. <BR>|
+NO||AGRIBRANDS PURINA VENEZUELA, S.R.L.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros Accionistas de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de AGRIBRANDS PURINA VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondiente a la Serie III, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora AGRIBRANDS PURINA VENEZUELA, S.R.L. e inscrita en el Registro Nacional de Valores según Providencia Nro. 122 de fecha 30/10/2019.<BR><BR>La sesión especial para la Serie III, de la Emisión 2019-I, por el monto de Bs. 2.150.000.000,00, de Papeles Comerciales al Portador, sería a partir del 24 de enero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 122 de fecha 30/10/2019<BR>Emisor	AGRIBRANDS PURINA VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>Series a colocar	Serie III<BR>Monto de Emisión. 	Bs.    5.000.000.000,00.<BR>Monto por serie 	Bs.    2.150.000.000,00.<BR>Códigos  ISIN	Serie III:      VEV00393WJB9<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie III:	PN913P<BR>Fecha de Inicio de Sesión Especial 	24/01/2020<BR>Fecha de Vencimiento de las Series.	23/05/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	87,05%<BR>Base de cálculo 	Actual 30/360<BR>Calificación de Riesgo	Clave, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	 De 9:30 a.m a 1:00 p.m.<BR>|
+NO||CARGILL DE VENEZUELA, S.R.L.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros Mercado de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CARGILL DE VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Series III y IV, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CARGILL DE VENEZUELA, S.R.L. e inscrita en el Registro Nacional de Valores según Providencia Nro 123 de fecha 30/10/2019.<BR><BR>La sesión especial para las Series III y IV, de la Emisión 2019-I, la Serie III, por un monto de Bs. 4.610.000.000,00, y la Serie IV, por un monto de Bs. 3.460.000.000,00, de Papeles Comerciales al Portador, sería a partir del 24 de enero de 2020.<BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 123 de fecha 30/10/2019<BR>Emisor	CARGILL DE VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>Series a colocar	<BR>Serie III<BR>Serie IV<BR>Monto de Emisión. 	Bs.  15.000.000.000,00.<BR>Monto por serie 	Serie III   Bs.    4.610.000.000,00.<BR>Serie IV    Bs.    3.460.000.000,00.<BR>Códigos  ISIN	Serie III      VEV00392WIZ2<BR>Serie IV      VEV00392WJA3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie III	CV913P<BR>Serie  IV	CV914P<BR>Fecha de Inicio de Sesión Especial 	24/01/2020<BR>Fecha de Vencimiento de las Series.	<BR>Serie III      23/05/2020<BR>Serie IV      22/07/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	<BR>Serie III      87,0454%<BR>Serie IV      82,0809%<BR>Base de cálculo 	Actual 30/360<BR>|
+NO||Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m a 1:00 p.m. <BR>Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR><BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|
+NO|NETUNO, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de NETUNO, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie IV, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora NETUNO, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro.  086/2019 de fecha 29/07/2019.<BR><BR>La sesión especial para la Serie IV, de la Emisión 2019-I, por el monto de Bs. 3.471.000.000,00, de Papeles Comerciales al Portador, sería a partir del 24 de enero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 086/2019 de fecha 29/07/2019<BR>Emisor	NETUNO, C.A.<BR>Emisión 	2019-I<BR>Series a colocar	Serie IV.<BR>Monto de Emisión. 	Bs.  6.000.000.000,00.<BR>Monto por serie 	Bs.  3.471.000.000,00.<BR>Códigos  ISIN	VEV00354WJD7<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	NU914P<BR>Fecha de Inicio de Sesión Especial 	24/01/2020<BR>Fecha de vencimiento de la Emisión 	23/04/2020<BR>Agentes de la Colocación 	MERCOSUR Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	87,91%<BR>Base de cálculo 	REAL/360<BR>Calificación de Riesgo	Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m a 1:00 p.m. <BR>|

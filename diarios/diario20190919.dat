@@ -1,0 +1,58 @@
+IG|19092019|48061.26|-2269.24|-4.51|62004.3|304|-4172.42|-7.99|
+IF|19092019|83742.48|-4665.86|-5.28|
+II|19092019|21698.16|-372.32|-1.69|
+R|BCO. CARIBE "A"|ABC.A|20000|20000|0|0|23000|23000|23000|1|1|23000||2|
+R|BCO. PROVINCIAL|BPV|80497|71000|-9497|-11.8|71000|75000|72095.77|11|272|19610050||3|
+R|BCO.NAC.CREDITO|BNC|380|370|-10|-2.63|370|380|375.51|19|44460|16695366||3|
+R|BOLSA V. CCAS.($)|BVCC|6800|7250|450|6.62|7250|7250|7250|4|240|1726000||1|
+R|CANTV CLASE (D)|TDV.D|5700|5700|0|0|5700|5700|5700|5|1239|7062300||2|
+R|CORIMON C.A.|CRM.A|4600|4600|0|0|4500|4500|4500|1|2|9000||2|
+R|DOMINGUEZ & CIA|DOM|15000|14000|-1000|-6.67|14000|14500|14000.83|5|12020|168290000||3|
+R|ENVASES VZLOS.|ENV|8450|7226|-1224|-14.49|7226|8000|7259.99|11|4923|35740914||3|
+R|FONDO V.INM.(A)|FVI.A|364|300|-64|-17.58|300|300|300|2|12507|3752100||3|
+R|FONDO V.INM.(B)|FVI.B|235|230.01|-4.99|-2.12|220|235|229.96|28|3221281|740772730.05||3|
+R|MANPA, C.A. SACA|MPA|2030|2020|-10|-.49|2000|2020|2011.03|3|1115|2242300||3|
+R|MERCANTIL S.(A)|MVZ.A|70000|70000|0|0|65000|70000|67973.25|10|2667|180690000||2|
+R|MERCANTIL S.(B)|MVZ.B|70000|69000|-1000|-1.43|69000|70000|69066.67|2|30|2072000||3|
+R|PROAGRO|PGR|850|850|0|0|850|850|850|7|3587|3048950||2|
+R|RON STA. TERESA|RST|13500|14300|800|5.93|13200|14300|13335.86|11|4150|55440250||1|
+R|T. PALO GRANDE|TPG|144|135|-9|-6.25|135|143|136.96|2|265|36295||3|
+P|BCO.NAC.CREDITO|BNC||370|||370|380|375.51|2|160|60640||
+P|FONDO V.INM.(B)|FVI.B||230.01|||220|235|229.96|2|92740|23037079.7||
+P|MERCANTIL S.(A)|MVZ.A||70000|||65000|70000|67973.25|1|280|19600000||
+VT|2|9|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|TIVALCA 19 S-1 P|TI191P|100|100|0|0|100|100||1|627000000|627000000||
+BP|VF-2017 S-1 P|VF191P|60|60|0|0|60|60||1|500000000|300000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|815|998|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|20000|23000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|370|375|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|71000|80000|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6800|7250|
+CC|C.A. RON SANTA TERESA|13200|14300|
+CC|C.A. TELARES DE PALO GRANDE||135|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|5400|5700|
+CC|CERAMICA CARABOBO, SACA||105000|
+CC|CORIMON, C.A.||4200|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||945|
+CC|CORP.GRUPO QUIMICO, C.A.|4681||
+CC|DOMINGUEZ & CIA., S.A.|14000|14500|
+CC|ENVASES VENEZOLANOS S.A.|6900|7500|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|8000|9000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|300|350|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|230.01|235|
+CC|GRUPO ZULIANO, C.A.||12999|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|16800.01||
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1626|2020|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|70000|74500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|65000|69000|
+CC|PROAGRO C.A.||850|
+CC|PROTINAL C.A.||1050|
+CC|SIVENSA, S.A||4750|
+NO|BANCO NACIONAL DE CREDITO, C.A. BCO.UNIV|INFORMACIÓN<BR>  BANCO NACIONAL DE CRÉDITO C.A., BANCO UNIVERSAL<BR><BR>Estimados Señores Accionistas:<BR>El BANCO NACIONAL DE CRÉDITO, C.A., Banco Universal ha publicado en su página web www.bnc.com.ve, la convocatoria para la Asamblea General Ordinaria de Accionistas que debe celebrarse el próximo 25 de septiembre de 2019. Los puntos a tratar en dicha Asamblea se encuentran detallados en la Convocatoria adjunta. Con motivo de dicha Asamblea, también se han colocado en la página web el Informe de la Junta Directiva a los Accionistas, todas las propuestas que serán llevadas a la consideración de la Asamblea y la Memoria del Banco correspondiente al Primer Semestre de 2019; así como los Estados Financieros auditados por la Firma de auditores externos Pacheco Apostólico y Asociados (PricewaterhouseCoopers). <BR>Asimismo, hemos incluido el modelo de Carta-Poder de representación, que le pedimos completar, firmar y entregar en cualquiera de las agencias del Banco. Como siempre, aun cuando se haya firmado y enviado el poder, serán bienvenidos todos los accionistas que puedan asistir a la Asamblea.<BR>Finalmente, agradecemos su presencia y su apoyo a las propuestas de la Administración.<BR><BR>Muy atentamente,<BR>Mary Loreto<BR>Gerente de Área Valores y Accionistas<BR>|
+NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|CIRCUALR SIB-10345<BR>SUPERINTENDENCIA DE LAS INSTITUCIONES DEL SECTOR BANCARIO (SUDEBAN)<BR><BR>La Resolución Nro. 047-19, de fecha 10 de septiembre de 2019, publicada en la Gaceta Oficial de la República Bolivariana de Venezuela Nro. 41.714 del 11 del mismo mes y año; donde este Ente Supervisor en pleno ejercicio de sus atribuciones legales, impuso al Banco Occidental de Descuento, Banco Universal C.A., medidas administrativas de intervención del Estado en protección y aseguramiento de los fondos de los usuarios Venezolanos y en las cuales este Regulador venezolano ejecuta su rol y facultad de intervenir o participar en la actividad bancaria; constituye un acto administrativo fundamentado en el artículo 154 del Decreto con Rango, Valor y Fuerza de Ley de Instituciones del Sector Bancario.<BR>En este orden es oportuno señalar que el concepto propio de medidas administrativas y el de intervención del Decreto con Rango Valor y Fuerza de Ley de Instituciones del Sector Bancario, está ampliamente diferenciado por el legislador patrio.<BR>|
+NO||Por lo cual las medidas administrativas dictadas al Banco Occidental de Descuento, Banco Universal, C.A. por parte de este Ente de supervisión, poseen naturaleza jurídica distinta a un régimen de intervención, visto que su objeto es que a través de una participación activa del regulador realizar la supervisión permanente de las actividades desarrolladas por esa Entidad Bancaria lo cual será verificado a través de un grupo de funcionarios veedores que estarán presentes a la Junta Directiva y todos los Comités de la sociedad mercantil con acceso pleno a todas las áreas, sean estas administrativas, operativas, de negocios o de cualquier otra naturaleza a efecto de realizar una actividad de supervisión, vigilancia y corrección en las operaciones de la Institución Bancaria objeto de la presente medida, todo ello en aras de mantener la transparencia de las operaciones en cumplimiento de las normas que regulan la materia y de cara a los procesos regulatorios en otros países que mantienen otras entidades bancarias pertenecientes al grupo Financiero BOD.<BR><BR>Asimismo, el Órgano Supervisor no asume las funciones que actualmente ejerce la Junta Directiva de Banco Occidental de Descuento, Banco Universal C.A., ni los miembros de ésta fueron removidos de sus cargos, ni se ha privado de la posesión y administración de la sociedad mercantil a sus propietarios o accionistas de manera alguna, sus funciones se limitan a verificar bajo una figura de supervisión directa que efectivamente esa Entidad Bancaria tome las decisiones correctas de respecto a los procesos que pesan sobre entidades extranjeras del Grupo Financiero en resguardo del patrimonio del Banco Occidental de Descuento, Banco Universal C.A.<BR>|
+NO||En consecuencia la participación a través de esta Superintendencia como Ente Regulador del Sistema Bancario, se realiza bajo los parámetros legales que definen la aplicación de medidas administrativas, dado que en materia bancaria, el proceso de Intervención de una Institución del Sector Bancario, se encuentra regulado en el Capítulo III del Decreto con Rango, Valor y Fuerza de Ley de Instituciones del Sector Bancario, cuyo texto normativo amparado en el artículo 247 y siguientes del aludido Decreto Ley, lo cual no ha sido invocado por esta Superintendencia en ninguno de los actos administrativos, hecho que nos lleva a concluir con plena certidumbre que el Banco Occidental de Descuento, Banco Universal, C.A., no se encuentra actualmente bajo un Régimen de Intervención o también denominado Régimen Administrativo Especial de Intervención; cuya consecuencia directa reiteramos sería mantener al Banco gobernado por un administrador o junta administradora designada por el Estado.<BR><BR>Antonio Morales Rodriguez<BR>Superintendente (E) de las Instituciones del sector Bancario<BR>|
+NO|CORPORACION GRUPO QUIMICO, C.A|INFORMACIÓN <BR> CORPORACION GRUPO QUIMICO, C.A.<BR><BR> En cumplimiento con lo establecido en el artículo 1 de la Resolución Nro. 110-2004 de la Comisión Nacional de Valores-actual Superintendencia Nacional de Valores-contentiva de las Normas relativas a la información sobre el pago de dividendos que deben suministrar las empresas que hacen Oferta Pública de sus acciones, publicada en la Gaceta Oficial de la República Bolivariana de Venezuela Nro. 38.007 de fecha 24 de agosto de 2004, la Junta Directiva de CORPORACIÓN GRUPO QUIMICO, C.A., cumple con notificar ante ese Organismo que en su sesión celebrada el día de hoy, se tomó la siguiente resolución: <BR><BR>De acuerdo con lo establecido en la cláusula Décimo Séptima del Documento Constitutivo- Estatuario, se acordó recomendar a la Asamblea Extraordinaria de Accionistas que será convocada para el día 26 de septiembre de 2019, el decreto de un dividendo por la cantidad de DOSCIENTOS MILLONES NOVENTA Y SEIS MIL CUATROCIENTOS NOVENTA BOLIVARES SIN CENTIMOS (Bs. 200.096.490,00), pagadero en efectivo, con cargo a la partida Utilidades No distribuidas, a razón de Bs 2,19 por cada acción en tenencia.<BR><BR>Caracas, 18 de septiembre de 2019<BR>Lope Mendoza<BR> Consejero Director de Junta Directiva<BR>Corporación Grupo Químico, C.A.<BR>|

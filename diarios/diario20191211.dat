@@ -1,0 +1,74 @@
+IG|11122019|61917.54|-4291.08|-6.48|71167.77|745.22|9683.86|18.54|
+IF|11122019|110354.22|-8884.44|-7.45|
+II|11122019|25695.9|-645.62|-2.45|
+R|B.DE VENEZUELA|BVL|1012|1000|-12|-1.19|1000|1000|1000|1|675|675000||3|
+R|BCO. CARIBE "A"|ABC.A|28999|25000|-3999|-13.79|25000|25001.01|25000.07|6|452|11300028.11||3|
+R|BCO. PROVINCIAL|BPV|95000|94100|-900|-.95|94100|99500|98581.25|11|723|71274245||3|
+R|BCO.NAC.CREDITO|BNC|400|384.99|-15.01|-3.75|380.01|400|384.77|53|2804134|1092743191.99||3|
+R|BOLSA V. CCAS.($)|BVCC|7600|6890|-710|-9.34|6890|7500|6950.08|19|24906|173106840||3|
+R|CANTV CLASE (D)|TDV.D|6700|6400|-300|-4.48|6400|6500|6475.6|9|6615|42836100||3|
+R|CORIMON C.A.|CRM.A|3150|3150|0|0|3150|3150|3150|1|379|1193850||2|
+R|DOMINGUEZ & CIA|DOM|15999|15000|-999|-6.24|15000|15000|15000|2|171|2565000||3|
+R|ENVASES VZLOS.|ENV|9799|9500|-299|-3.05|8550|9750|9613.67|5|128|1230550||3|
+R|FONDO V.INM.(A)|FVI.A|450|361|-89|-19.78|361|450|362.25|10|40399|14634537.15||3|
+R|FONDO V.INM.(B)|FVI.B|285|270|-15|-5.26|270|289|273.49|24|5510172|1506958387||3|
+R|INM.VAL.Y CAP.|IVC|25001|25000|-1|0|25000|25000|25000|1|140|3500000||3|
+R|MANPA, C.A. SACA|MPA|2330|2200|-130|-5.58|2200|2200|2200|1|45|99000||3|
+R|MERCANTIL S.(A)|MVZ.A|114000|100000|-14000|-12.28|100000|108000|100100|9|112|11208000||3|
+R|MERCANTIL S.(B)|MVZ.B|114000|99500|-14500|-12.72|99500|100000|99948.11|10|113|11294500||3|
+R|PROAGRO|PGR|819|800|-19|-2.32|800|800|800|2|1434|1147200||3|
+R|PRODUCTOS EFE|EFE|1950|1700|-250|-12.82|1700|1950|1734.48|3|174|301800||3|
+R|RON STA. TERESA|RST|17700|17400|-300|-1.69|17400|17694|17632.11|2|38|670020||3|
+R|SIVENSA, S.A.|SVS|7980|8499|519|6.5|8499|8499|8499|2|6|50994||1|
+R|T. PALO GRANDE|TPG|213|200|-13|-6.1|200|200|200|2|409|84647||3|
+P|BCO.NAC.CREDITO|BNC||384.99|||380.01|400|384.77|1|637|248430||
+P|BOLSA V. CCAS.|BVCC||6890|||6890|7500|6950.08|1|34020|299376000||
+P|RON STA. TERESA|RST||17400|||17400|17694|17632.11|1|14|245000||
+VT|1|18|1|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)CV911P-Colocación Primaria. Cargill de Vzla.|
+DV|(&)NU913P-Colocación Primaria. NetUno|
+DV|(&)PN911P-Colocación Primaria. Purina de Vzla.|
+DV|(&)SF912P-Colocación Primaria. SANFER|
+DV|(&)SV091P-Colocación Primaria. Inv. Selva|
+BP|NETUNO 19-I-3 P|NU913P|86.99|87|.01|.01|87|87||1|799000000|695098040||
+BP|P.C. AP.19-I-2P|AP912P|90|90|0|0|90|90||4|1700000000|1530000000||
+BP|PC CARGILL 19-1|CV911P|87.65|87.66|.01|.01|87.66|87.66||1|300000000|262965000||
+BP|PC PURINA 19-1 P|PN911P|87.65|87.66|.01|.01|87.66|87.66||1|300000000|262965000||
+BP|PC.DOM.2019-I 1P|DO911P|87.32|88.16|.84|.96|88.16|88.16||1|400000000|352644000||
+BP|PC.G.MEDICA 192P|GM92P|81.79|82.96|1.17|1.43|82.96|82.96||1|300000000|248880000||
+BP|PC.SANFAR 19I-2P|SF912P|88|88|0|0|88|88||1|300000000|264000000||
+BP|PC.SELVA 19 S1 P|SV091P|87.28|87.28|0|0|87.28|87.28||1|400000000|349120000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1013|1200|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|23700|25000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|360|385|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|94100|94999|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|10.1|12|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6501|6890|
+CC|C.A. RON SANTA TERESA|16400|17300|
+CC|C.A. TELARES DE PALO GRANDE|181|217|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|6101|6500|
+CC|CERAMICA CARABOBO, SACA|90000||
+CC|CORIMON, C.A.|3150|3680|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|400|450|
+CC|CORP.GRUPO QUIMICO, C.A.|19201|23900|
+CC|DOMINGUEZ & CIA., S.A.|13000|15500|
+CC|ENVASES VENEZOLANOS S.A.|8600|9500|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||11900|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|361|440|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|255|270|
+CC|GRUPO ZULIANO, C.A.||17990|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|22000|25000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|2100|2200|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|93000|100000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|93000|99500|
+CC|PROAGRO C.A.|711|819|
+CC|PRODUCTOS EFE S.A.||1800|
+CC|PROTINAL C.A.|1001|1499|
+CC|SIVENSA, S.A|6501|8499|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CENTRAL MADEIRENSE, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie II, de la Emisión 2019-I de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CENTRAL MADEIRENSE, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 083 de fecha 17/07/2019.  <BR><BR>La sesión especial para la Serie II, de las Emisión 2019-I, por el monto de Bs. 600.000.000,00, de Papeles Comerciales al Portador, sería a partir del 12 de diciembre de 2019.<BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 083 de fecha 17/07/2019<BR>Emisor	CENTRAL MADEIRENSE, C.A.<BR>Emisión 	2019-I<BR>Series a colocar	De la Serie II.<BR>Monto de Emisión. 	Bs.  1.200.000.000,00.<BR>Monto por serie 	Bs.     600.000.000,00.<BR>Códigos  ISIN	VEV00390WIT9<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie II	       ME912P<BR>Fecha de Inicio de Sesión Especial 	12/12/2019<BR>Fecha de Vencimiento de las Series.	21/01/2020<BR>Agentes de la Colocación 	Activalores, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	88,00%<BR>Base de cálculo 	Actual/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo, C.A. Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	 De 9:30a.m  a  1:00 p.m. <BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR><BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|
+NO|C.A. NACIONAL TELEFONOS DE VENEZUELA|RESULTADO ASAMBLEA ORDINARIA DE ACCIOSNITAS                                     <BR>   C.A. NACIONAL TELÉFONOS DE VENEZUELA (CANTV)<BR><BR>La Asamblea Ordinaria de Accionistas de la compañía Anónima Nacional Teléfonos de Venezuela (CANTV) celebrada en fecha miércoles Once (11) de diciembre de 2019, previa convocatoria de conformidad con la ley, con un quorum del 84,425% de acciones representadas, se adoptaron las siguientes decisiones: <BR><BR>Primer Punto. - Se aprobó los Estados Financieros (Balance General, Estado de Resultados, Estado de Movimiento de Cuentas del Patrimonio, Estado de Movimiento del efectivo al cierre del año 2018), con vista del Informe de los Comisarios y de los Auditores Externos.<BR>Se presentó a la Asamblea de Accionistas los resultados financieros consolidados de CANTV y Subsidiarias, para el ejercicio económico finalizado el 31 de diciembre de 2018, con ingresos de operación Bs 5.564.251.663,00 obteniéndose una pérdida en operaciones de Bs 10.053.476.343, resultando una utilidad neta de 24.446.883.769 con un patrimonio de Bs 24.447.116.561,00<BR><BR>Segundo Punto. - Se aprobó por unanimidad la designación de la Lcda. Cerecita Olavarrieta Aguirre y al Lcdo. Juan Carlos Uzcategui como Comisarios Principales y la Lcda.  Cristina Valero Martin y el Lcdo. Gilberto José Chaparro como Comisarios Suplentes para el ejercicio económico 2019.<BR><BR>Tercer Punto. -  Se aprobó por unanimidad ratificar a la firma Lara, Marambio & Asociados (Deloitte), como Auditores Externos de CANTV para el ejercicio económico 2019. <BR><BR>Caracas, 11 de diciembre de 2019<BR>Helen Hernández<BR>Secretaria de la Junta Directiva de CANTV.<BR>|
+NO|INVERSIONES SELVA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de INVERSIONES SELVA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2019 de Papeles Comerciales al Portador, emitidos por la Empresa Emisora INVERSIONES SELVA, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro 139/2019 de fecha 22/11/2019.  <BR><BR>La sesión especial para la Serie I, de las Emisión 2019, por el monto de Bs. 4.000.000.000.000,00, de Papeles Comerciales al Portador, sería a partir del 10 de diciembre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 139/2019 de fecha 22/11/2019<BR>Emisor	INVERSIONES SELVA, C.A.<BR>Emisión 	2019<BR>Series a colocar	De la Serie I.<BR>Monto de Emisión. 	Bs.  4.000.000.000,00.<BR>Monto por serie 	Bs.  4.000.000.000,00.<BR>Códigos  ISIN	VEV00080WIU4<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Serie I	       SV091P<BR>Fecha de Inicio de Sesión Especial 	10/12/2019<BR>Fecha de Vencimiento de las Series.	10/03/2020<BR>Agentes de la Colocación 	BOD Valores, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	87,16%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Clave, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30a.m  a  1:00 p.m.<BR>|

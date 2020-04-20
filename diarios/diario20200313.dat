@@ -1,0 +1,62 @@
+IG|13032020|105807.64|97.04|.09|129541.1|8194.59|53573.96|102.57|
+IF|13032020|181875.39|86.98|.05|
+II|13032020|50064.46|119.2|.24|
+R|B.DE VENEZUELA|BVL|2200|2500|300|13.64|2200|2500|2214.85|3|1025|2262500||1|
+R|B.OCC.DCTO.B.U.|BOU|23.98|23.96|-.02|-.08|23.95|23.98|23.98|7|63498|1522654.9||3|
+R|BCO. CARIBE "A"|ABC.A|43000|42499|-501|-1.17|42499|42499|42499|1|15|637485||3|
+R|BCO. PROVINCIAL|BPV|150000|150000|0|0|148000|150000|148242.08|16|1755|260868015||2|
+R|BCO.NAC.CREDITO|BNC|665|670|5|.75|670|670|670|39|168575|112945250||1|
+R|BOLSA V. CCAS.($)|BVCC|19000|19500|500|2.63|19000|19999|19186.87|26|2773|53205203.1||1|
+R|CORIMON C.A.|CRM.A|6100|6100|0|0|6495|6495|6495|1|1|6495||2|
+R|CORP.IND.ENERGIA|CIE|2350|1881|-469|-19.96|1881|1881|1881|4|588|1106028||3|
+R|DOMINGUEZ & CIA|DOM|32500|33000|500|1.54|32500|33000|32985.53|4|553|18241000||1|
+R|ENVASES VZLOS.|ENV|16000|16000|0|0|16000|16100|16099.47|6|2762|43917000||2|
+R|FONDO V.INM.(A)|FVI.A|799|799|0|0|799|799|799|2|40|31960||2|
+R|FONDO V.INM.(B)|FVI.B|500|510|10|2|509|510|509.63|25|302867|154349720||1|
+R|INM.VAL.Y CAP.|IVC|38700|38000|-700|-1.81|38000|38000|38000|1|50|1900000||3|
+R|MANPA, C.A. SACA|MPA|4800|4800|0|0|4800|4800|4800|1|17|81600||2|
+R|MERCANTIL S.(A)|MVZ.A|160000|160000|0|0|159999|160000|159999.64|7|950|151999792||2|
+R|MERCANTIL S.(B)|MVZ.B|160000|160000|0|0|160000|160000|160000|7|195|31200000||2|
+R|PROAGRO|PGR|1450|1450|0|0|1450|1457.98|1456.73|2|3200|4661546||2|
+R|PRODUCTOS EFE|EFE|2401|1921|-480|-19.99|1921|1921|1921|2|1210|2324410||3|
+R|R.S.TERESA "B"|RST.B|30000|30000|0|0|30000|30000|30000|6|75|2250000||2|
+R|RON STA. TERESA|RST|39015|39000|-15|-.04|39000|39015|39001.49|6|1004|39157500||3|
+R|T. PALO GRANDE|TPG|363|350|-13|-3.58|350|385|350.75|5|1973|691705||3|
+P|BOLSA V. CCAS.|BVCC||19500|||19000|19999|19186.87|6|241752|5395403196.3||
+VT|5|7|9|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$  7,368.73|
+BP|PC.PAVECA 19I 1P|PS913P|85.63|86.11|.48|.56|86.11|86.11||1|570000000|490804200||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2000|2300|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|41000|42450|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|635|685|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|150000|155000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|20.05|23.94|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|19500|19999|
+CC|C.A. RON SANTA TERESA|38500|39000|
+CC|C.A. RON SANTA TERESA (CLASE B)||30000|
+CC|C.A. TELARES DE PALO GRANDE|365|385|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8500|9499|
+CC|CERAMICA CARABOBO, SACA|360050|450000|
+CC|CORIMON, C.A.|5800|6495|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|2350|2819|
+CC|CORP.GRUPO QUIMICO, C.A.||55000|
+CC|DOMINGUEZ & CIA., S.A.||33000|
+CC|ENVASES VENEZOLANOS S.A.|13000|16000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||24230|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|720|899.95|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|500.05|510|
+CC|GRUPO ZULIANO, C.A.|40000|49995|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|30000|38700|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|3841|4800|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|160000|191999|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)||160000|
+CC|PROAGRO C.A.|1001|1449|
+CC|PRODUCTOS EFE S.A.|2401|2881|
+CC|PROTINAL C.A.||2900|
+CC|SIVENSA, S.A|10400|12995|
+NO|DAYCO TELECOM, C.A. (DAYCOHOST)|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de DAYCO TELECOM, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2019-V, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora DAYCO TELECOM, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 021/2020 de fecha 28/02/2020.  <BR><BR>La sesión especial para la Serie I, de las Emisión 2019-V, por el monto de Bs. 4.000.000.000,00, de Papeles Comerciales al Portador, es a partir del 16 de marzo de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro.  021/2020 de fecha 28/02/2020<BR>Emisor	DAYCO TELECOM, C.A.,<BR>Emisión 	2019-V<BR>Series a colocar		Serie I.<BR>Monto de Emisión. 	Bs.  4.000.000.000,00.<BR>Monto por series 	Bs.  4.000.000.000,00.<BR>Códigos  ISIN	VEV00348WJU3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	DT951P<BR>Fecha de Inicio de Sesión Especial 	16/03/2020<BR>Fecha de Vencimiento de la Serie	16/09/2020<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	74,62%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 1:00 p.m. <BR>|
+NO|GALAXIA MEDICA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de GALAXIA MEDICA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie III, de la Emisión 2019, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora GALAXIA MEDICA, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 132/2019 de fecha 14/11/2019.  <BR><BR>La sesión especial para la Serie III, de las Emisiones 2019, por el monto de Bs. 2.060.000.000,00, de Papeles Comerciales al Portador, es a partir del 16 de marzo de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 132/2019 de fecha 14/11/2019<BR>Emisor	GALAXIA MEDICA, C.A.<BR>Emisión 	2019<BR>Series a colocar		De la Serie III.<BR>Monto de Emisión. 	Bs.  5.000.000.000,00.<BR>Monto por serie 	Bs.  2.060.000.000,00.<BR>Códigos  ISIN	VEV00391WJV1<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	GM93P<BR>Fecha de Inicio de Sesión Especial 	16/03/2020<BR>Fecha de Vencimiento de la Serie.	16/06/2020<BR>Agentes de la Colocación 	Fivenca Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	86,61%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m a 1:00 p.m.<BR>|
+NO|MERCANTIL SERVICIOS FINANCIEROS C.A|HECHO DE IMPORTANCIA <BR>PROPUESTA CUADRAGÉSIMA PRIMERA FASE DE RECOMPRA<BR> Mercantil Servicios Financieros, C.A.<BR><BR>Someter a la consideración de la Asamblea General Ordinaria de Accionistas a celebrarse el próximo 27 de marzo de 2020, lo siguiente:<BR><BR>1.	De conformidad con lo establecido por el artículo 72 del Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores, autorizar a la Junta Directiva para que la Compañía continúe su programa de Recompra de Acciones. En este sentido, la Junta Directiva queda autorizada para acordar que la Compañía adquiera sus propias acciones a través de cualquier bolsa de valores, en las oportunidades que considere conveniente y dentro de los términos y con las condiciones que a continuación se señalan:<BR>1.1.	En ejercicio de esta autorización, la Junta Directiva podrá acordar, según su criterio, que la Compañía adquiera hasta el 15% de las acciones comunes Clase A y/o B representativas de su capital suscrito y pagado, incluyendo en este porcentaje las acciones de tesorería.<BR>1.2.	El precio por acción que la Compañía pagará por las compras que efectúe en ejecución de este Programa, se espera no excederá la cantidad de Bs 400.000,00 por acción. No obstante, se autoriza a la Junta Directiva y/o al Comité Ejecutivo de la Compañía para que cuando a su juicio estén dadas las condiciones del mercado bursátil, eleven el monto señalado hasta la suma que estimen conveniente en procura de lograr el cometido del Programa de Recompra.<BR>1.3.	La presente autorización tendrá una vigencia de seis meses contados a partir del 25 de abril de 2020.<BR>|
+NO||2.	Autorizar a la Junta Directiva para que, dentro de los dos años siguientes a la adquisición de las acciones a que se hace referencia en el punto anterior, proceda a dar a las acciones en tesorería el destino que corresponda de conformidad con lo establecido en el Artículo 73 del Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores, incluida la eventual redención de las acciones, en cuyo caso también queda facultada para fijar los montos de capital suscrito y pagado y de capital autorizado que resulten como consecuencia de las redenciones de acciones, si fuere el caso y las reducciones de capital que se realicen, así como para efectuar las modificaciones estatutarias que correspondan.<BR><BR>Por Mercantil Servicios Financieros, CA<BR>Rafael Stern Schechner<BR>Secretario Junta Directiva.<BR>|

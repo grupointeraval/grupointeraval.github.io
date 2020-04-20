@@ -1,0 +1,69 @@
+IG|10022020|128036.77|884.31|.7|129541.1|4640.24|75803.09|145.12|
+IF|10022020|232135.86|1433.74|.62|
+II|10022020|49519.63|497.65|1.02|
+R|B.DE VENEZUELA|BVL|2400|2415|15|.63|2400|2415|2411.34|2|41|98865||1|
+R|B.OCC.DCTO.B.U.|BOU|19.49|19.49|0|0|19.49|19.98|19.52|9|264594|5164122.31||2|
+R|BCO. CARIBE "A"|ABC.A|44990|49500|4510|10.02|49500|50000|49600|3|25|1240000||1|
+R|BCO. PROVINCIAL|BPV|208000|205000|-3000|-1.44|205000|208000|205594.83|13|275|56603000||3|
+R|BCO.NAC.CREDITO|BNC|691|695|4|.58|695|699|695|12|17997|12507975||1|
+R|BOLSA V. CCAS.($)|BVCC|21000|23000|2000|9.52|21000|23000|21175.77|15|3968|84010000||1|
+R|CANTV CLASE (D)|TDV.D|9500|9000|-500|-5.26|9000|9500|9303.92|5|201|1899500||3|
+R|CORIMON C.A.|CRM.A|5500|6000|500|9.09|5500|6000|5828.77|2|584|3404000||1|
+R|CORP.IND.ENERGIA|CIE|3400|3350|-50|-1.47|3350|3350|3350|1|100|335000||3|
+R|CR.CARABOBO|CCR|111000|133199|22199|20|133199|133199|133199|1|18|2397582||1|
+R|DOMINGUEZ & CIA|DOM|32999|31000|-1999|-6.06|31000|32999|31019.79|3|101|3132999||3|
+R|ENVASES VZLOS.|ENV|17500|17500|0|0|17500|17500|17500|8|5848|102340000||2|
+R|FONDO V.INM.(B)|FVI.B|599|598|-1|-.17|588|599.99|595.46|22|66311|39282201.05||3|
+R|GRUPO ZULIANO|GZL|44000|44000|0|0|44000|44000|44000|3|1274|56056000||2|
+R|INM.VAL.Y CAP.|IVC|34000|34000|0|0|34000|34000|34000|6|343|11662000||2|
+R|MANPA, C.A. SACA|MPA|4500|4599|99|2.2|4000|4599|4340.02|5|958|4157736||1|
+R|MERCANTIL S.(A)|MVZ.A|207000.01|207000|-.01|0|207000|207000|207000|23|304|62914000||3|
+R|MERCANTIL S.(B)|MVZ.B|205000.01|207000|1999.99|.98|207000|220000|207745.9|15|128|26593000||1|
+R|R.S.TERESA "B"|RST.B|37000|37000|0|0|37000|37000|37000|5|162|5994000||2|
+R|RON STA. TERESA|RST|34800|35500|700|2.01|32000|35500|34120.36|12|2269|77419100||1|
+R|SIVENSA, S.A.|SVS|13000|13000|0|0|13000|13000|13000|1|100|1300000||2|
+R|T. PALO GRANDE|TPG|375|375|0|0|375|385|378.77|4|3438|1302214.76||2|
+P|BCO.NAC.CREDITO|BNC||695|||695|699|695|2|3300|2287500||
+P|BOLSA V. CCAS.|BVCC||23000|||21000|23000|21175.77|5|32639|844355349.35||
+P|FONDO V.INM.(B)|FVI.B||598|||588|599.99|595.46|4|81605|48013750||
+P|R.S.TERESA "B"|RST.B||37000|||37000|37000|37000|1|2|52640||
+P|RON STA. TERESA|RST||35500|||32000|35500|34120.36|3|2484|81279000||
+VT|9|6|7|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)DT912P-Colocación Primaria. Dayco Telecom.|
+DV|(&)DT922P-Colocación Primaria. Dayco Telecom.|
+BP|P.C. AP.19-I-3P|AP913P|86|86|0|0|86|86||1|900000000|774000000||
+BP|PC.DAYCO 19-1 S2|DT912P|77.14|77.14|0|0|77.14|77.14||3|500000000|385700000||
+BP|PC.DAYCO 19-2 S2|DT922P|77.14|77.14|0|0|77.14|77.14||3|500000000|385700000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2415|2800|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|40000|49500|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|680|695|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|205000|206450|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|18.41|19.97|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|22000|22895|
+CC|C.A. RON SANTA TERESA|35500|37500|
+CC|C.A. RON SANTA TERESA (CLASE B)|31000|37000|
+CC|C.A. TELARES DE PALO GRANDE|375|379.99|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|7201|9500|
+CC|CERAMICA CARABOBO, SACA|133200||
+CC|CORIMON, C.A.|5500|5999|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||3350|
+CC|CORP.GRUPO QUIMICO, C.A.|25001|32399|
+CC|DOMINGUEZ & CIA., S.A.|30000|32999|
+CC|ENVASES VENEZOLANOS S.A.|17000|17300|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||16500|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|795|900|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|598|599.99|
+CC|GRUPO ZULIANO, C.A.||45000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|34000||
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|4000|4599|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|207000|209000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|207000|220000|
+CC|PROAGRO C.A.|1300|1479|
+CC|PRODUCTOS EFE S.A.|2900|3300|
+CC|PROTINAL C.A.|900|3300|
+CC|SIVENSA, S.A|11000|13000|
+NO|DAYCO TELECOM, C.A. (DAYCOHOST)|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de DAYCO TELECOM, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie II, de la Emisión 2019-I y Emisión 2019-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora DAYCO TELECOM, C.A., e inscrita en el Registro Nacional de Valores según Providencia Nro. 084/2019 de fecha 17/07/2019 y Nro. 085/2019 de fecha 17/07/2019.  <BR><BR>La sesión especial para la Serie II, de las Emisiones 2019-I y 2019-II, por el monto de Bs. 1.000.000.000,00 c/u., de Papeles Comerciales al Portador, sería a partir del 10 de febrero de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 084/2019 de fecha 17/07/2019<BR>Providencia Nro. 085/2019 de fecha 17/07/2019<BR>Emisor	DAYCO TELECOM, C.A.,<BR>Emisión 	2019-I y 2019-II.<BR>Series a colocar		Las Serie II.<BR>Monto de Emisión. 	Bs.  1.000.000.000,00 c/u.<BR>Monto por series 	Em. 2019-I,  Serie II        Bs. 1.000.000.000,00.<BR>Em. 2019-II, Serie II        Bs. 1.000.000.000,00.<BR>Códigos  ISIN	Em. 2019-I,  Serie II         VEV00348WJM0<BR>Em. 2019-II, Serie II         VEV00348WJN8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	<BR>Em. 2019-I,  Serie II	       DT912P<BR>Em. 2019-II, Serie II	       DT922P<BR>Fecha de Inicio de Sesión Especial 	09/02/2020<BR>Fecha de Vencimiento de las Series.	07/08/2020<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	77,04%<BR>Base de cálculo 	Actual/360<BR>|
+NO||Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m.  a 1:00 p.m. <BR>Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR><BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|

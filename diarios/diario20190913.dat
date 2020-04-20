@@ -1,0 +1,60 @@
+IG|13092019|55768.93|-3397.7|-5.74|62004.3|304|3535.25|6.77|
+IF|13092019|99562.16|-7287.88|-6.82|
+II|13092019|22988.71|-281.03|-1.21|
+R|B.DE VENEZUELA|BVL|999.99|1000|.01|0|999.98|1000|1000|2|102|101999.96||1|
+R|B.OCC.DCTO.B.U.|BOU|10.5|9|-1.5|-14.29|8.5|10.9|8.87|8|20106|178301||3|
+R|BCO. CARIBE "A"|ABC.A|23000|22500|-500|-2.17|22500|23000|22621.21|4|132|2986000||3|
+R|BCO. PROVINCIAL|BPV|105000|90000|-15000|-14.29|90000|105000|96912.57|8|183|17735000||3|
+R|BCO.NAC.CREDITO|BNC|399|410|11|2.76|405|410|409.92|27|29530|12104800||1|
+R|BOLSA V. CCAS.($)|BVCC|7500|7400|-100|-1.33|7400|7400|7400|18|23907|178158712.1||3|
+R|CANTV CLASE (D)|TDV.D|6250|5990|-260|-4.16|5990|6250|6033.16|8|981|5918530||3|
+R|CORIMON C.A.|CRM.A|4500|4600|100|2.22|4600|4600|4600|3|10|46000||1|
+R|CORP.IND.ENERGIA|CIE|975|950|-25|-2.56|950|1000|956.74|3|664|635275||3|
+R|DOMINGUEZ & CIA|DOM|17000|15500|-1500|-8.82|15500|15500|15500|1|3|46500||3|
+R|ENVASES VZLOS.|ENV|9090|9200|110|1.21|9200|9200|9200|1|40|368000||1|
+R|FONDO V.INM.(A)|FVI.A|364|364|0|0|365|365|365|1|40|14600||2|
+R|FONDO V.INM.(B)|FVI.B|233|230|-3|-1.29|219.55|233|222.21|31|157403|34850418.55||3|
+R|MANPA, C.A. SACA|MPA|2100|1900|-200|-9.52|1900|1900|1900|1|18|34200||3|
+R|MERCANTIL S.(A)|MVZ.A|82000|82000|0|0|82000|82000|82000|3|12|984000||2|
+R|MERCANTIL S.(B)|MVZ.B|81000|79500|-1500|-1.85|79500|81000|80051.02|9|98|7845000||3|
+R|PROAGRO|PGR|950|950|0|0|950|950|950|1|215|204250||2|
+R|PRODUCTOS EFE|EFE|1400|1400|0|0|1400|1400|1400|1|20|28000||2|
+R|RON STA. TERESA|RST|14800|14500|-300|-2.03|14500|14800|14715.71|10|311|4580800||3|
+R|SIVENSA, S.A.|SVS|4799|4900|101|2.1|4900|4900|4900|1|100|490000||1|
+R|T. PALO GRANDE|TPG|155.98|155.98|0|0|155.98|155.98|155.98|1|153|23864.94||2|
+P|BCO.NAC.CREDITO|BNC||410|||405|410|409.92|1|13783|5513200||
+P|ENVASES VZLOS.|ENV||9200|||9200|9200|9200|1|100|760000||
+VT|5|11|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|815|999.97|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)||23000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|410|420|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|89000|97000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|8.4|8.4|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|7300.05|7400|
+CC|C.A. RON SANTA TERESA|12000|14700|
+CC|C.A. TELARES DE PALO GRANDE|135|155|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)||5990|
+CC|CERAMICA CARABOBO, SACA||106000|
+CC|CORIMON, C.A.||4500|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||969.99|
+CC|CORP.GRUPO QUIMICO, C.A.|4801||
+CC|DOMINGUEZ & CIA., S.A.|14501|15500|
+CC|ENVASES VENEZOLANOS S.A.|8600|9090|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||9354|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)||365|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|235|260|
+CC|GRUPO ZULIANO, C.A.||14300|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||16500|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1900|2050|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|81000|82000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|79000|81000|
+CC|PROAGRO C.A.||850|
+CC|PRODUCTOS EFE S.A.||1400|
+CC|PROTINAL C.A.||1045|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|NOTIFICACIÓN<BR>SUPERINTENDENCIA NACIONAL DE VALORES (SUNAVAL)<BR><BR>Tengo el agrado de dirigirme a usted, en la oportunidad de extenderle un cordial saludo en nombre de las trabajadoras y trabajadores de la Superintendencia Nacional de Valores, equipo comprometido con el Desarrollo Económico y Social de nuestra República Bolivariana de Venezuela; y hacer referencia a que en el día 11 de septiembre de 2019, se realizaron operaciones en la Bolsa de Valores de Caracas, C.A., de las acciones de la empresa MERCANTIL SERVICIOS FINANCIEROS, S.A., por un monto total de Bs. 5.598.734.500,00. Esta operación se realizó por la modalidad de canje de acciones entre MERCANTIL SERVICIOS FINANCIEROS, C.A. Y MERCANTIL SERVICIOS FINANCIEROS INTERNACIONAL S.A, domiciliada en Panamá.<BR>Por lo antes expuesto, y de conformidad con el artículo 26 (parágrafo primero numeral 3) y en concordancia con el artículo 98 (Numeral 7) del decreto con Rango Valor y Fuerza de Ley de Mercado de Valores, por medio del presente, solicito:<BR>1.	Suspender la liquidación temporalmente de las operaciones pactadas de Mercantil Servicios Financieros, C.A.<BR>Atentamente<BR><BR>Carlos Enrique Herrera Martínez<BR>Superintendente Nacional de Valores (E)<BR><BR>Caracas, 12 de septiembre de 2019<BR>|
+NO||NOTIFICACIÓN DSNV/CJU/01114<BR>SUPERINTENDENCIA NACIONAL DE VALORES (SUNAVAL)<BR><BR>Me es grato dirigirme a usted en la oportunidad de extenderle un cordial saludo en nombre de las trabajadoras y trabajadores de la Superintendencia Nacional de Valores, equipo comprometido con el Desarrollo Económico y Social de nuestra República Bolivariana de Venezuela; y hacer referencia al oficio Nro. DSNV/CJU/01107 dictado por este Organismo en fecha 10 de septiembre de 2019 y notificado a la Bolsa de Valores de Caracas, C.A., en esa misma fecha, mediante el cual se le solicitó suspender temporalmente la liquidación de las operaciones pactadas de Mercantil Servicios Financieros, C.A.<BR>Actuando de conformidad con los artículos 94, 95 y 98 numeral 7 del Decreto con Rango Valor y Fuerza de Ley de Mercado de Valores, por medio del presente, le instruyo a realizar la liquidación de las operaciones indicadas en el listado adjunto, las cuales fueron pactadas en la sesión del día 10 de septiembre de 2019, por cuanto son operaciones distintas a las realizadas mediante el canje de acciones entre la empresa MERCANTIL SERVICIOS FINANCIEROS, S.A. Y MERCANTIL SERVICIOS FINANCIEROS INTERNACIONAL S.A, domiciliada en Panamá.<BR>Atentamente<BR><BR>Carlos Enrique Herrera Martínez<BR>Superintendente Nacional de Valores (E)<BR><BR>Caracas, 12 de septiembre de 2019<BR>|
+NO||RESOLUCIÓN NÚMERO 047.19<BR><BR>Esta Superintendencia de las Instituciones del Sector Bancario, en aras de preservar los intereses de la República, la estabilidad del sistema bancario y financiero nacional y los derechos e intereses de los ahorristas, depositantes, clientes y acreedores del Banco Occidental de Descuento, Banco Universal C.A.; de conformidad el numeral 22 del artículo 171, en concordancia con los artículos 181 y 184 del Decreto con Rango, Valor y Fuerza de Ley de Instituciones del Sector Bancario.<BR>RESUELVE <BR>Artículo 1. Imponer medidas administrativas de intervención del estado en protección y aseguramiento de los fondos de los usuarios venezolanos, a la sociedad mercantil, Banco Occidental de Descuento, Banco Universal C.A., ¡inscrita ante el Registro de Información Fiscal (R.I.F.) No J 30061946-0. <BR>Artículo 2. Las medidas administrativas que se imponen a la sociedad mercantil, Banco Occidental de Descuento, Banco Universal C.A., son las siguientes: <BR>a)	Prohibición de realizar nuevas inversiones. b) Prohibición de decretar pago de dividendos c)Prohibición de captar fondos a plazo d) Prohibición de apertura de nuevas oficinas en el país o en el Exterior e) Prohibición de adquirir acciones y participaciones en el capital social de instituciones bancarias constituidas o por constituirse en el exterior f) Prohibición de adquirir, ceder, traspasar o permutar inmuebles, así como la generación de gastos por concepto de remodelaciones a los propios o alquilados g) Prohibición de liberar sin autorización de esta Superintendencia provisiones específicas y genéricas h) Designación de funcionarios acreditados por la Superintendencia de las instituciones del Sector Bancario, que contarán con poder de veto en la junta Directiva y todos los comités y con acceso pleno a todas las áreas administrativas del Banco i) Cualquier otra medida adicional que la superintendencia considere necesaria para el correcto funcionamiento de la Entidad Bancaria.<BR>|
+NO||Artículo 3. Las medidas administrativas de intervención del estado en protección y aseguramiento de los fondos de los usuarios venezolanos tendrán una duración de ciento veinte (120) días hábiles bancarios, contados a partir de la notificación del contenido del presente acto administrativo, prorrogables conforme a lo previsto en el artículo 184 del Decreto con Rango, Valor y Fuerza de Ley de Instituciones del Sector Bancario. <BR>Artículo 4: Los funcionarios acreditados por la Superintendencia de las instituciones del Sector Bancario velarán por la operatividad de la referida institución bancaria en el período señalado, así como por la transparencia de las operaciones que a través esa entidad se realicen en cumplimiento de las normas vigentes, debiendo eval posibles acciones operativas respecto a las medidas adoptadas en ju extranjeras contra entidades bancarias que forman parte del Grupo Financiero BOD, garantizando en todo momento los derechos de los usuarios y usuarias. <BR>Contra esta decisión de conformidad con los artículos 23L y 237 del Decreto con Rango, Valor y Fuerza de Ley de Instituciones del Sector Bancario, podrá ejercerse el Recurso de Reconsideración ante esta Superintendencia de las Instituciones del Sector Bancario, dentro de los diez (10) días hábiles bancarios siguientes a la notificación del contenido del presente acto administrativo; o el Recurso de Anulación ante cualesquiera de las Cortes de lo Contencioso Administrativo, dentro de los cuarenta y cinco (45) días siguientes a la a la notificación del contenido del presente acto administrativo, o de aquella mediante la cual se resuelva el Recurso de Reconsideración, si éste fuera interpuesto de acuerdo con el artículo 232 eiusdem.<BR><BR>Antonio Morales Rodriguez<BR>Superintendente (E) de las Instituciones del sector Bancario<BR>|

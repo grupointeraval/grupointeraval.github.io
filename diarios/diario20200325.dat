@@ -1,0 +1,63 @@
+IG|25032020|89857.35|-288.51|-.32|129541.1|8249.07|37623.67|72.03|
+IF|25032020|153343.81|358.31|.23|
+II|25032020|43540.28|-920.75|-2.07|
+R|B.DE VENEZUELA|BVL|2101|2400|299|14.23|2400|2400|2400|2|454|1089600||1|
+R|B.OCC.DCTO.B.U.|BOU|23|22|-1|-4.35|22|22|22|3|265117|5832574||3|
+R|BCO. PROVINCIAL|BPV|127000|130000|3000|2.36|125000|130000|127647.06|7|51|6510000||1|
+R|BCO.NAC.CREDITO|BNC|512|500|-12|-2.34|500|520|501.11|15|82396|41237560||3|
+R|BOLSA V. CCAS.($)|BVCC|16995|14995|-2000|-11.77|14995|16000|15015.63|18|3199|48035005||3|
+R|CANTV CLASE (D)|TDV.D|8800|8400|-400|-4.55|8400|8500|8469.14|3|169|1431500||3|
+R|CORIMON C.A.|CRM.A|5300|4240|-1060|-20|4240|5301|4292.64|4|577|2476851||3|
+R|CORP.IND.ENERGIA|CIE|2500|2000|-500|-20|2000|2000|2000|3|266|532000||3|
+R|DOMINGUEZ & CIA|DOM|26400|25000|-1400|-5.3|22000|25000|22053.05|2|1018|22450000||3|
+R|ENVASES VZLOS.|ENV|11200|11200|0|0|11200|12000|11250|3|60|620000||2|
+R|FONDO V.INM.(A)|FVI.A|640|638|-2|-.31|638|638|638|1|120|76560||3|
+R|FONDO V.INM.(B)|FVI.B|401|399|-2|-.5|399|399|399|1|355|141645||3|
+R|GRUPO ZULIANO|GZL|44999|45000|1|0|45000|45000|45000|1|3|135000||1|
+R|MERCANTIL S.(A)|MVZ.A|130000|130000|0|0|129999.99|130000|130000|12|311|40429999.8||2|
+R|MERCANTIL S.(B)|MVZ.B|130000|130000|0|0|130000|130000|130000|3|45|5850000||2|
+R|PROTINAL|PTN|2950|2900|-50|-1.69|2900|2900|2900|1|47|136300||3|
+R|R.S.TERESA "B"|RST.B|27500|27000|-500|-1.82|25500|27500|25909.13|7|30983|820396000||3|
+R|RON STA. TERESA|RST|37250|37250|0|0|37250|37250|37250|2|2|74500||2|
+R|SIVENSA, S.A.|SVS|12990|12650|-340|-2.62|12650|12650|12650|3|315|3982450||3|
+R|T. PALO GRANDE|TPG|224.75|224.75|0|0|0|0|0|1|12000|2940000||2|
+P|BOLSA V. CCAS.|BVCC||0||0|14995|16000|15015.63|2|17650|251695400||
+P|GRUPO ZULIANO|GZL||45000|||45000|45000|45000|1|3500|174650000||
+P|MERCANTIL S.(B)|MVZ.B||130000|||130000|130000|130000|1|4|520000||
+VT|3|12|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|PC FEMSA  19I 1P|CF911P|87.13|87.13|0|0|87.13|87.13||7|3443943863|3000708287.83||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|1680|2400|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|39001|47879|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|495|500|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|125000|130000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|19|21.99|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|14500|14999|
+CC|C.A. RON SANTA TERESA||37200|
+CC|C.A. RON SANTA TERESA (CLASE B)|23720|27000|
+CC|C.A. TELARES DE PALO GRANDE|205|244.99|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|8000|8500|
+CC|CERAMICA CARABOBO, SACA|360001|500000|
+CC|CORIMON, C.A.|4801|5087.99|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA||2499.99|
+CC|CORP.GRUPO QUIMICO, C.A.||65399|
+CC|DOMINGUEZ & CIA., S.A.|22000.01|29999|
+CC|ENVASES VENEZOLANOS S.A.|11000|12000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||24200|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|550|638|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|385|399|
+CC|GRUPO ZULIANO, C.A.||45000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||39999|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.||4778|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|120001|130000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|125000|130000|
+CC|PROAGRO C.A.|1200|1424|
+CC|PRODUCTOS EFE S.A.||2300|
+CC|PROTINAL C.A.|2900|3475|
+CC|SIVENSA, S.A||12645|
+NO|BANCO DE VENEZUELA, S.A. BCO. UNIVERSAL|AVISO IMPORTANTE<BR> BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL <BR><BR><BR>A los señores accionistas del Banco de Venezuela, S.A. Banco Universal, motivado a las actuales circunstancias que el país está confrontando por la emergencia ocasionada por la presencia en el país del Coronavirus, COVID-19, en acatamiento a las medidas preventivas indicadas por el Gobierno Nacional y la Organización Mundial de la Salud así como teniendo en cuenta su derecho a participar, cumplimos con informarles que la Asamblea  General Ordinaria de Accionistas convocada para el veintisiete (27) de marzo de 2020, a las 10:00 a.m., en la sede principal del Banco, ubicada en la Torre Banco de Venezuela, no se hará de forma presencial, sino virtual; y para ello el Banco habilitará, a través de la página Web (www.bancodevenezuela.com), los informes de la Junta Directiva, los Estados Financieros Auditados,  el Informe de los Comisarios y  las propuestas relativas a dividendos, ratificación y remuneración de los comisarios, para su consulta.<BR>Una vez realizada la Asamblea, el Banco publicará las decisiones adoptadas a través de la página Web.<BR>Es importante hacer de su conocimiento que para conformar el quórum necesario para deliberar sobre los puntos objeto de la Convocatoria, los señores Accionistas deben enviar la carta poder a los correos: operaciones@cajavenezolana.com y joperaciones@cajavenezolana.com<BR><BR>En este sentido, estimamos altamente su apoyo y consideraciones sobre el planteamiento expuesto.<BR><BR>La Junta Directiva<BR>Banco de Venezuela, S.A. Banco Universal<BR>|
+NO|BANCO PROVINCIAL, S.A., BANCO UNIVERSAL|AVISO IMPORTANTE<BR>BANCO PROVINCIAL, S.A., BANCO UNIVERSAL<BR><BR>A los accionistas del Banco Provincial, S.A., Banco Universal<BR><BR>Mediante convocatoria publicada en prensa y en nuestra página web: www.provincial.com, está previsto celebrar la Asamblea General Ordinaria de Accionistas, que tendrá lugar el jueves 26 de marzo de 2020, a las 9:30 a.m., en el Centro Financiero Provincial, Avenida Este 0, San Bernardino, Caracas.<BR><BR>Vista la situación que actualmente estamos confrontando derivada de la pandemia por coronavirus (COVID-19), en cumplimiento a los lineamientos de la Organización Mundial de la Salud y del Ejecutivo Nacional, en aras de la prevención y protección de los organizadores y participantes, a continuación informamos las medidas y recomendaciones que adoptaremos para la celebración de la citada Asamblea y que estamos seguros que responsablemente sabrán entender: <BR><BR>-	El control de acceso se efectuará en la entrada del CFP, aplicando medidas estrictas que son del conocimiento general. En tal sentido, se dispensará gel para la limpieza de las manos al llegar y se requerirá el uso de guantes y mascarillas que cubran boca y nariz.  <BR><BR>-	Habrá número limitado de sillas para mantener distancia superior de un metro entre asistentes.<BR><BR>-	No se ofrecerá el acostumbrado refrigerio.<BR><BR>-	Solicitamos a los señores accionistas, especialmente a quienes tengan alguna condición de riesgo: adultos mayores, embarazadas o personas con diabetes, hipertensión, asma, entre otras, a no asistir presencialmente a la Asamblea, pudiendo conferir carta poder para ser representado. A tales fines,  imprimir y suscribir el poder que está a continuación de este aviso, y enviarlo a la dirección de correo: atencionalaccionista.ve@bbva.com. Dicho poder también estará disponible en el Portal del Accionista<BR>|
+NO||-	Les recordamos que se encuentran publicados en el Portal del Accionista: El Informe de Gestión; los Estados Financieros; el Dictamen de los Auditores Externos; el Informe de los Comisarios; el informe del Auditor Interno; así como las propuestas sobre: Aplicación de las utilidades netas y disponibles; elección de los Miembros Principales y Suplentes del Consejo de Administración; las dos (2) ternas de personas para la elección de los dos (2) Comisarios Principales y sus respectivos Suplentes; la remuneración de los Comisarios Principales y Suplentes, correspondiente al Segundo Semestre 2019 y el año 2020; la designación del Defensor del Cliente y Usuario Bancario y de su Suplente; la elección del Representante Judicial y de su respectivo Suplente; y, para la prórroga de la contratación de la firma de Auditores Externos. <BR><BR>-	Las decisiones adoptadas en la Asamblea serán publicadas en el Portal del Accionista, para el conocimiento de todos los accionistas. <BR><BR>-	Cualquier información relacionada con la Asamblea, puede ser solicitada a través de la dirección de correo: atencionalaccionista.ve@bbva.com<BR><BR>Atentamente,<BR><BR>León Henrique Cottin<BR>Presidente del Consejo de Administración<BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|HECHOS DE IMPORTANCIA<BR>BOLSA DE VALORES DE CARACAS  C.A.<BR><BR><BR> Cumplimos con informarles que la Junta Directiva de esta institución bursátil, en su sesión Nro. 1.623 celebrada en fecha 20 de marzo de 2020, en cumplimiento de las RECOMENDACIONES PARA LOS SUJETOS REGULADOS REGIDOS POR EL DECRETO CON RANGO, VALOR Y FUERZA DE LEY DE MERCADO DE VALORES, formuladas por la Superintendencia Nacional de Valores en base al Decreto Presidencial de Estado de Alarma Constitucional y las acciones implementadas por la Comisión Presidencial de Prevención del COVID-19, en cuyo numeral 7 establece: ¿Evitar actividades que impliquen interacción entre personas, reuniones, mesas de trabajo, eventos, conferencias, exposiciones, cursos presenciales, visitas técnicas, entre otras.¿ y habiendo solicitado autorización a ese Órgano de control, acordó suspender la Asamblea Ordinaria de Accionistas de la Bolsa de Valores de Caracas, C.A., pautada para el próximo 26 de marzo de 2020, según convocatoria publicada en los diarios El Universal y Ultimas Noticias, en sus ediciones del 9 de marzo de 2020.<BR><BR>Dicha convocatoria, será nuevamente efectuada, cuando las circunstancias así lo permitan, para lo cual seguiremos los lineamientos que imparta la Superintendencia Nacional de Valores al respecto.<BR><BR>Agradecido por la confianza depositada en esta compañía y en nuestra gestión como administradores, me suscribo de ustedes.<BR><BR><BR>Atentamente,<BR><BR>Gustavo Pulido Medina<BR>Presidente<BR>|

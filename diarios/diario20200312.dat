@@ -1,0 +1,76 @@
+IG|12032020|105710.6|2253.14|2.18|129541.1|8194.59|53476.92|102.38|
+IF|12032020|181788.41|4030.38|2.27|
+II|12032020|49945.26|921.6|1.88|
+R|B.DE VENEZUELA|BVL|2200|2200|0|0|2001|2200|2069.83|5|352|728579||2|
+R|B.OCC.DCTO.B.U.|BOU|23|23.98|.98|4.26|23.01|23.98|23.77|8|47833|1137011.36||1|
+R|BCO. CARIBE "A"|ABC.A|42000|43000|1000|2.38|43000|47479|44402.89|8|137|6083196||1|
+R|BCO. PROVINCIAL|BPV|148000|150000|2000|1.35|149000|155000|150035.73|16|336|50412005||1|
+R|BCO.NAC.CREDITO|BNC|630|665|35|5.56|635|700|666.95|39|85185|56771881||1|
+R|BOLSA V. CCAS.($)|BVCC|19350|19000|-350|-1.81|19000|20500|19504.34|58|9942|193910000||3|
+R|CANTV CLASE (D)|TDV.D|8994|9000|6|.07|9000|9000|9000|2|40|360000||1|
+R|CORP.GPO.QUIM.|CGQ|46000|55000|9000|19.57|55000|55000|55000|3|28|1540000||1|
+R|CORP.IND.ENERGIA|CIE|2400|2350|-50|-2.08|2350|2879|2533.82|5|259|656260||3|
+R|DOMINGUEZ & CIA(&)|DOM|32900|32500|-400|-1.22|32500|33500|33012.35|4|81|2674000||3|
+R|ENVASES VZLOS.|ENV|15000|16000|1000|6.67|16000|16700|16053.64|14|866|13898700||1|
+R|FAB.N.CEMENTOS|FNC|20399|20200|-199|-.98|20200|20200|20200|2|50|1010000||3|
+R|FONDO V.INM.(A)|FVI.A|700.5|799|98.5|14.06|716|799|765.06|5|2580|1973855||1|
+R|FONDO V.INM.(B)|FVI.B|465|500|35|7.53|480|510|493.9|36|117968|58264520||1|
+R|GRUPO ZULIANO|GZL|47990|49998|2008|4.18|47000|49998.99|49839.93|5|95|4734793.69||1|
+R|INM.VAL.Y CAP.|IVC|37000|38700|1700|4.59|35000|38700|36247.19|2|89|3226000||1|
+R|MANPA, C.A. SACA|MPA|4890|4800|-90|-1.84|4800|4900|4873.26|6|1245|6007500||3|
+R|MERCANTIL S.(A)|MVZ.A|160000|160000|0|0|160000|160002|160000.11|14|277|44320053||2|
+R|MERCANTIL S.(B)|MVZ.B|150000|160000|10000|6.67|150000|160001|159949.43|11|593|94850010||1|
+R|PROAGRO|PGR|1450|1450|0|0|1450|1450|1450|1|533|772850||2|
+R|PRODUCTOS EFE|EFE|3000|2401|-599|-19.97|2401|2401|2401|1|400|960400||3|
+R|R.S.TERESA "B"|RST.B|30000|30000|0|0|30000|30000|30000|2|10|300000||2|
+R|RON STA. TERESA|RST|39015|39015|0|0|39015|40000|39141.72|16|429|16791800||2|
+R|SIVENSA, S.A.|SVS|13149|12990|-159|-1.21|10531|12999|12741.32|8|408|5198460||3|
+R|T. PALO GRANDE|TPG|365|363|-2|-.55|363|365|364.55|4|2200|802000||3|
+P|BCO.NAC.CREDITO|BNC||665|||635|700|666.95|1|403|281697||
+P|BOLSA V. CCAS.|BVCC||19000|||19000|20500|19504.34|3|1318|30565514.3||
+P|DOMINGUEZ & CIA|DOM||32500|||32500|33500|33012.35|1|5|160000||
+P|MERCANTIL S.(A)|MVZ.A||160000|||160000|160002|160000.11|1|130|20800000||
+P|MERCANTIL S.(B)|MVZ.B||160000|||150000|160001|159949.43|1|1|160000||
+P|R.S.TERESA "B"|RST.B||30000|||30000|30000|30000|1|10|300000||
+VT|12|8|5|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)DOM-Ajuste Dividiendo en Efectivo, 100 Bs. por accion 09-03-2020|
+DV|(&)GQ911P-Colocación Primaria. Corp. Grupo Quimico.|
+DV|(&)NU9I1P-Colocación Primaria. NetUno|
+BP|C.G.Q.19-I S-1 P|GQ911P|88.5|88.5|0|0|88.5|88.5||3|2500000000|2212500000||
+BP|O.NETUNO19-I-1 P|NU9I1P|90|90|0|0|90|90||2|1000000000|900000000||
+BP|PAICA 2019 1 P|PA191P|88.5|88.5|0|0|88.5|88.5||3|2000000000|1770000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|2001|2200|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|41000|43000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|661|680|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL||150000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|23.01|23.98|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|18500.01|19000|
+CC|C.A. RON SANTA TERESA|39015|39500|
+CC|C.A. RON SANTA TERESA (CLASE B)|29000|30000|
+CC|C.A. TELARES DE PALO GRANDE|310|365|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|9000|9499|
+CC|CERAMICA CARABOBO, SACA|360001|450000|
+CC|CORIMON, C.A.|5701|6498|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|1952.05|2350|
+CC|CORP.GRUPO QUIMICO, C.A.||55000|
+CC|DOMINGUEZ & CIA., S.A.|32900|33500|
+CC|ENVASES VENEZOLANOS S.A.|12001|16000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||20399|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|755|799|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|475|500|
+CC|GRUPO ZULIANO, C.A.|40000|48000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|35000|38700|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|3912|4800|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)||160000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|150001|160000|
+CC|PROAGRO C.A.|1161|1450|
+CC|PRODUCTOS EFE S.A.||2999|
+CC|PROTINAL C.A.|2320.01|2900|
+CC|SIVENSA, S.A|10531|12990|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|COCA COCA FEMSA DE VENEZUELA, SA<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de COCA COLA FEMSA DE VENEZUELA, S.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondiente a la Serie I, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora COCA COLA FEMSA DE VENEZUELA, S.A., e inscrita en el Registro Nacional de Valores según Providencia Nro 020 de fecha 11/02/2020.<BR><BR>La sesión especial para la Serie I, de la Emisión 2019-I, por el monto de Bs. 10.000.000.000,00, de Papeles Comerciales al Portador, es a partir del 12 de marzo de 2020.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 020 de fecha 11/02/2020<BR>Emisor	COCA COLA FEMSA DE VENEZUELA, S.A.<BR>Emisión 	2019-I<BR>Serie a colocar		Serie I<BR>Monto de Emisión. 	Bs.    40.000.000.000,00.<BR>Monto de la serie. 	Bs.    10.000.000.000,00.<BR>Códigos  ISIN	VEV00396WJW8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	CF911P<BR>Fecha de Inicio de Sesión Especial 	12/03/2020<BR>Fecha de Vencimiento de la Serie.	12/09/2020<BR>Agentes de la Colocación 	Caja Caracas Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	88,00%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m a 1:00 p.m. <BR>|
+NO|MERCANTIL SERVICIOS FINANCIEROS C.A|HECHO DE IMPORTANCIA <BR>PROPUESTA EL CAPITAL  SUSCRITO Y PAGADO<BR> Mercantil Servicios Financieros, C.A.<BR><BR>Que la Junta Directiva de la Compañía, con el objeto de continuar facilitando los aumentos de capital mediante la emisión de acciones comunes, totalmente pagadas con cargo a utilidades y/o cualquier superávit, que se distribuyan entre los accionistas a título de dividendo o que sean suscritas y pagadas por los accionistas y con el objeto de facilitar la ampliación de la base patrimonial y accionaria de la misma mediante la captación de recursos provenientes de inversionistas, propone lo siguiente:<BR><BR>1.	 Que en el transcurso de los próximos dos (2) años, Mercantil Servicios Financieros, C.A. aumente su capital suscrito y pagado fijado en Bs 130.951,20125, haciendo uso del capital autorizado hasta el límite de dicho capital autorizado establecido en Bs. 261,902,40250, mediante la emisión de acciones comunes A y/o B, nominativas, no convertibles al portador, con un valor nominal de Bs 0,00125 cada una, sin necesidad de convocar una nueva Asamblea. Los montos antes señalados son el resultado de la reexpresión de la unidad del sistema monetario de la República Bolivariana de Venezuela, de conformidad con lo previsto en el Decreto Nro. 3548.<BR><BR>2.	En ejercicio de la anterior autorización, la Junta Directiva podrá, en el transcurso de los dos (2) años siguientes a la fecha de la presente Asamblea, decretar los aumentos de capital de la Compañía, mediante la emisión de acciones comunes A y/o B, en las cantidades que juzgue convenientes, dentro del ámbito de esta autorización, así:<BR>|
+NO||2.1.	Mediante la emisión de nuevas acciones comunes A y/o B con cargo a las utilidades y/o cualquier superávit, las cuales se distribuirán entre los accionistas a título de dividendo, en proporción a las acciones comunes A y/o B que posean, en el entendido que las acciones comunes A, podrán recibir dividendos tanto en acciones comunes A como en acciones comunes B, y las acciones comunes B sólo podrán recibir dividendos en acciones comunes B.<BR>2.2.	Mediante la emisión de nuevas acciones comunes A y/o B a ser colocadas exclusivamente entre los propios accionistas, en el entendido que las acciones comunes A, podrán suscribir y pagar tanto nuevas acciones comunes A como nuevas acciones comunes B, y las acciones comunes B sólo podrán suscribir y pagar nuevas acciones comunes B, y, <BR>2.3.	Mediante la emisión de nuevas acciones comunes A y/o B a ser colocadas entre los accionistas conjuntamente con terceras personas no accionistas, o sólo a terceras personas no accionistas.<BR><BR>3.	   Loa aumentos de capital que decrete la Junta Directiva, en ejercicio de esta autorización, podrán adoptar las modalidades y condiciones que ésta juzgue convenientes, entre otras, sin que esta enumeración signifique limitación alguna, las siguientes:<BR>|
+NO||3.1.	En los casos de emisión de nuevas acciones comunes A y/o B para ser colocadas exclusivamente entre los accionistas, contemplados en el punto 2.2 y en los casos de emisión de nuevas acciones comunes A y/o B para ser colocadas entre los propios accionistas conjuntamente con terceras personas no accionistas, o sólo a terceras personas no accionistas, contemplados en el punto 2.3, la Junta Directiva podrá:<BR>3.1.1.	Establecer que, además del pago del valor nominal de las acciones comunes A y/o B, se incluya el pago de una prima, que se contabilizará en la cuenta de prima en emisión de acciones y que no será repartible a los accionistas como dividendo en efectivo;<BR>3.1.2.	Acordar libremente la forma de pago de las acciones comunes A y/o B provenientes de los aumentos que decrete, al contado o a plazo. Para el caso en que dicho pago se establezca a plazo, la Junta fijará el término para el pago total de las acciones comunes A y/o B suscritas, así como el monto de la cuota inicial del plazo de suscripción según su criterio.<BR><BR>3.2.	En los casos de emisión de nuevas acciones comunes A y/o B para ser colocados entre los propios accionistas conjuntamente con terceras personas no accionistas, o sólo entre terceras personas no accionistas, contemplados en el punto 2.3, la Junta Directiva podrá:<BR>3.2.1.	Reglamentar el derecho preferente consagrado en el Artículo 5 de los Estatutos de Mercantil Servicios Financieros, CA, y<BR>3.2.2.	Establecer limitaciones en cuanto al número máximo y mínimo de acciones comunes A y/o B que puedan suscribir los accionistas de Mercantil Servicios Financieros, CA., y/o terceros, y determinar la cualidad y condiciones de dichos terceros.<BR><BR>Por Mercantil Servicios Financieros, CA<BR>Rafael Stern Schechner<BR>Secretario Junta Directiva.<BR>|

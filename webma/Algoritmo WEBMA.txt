@@ -1,0 +1,124 @@
+library(readr)
+datos <- read_delim("C:/Users/analista04/Desktop/Trxs-20200228.dat", 
+    "|", escape_double = FALSE, col_names = FALSE, 
+    col_types = cols(X10 = col_skip(), X8 = col_skip(), 
+        X9 = col_skip()), trim_ws = TRUE)
+View(datos)
+
+colnames(datos)<-c("Fecha.Operacion","Cantidad","Simbolo","Compra","Venta", "Precio", "Plazo")
+datos=as.data.frame(datos)
+
+datos=datos[,2:7]
+acciones=unique(datos[,3])
+datos[datos[3]=="MPA",]
+length(acciones)
+
+
+ for (i in 1:length(acciones)) {
+      
+      datos[datos[2]==acciones[i],]
+      
+    }
+    
+
+operaciones <- read_delim("C:/Users/analista04/Desktop/WEBMA DATA/Trxs-20200304.dat", 
+     "|", escape_double = FALSE, col_names = FALSE, 
+     col_types = cols(X1 = col_skip(), X10 = col_skip(), 
+       X8 = col_skip(), X9 = col_skip()), 
+     trim_ws = TRUE)
+
+operaciones=data.frame(operaciones)
+colnames(operaciones)<-c("Cantidad","Simbolo","Compra","Venta", "Precio", "Plazo")
+
+
+
+nrow(operaciones[operaciones$Compra==1,])
+operaciones[operaciones$Compra==1,]
+
+
+operaciones[operaciones$Compra==2,]
+operaciones[operaciones$Compra==4,]
+operaciones[operaciones$Compra==6,]
+operaciones[operaciones$Compra==10,]
+operaciones[operaciones$Compra==12,]
+operaciones[operaciones$Compra==14,]
+operaciones[operaciones$Compra==17,]
+operaciones[operaciones$Compra==10,]
+operaciones[operaciones$Compra==12,]
+operaciones[operaciones$Compra==14,]
+operaciones[operaciones$Compra==17,]
+operaciones[operaciones$Compra==22,]
+operaciones[operaciones$Compra==24,]
+operaciones[operaciones$Compra==32,]
+operaciones[operaciones$Compra==33,]
+operaciones[operaciones$Compra==34,]
+operaciones[operaciones$Compra==40,]
+operaciones[operaciones$Compra==48,]
+operaciones[operaciones$Compra==49,]
+operaciones[operaciones$Compra==52,]
+operaciones[operaciones$Compra==59,]
+operaciones[operaciones$Compra==60,]
+operaciones[operaciones$Compra==61,]
+operaciones[operaciones$Compra==64,]
+operaciones[operaciones$Compra==65,]
+operaciones[operaciones$Compra==66,]
+operaciones[operaciones$Compra==70,]
+operaciones[operaciones$Compra==71,]
+operaciones[operaciones$Compra==72,]
+
+library(kableExtra)
+row.names(operaciones) <- NULL
+tabla_operaciones=kable(operaciones) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+library(flexdashboard)
+library(kableExtra)
+library(formattable)
+tabla=kable(datos) %>% kable_styling()
+
+casas=data.frame(
+    numero = c(1,2,4,6,10,12,14,17,22,24,32,33,34,40,48,49,52,58,59,60,61,64,65,66,70,71,72),
+    casa = c("BANACCI", 
+             "VALORES VENCRED",
+             "ACTIVALORES",
+             "MERCANTIL MERINVEST",
+             "CAJA CARACAS" ,
+             "INTERBURSA",
+             "FINANCORP VALORES",
+             "FIVENCA",
+             "BOD VALORES",
+             "INCORP",
+             "MERCOSUR",
+             "CORP",
+             "INTERSEC",
+             "MAXIMIZA",
+             "SOLFIN",
+             "INTERBONO",
+             "STATERA",
+             "RATIO",
+             "BANCTRUST SECURITIES",
+             "BESTINVEST",
+             "B.N.H.",
+             "RENDIVALORES",
+             "CUADRA",
+             "VALORALTA",
+             "MASVALOR",
+             "KOI INVEST",
+             "GRUPO INTERAVAL") 
+)
+
+
+
+
+
+ for (i in 1:nrow(datos))
+    {
+  
+
+ } 
+
+
+datos[1,3]==casas[,1]
+
+datos[casas$numero %in% datos$X3,]
+

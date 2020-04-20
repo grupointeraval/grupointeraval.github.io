@@ -1,0 +1,66 @@
+IG|02092019|56574.99|991.97|1.78|56574.99|286.3|4341.31|8.31|
+IF|02092019|101286.51|515.65|.51|
+II|02092019|22653.1|2027.7|9.83|
+R|B.DE VENEZUELA|BVL|860|950|90|10.47|950|950|950|5|4121|3971350||1|
+R|B.OCC.DCTO.B.U.|BOU|13.5|13|-.5|-3.7|13|14|13.36|20|535818|7162560.5||3|
+R|BCO. CARIBE "A"|ABC.A|23000|23000.01|.01|0|23000|25000|24224.49|4|245|5935000.15||1|
+R|BCO. PROVINCIAL|BPV|114000|115000|1000|.88|114000|117500|115235.93|24|1102|126990000||1|
+R|BCO.NAC.CREDITO|BNC|370|475|105|28.38|440|500|475.78|44|187779|88671596.7||1|
+R|BOLSA V. CCAS.($)|BVCC|10000|11000|1000|10|11000|11000|11000|21|9265|92953300||1|
+R|CANTV CLASE (D)|TDV.D|6500|6500|0|0|6500|6550|6525.72|8|865|5644750||2|
+R|CORIMON C.A.|CRM.A|4400|4450|50|1.14|4450|4450|4450|9|141|627450||1|
+R|CORP.IND.ENERGIA|CIE|750|850|100|13.33|850|850|850|1|1110|943500||1|
+R|DOMINGUEZ & CIA|DOM|11060|12100|1040|9.4|12050|12500|12100.09|8|1370|16547100||1|
+R|ENVASES VZLOS.|ENV|7900|8100|200|2.53|8000|8100|8067.87|16|1945|15692000||1|
+R|FAB.N.CEMENTOS|FNC|6300|7559.97|1259.97|20|7559.97|7559.97|7559.97|1|49|370438.53||1|
+R|FONDO V.INM.(B)|FVI.B|224|250|26|11.61|230|250.01|245.08|49|1036622|254056762||1|
+R|GRUPO ZULIANO|GZL|12000|14300|2300|19.17|12500|14300|13500|3|180|2430000||1|
+R|MANPA, C.A. SACA|MPA|2140|2000|-140|-6.54|2000|2000|2000|3|1771|3725400||3|
+R|MERCANTIL S.(A)|MVZ.A|151000|145000|-6000|-3.97|145000|155000|146444.89|75|1041|152741650||3|
+R|MERCANTIL S.(B)|MVZ.B|150500|145000|-5500|-3.65|145000|150000|149978.39|23|1981|295866500||3|
+R|PROAGRO|PGR|620|743|123|19.84|743|743|743|3|157|116651||1|
+R|PRODUCTOS EFE|EFE|1400|1400|0|0|1300|1300|1300|1|15|19500||2|
+R|RON STA. TERESA|RST|12500|15050|2550|20.4|12600|15050|13658.46|13|2116|28901300||1|
+R|SIVENSA, S.A.|SVS|3790|4500|710|18.73|4500|4500|4500|2|112|504000||1|
+R|T. PALO GRANDE|TPG|99.99|99.99|0|0|90|99.99|99.67|5|94395|9408586.05||2|
+P|BCO. PROVINCIAL|BPV||115000|||114000|117500|115235.93|2|178|20292000||
+P|BCO.NAC.CREDITO|BNC||475|||440|500|475.78|2|64570|28410800||
+P|BOLSA V. CCAS.|BVCC|||||11000|11000|11000|2|1510|15100000||
+P|DOMINGUEZ & CIA|DOM||12100|||12050|12500|12100.09|2|520|6240000||
+P|FONDO V.INM.(B)|FVI.B||250|||230|250.01|245.08|4|77822|18850100||
+P|MERCANTIL S.(A)|MVZ.A||145000|||145000|155000|146444.89|4|1170|175670000||
+P|MERCANTIL S.(B)|MVZ.B||145000|||145000|150000|149978.39|1|4|600000||
+VT|15|4|3|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|750|950|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|23000|27599.97|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|450|475|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|114200|115000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|13|13.5|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|10000|10750|
+CC|C.A. RON SANTA TERESA|15050|15500|
+CC|C.A. TELARES DE PALO GRANDE|100||
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)||6499|
+CC|CERAMICA CARABOBO, SACA||100000|
+CC|CORIMON, C.A.|4450|5000|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|780|900|
+CC|CORP.GRUPO QUIMICO, C.A.|5700||
+CC|DOMINGUEZ & CIA., S.A.|12050|12100|
+CC|ENVASES VENEZOLANOS S.A.|7950|8200|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|5041|7560|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|300||
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|230|250|
+CC|GRUPO ZULIANO, C.A.|12501|14900|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||14000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|2000|2150|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|140000|145000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)||145000|
+CC|PROAGRO C.A.|630|743|
+CC|PRODUCTOS EFE S.A.|1121|1300|
+CC|PROTINAL C.A.|1001||
+CC|SIVENSA, S.A|3300|4500|
+NO|BANCO DE VENEZUELA, S.A. BCO. UNIVERSAL|CONVOCATORIA<BR>ASAMBLEA ORDINARIA   BANCO DE VENEZUELA, S.A Banco Universal<BR><BR> Se convoca a los señores accionistas del BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL para una Asamblea Ordinaria de Accionistas que se celebrará en la ciudad de Caracas el día veintisiete (27) de septiembre de 2019 a las 10:00 a.m., en la sede principal del Banco, ubicada en la Torre Banco de Venezuela, Avenida Universidad, Esquina de Sociedad, en el Salón Simón Bolívar, Piso Ejecutivo, con el objetivo de tratar los siguientes puntos:<BR><BR>Primero. -  Considerar y resolver sobre el Balance General y el Estado de Ganancias y Pérdidas correspondientes al semestre concluido el 30 de junio de 2019, con vista de los Informes de la Junta Directiva, de los Auditores Externos, así como de los Comisarios para dicho semestre.<BR><BR>Segundo.  Considerar y resolver acerca del reparto de Dividendos.<BR>Los Informes de la Junta Directiva, de los Comisarios y de los Auditores Externos, así como los Estados Financieros debidamente auditados, se encuentran a disposición de los señores accionistas en la Gerencia de Accionistas del Banco, ubicada en la sede principal del banco de acuerdo a lo establecido en las disposiciones legales aplicables.<BR><BR>Caracas, 30 de agosto de 2019<BR>La Junta Directiva<BR>|
+NO|FVI.FONDO DE VALORES INMOBILIARIOS,SACA.|AVISO<BR>  F.V.I. FONDO DE VALORES INMOBILIARIOS, S.A.C.A.<BR><BR> Se notifica a los señores accionistas de la empresa, F.V.I. FONDO DE VALORES INMOBILIARIOS, S.A.C.A., la terminación del Contrato de Agente de Traspaso con el Venezolano de Crédito, S.A., Banco Universal, al treinta (30) de septiembre de 2019, siendo que, a partir de esa fecha, la C.V.V. Caja Venezolana de Valores, S.A. será el nuevo Agente de Traspaso de F.V.I. FONDO DE VALORES INMOBILIARIOS, S.A.C.A.  En tal sentido se les invita a todos los accionistas que tengan la custodia de sus acciones en dicha Institución Financiera a presentar en Ratio Casa de Bolsa, C.A., o en la Casa de Bolsa de su preferencia, los recaudos necesarios a los efectos de actualizar los respectivos expedientes.<BR>Cualquier información adicional podrán contactarnos a las siguientes direcciones de correo electrónico:     inversionista@fvi.com.ve  y finanzascorporativas@fvi.com.ve <BR><BR>Caracas, 02 de septiembre de 2019.<BR>Por F.V.I. Fondo de Valores Inmobiliarios,  S.A.C.A.<BR>La Junta Directiva.<BR>|
+NO|INVACA,INMUEBLES,VALORES Y CAPITALES,|AVISO<BR> INVACA, INMUEBLES, VALORES Y CAPITALES, S.A.C.A.<BR> Se notifica a los señores accionistas de la empresa, INVACA, INMUEBLES, VALORES Y CAPITALES, S.A.C.A., la terminación del Contrato de Agente de Traspaso con el Venezolano de Crédito, S.A., Banco Universal, al treinta (30) de septiembre de 2019, siendo que, a partir de esa fecha, la C.V.V. Caja Venezolana de Valores, S.A. será el nuevo Agente de Traspaso de INVACA, INMUEBLES, VALORES Y CAPITALES, S.A.C.A.  En tal sentido se les invita a todos los accionistas que tengan la custodia de sus acciones en dicha Institución Financiera a presentar en Ratio Casa de Bolsa, C.A., o en la Casa de Bolsa de su preferencia, los recaudos necesarios a los efectos de actualizar los respectivos expedientes.<BR>Cualquier información adicional podrán contactarnos a las siguientes direcciones de correo electrónico:     inversionista@fvi.com.ve  y finanzascorporativas@fvi.com.ve <BR><BR>Caracas, 02 de septiembre de 2019.<BR>Por Invaca, Inmuebles, Valores y Capitales, S.A.C.A.<BR>La Junta Directiva.<BR>|

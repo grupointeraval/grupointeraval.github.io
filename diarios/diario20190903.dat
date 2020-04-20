@@ -1,0 +1,66 @@
+IG|03092019|56020.79|-554.2|-.98|56574.99|286.3|3787.11|7.25|
+IF|03092019|98921.7|-2364.81|-2.33|
+II|03092019|24207.03|1553.93|6.86|
+R|B.DE VENEZUELA|BVL|950|820|-130|-13.68|820|951|878.4|7|905|794950||3|
+R|B.OCC.DCTO.B.U.|BOU|13|13.8|.8|6.15|13.56|14.5|13.83|24|305834|4233659.9||1|
+R|BCO. CARIBE "A"|ABC.A|23000.01|23000|-.01|0|23000|23201|23001.95|8|413|9499804||3|
+R|BCO. PROVINCIAL|BPV|115000|115000|0|0|115000|120000|115002.67|27|2275|261630000||2|
+R|BCO.NAC.CREDITO|BNC|475|475|0|0|470|490|474.32|67|480013|227696022.5||2|
+R|BOLSA V. CCAS.($)|BVCC|11000|10070|-930|-8.45|10070|10070|10070|9|769|7738150||3|
+R|CANTV CLASE (D)|TDV.D|6500|6499|-1|-.02|6499|6499|6499|4|225|1176715||3|
+R|CORIMON C.A.|CRM.A|4450|4999.99|549.99|12.36|4999.99|4999.99|4999.99|4|23|114999.77||1|
+R|CORP.GPO.QUIM.|CGQ|5843|5843|0|0|5843|5843|5843|1|300|1752900||2|
+R|CORP.IND.ENERGIA|CIE|850|850|0|0|850|850|850|2|94|79900||2|
+R|DOMINGUEZ & CIA|DOM|12100|13000|900|7.44|12500|13000|12998.02|6|2592|33628000||1|
+R|ENVASES VZLOS.|ENV|8100|7600|-500|-6.17|7600|8150|7784.75|5|459|3573200||3|
+R|FAB.N.CEMENTOS|FNC|7559.97|6410|-1149.97|-15.21|6410|8500|7614.69|4|160|1218350||3|
+R|FONDO V.INM.(B)|FVI.B|250|265|15|6|260|270|264.76|61|3427771|906373516||1|
+R|GRUPO ZULIANO|GZL|14300|12500|-1800|-12.59|12500|14300|12531.03|3|6295|87789200||3|
+R|MANPA, C.A. SACA|MPA|2000|2150|150|7.5|2000|2150|2010.07|2|1102|2215100||1|
+R|MERCANTIL S.(A)|MVZ.A|145000|138000|-7000|-4.83|135000|145000|135591.49|66|3034|411521060||3|
+R|MERCANTIL S.(B)|MVZ.B|145000|138000|-7000|-4.83|135000|145000|135505.91|59|5088|689798000||3|
+R|PROAGRO|PGR|743|800|57|7.67|760|885|772|5|409|315750||1|
+R|RON STA. TERESA|RST|15050|17500|2450|16.28|17500|18000|17516.96|21|7242|126790000||1|
+R|SIVENSA, S.A.|SVS|4500|4000|-500|-11.11|4000|4000|4000|1|22|88000||3|
+R|T. PALO GRANDE|TPG|99.99|100|.01|.01|100|110|109.58|2|6388|700000||1|
+P|BCO. PROVINCIAL|BPV||115000|||115000|120000|115002.67|1|56|6440000||
+P|BCO.NAC.CREDITO|BNC||475|||470|490|474.32|1|1748|786600||
+P|MERCANTIL S.(A)|MVZ.A||138000|||135000|145000|135591.49|3|39|5402000||
+P|MERCANTIL S.(B)|MVZ.B||138000|||135000|145000|135505.91|2|47|6580000||
+P|RON STA. TERESA|RST||17500|||17500|18000|17516.96|3|1222|21996000||
+P|T. PALO GRANDE|TPG||100|||100|110|109.58|2|3000|288740||
+VT|8|10|4|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+BP|P.CHARVENCA 192|CH92P|100|100|0|0|100|100||1|1200000|1200000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|820|950|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)||23000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|469|470|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|100000|118000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|13.25|13.8|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|9000|10070|
+CC|C.A. RON SANTA TERESA|15060|17500|
+CC|C.A. TELARES DE PALO GRANDE|100|119|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|5201|6450|
+CC|CERAMICA CARABOBO, SACA||100000|
+CC|CORIMON, C.A.||4999.99|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|810|850|
+CC|CORP.GRUPO QUIMICO, C.A.|5700||
+CC|DOMINGUEZ & CIA., S.A.|13000|14520|
+CC|ENVASES VENEZOLANOS S.A.|7600|8000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|6410|8500|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|315||
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|263|265|
+CC|GRUPO ZULIANO, C.A.||14000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|2100|2150|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|135000|145000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|130000|138000|
+CC|PROAGRO C.A.|760|799|
+CC|PRODUCTOS EFE S.A.||1400|
+CC|PROTINAL C.A.||1000|
+CC|SIVENSA, S.A|4000|5300|
+NO|BANCO DEL CARIBE, C.A. BANCO UNIVERSAL|PROPUESTA PARA EL DECRETO Y PAGO DE UN DIVIDENDO EN EFECTIVO<BR>           BANCO DEL CARIBE, C.A., BANCO UNIVERSAL (BANCARIBE)<BR><BR> La Junta Directiva propone a la Asamblea General Ordinaria de Accionistas que decrete y pague un dividendo en efectivo, por la cantidad de MIL CIENTO SETENTA Y SIETE MILLONES DE BOLIVARES (Bs 1.177.000.000,00). De ser aprobada la propuesta el pago del dividendo se efectuará con cargo a la cuenta Superávit por aplicar.<BR>El Dividendo será distribuido entre todos los accionistas propietarios de acciones comunes Clase A y de acciones preferidas Clase B; a razón de Bs 10,70 por cada acción.<BR>La Asamblea General Ordinaria de Accionistas fijará la fecha límite de transacción con beneficio, así como la fecha efectiva de registro del beneficio, a los fines del pago de este dividendo.<BR><BR>Por la Junta Directiva<BR>Juan Carlos Dao<BR>Presidente <BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros  de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL VENEZUELA, a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie IV, de la Emisión 2018-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL CARACAS, e inscrita en el Registro Nacional de Valores según Providencia N° 031/2019 de fecha 06/03/2019.<BR><BR>La sesión especial para la Serie IV, de la Emisión 2018-II, por el monto de Bs. 110.000.000,00, de Papeles Comerciales al Portador, sería a partir del 04 de septiembre de 2019.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia N° 031/2019 de fecha 06/03/2019<BR><BR>Emisor	PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL VENEZUELA,<BR>Emisión 	2018-II<BR>Series a colocar	Serie IV.<BR>Monto de Emisión. 	Bs.  1.000.000.000,00.<BR>Monto por serie 	Em. 2018-II, Serie IV       Bs. 110.000.000,00.<BR>Códigos  ISIN	Em. 2018-II, Serie IV         VEV00372WHV5<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE,    Mercado Primario	<BR>Em. 2018-II, Serie IV	       PT824P<BR>Fecha de Inicio de Sesión Especial 	04/09/2019<BR>Agentes de la Colocación 	FIVENCA Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	91,95%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m. <BR>|
+NO||Postulación e Ingreso de Ordenes	Las operaciones pactadas en el Mercado Primario se regirán bajo la modalidad de Cruces (Mercado Unilateral) y/o Operaciones a Precio Convenido (Mercado Bilateral). <BR><BR>	En los Cruces, las operaciones de compra/venta son ingresadas por el Agente de Colocación. <BR><BR>	En las Operaciones a Precio Convenido, las órdenes son ingresadas por el Agente de Colocación (vendedor) y las confirma la casa de bolsa que funja como comprador.<BR>Recepción de órdenes de compra por parte de los Miembros de la BVC 	El agente de la colocación, procesará las órdenes de compra que puedan surgir durante la sesión especial. Por tanto, los miembros interesados deberán comunicarse directamente con el colocador. <BR>Custodia y Pago los Valores.	Caja Venezolana de Valores, C.A<BR>Liquidación de los Fondos 	Las operaciones se regirán por el sistema de liquidación de la BVC<BR>|
+NO|MERCANTIL SERVICIOS FINANCIEROS C.A|PROPUESTA PROGRAMA DE RECOMPRA DE ACCIONES DE LA COMPAÑÍA (Cuadragésima Fase)<BR>MERCANTIL SERVICIOS FINANCIEROS, C.A.<BR><BR>De conformidad con lo establecido por el artículo 72 del Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores, autorizar a la Junta Directiva para que la Compañía continúe su programa de Recompra de Acciones. En este sentido, la Junta Directiva queda autorizada para acordar que la Compañía adquiera sus propias acciones a través de cualquier bolsa de valores, en las oportunidades que considere conveniente y dentro de los términos y con las condiciones que a continuación se señalan:<BR><BR>Letra A. En ejercicio de esta autorización, la Junta Directiva podrá acordar, según su criterio, que la Compañía adquiera hasta el QUINCE POR CIENTO (15%) de las acciones comunes clase A y/o B representativas de su capital suscrito y pagado, incluyendo en este porcentaje las acciones de tesorería;<BR>Letra B. El precio por acción que la Compañía pagará por las compras que efectúe en ejecución de este programa, se espera no excederá la cantidad de TRESCIENTOS VEINTE MIL BOLIVARES (Bs. 320.000,00) por acción. No obstante, se autoriza a la Junta Directiva y/o al Comité Ejecutivo de la Compañía para que cuando a su juicio estén dadas las condiciones del mercado bursátil, eleven el monto señalado hasta la suma que estimen conveniente en procura de lograr el cometido del Programa de Recompra.<BR>Letra C. La presente autorización tendrá una vigencia de seis (6) meses contados a partir del 24 de octubre de 2019, quedando este acuerdo sin efecto una vez transcurra ese período.<BR>Acuerda Someter a la consideración de la Asamblea General Ordinaria de Accionistas a celebrarse el próximo 27 de septiembre de 2019.<BR>Caracas, 22 de agosto de 2019<BR>Guillermo Ponce Trujillo<BR>Secretario Junta Directiva<BR>|

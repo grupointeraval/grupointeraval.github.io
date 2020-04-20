@@ -1,0 +1,58 @@
+IG|18102019|46665.85|-2345.45|-4.79|62004.3|361.33|-5567.83|-10.66|
+IF|18102019|84485.62|-4660.82|-5.23|
+II|18102019|18160.04|-532.99|-2.85|
+R|B.DE VENEZUELA|BVL|890|899|9|1.01|800|899|803.64|5|1116|896859||1|
+R|B.OCC.DCTO.B.U.|BOU|6.26|6.26|0|0|6|6.7|6.36|22|1349906|8582712.01||2|
+R|BCO. CARIBE "A"|ABC.A|20000|20000|0|0|20000|21000|20020.15|5|101|2022035||2|
+R|BCO. PROVINCIAL|BPV|79250|69999|-9251|-11.67|69999|80000|72950.02|30|1878|137000146||3|
+R|BCO.NAC.CREDITO|BNC|320|315|-5|-1.56|315|320.01|315.27|26|248211|78252826||3|
+R|BOLSA V. CCAS.($)|BVCC|6200|6200|0|0|6200|6200|6200|6|3353|20788600||2|
+R|CANTV CLASE (D)|TDV.D|4800|4500|-300|-6.25|4500|4501|4500.09|4|534|2403050||3|
+R|CORIMON C.A.|CRM.A|3025|3025|0|0|3600|3600|3600|1|5|18000||2|
+R|CORP.GPO.QUIM.|CGQ|14000|14490|490|3.5|14490|14499|14498.33|2|27|391455||1|
+R|DOMINGUEZ & CIA|DOM|14000|14000|0|0|13800|14000|13960|4|40|558400||2|
+R|ENVASES VZLOS.|ENV|6650|6500|-150|-2.26|6500|6500|6500|1|5|32500||3|
+R|FONDO V.INM.(B)|FVI.B|220|210|-10|-4.55|210|224.99|210.54|58|514589|108345816.2||3|
+R|INM.VAL.Y CAP.|IVC|19000|18000|-1000|-5.26|18000|18000|18000|1|3|54000||3|
+R|MERCANTIL S.(A)|MVZ.A|77500|76500|-1000|-1.29|76500|77500|76544.25|13|892|68292511||3|
+R|MERCANTIL S.(B)|MVZ.B|77000|76900|-100|-.13|76900|77000|76968.03|8|372|28616800||3|
+R|PROAGRO|PGR|705|705|0|0|705|705|705|1|13|9165||2|
+R|PROTINAL|PTN|801|950|149|18.6|950|950|950|2|84|79800||1|
+R|RON STA. TERESA|RST|12002|12000|-2|-.02|12000|12500|12023.68|8|2460|29578258||3|
+R|SIVENSA, S.A.|SVS|4500|3601|-899|-19.98|3601|4000|3716.84|2|31|115222||3|
+R|T. PALO GRANDE|TPG|120|110|-10|-8.33|110|120|110.05|3|5545|610200||3|
+P|BCO.NAC.CREDITO|BNC||315|||315|320.01|315.27|2|28|9024.2||
+P|BOLSA V. CCAS.|BVCC|||||6200|6200|6200|4|53990|395675476.39||
+P|FONDO V.INM.(B)|FVI.B||210|||210|224.99|210.54|2|875109|223968332||
+VT|3|11|6|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|725|899|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|20000||
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|315|320|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|69600|69999|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|5.02|6.26|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|6000.01|6300|
+CC|C.A. RON SANTA TERESA|11500|12000|
+CC|C.A. TELARES DE PALO GRANDE|100|110|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|3900|5200|
+CC|CERAMICA CARABOBO, SACA|65000|104999|
+CC|CORIMON, C.A.|3003|3600|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|400|479.99|
+CC|CORP.GRUPO QUIMICO, C.A.|9501|14499|
+CC|DOMINGUEZ & CIA., S.A.||14000|
+CC|ENVASES VENEZOLANOS S.A.|6000|6500|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||10100|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|265|294.5|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|210|222.99|
+CC|GRUPO ZULIANO, C.A.|10402|12500|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|17000|18000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|1521|1940|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|70100|77000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|76000|76900|
+CC|PROAGRO C.A.|601|705|
+CC|PRODUCTOS EFE S.A.||1595.95|
+CC|PROTINAL C.A.|651|950|
+CC|SIVENSA, S.A|3601|4500|
+NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|AVISO A LOS ACCIONISTAS <BR>                        BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.<BR><BR> La Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A. informa a sus accionistas que ha decidido suspender la celebración de la Asamblea General Extraordinaria convocada para el lunes 21 de octubre de 2019, según publicaciones del 24 y 25 de septiembre de este año en los diarios El Universal y últimas Noticias, en ese orden, con el fin de:  Primero. -  Considerar, aprobar o desaprobar un aumento del capital social. Segundo. En caso de resultar aprobado el aumento de capital social, considerar y resolver la reforma correspondiente del artículo 5 de los estatutos sociales. Dicha decisión obedece a la observancia de la sentencia Nro. 0326 emanada de la Sala Constitucional del Tribunal Supremo de Justicia del 03 de octubre del presente año, mediante la cual el aludido Tribunal suspendió los efectos de la Resolución Nro. 047.19 del 10 de septiembre de 2019, publicada en la Gaceta Oficial Nro. 41.714 del 11 de septiembre del año en curso, y por ende el plan de Recuperación que el Banco presentó a la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN) en el marco de la citada Resolución, el cual incluía dentro de las acciones a ejecutar la propuesta de aumento de capital que se sometería a la aprobación de los accionistas en el seno de la citada Asamblea.<BR>. Maracaibo, 18 de octubre de 2019<BR>Por la Junta Directiva<BR>Victor J. Vargas Irasquín<BR>Presidente<BR>|
