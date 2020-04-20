@@ -19,4 +19,3 @@ Este proyecto va en sintonía con la necesidad de proveer cada vez más y mejore
 
 
 <center><a href="http://inversores.grupointeraval.com" class="btn btn-primary" role="button">Invierte con nosotros</a></center> <br>
-<center><a href="http://grupointeraval.com" class="btn btn-success" role="button">Ir a página principal</a></center>
