@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Operaciones del día</title>
+
+<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
+<script src="site_libs/datatables-binding-0.12/datatables.js"></script>
+<link href="site_libs/dt-core-1.10.20/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="site_libs/dt-core-1.10.20/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="site_libs/dt-core-1.10.20/js/jquery.dataTables.min.js"></script>
+<script src="site_libs/jszip-1.10.20/jszip.min.js"></script>
+<script src="site_libs/pdfmake-1.10.20/pdfmake.min.js"></script>
+<script src="site_libs/pdfmake-1.10.20/vfs_fonts.js"></script>
+<link href="site_libs/dt-ext-buttons-1.10.20/css/buttons.dataTables.min.css" rel="stylesheet" />
+<script src="site_libs/dt-ext-buttons-1.10.20/js/dataTables.buttons.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.flash.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.html5.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.colVis.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.print.min.js"></script>
+<link href="site_libs/crosstalk-1.0.0/css/crosstalk.css" rel="stylesheet" />
+<script src="site_libs/crosstalk-1.0.0/js/crosstalk.min.js"></script>
+<script src="site_libs/proj4js-2.3.15/proj4.js"></script>
+<link href="site_libs/highcharts-7.0.1/css/motion.css" rel="stylesheet" />
+<link href="site_libs/highcharts-7.0.1/css/htmlwdgtgrid.css" rel="stylesheet" />
+<script src="site_libs/highcharts-7.0.1/highcharts.js"></script>
+<script src="site_libs/highcharts-7.0.1/highcharts-3d.js"></script>
+<script src="site_libs/highcharts-7.0.1/highcharts-more.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/stock.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/map.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/annotations.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/boost.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/data.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/drag-panes.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/drilldown.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/item-series.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/offline-exporting.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/overlapping-datalabels.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/exporting.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/export-data.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/funnel.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/heatmap.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/treemap.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/sankey.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/solid-gauge.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/streamgraph.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/sunburst.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/vector.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/wordcloud.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/xrange.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/tilemap.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/venn.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/gantt.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/timeline.js"></script>
+<script src="site_libs/highcharts-7.0.1/modules/parallel-coordinates.js"></script>
+<script src="site_libs/highcharts-7.0.1/plugins/grouped-categories.js"></script>
+<script src="site_libs/highcharts-7.0.1/plugins/motion.js"></script>
+<script src="site_libs/highcharts-7.0.1/plugins/multicolor_series.js"></script>
+<script src="site_libs/highcharts-7.0.1/custom/reset.js"></script>
+<script src="site_libs/highcharts-7.0.1/custom/symbols-extra.js"></script>
+<script src="site_libs/highcharts-7.0.1/custom/text-symbols.js"></script>
+<script src="site_libs/highchart-binding-0.7.0/highchart.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img id="logo" style="width: 30px;" src="logo1.png" /></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Inicio</a>
+</li>
+<li>
+  <a href="ibc.html">IBC</a>
+</li>
+<li>
+  <a href="resumen.html">Resumen</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Acciones
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="abca.html">Banco del Caribe (ABC.A)</a>
+    </li>
+    <li>
+      <a href="bnc.html">Banco Nacional de Crédito (BNC)</a>
+    </li>
+    <li>
+      <a href="bou.html">Banco Occidental de Descuento (BOU)</a>
+    </li>
+    <li>
+      <a href="bpv.html">Banco Provincial (BPV)</a>
+    </li>
+    <li>
+      <a href="bvcc.html">Banco de Valores de Caracas (BVCC)</a>
+    </li>
+    <li>
+      <a href="bvl.html">Banco de Venezuela (BVL)</a>
+    </li>
+    <li>
+      <a href="ccr.html">Cerámicas Carabobo (CCR)</a>
+    </li>
+    <li>
+      <a href="cgq.html">Grupo Químico (CGQ)</a>
+    </li>
+    <li>
+      <a href="cie.html">Corporación Industrial de Energía (CIE)</a>
+    </li>
+    <li>
+      <a href="crma.html">Corimon (CRM.A)</a>
+    </li>
+    <li>
+      <a href="dom.html">Dominguez &amp; CIA (DOM)</a>
+    </li>
+    <li>
+      <a href="efe.html">Productos EFE (EFE)</a>
+    </li>
+    <li>
+      <a href="env.html">Envases Venezolanos (ENV)</a>
+    </li>
+    <li>
+      <a href="fnc.html">Fábrica Nacional de Cementos (FNC)</a>
+    </li>
+    <li>
+      <a href="fvia.html">Fondo de Valores Inmobiliarios A (FVI.A)</a>
+    </li>
+    <li>
+      <a href="fvib.html">Fondo de Valores Inmobiliarios B (FVI.B)</a>
+    </li>
+    <li>
+      <a href="gzl.html">Grupo Zuliano (GZL)</a>
+    </li>
+    <li>
+      <a href="ivc.html">Invaca (IVC)</a>
+    </li>
+    <li>
+      <a href="mpa.html">Manpa (MPA)</a>
+    </li>
+    <li>
+      <a href="mvza.html">Mercantil Servicios Financieros A (MVZ.A)</a>
+    </li>
+    <li>
+      <a href="mvzb.html">Mercantil Servicios Financieros B (MVZ.B)</a>
+    </li>
+    <li>
+      <a href="pgr.html">Proagro (PGR)</a>
+    </li>
+    <li>
+      <a href="ptn.html">Protinal (PTN)</a>
+    </li>
+    <li>
+      <a href="rst.html">Ron Santa Teresa (RST)</a>
+    </li>
+    <li>
+      <a href="rst.b.html">Ron Santa Teresa B (RST.B)</a>
+    </li>
+    <li>
+      <a href="svs.html">Sivensa (SVS)</a>
+    </li>
+    <li>
+      <a href="tdvd.html">Cantv (TDV.D)</a>
+    </li>
+    <li>
+      <a href="tpg.html">Telares Palo Grande (TPG)</a>
+    </li>
+    <li>
+      <a href="icpb.html">Inversiones Crecepymes (ICP.B)</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="comparador.html">Comparador</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Operaciones
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="operaciones25032020.html">Operaciones 25 de marzo 2020</a>
+    </li>
+    <li>
+      <a href="operaciones26032020.html">Operaciones 26 de marzo 2020</a>
+    </li>
+    <li>
+      <a href="operaciones31032020.html">Operaciones 31 de marzo 2020</a>
+    </li>
+    <li>
+      <a href="operaciones01042020.html">Operaciones 01 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones02042020.html">Operaciones 02 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones03042020.html">Operaciones 03 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones06042020.html">Operaciones 06 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones07042020.html">Operaciones 07 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones08042020.html">Operaciones 08 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones13042020.html">Operaciones 13 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones14042020.html">Operaciones 14 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones15042020.html">Operaciones 15 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones16042020.html">Operaciones 16 de abril 2020</a>
+    </li>
+    <li>
+      <a href="operaciones17042020.html">Operaciones 17 de abril 2020</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Clasificación
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="enero2020.html">Enero 2020</a>
+    </li>
+    <li>
+      <a href="febrero2020.html">Febrero 2020</a>
+    </li>
+    <li>
+      <a href="marzo2020.html">Marzo 2020</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="indicadores.html">Indicadores</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://instagram.com/interaval.ve">
+    <span class="fa fa-instagram"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://linkedin.com/company/interaval">
+    <span class="fa fa-linkedin"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/grupointeraval">
+    <span class="fa fa-twitter"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Operaciones del día</h1>
+<h4 class="date">Actualizado al 2020-04-20</h4>
+
+</div>
+
+
+<div id="htmlwidget-b246783be53836851cfa" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-b246783be53836851cfa">{"x":{"filter":"none","extensions":["Buttons"],"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59","60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75","76","77","78","79","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95","96","97","98","99","100","101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121","122","123","124","125","126","127","128","129","130","131","132","133","134","135","136","137","138","139","140","141","142","143","144","145","146","147","148","149","150","151","152","153","154","155","156","157","158","159","160","161","162","163","164","165","166","167","168","169","170","171","172","173","174","175","176","177","178","179","180","181","182","183","184","185","186","187","188","189","190","191","192","193","194","195","196","197","198","199","200","201","202","203","204","205","206","207","208","209","210","211","212","213","214","215","216","217","218","219","220","221","222","223","224","225","226","227","228","229","230","231","232","233"],[970,55000,30,15,50,300,25,278,122,100,5000,12000,2578,250,26,26000,3880,1500,1500,85,1,32,10,830,2770,30,100,4000,249,251,50,94,200,10000,2,100,10,110,2,500,370,8,2,600,50,1000,5000,11,50,4000,16,50,1000,50,40,15,280,26,200,100,8800,51,36,200,10,2,5000,1485,52,500,969,1210,5578,5578,3800,500,4000,35044,500,1,3,1,6,1930,1446,15,58,5,6201,5,54,400,1000,6201,98,25,1269,4178,5822,30,2,18,3,2,8885,14,7,1,800,2237,465,82,1000,17,1113,19,681,2,78,4,28,1500,1922,3,100,600,1300,28000,2000,1178,6,1008,100,615,39,8,178,1000,2,3322,1025,1000,200,7500,35,5000,5000,1000,1000,31,1000,40,10000,10000,5000,2039,500,2390,5000,5000,7110,10000,15,16561,3,3500,3500,3000,6,1000,6,400,250,300,21,179,3000,2000,2000,37,3,3500,3,1,13504,3000,22,5473,13504,92,3000,35,25,5364,40,110,1,241,681,319,12000,3,114,3,300,700,50,21,300,221,70,75000,9759,6300,7000,36941,2117,942,539,250,9,10,3,700,1000,3,321,7900,24,68,223000000,162500000,37000000],["FVI.A","BNC","FVI.A","ICP.B","ICP.B","BVCC","BVCC","MVZ.B","MVZ.B","DOM","BNC","PGR","BVCC","BVCC","ENV","BOU","BNC","BNC","BNC","BNC","ABC.A","TPG","BVL","BVL","BOU","BOU","BOU","BVCC","RST","RST","MVZ.A","FVI.B","TDV.D","BOU","MVZ.B","ICP.B","RST","RST","RST","BVCC","RST","RST","CCR","BOU","BNC","BVCC","BNC","MVZ.B","BVL","PGR","BNC","FVI.A","PGR","DOM","GZL","ENV","RST.B","FVI.B","PGR","DOM","PGR","FVI.B","TPG","DOM","DOM","MVZ.A","BOU","ENV","BOU","BPV","BNC","BNC","BNC","BNC","BNC","BVCC","BVCC","BNC","BVCC","CCR","ICP.B","ICP.B","ICP.B","FVI.B","ENV","TDV.D","TDV.D","RST.B","BVCC","RST.B","ENV","PGR","BOU","BVCC","PGR","TDV.D","ENV","BOU","BOU","BVCC","BVCC","BVCC","BPV","MVZ.A","RST","MVZ.A","RST.B","ICP.B","RST","EFE","PGR","DOM","BVCC","TPG","PGR","FVI.B","FVI.B","CRM.A","CRM.A","BPV","DOM","PGR","PGR","TPG","BVCC","BVCC","BVCC","FVI.B","FVI.B","PGR","ABC.A","BNC","SVS","BVCC","BVCC","FVI.A","FVI.B","BVCC","BPV","FVI.B","CIE","BOU","FNC","FVI.B","BPV","MPA","MPA","BNC","BNC","PTN","BNC","ENV","ENV","MPA","MPA","BNC","MPA","MPA","MPA","PGR","MPA","MPA","BPV","BNC","MVZ.B","BOU","BOU","BOU","BPV","FVI.B","PTN","PTN","BVCC","BVCC","ENV","ENV","BOU","BOU","BNC","ENV","ICP.B","BOU","ICP.B","BPV","BVCC","BVL","TPG","FVI.B","BVCC","FVI.B","PGR","MPA","BNC","BNC","DOM","DOM","CCR","BNC","BNC","BNC","FVI.B","RST.B","PGR","RST","BVCC","BVCC","BVCC","TDV.D","TDV.D","CRM.A","FVI.B","BOU","BNC","BNC","BNC","BNC","BNC","BNC","BNC","BVCC","BVL","DOM","ENV","FVI.B","FVI.B","ICP.B","PGR","PGR","RST","TPG","TN912P","AP914P","AP914P"],["MERCANTIL MERINVEST","ACTIVALORES","BOD VALORES","VALORES VENCRED","VALORES VENCRED","FINANCORP","CAJA CARACAS","SOLFIN","SOLFIN","ACTIVALORES","MERCANTIL MERINVEST","VALORES VENCRED","CAJA CARACAS","FINANCORP","CAJA CARACAS","MERCANTIL MERINVEST","VALORES VENCRED","VALORES VENCRED","VALORES VENCRED","VALORES VENCRED","VALORES VENCRED","MERCANTIL MERINVEST","VALORES VENCRED","VALORES VENCRED","VALORES VENCRED","VALORES VENCRED","VALORES VENCRED","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","MERCANTIL MERINVEST","CAJA CARACAS","VALORES VENCRED","VALORES VENCRED","MERCANTIL MERINVEST","CAJA CARACAS","MAXIMIZA","MAXIMIZA","MAXIMIZA","FINANCORP","MAXIMIZA","MAXIMIZA","MERCANTIL MERINVEST","VALORES VENCRED","VALORES VENCRED","SOLFIN","VALORES VENCRED","MERCANTIL MERINVEST","SOLFIN","MERCOSUR","VALORES VENCRED","BOD VALORES","CAJA CARACAS","ACTIVALORES","SOLFIN","INTERSEC","CAJA CARACAS","MERCANTIL MERINVEST","CAJA CARACAS","ACTIVALORES","CAJA CARACAS","MERCOSUR","MERCANTIL MERINVEST","SOLFIN","CAJA CARACAS","CAJA CARACAS","BOD VALORES","INTERSEC","CAJA CARACAS","SOLFIN","VALORES VENCRED","MERCANTIL MERINVEST","RATIO","RATIO","RATIO","FINANCORP","SOLFIN","RATIO","CAJA CARACAS","MERCANTIL MERINVEST","CAJA CARACAS","BOD VALORES","BOD VALORES","MERCOSUR","MERCOSUR","BOD VALORES","BOD VALORES","MERCANTIL MERINVEST","CAJA CARACAS","MERCANTIL MERINVEST","MERCOSUR","VALORALTA","CAJA CARACAS","CAJA CARACAS","MASVALOR","RENDIVALORES","CAJA CARACAS","CAJA CARACAS","GRUPO INTERAVAL","MERCOSUR","MERCOSUR","MERCOSUR","BOD VALORES","MERCANTIL MERINVEST","CAJA CARACAS","MERCANTIL MERINVEST","CAJA CARACAS","BOD VALORES","CAJA CARACAS","MERCOSUR","CAJA CARACAS","ACTIVALORES","SOLFIN","MERCANTIL MERINVEST","CAJA CARACAS","MERCOSUR","MERCOSUR","CAJA CARACAS","CAJA CARACAS","BOD VALORES","ACTIVALORES","CAJA CARACAS","CAJA CARACAS","MERCANTIL MERINVEST","RENDIVALORES","FINANCORP","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","VALORES VENCRED","VALORES VENCRED","CAJA CARACAS","SOLFIN","CAJA CARACAS","CAJA CARACAS","INTERBONO","MERCOSUR","CAJA CARACAS","BOD VALORES","CAJA CARACAS","CORP","CAJA CARACAS","ACTIVALORES","CAJA CARACAS","VALORES VENCRED","VALORES VENCRED","VALORES VENCRED","SOLFIN","SOLFIN","CORP","RATIO","CAJA CARACAS","CAJA CARACAS","VALORES VENCRED","VALORES VENCRED","RENDIVALORES","VALORES VENCRED","VALORES VENCRED","VALORES VENCRED","MERCOSUR","VALORES VENCRED","VALORES VENCRED","BOD VALORES","ACTIVALORES","CAJA CARACAS","GRUPO INTERAVAL","GRUPO INTERAVAL","VALORES VENCRED","RATIO","INTERBURSA","INTERBONO","INTERBONO","RATIO","FINANCORP","VALORES VENCRED","MERCANTIL MERINVEST","GRUPO INTERAVAL","VALORES VENCRED","CAJA CARACAS","MERCANTIL MERINVEST","CAJA CARACAS","GRUPO INTERAVAL","MERCANTIL MERINVEST","BOD VALORES","CAJA CARACAS","VALORES VENCRED","MERCANTIL MERINVEST","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","VALORES VENCRED","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","SOLFIN","SOLFIN","RATIO","ACTIVALORES","BOD VALORES","BOD VALORES","CAJA CARACAS","VALORES VENCRED","MERCOSUR","VALORES VENCRED","FINANCORP","RATIO","RATIO","RENDIVALORES","VALORES VENCRED","MERCANTIL MERINVEST","CAJA CARACAS","VALORES VENCRED","ACTIVALORES","VALORES VENCRED","VALORES VENCRED","RATIO","RATIO","RATIO","MERCANTIL MERINVEST","RATIO","STATERA","ACTIVALORES","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","MERCOSUR","MERCOSUR","CAJA CARACAS","MERCANTIL MERINVEST","VALORALTA","SOLFIN","SOLFIN"],["MERCOSUR","ACTIVALORES","MERCOSUR","SOLFIN","SOLFIN","VALORALTA","CAJA CARACAS","ACTIVALORES","ACTIVALORES","VALORALTA","VALORALTA","VALORES VENCRED","VALORES VENCRED","STATERA","MERCOSUR","MERCANTIL MERINVEST","MERCOSUR","MERCOSUR","MERCOSUR","BOD VALORES","BOD VALORES","BOD VALORES","VALORES VENCRED","SOLFIN","BOD VALORES","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","CAJA CARACAS","MERCANTIL MERINVEST","MERCOSUR","GRUPO INTERAVAL","ACTIVALORES","MERCOSUR","RATIO","RENDIVALORES","BOD VALORES","BOD VALORES","SOLFIN","ACTIVALORES","RATIO","RENDIVALORES","RENDIVALORES","RENDIVALORES","SOLFIN","FIVENCA","ACTIVALORES","RENDIVALORES","BOD VALORES","MERCOSUR","INTERBURSA","BOD VALORES","VALORALTA","VALORALTA","VALORES VENCRED","MERCOSUR","CAJA CARACAS","BOD VALORES","INTERBURSA","BOD VALORES","CAJA CARACAS","INTERBURSA","MERCANTIL MERINVEST","MERCANTIL MERINVEST","RENDIVALORES","INTERBURSA","MERCANTIL MERINVEST","CAJA CARACAS","MERCANTIL MERINVEST","ACTIVALORES","ACTIVALORES","ACTIVALORES","ACTIVALORES","BOD VALORES","SOLFIN","SOLFIN","ACTIVALORES","SOLFIN","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","RENDIVALORES","FIVENCA","MERCOSUR","CAJA CARACAS","MERCANTIL MERINVEST","MERCOSUR","RENDIVALORES","BOD VALORES","CAJA CARACAS","MERCOSUR","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCOSUR","STATERA","MERCANTIL MERINVEST","MERCANTIL MERINVEST","CAJA CARACAS","MERCANTIL MERINVEST","RATIO","VALORES VENCRED","CAJA CARACAS","SOLFIN","MERCOSUR","INTERBURSA","BANACCI","BOD VALORES","FIVENCA","MERCANTIL MERINVEST","MERCANTIL MERINVEST","CAJA CARACAS","RENDIVALORES","FIVENCA","FIVENCA","SOLFIN","MERCANTIL MERINVEST","BOD VALORES","GRUPO INTERAVAL","GRUPO INTERAVAL","GRUPO INTERAVAL","MERCOSUR","MERCOSUR","MERCANTIL MERINVEST","RENDIVALORES","CORP","VALORALTA","MERCOSUR","RENDIVALORES","RENDIVALORES","MERCOSUR","STATERA","MERCOSUR","MERCOSUR","STATERA","ACTIVALORES","VALORALTA","MERCANTIL MERINVEST","MERCOSUR","MERCOSUR","ACTIVALORES","CORP","MERCOSUR","RENDIVALORES","MERCOSUR","FIVENCA","MERCANTIL MERINVEST","ACTIVALORES","CAJA CARACAS","MERCOSUR","SOLFIN","ACTIVALORES","CAJA CARACAS","BOD VALORES","ACTIVALORES","ACTIVALORES","MERCOSUR","MERCOSUR","MERCOSUR","GRUPO INTERAVAL","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCOSUR","INTERBURSA","CAJA CARACAS","CAJA CARACAS","STATERA","STATERA","VALORALTA","VALORALTA","GRUPO INTERAVAL","BOD VALORES","SOLFIN","VALORALTA","MERCANTIL MERINVEST","GRUPO INTERAVAL","MERCANTIL MERINVEST","RENDIVALORES","CAJA CARACAS","STATERA","BOD VALORES","BANACCI","CAJA CARACAS","RENDIVALORES","VALORES VENCRED","STATERA","INTERBONO","INTERBONO","SOLFIN","MERCANTIL MERINVEST","CAJA CARACAS","BOD VALORES","INTERBONO","BOD VALORES","MERCANTIL MERINVEST","CAJA CARACAS","BOD VALORES","CAJA CARACAS","GRUPO INTERAVAL","GRUPO INTERAVAL","MERCOSUR","GRUPO INTERAVAL","GRUPO INTERAVAL","FIVENCA","BOD VALORES","ACTIVALORES","GRUPO INTERAVAL","GRUPO INTERAVAL","GRUPO INTERAVAL","GRUPO INTERAVAL","CORP","BOD VALORES","BOD VALORES","STATERA","MERCANTIL MERINVEST","BOD VALORES","CAJA CARACAS","MERCANTIL MERINVEST","INTERBURSA","MERCANTIL MERINVEST","MERCANTIL MERINVEST","MERCANTIL MERINVEST","FIVENCA","INTERBURSA","RENDIVALORES","SOLFIN","SOLFIN"],[1940,1100,1940,59000,59000,38400,37500,375000,375000,83400,1249,2000,38000,38500,36500,36.5,1140,1140,1140,1140,80000,510,6000,5800,35,35,35,38000,50000,50000,400000,900,30000,36,375100,60000,49000.01,49000.01,49000.01,39000,49000.01,49000.01,600000,36,1140,40000,1140,375100,5800,2000,1140,1940,2000,82800,70000,36500,48000,1025,2000,82800,2000,1005.6,510,83000,83000,410000,35.9,36500,35,411000,1140,1140,1140,1140,1140,40000,40000,1140,40000,600000,66870,66870,66870,940,36500,30000,30000,48000,40000,48000,36500,2000,35,46420,2000,31000,36500,35,35.88,40000,39000,39000,419500,400000,45000,400000,52000,66870,49000,4700,2000,83400,40000,499,2000,940,940,10000.01,10000,419500,83400,2000,2000,499,40000,40000,40000,925,925,2000,80000,1200,23000,40000,40000,1940,940,40000,419500,940,2565,33,50000,940,420000,8005,8000,1200,1200,3995,1200,36500,36500,8000,8000,1200,8000,8000,8000,2000,8000,8000,420000,1200,400000,35.8,35.8,35.85,420000,940,3250,3250,40000,40000,43000,43000,35.8,35.85,1190,43000,78015,35.8,80243.99,419500,40000,4800,499,940,46985,940,2000,9000,1190,1190,83350,83000,600000,1200,1190,1190,940,50000,2000,51000,40000,40000,40000,31000,31000,10799.99,940,33,1200,1200,1200,1190,1190,1190,1190,40000,5799,83400,43000,938,938,80244,2000,2000,50000,499,85,86,86],[2,1,2,2,2,2,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,43,2,2,2,2,2,2,2,2,2,2,0,2,2,2,1,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,53,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,1,2]],"container":"<table class=\"cell-border stripe\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>Cantidad<\/th>\n      <th>Título<\/th>\n      <th>Casa que vende<\/th>\n      <th>Casa que compra<\/th>\n      <th>Precio<\/th>\n      <th>Plazo<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":27,"dom":"Bfrtip","buttons":["excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":[1,5,6]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[10,25,27,50,100]}},"evals":[],"jsHooks":[]}</script>
+<div id="diagrama-de-operaciones-de-venta" class="section level3">
+<h3>Diagrama de operaciones de venta</h3>
+<div id="htmlwidget-53dd98baa7c72d77e0ab" style="width:100%;height:500px;" class="highchart html-widget"></div>
+<script type="application/json" data-for="htmlwidget-53dd98baa7c72d77e0ab">{"x":{"hc_opts":{"title":{"text":null},"yAxis":{"title":{"text":"Y: Cantidad de operaciones de venta"},"type":"linear"},"credits":{"enabled":false},"exporting":{"enabled":false},"plotOptions":{"series":{"label":{"enabled":false},"turboThreshold":0,"showInLegend":true},"treemap":{"layoutAlgorithm":"squarified"},"scatter":{"marker":{"symbol":"circle"}}},"series":[{"name":"ACTIVALORES","data":[{"Cantidad":55000,"Título":"BNC","Casa que compra":"ACTIVALORES","Casa que vende":"ACTIVALORES","Precio":1100,"Plazo":1,"y":55000,"name":"BNC"},{"Cantidad":100,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"VALORALTA","Precio":83400,"Plazo":2,"y":100,"name":"DOM"},{"Cantidad":50,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"VALORALTA","Precio":82800,"Plazo":2,"y":50,"name":"DOM"},{"Cantidad":100,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"INTERBURSA","Precio":82800,"Plazo":0,"y":100,"name":"DOM"},{"Cantidad":82,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"INTERBURSA","Precio":83400,"Plazo":0,"y":82,"name":"DOM"},{"Cantidad":28,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"FIVENCA","Precio":83400,"Plazo":2,"y":28,"name":"DOM"},{"Cantidad":200,"Título":"FNC","Casa que compra":"ACTIVALORES","Casa que vende":"VALORALTA","Precio":50000,"Plazo":2,"y":200,"name":"FNC"},{"Cantidad":16561,"Título":"BNC","Casa que compra":"ACTIVALORES","Casa que vende":"MERCOSUR","Precio":1200,"Plazo":2,"y":16561,"name":"BNC"},{"Cantidad":241,"Título":"BNC","Casa que compra":"ACTIVALORES","Casa que vende":"BOD VALORES","Precio":1200,"Plazo":2,"y":241,"name":"BNC"},{"Cantidad":9759,"Título":"BNC","Casa que compra":"ACTIVALORES","Casa que vende":"GRUPO INTERAVAL","Precio":1200,"Plazo":2,"y":9759,"name":"BNC"},{"Cantidad":10,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"BOD VALORES","Precio":83400,"Plazo":2,"y":10,"name":"DOM"}],"type":"scatter"},{"name":"BOD VALORES","data":[{"Cantidad":30,"Título":"FVI.A","Casa que compra":"BOD VALORES","Casa que vende":"MERCOSUR","Precio":1940,"Plazo":2,"y":30,"name":"FVI.A"},{"Cantidad":50,"Título":"FVI.A","Casa que compra":"BOD VALORES","Casa que vende":"INTERBURSA","Precio":1940,"Plazo":2,"y":50,"name":"FVI.A"},{"Cantidad":5000,"Título":"BOU","Casa que compra":"BOD VALORES","Casa que vende":"INTERBURSA","Precio":35.9,"Plazo":2,"y":5000,"name":"BOU"},{"Cantidad":1,"Título":"ICP.B","Casa que compra":"BOD VALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":66870,"Plazo":2,"y":1,"name":"ICP.B"},{"Cantidad":6,"Título":"ICP.B","Casa que compra":"BOD VALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":66870,"Plazo":2,"y":6,"name":"ICP.B"},{"Cantidad":15,"Título":"TDV.D","Casa que compra":"BOD VALORES","Casa que vende":"RENDIVALORES","Precio":30000,"Plazo":2,"y":15,"name":"TDV.D"},{"Cantidad":58,"Título":"TDV.D","Casa que compra":"BOD VALORES","Casa que vende":"FIVENCA","Precio":30000,"Plazo":2,"y":58,"name":"TDV.D"},{"Cantidad":3,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":419500,"Plazo":2,"y":3,"name":"BPV"},{"Cantidad":1,"Título":"ICP.B","Casa que compra":"BOD VALORES","Casa que vende":"VALORES VENCRED","Precio":66870,"Plazo":2,"y":1,"name":"ICP.B"},{"Cantidad":4,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"FIVENCA","Precio":419500,"Plazo":2,"y":4,"name":"BPV"},{"Cantidad":2,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"MERCOSUR","Precio":419500,"Plazo":2,"y":2,"name":"BPV"},{"Cantidad":15,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"MERCOSUR","Precio":420000,"Plazo":2,"y":15,"name":"BPV"},{"Cantidad":1,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"RENDIVALORES","Precio":419500,"Plazo":2,"y":1,"name":"BPV"},{"Cantidad":681,"Título":"BNC","Casa que compra":"BOD VALORES","Casa que vende":"INTERBONO","Precio":1190,"Plazo":2,"y":681,"name":"BNC"},{"Cantidad":319,"Título":"BNC","Casa que compra":"BOD VALORES","Casa que vende":"BOD VALORES","Precio":1190,"Plazo":2,"y":319,"name":"BNC"}],"type":"scatter"},{"name":"CAJA CARACAS","data":[{"Cantidad":25,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":37500,"Plazo":1,"y":25,"name":"BVCC"},{"Cantidad":2578,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"VALORES VENCRED","Precio":38000,"Plazo":2,"y":2578,"name":"BVCC"},{"Cantidad":26,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":36500,"Plazo":2,"y":26,"name":"ENV"},{"Cantidad":4000,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":38000,"Plazo":1,"y":4000,"name":"BVCC"},{"Cantidad":249,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":50000,"Plazo":2,"y":249,"name":"RST"},{"Cantidad":251,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":50000,"Plazo":2,"y":251,"name":"RST"},{"Cantidad":94,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":900,"Plazo":2,"y":94,"name":"FVI.B"},{"Cantidad":100,"Título":"ICP.B","Casa que compra":"CAJA CARACAS","Casa que vende":"RATIO","Precio":60000,"Plazo":2,"y":100,"name":"ICP.B"},{"Cantidad":1000,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":1000,"name":"PGR"},{"Cantidad":280,"Título":"RST.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":48000,"Plazo":1,"y":280,"name":"RST.B"},{"Cantidad":200,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":200,"name":"PGR"},{"Cantidad":8800,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":8800,"name":"PGR"},{"Cantidad":10,"Título":"DOM","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":83000,"Plazo":2,"y":10,"name":"DOM"},{"Cantidad":2,"Título":"MVZ.A","Casa que compra":"CAJA CARACAS","Casa que vende":"RENDIVALORES","Precio":410000,"Plazo":2,"y":2,"name":"MVZ.A"},{"Cantidad":52,"Título":"BOU","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":35,"Plazo":2,"y":52,"name":"BOU"},{"Cantidad":500,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"SOLFIN","Precio":40000,"Plazo":2,"y":500,"name":"BVCC"},{"Cantidad":3,"Título":"ICP.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":66870,"Plazo":2,"y":3,"name":"ICP.B"},{"Cantidad":6201,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":40000,"Plazo":0,"y":6201,"name":"BVCC"},{"Cantidad":1000,"Título":"BOU","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":35,"Plazo":2,"y":1000,"name":"BOU"},{"Cantidad":6201,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":46420,"Plazo":43,"y":6201,"name":"BVCC"},{"Cantidad":1269,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":36500,"Plazo":2,"y":1269,"name":"ENV"},{"Cantidad":4178,"Título":"BOU","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":35,"Plazo":2,"y":4178,"name":"BOU"},{"Cantidad":8885,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":45000,"Plazo":0,"y":8885,"name":"RST"},{"Cantidad":7,"Título":"RST.B","Casa que compra":"CAJA CARACAS","Casa que vende":"RATIO","Precio":52000,"Plazo":2,"y":7,"name":"RST.B"},{"Cantidad":800,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":49000,"Plazo":1,"y":800,"name":"RST"},{"Cantidad":465,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":2000,"Plazo":2,"y":465,"name":"PGR"},{"Cantidad":1113,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"FIVENCA","Precio":2000,"Plazo":2,"y":1113,"name":"PGR"},{"Cantidad":2,"Título":"CRM.A","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":10000.01,"Plazo":2,"y":2,"name":"CRM.A"},{"Cantidad":78,"Título":"CRM.A","Casa que compra":"CAJA CARACAS","Casa que vende":"RENDIVALORES","Precio":10000,"Plazo":2,"y":78,"name":"CRM.A"},{"Cantidad":1500,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"SOLFIN","Precio":2000,"Plazo":2,"y":1500,"name":"PGR"},{"Cantidad":1922,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":2000,"Plazo":2,"y":1922,"name":"PGR"},{"Cantidad":1300,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":1300,"name":"BVCC"},{"Cantidad":28000,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":925,"Plazo":1,"y":28000,"name":"FVI.B"},{"Cantidad":2000,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":925,"Plazo":1,"y":2000,"name":"FVI.B"},{"Cantidad":1008,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"CORP","Precio":1200,"Plazo":2,"y":1008,"name":"BNC"},{"Cantidad":615,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":40000,"Plazo":2,"y":615,"name":"BVCC"},{"Cantidad":39,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"RENDIVALORES","Precio":40000,"Plazo":2,"y":39,"name":"BVCC"},{"Cantidad":1000,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"STATERA","Precio":40000,"Plazo":2,"y":1000,"name":"BVCC"},{"Cantidad":3322,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":940,"Plazo":2,"y":3322,"name":"FVI.B"},{"Cantidad":1000,"Título":"BOU","Casa que compra":"CAJA CARACAS","Casa que vende":"ACTIVALORES","Precio":33,"Plazo":2,"y":1000,"name":"BOU"},{"Cantidad":7500,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":7500,"name":"FVI.B"},{"Cantidad":40,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"FIVENCA","Precio":36500,"Plazo":2,"y":40,"name":"ENV"},{"Cantidad":10000,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":36500,"Plazo":2,"y":10000,"name":"ENV"},{"Cantidad":3,"Título":"MVZ.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":400000,"Plazo":2,"y":3,"name":"MVZ.B"},{"Cantidad":2000,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"SOLFIN","Precio":1190,"Plazo":2,"y":2000,"name":"BNC"},{"Cantidad":3,"Título":"ICP.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":78015,"Plazo":2,"y":3,"name":"ICP.B"},{"Cantidad":13504,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":40000,"Plazo":0,"y":13504,"name":"BVCC"},{"Cantidad":5473,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"BANACCI","Precio":940,"Plazo":2,"y":5473,"name":"FVI.B"},{"Cantidad":13504,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":46985,"Plazo":53,"y":13504,"name":"BVCC"},{"Cantidad":92,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"RENDIVALORES","Precio":940,"Plazo":2,"y":92,"name":"FVI.B"},{"Cantidad":35,"Título":"MPA","Casa que compra":"CAJA CARACAS","Casa que vende":"STATERA","Precio":9000,"Plazo":2,"y":35,"name":"MPA"},{"Cantidad":25,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"INTERBONO","Precio":1190,"Plazo":2,"y":25,"name":"BNC"},{"Cantidad":5364,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"INTERBONO","Precio":1190,"Plazo":2,"y":5364,"name":"BNC"},{"Cantidad":12000,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":12000,"name":"FVI.B"},{"Cantidad":70,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":940,"Plazo":2,"y":70,"name":"FVI.B"},{"Cantidad":3,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":43000,"Plazo":2,"y":3,"name":"ENV"},{"Cantidad":700,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":938,"Plazo":2,"y":700,"name":"FVI.B"},{"Cantidad":1000,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"INTERBURSA","Precio":938,"Plazo":2,"y":1000,"name":"FVI.B"},{"Cantidad":3,"Título":"ICP.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":80244,"Plazo":2,"y":3,"name":"ICP.B"},{"Cantidad":24,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"FIVENCA","Precio":50000,"Plazo":2,"y":24,"name":"RST"}],"type":"scatter"},{"name":"CORP","data":[{"Cantidad":1025,"Título":"CIE","Casa que compra":"CORP","Casa que vende":"STATERA","Precio":2565,"Plazo":2,"y":1025,"name":"CIE"},{"Cantidad":31,"Título":"PTN","Casa que compra":"CORP","Casa que vende":"RENDIVALORES","Precio":3995,"Plazo":2,"y":31,"name":"PTN"}],"type":"scatter"},{"name":"FINANCORP","data":[{"Cantidad":300,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"VALORALTA","Precio":38400,"Plazo":2,"y":300,"name":"BVCC"},{"Cantidad":250,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"STATERA","Precio":38500,"Plazo":2,"y":250,"name":"BVCC"},{"Cantidad":500,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"SOLFIN","Precio":39000,"Plazo":2,"y":500,"name":"BVCC"},{"Cantidad":500,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"SOLFIN","Precio":40000,"Plazo":2,"y":500,"name":"BVCC"},{"Cantidad":600,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":600,"name":"BVCC"},{"Cantidad":300,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"STATERA","Precio":40000,"Plazo":2,"y":300,"name":"BVCC"},{"Cantidad":300,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":300,"name":"BVCC"}],"type":"scatter"},{"name":"GRUPO INTERAVAL","data":[{"Cantidad":5822,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"MERCANTIL MERINVEST","Precio":35.88,"Plazo":2,"y":5822,"name":"BOU"},{"Cantidad":3500,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"GRUPO INTERAVAL","Precio":35.8,"Plazo":2,"y":3500,"name":"BOU"},{"Cantidad":3500,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"MERCANTIL MERINVEST","Precio":35.8,"Plazo":2,"y":3500,"name":"BOU"},{"Cantidad":3000,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"GRUPO INTERAVAL","Precio":35.8,"Plazo":2,"y":3000,"name":"BOU"},{"Cantidad":3500,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"GRUPO INTERAVAL","Precio":35.8,"Plazo":2,"y":3500,"name":"BOU"}],"type":"scatter"},{"name":"INTERBONO","data":[{"Cantidad":8,"Título":"FVI.A","Casa que compra":"INTERBONO","Casa que vende":"RENDIVALORES","Precio":1940,"Plazo":2,"y":8,"name":"FVI.A"},{"Cantidad":6,"Título":"PTN","Casa que compra":"INTERBONO","Casa que vende":"CAJA CARACAS","Precio":3250,"Plazo":2,"y":6,"name":"PTN"},{"Cantidad":400,"Título":"PTN","Casa que compra":"INTERBONO","Casa que vende":"CAJA CARACAS","Precio":3250,"Plazo":2,"y":400,"name":"PTN"}],"type":"scatter"},{"name":"INTERBURSA","data":[{"Cantidad":1000,"Título":"FVI.B","Casa que compra":"INTERBURSA","Casa que vende":"INTERBURSA","Precio":940,"Plazo":2,"y":1000,"name":"FVI.B"}],"type":"scatter"},{"name":"INTERSEC","data":[{"Cantidad":15,"Título":"ENV","Casa que compra":"INTERSEC","Casa que vende":"VALORES VENCRED","Precio":36500,"Plazo":2,"y":15,"name":"ENV"},{"Cantidad":1485,"Título":"ENV","Casa que compra":"INTERSEC","Casa que vende":"MERCANTIL MERINVEST","Precio":36500,"Plazo":2,"y":1485,"name":"ENV"}],"type":"scatter"},{"name":"MASVALOR","data":[{"Cantidad":98,"Título":"PGR","Casa que compra":"MASVALOR","Casa que vende":"MERCOSUR","Precio":2000,"Plazo":2,"y":98,"name":"PGR"}],"type":"scatter"},{"name":"MAXIMIZA","data":[{"Cantidad":10,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"RENDIVALORES","Precio":49000.01,"Plazo":2,"y":10,"name":"RST"},{"Cantidad":110,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"BOD VALORES","Precio":49000.01,"Plazo":2,"y":110,"name":"RST"},{"Cantidad":2,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"BOD VALORES","Precio":49000.01,"Plazo":2,"y":2,"name":"RST"},{"Cantidad":370,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"ACTIVALORES","Precio":49000.01,"Plazo":2,"y":370,"name":"RST"},{"Cantidad":8,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"RATIO","Precio":49000.01,"Plazo":2,"y":8,"name":"RST"}],"type":"scatter"},{"name":"MERCANTIL MERINVEST","data":[{"Cantidad":970,"Título":"FVI.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCOSUR","Precio":1940,"Plazo":2,"y":970,"name":"FVI.A"},{"Cantidad":5000,"Título":"BNC","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"VALORALTA","Precio":1249,"Plazo":2,"y":5000,"name":"BNC"},{"Cantidad":26000,"Título":"BOU","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":36.5,"Plazo":2,"y":26000,"name":"BOU"},{"Cantidad":32,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":510,"Plazo":2,"y":32,"name":"TPG"},{"Cantidad":50,"Título":"MVZ.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":400000,"Plazo":2,"y":50,"name":"MVZ.A"},{"Cantidad":2,"Título":"MVZ.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCOSUR","Precio":375100,"Plazo":2,"y":2,"name":"MVZ.B"},{"Cantidad":2,"Título":"CCR","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"RENDIVALORES","Precio":600000,"Plazo":2,"y":2,"name":"CCR"},{"Cantidad":11,"Título":"MVZ.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"ACTIVALORES","Precio":375100,"Plazo":2,"y":11,"name":"MVZ.B"},{"Cantidad":26,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":1025,"Plazo":2,"y":26,"name":"FVI.B"},{"Cantidad":36,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"INTERBURSA","Precio":510,"Plazo":2,"y":36,"name":"TPG"},{"Cantidad":1210,"Título":"BNC","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":1210,"name":"BNC"},{"Cantidad":1,"Título":"CCR","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":600000,"Plazo":2,"y":1,"name":"CCR"},{"Cantidad":5,"Título":"RST.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCOSUR","Precio":48000,"Plazo":2,"y":5,"name":"RST.B"},{"Cantidad":5,"Título":"RST.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":48000,"Plazo":2,"y":5,"name":"RST.B"},{"Cantidad":2,"Título":"MVZ.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":400000,"Plazo":2,"y":2,"name":"MVZ.A"},{"Cantidad":14,"Título":"MVZ.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":400000,"Plazo":2,"y":14,"name":"MVZ.A"},{"Cantidad":17,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":499,"Plazo":2,"y":17,"name":"TPG"},{"Cantidad":3,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":499,"Plazo":2,"y":3,"name":"TPG"},{"Cantidad":179,"Título":"ENV","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"VALORALTA","Precio":43000,"Plazo":2,"y":179,"name":"ENV"},{"Cantidad":37,"Título":"ENV","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"VALORALTA","Precio":43000,"Plazo":2,"y":37,"name":"ENV"},{"Cantidad":3,"Título":"ICP.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":80243.99,"Plazo":2,"y":3,"name":"ICP.B"},{"Cantidad":22,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":499,"Plazo":2,"y":22,"name":"TPG"},{"Cantidad":221,"Título":"CRM.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"FIVENCA","Precio":10799.99,"Plazo":2,"y":221,"name":"CRM.A"},{"Cantidad":539,"Título":"BNC","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":1190,"Plazo":2,"y":539,"name":"BNC"},{"Cantidad":68,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"INTERBURSA","Precio":499,"Plazo":2,"y":68,"name":"TPG"}],"type":"scatter"},{"name":"MERCOSUR","data":[{"Cantidad":4000,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":4000,"name":"PGR"},{"Cantidad":51,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"CAJA CARACAS","Precio":1005.6,"Plazo":2,"y":51,"name":"FVI.B"},{"Cantidad":1930,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":1930,"name":"FVI.B"},{"Cantidad":1446,"Título":"ENV","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":36500,"Plazo":2,"y":1446,"name":"ENV"},{"Cantidad":54,"Título":"ENV","Casa que compra":"MERCOSUR","Casa que vende":"MERCOSUR","Precio":36500,"Plazo":2,"y":54,"name":"ENV"},{"Cantidad":30,"Título":"BVCC","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":40000,"Plazo":2,"y":30,"name":"BVCC"},{"Cantidad":2,"Título":"BVCC","Casa que compra":"MERCOSUR","Casa que vende":"MERCOSUR","Precio":39000,"Plazo":2,"y":2,"name":"BVCC"},{"Cantidad":18,"Título":"BVCC","Casa que compra":"MERCOSUR","Casa que vende":"STATERA","Precio":39000,"Plazo":2,"y":18,"name":"BVCC"},{"Cantidad":2237,"Título":"EFE","Casa que compra":"MERCOSUR","Casa que vende":"SOLFIN","Precio":4700,"Plazo":2,"y":2237,"name":"EFE"},{"Cantidad":19,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":19,"name":"FVI.B"},{"Cantidad":681,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":681,"name":"FVI.B"},{"Cantidad":178,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"MERCOSUR","Precio":940,"Plazo":2,"y":178,"name":"FVI.B"},{"Cantidad":5000,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":5000,"name":"PGR"},{"Cantidad":114,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":114,"name":"PGR"},{"Cantidad":321,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":2000,"Plazo":2,"y":321,"name":"PGR"},{"Cantidad":7900,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":2000,"Plazo":2,"y":7900,"name":"PGR"}],"type":"scatter"},{"name":"RATIO","data":[{"Cantidad":5578,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":5578,"name":"BNC"},{"Cantidad":5578,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":5578,"name":"BNC"},{"Cantidad":3800,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"BOD VALORES","Precio":1140,"Plazo":2,"y":3800,"name":"BNC"},{"Cantidad":35044,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":35044,"name":"BNC"},{"Cantidad":1000,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"MERCOSUR","Precio":1200,"Plazo":2,"y":1000,"name":"BNC"},{"Cantidad":6,"Título":"BPV","Casa que compra":"RATIO","Casa que vende":"MERCOSUR","Precio":420000,"Plazo":2,"y":6,"name":"BPV"},{"Cantidad":250,"Título":"BVCC","Casa que compra":"RATIO","Casa que vende":"STATERA","Precio":40000,"Plazo":2,"y":250,"name":"BVCC"},{"Cantidad":1,"Título":"CCR","Casa que compra":"RATIO","Casa que vende":"CAJA CARACAS","Precio":600000,"Plazo":2,"y":1,"name":"CCR"},{"Cantidad":700,"Título":"BVCC","Casa que compra":"RATIO","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":700,"name":"BVCC"},{"Cantidad":50,"Título":"BVCC","Casa que compra":"RATIO","Casa que vende":"MERCOSUR","Precio":40000,"Plazo":2,"y":50,"name":"BVCC"},{"Cantidad":36941,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"GRUPO INTERAVAL","Precio":1190,"Plazo":2,"y":36941,"name":"BNC"},{"Cantidad":2117,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"CORP","Precio":1190,"Plazo":2,"y":2117,"name":"BNC"},{"Cantidad":942,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"BOD VALORES","Precio":1190,"Plazo":2,"y":942,"name":"BNC"},{"Cantidad":250,"Título":"BVCC","Casa que compra":"RATIO","Casa que vende":"STATERA","Precio":40000,"Plazo":2,"y":250,"name":"BVCC"}],"type":"scatter"},{"name":"RENDIVALORES","data":[{"Cantidad":25,"Título":"TDV.D","Casa que compra":"RENDIVALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":31000,"Plazo":2,"y":25,"name":"TDV.D"},{"Cantidad":100,"Título":"BVCC","Casa que compra":"RENDIVALORES","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":100,"name":"BVCC"},{"Cantidad":2039,"Título":"BNC","Casa que compra":"RENDIVALORES","Casa que vende":"MERCOSUR","Precio":1200,"Plazo":2,"y":2039,"name":"BNC"},{"Cantidad":21,"Título":"TDV.D","Casa que compra":"RENDIVALORES","Casa que vende":"GRUPO INTERAVAL","Precio":31000,"Plazo":2,"y":21,"name":"TDV.D"}],"type":"scatter"},{"name":"SOLFIN","data":[{"Cantidad":278,"Título":"MVZ.B","Casa que compra":"SOLFIN","Casa que vende":"ACTIVALORES","Precio":375000,"Plazo":1,"y":278,"name":"MVZ.B"},{"Cantidad":122,"Título":"MVZ.B","Casa que compra":"SOLFIN","Casa que vende":"ACTIVALORES","Precio":375000,"Plazo":1,"y":122,"name":"MVZ.B"},{"Cantidad":1000,"Título":"BVCC","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":40000,"Plazo":2,"y":1000,"name":"BVCC"},{"Cantidad":50,"Título":"BVL","Casa que compra":"SOLFIN","Casa que vende":"RENDIVALORES","Precio":5800,"Plazo":2,"y":50,"name":"BVL"},{"Cantidad":40,"Título":"GZL","Casa que compra":"SOLFIN","Casa que vende":"VALORALTA","Precio":70000,"Plazo":2,"y":40,"name":"GZL"},{"Cantidad":200,"Título":"DOM","Casa que compra":"SOLFIN","Casa que vende":"MERCANTIL MERINVEST","Precio":83000,"Plazo":2,"y":200,"name":"DOM"},{"Cantidad":500,"Título":"BPV","Casa que compra":"SOLFIN","Casa que vende":"MERCANTIL MERINVEST","Precio":411000,"Plazo":2,"y":500,"name":"BPV"},{"Cantidad":4000,"Título":"BVCC","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":40000,"Plazo":2,"y":4000,"name":"BVCC"},{"Cantidad":1000,"Título":"BVCC","Casa que compra":"SOLFIN","Casa que vende":"BANACCI","Precio":40000,"Plazo":2,"y":1000,"name":"BVCC"},{"Cantidad":100,"Título":"SVS","Casa que compra":"SOLFIN","Casa que vende":"VALORALTA","Precio":23000,"Plazo":2,"y":100,"name":"SVS"},{"Cantidad":1000,"Título":"BNC","Casa que compra":"SOLFIN","Casa que vende":"CORP","Precio":1200,"Plazo":2,"y":1000,"name":"BNC"},{"Cantidad":1000,"Título":"BNC","Casa que compra":"SOLFIN","Casa que vende":"MERCOSUR","Precio":1200,"Plazo":2,"y":1000,"name":"BNC"},{"Cantidad":40,"Título":"DOM","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":83350,"Plazo":2,"y":40,"name":"DOM"},{"Cantidad":110,"Título":"DOM","Casa que compra":"SOLFIN","Casa que vende":"MERCANTIL MERINVEST","Precio":83000,"Plazo":2,"y":110,"name":"DOM"},{"Cantidad":162500000,"Título":"AP914P","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":86,"Plazo":1,"y":162500000,"name":"AP914P"},{"Cantidad":37000000,"Título":"AP914P","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":86,"Plazo":2,"y":37000000,"name":"AP914P"}],"type":"scatter"},{"name":"STATERA","data":[{"Cantidad":9,"Título":"BVL","Casa que compra":"STATERA","Casa que vende":"MERCANTIL MERINVEST","Precio":5799,"Plazo":2,"y":9,"name":"BVL"}],"type":"scatter"},{"name":"VALORALTA","data":[{"Cantidad":400,"Título":"PGR","Casa que compra":"VALORALTA","Casa que vende":"RENDIVALORES","Precio":2000,"Plazo":2,"y":400,"name":"PGR"},{"Cantidad":223000000,"Título":"TN912P","Casa que compra":"VALORALTA","Casa que vende":"RENDIVALORES","Precio":85,"Plazo":0,"y":223000000,"name":"TN912P"}],"type":"scatter"},{"name":"VALORES VENCRED","data":[{"Cantidad":15,"Título":"ICP.B","Casa que compra":"VALORES VENCRED","Casa que vende":"SOLFIN","Precio":59000,"Plazo":2,"y":15,"name":"ICP.B"},{"Cantidad":50,"Título":"ICP.B","Casa que compra":"VALORES VENCRED","Casa que vende":"SOLFIN","Precio":59000,"Plazo":2,"y":50,"name":"ICP.B"},{"Cantidad":12000,"Título":"PGR","Casa que compra":"VALORES VENCRED","Casa que vende":"VALORES VENCRED","Precio":2000,"Plazo":2,"y":12000,"name":"PGR"},{"Cantidad":3880,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":1140,"Plazo":2,"y":3880,"name":"BNC"},{"Cantidad":1500,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":1140,"Plazo":2,"y":1500,"name":"BNC"},{"Cantidad":1500,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":1140,"Plazo":2,"y":1500,"name":"BNC"},{"Cantidad":85,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":1140,"Plazo":2,"y":85,"name":"BNC"},{"Cantidad":1,"Título":"ABC.A","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":80000,"Plazo":2,"y":1,"name":"ABC.A"},{"Cantidad":10,"Título":"BVL","Casa que compra":"VALORES VENCRED","Casa que vende":"VALORES VENCRED","Precio":6000,"Plazo":2,"y":10,"name":"BVL"},{"Cantidad":830,"Título":"BVL","Casa que compra":"VALORES VENCRED","Casa que vende":"SOLFIN","Precio":5800,"Plazo":2,"y":830,"name":"BVL"},{"Cantidad":2770,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":35,"Plazo":2,"y":2770,"name":"BOU"},{"Cantidad":30,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":35,"Plazo":2,"y":30,"name":"BOU"},{"Cantidad":100,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":35,"Plazo":2,"y":100,"name":"BOU"},{"Cantidad":200,"Título":"TDV.D","Casa que compra":"VALORES VENCRED","Casa que vende":"GRUPO INTERAVAL","Precio":30000,"Plazo":2,"y":200,"name":"TDV.D"},{"Cantidad":10000,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":36,"Plazo":2,"y":10000,"name":"BOU"},{"Cantidad":600,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":36,"Plazo":2,"y":600,"name":"BOU"},{"Cantidad":50,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":1140,"Plazo":2,"y":50,"name":"BNC"},{"Cantidad":5000,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"FIVENCA","Precio":1140,"Plazo":2,"y":5000,"name":"BNC"},{"Cantidad":16,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":1140,"Plazo":2,"y":16,"name":"BNC"},{"Cantidad":969,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":969,"name":"BNC"},{"Cantidad":1178,"Título":"PGR","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCANTIL MERINVEST","Precio":2000,"Plazo":2,"y":1178,"name":"PGR"},{"Cantidad":6,"Título":"ABC.A","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":80000,"Plazo":2,"y":6,"name":"ABC.A"},{"Cantidad":35,"Título":"BPV","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":420000,"Plazo":2,"y":35,"name":"BPV"},{"Cantidad":5000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":8005,"Plazo":2,"y":5000,"name":"MPA"},{"Cantidad":5000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":5000,"name":"MPA"},{"Cantidad":10000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":10000,"name":"MPA"},{"Cantidad":5000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":8000,"Plazo":2,"y":5000,"name":"MPA"},{"Cantidad":500,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"SOLFIN","Precio":8000,"Plazo":2,"y":500,"name":"MPA"},{"Cantidad":2390,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":2390,"name":"MPA"},{"Cantidad":5000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":8000,"Plazo":2,"y":5000,"name":"MPA"},{"Cantidad":7110,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":7110,"name":"MPA"},{"Cantidad":10000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":10000,"name":"MPA"},{"Cantidad":3000,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCANTIL MERINVEST","Precio":35.85,"Plazo":2,"y":3000,"name":"BOU"},{"Cantidad":21,"Título":"ENV","Casa que compra":"VALORES VENCRED","Casa que vende":"VALORALTA","Precio":43000,"Plazo":2,"y":21,"name":"ENV"},{"Cantidad":2000,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":35.85,"Plazo":2,"y":2000,"name":"BOU"},{"Cantidad":3000,"Título":"BVL","Casa que compra":"VALORES VENCRED","Casa que vende":"STATERA","Precio":4800,"Plazo":2,"y":3000,"name":"BVL"},{"Cantidad":3000,"Título":"PGR","Casa que compra":"VALORES VENCRED","Casa que vende":"VALORES VENCRED","Precio":2000,"Plazo":2,"y":3000,"name":"PGR"},{"Cantidad":3,"Título":"RST.B","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":50000,"Plazo":2,"y":3,"name":"RST.B"},{"Cantidad":3,"Título":"RST","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":51000,"Plazo":2,"y":3,"name":"RST"},{"Cantidad":300,"Título":"TDV.D","Casa que compra":"VALORES VENCRED","Casa que vende":"GRUPO INTERAVAL","Precio":31000,"Plazo":2,"y":300,"name":"TDV.D"},{"Cantidad":75000,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":33,"Plazo":2,"y":75000,"name":"BOU"},{"Cantidad":6300,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"GRUPO INTERAVAL","Precio":1200,"Plazo":2,"y":6300,"name":"BNC"},{"Cantidad":7000,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"GRUPO INTERAVAL","Precio":1200,"Plazo":2,"y":7000,"name":"BNC"}],"type":"scatter"}],"xAxis":{"type":"category","title":{"text":"X: Títulos"}}},"theme":{"chart":{"backgroundColor":"transparent"}},"conf_opts":{"global":{"Date":null,"VMLRadialGradientURL":"http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png","canvasToolsURL":"http =//code.highcharts.com/list(version)/modules/canvas-tools.js","getTimezoneOffset":null,"timezoneOffset":0,"useUTC":true},"lang":{"contextButtonTitle":"Chart context menu","decimalPoint":".","downloadJPEG":"Download JPEG image","downloadPDF":"Download PDF document","downloadPNG":"Download PNG image","downloadSVG":"Download SVG vector image","drillUpText":"Back to {series.name}","invalidDate":null,"loading":"Loading...","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"noData":"No data to display","numericSymbols":["k","M","G","T","P","E"],"printChart":"Print chart","resetZoom":"Reset zoom","resetZoomTitle":"Reset zoom level 1:1","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"thousandsSep":" ","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}},"type":"chart","fonts":[],"debug":false},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="diagrama-de-operaciones-de-compra" class="section level3">
+<h3>Diagrama de operaciones de compra</h3>
+<div id="htmlwidget-ebad0f9a9b3d9bd90ef4" style="width:100%;height:500px;" class="highchart html-widget"></div>
+<script type="application/json" data-for="htmlwidget-ebad0f9a9b3d9bd90ef4">{"x":{"hc_opts":{"title":{"text":null},"yAxis":{"title":{"text":"Y: Cantidad de operaciones de compra"},"type":"linear"},"credits":{"enabled":false},"exporting":{"enabled":false},"plotOptions":{"series":{"label":{"enabled":false},"turboThreshold":0,"showInLegend":true},"treemap":{"layoutAlgorithm":"squarified"},"scatter":{"marker":{"symbol":"circle"}}},"series":[{"name":"ACTIVALORES","data":[{"Cantidad":55000,"Título":"BNC","Casa que compra":"ACTIVALORES","Casa que vende":"ACTIVALORES","Precio":1100,"Plazo":1,"y":55000,"name":"BNC"},{"Cantidad":278,"Título":"MVZ.B","Casa que compra":"SOLFIN","Casa que vende":"ACTIVALORES","Precio":375000,"Plazo":1,"y":278,"name":"MVZ.B"},{"Cantidad":122,"Título":"MVZ.B","Casa que compra":"SOLFIN","Casa que vende":"ACTIVALORES","Precio":375000,"Plazo":1,"y":122,"name":"MVZ.B"},{"Cantidad":10000,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":36,"Plazo":2,"y":10000,"name":"BOU"},{"Cantidad":370,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"ACTIVALORES","Precio":49000.01,"Plazo":2,"y":370,"name":"RST"},{"Cantidad":11,"Título":"MVZ.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"ACTIVALORES","Precio":375100,"Plazo":2,"y":11,"name":"MVZ.B"},{"Cantidad":969,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":969,"name":"BNC"},{"Cantidad":1210,"Título":"BNC","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":1210,"name":"BNC"},{"Cantidad":5578,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":5578,"name":"BNC"},{"Cantidad":5578,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":5578,"name":"BNC"},{"Cantidad":35044,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"ACTIVALORES","Precio":1140,"Plazo":2,"y":35044,"name":"BNC"},{"Cantidad":1000,"Título":"BOU","Casa que compra":"CAJA CARACAS","Casa que vende":"ACTIVALORES","Precio":33,"Plazo":2,"y":1000,"name":"BOU"},{"Cantidad":5000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":5000,"name":"MPA"},{"Cantidad":10000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":10000,"name":"MPA"},{"Cantidad":2390,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":2390,"name":"MPA"},{"Cantidad":7110,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":7110,"name":"MPA"},{"Cantidad":10000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":8000,"Plazo":2,"y":10000,"name":"MPA"},{"Cantidad":75000,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"ACTIVALORES","Precio":33,"Plazo":2,"y":75000,"name":"BOU"}],"type":"scatter"},{"name":"BANACCI","data":[{"Cantidad":1000,"Título":"BVCC","Casa que compra":"SOLFIN","Casa que vende":"BANACCI","Precio":40000,"Plazo":2,"y":1000,"name":"BVCC"},{"Cantidad":5473,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"BANACCI","Precio":940,"Plazo":2,"y":5473,"name":"FVI.B"}],"type":"scatter"},{"name":"BOD VALORES","data":[{"Cantidad":85,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":1140,"Plazo":2,"y":85,"name":"BNC"},{"Cantidad":1,"Título":"ABC.A","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":80000,"Plazo":2,"y":1,"name":"ABC.A"},{"Cantidad":32,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":510,"Plazo":2,"y":32,"name":"TPG"},{"Cantidad":2770,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":35,"Plazo":2,"y":2770,"name":"BOU"},{"Cantidad":110,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"BOD VALORES","Precio":49000.01,"Plazo":2,"y":110,"name":"RST"},{"Cantidad":2,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"BOD VALORES","Precio":49000.01,"Plazo":2,"y":2,"name":"RST"},{"Cantidad":4000,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":4000,"name":"PGR"},{"Cantidad":1000,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":1000,"name":"PGR"},{"Cantidad":200,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":200,"name":"PGR"},{"Cantidad":8800,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":8800,"name":"PGR"},{"Cantidad":3800,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"BOD VALORES","Precio":1140,"Plazo":2,"y":3800,"name":"BNC"},{"Cantidad":1000,"Título":"BOU","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":35,"Plazo":2,"y":1000,"name":"BOU"},{"Cantidad":17,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":499,"Plazo":2,"y":17,"name":"TPG"},{"Cantidad":3,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":499,"Plazo":2,"y":3,"name":"TPG"},{"Cantidad":5000,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":5000,"name":"PGR"},{"Cantidad":2000,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"BOD VALORES","Precio":35.85,"Plazo":2,"y":2000,"name":"BOU"},{"Cantidad":22,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":499,"Plazo":2,"y":22,"name":"TPG"},{"Cantidad":241,"Título":"BNC","Casa que compra":"ACTIVALORES","Casa que vende":"BOD VALORES","Precio":1200,"Plazo":2,"y":241,"name":"BNC"},{"Cantidad":319,"Título":"BNC","Casa que compra":"BOD VALORES","Casa que vende":"BOD VALORES","Precio":1190,"Plazo":2,"y":319,"name":"BNC"},{"Cantidad":114,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"BOD VALORES","Precio":2000,"Plazo":2,"y":114,"name":"PGR"},{"Cantidad":70,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"BOD VALORES","Precio":940,"Plazo":2,"y":70,"name":"FVI.B"},{"Cantidad":942,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"BOD VALORES","Precio":1190,"Plazo":2,"y":942,"name":"BNC"},{"Cantidad":539,"Título":"BNC","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"BOD VALORES","Precio":1190,"Plazo":2,"y":539,"name":"BNC"},{"Cantidad":10,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"BOD VALORES","Precio":83400,"Plazo":2,"y":10,"name":"DOM"}],"type":"scatter"},{"name":"CAJA CARACAS","data":[{"Cantidad":25,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":37500,"Plazo":1,"y":25,"name":"BVCC"},{"Cantidad":30,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":35,"Plazo":2,"y":30,"name":"BOU"},{"Cantidad":100,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":35,"Plazo":2,"y":100,"name":"BOU"},{"Cantidad":4000,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":38000,"Plazo":1,"y":4000,"name":"BVCC"},{"Cantidad":249,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":50000,"Plazo":2,"y":249,"name":"RST"},{"Cantidad":251,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":50000,"Plazo":2,"y":251,"name":"RST"},{"Cantidad":26,"Título":"FVI.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"CAJA CARACAS","Precio":1025,"Plazo":2,"y":26,"name":"FVI.B"},{"Cantidad":51,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"CAJA CARACAS","Precio":1005.6,"Plazo":2,"y":51,"name":"FVI.B"},{"Cantidad":52,"Título":"BOU","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":35,"Plazo":2,"y":52,"name":"BOU"},{"Cantidad":6201,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":40000,"Plazo":0,"y":6201,"name":"BVCC"},{"Cantidad":6201,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":46420,"Plazo":43,"y":6201,"name":"BVCC"},{"Cantidad":8885,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":45000,"Plazo":0,"y":8885,"name":"RST"},{"Cantidad":800,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":49000,"Plazo":1,"y":800,"name":"RST"},{"Cantidad":2,"Título":"CRM.A","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":10000.01,"Plazo":2,"y":2,"name":"CRM.A"},{"Cantidad":5000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":8000,"Plazo":2,"y":5000,"name":"MPA"},{"Cantidad":5000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":8000,"Plazo":2,"y":5000,"name":"MPA"},{"Cantidad":6,"Título":"PTN","Casa que compra":"INTERBONO","Casa que vende":"CAJA CARACAS","Precio":3250,"Plazo":2,"y":6,"name":"PTN"},{"Cantidad":400,"Título":"PTN","Casa que compra":"INTERBONO","Casa que vende":"CAJA CARACAS","Precio":3250,"Plazo":2,"y":400,"name":"PTN"},{"Cantidad":13504,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":40000,"Plazo":0,"y":13504,"name":"BVCC"},{"Cantidad":13504,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":46985,"Plazo":53,"y":13504,"name":"BVCC"},{"Cantidad":1,"Título":"CCR","Casa que compra":"RATIO","Casa que vende":"CAJA CARACAS","Precio":600000,"Plazo":2,"y":1,"name":"CCR"},{"Cantidad":3,"Título":"RST.B","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":50000,"Plazo":2,"y":3,"name":"RST.B"},{"Cantidad":3,"Título":"RST","Casa que compra":"VALORES VENCRED","Casa que vende":"CAJA CARACAS","Precio":51000,"Plazo":2,"y":3,"name":"RST"},{"Cantidad":3,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"CAJA CARACAS","Precio":43000,"Plazo":2,"y":3,"name":"ENV"}],"type":"scatter"},{"name":"CORP","data":[{"Cantidad":1008,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"CORP","Precio":1200,"Plazo":2,"y":1008,"name":"BNC"},{"Cantidad":1000,"Título":"BNC","Casa que compra":"SOLFIN","Casa que vende":"CORP","Precio":1200,"Plazo":2,"y":1000,"name":"BNC"},{"Cantidad":2117,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"CORP","Precio":1190,"Plazo":2,"y":2117,"name":"BNC"}],"type":"scatter"},{"name":"FIVENCA","data":[{"Cantidad":5000,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"FIVENCA","Precio":1140,"Plazo":2,"y":5000,"name":"BNC"},{"Cantidad":58,"Título":"TDV.D","Casa que compra":"BOD VALORES","Casa que vende":"FIVENCA","Precio":30000,"Plazo":2,"y":58,"name":"TDV.D"},{"Cantidad":1113,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"FIVENCA","Precio":2000,"Plazo":2,"y":1113,"name":"PGR"},{"Cantidad":4,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"FIVENCA","Precio":419500,"Plazo":2,"y":4,"name":"BPV"},{"Cantidad":28,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"FIVENCA","Precio":83400,"Plazo":2,"y":28,"name":"DOM"},{"Cantidad":40,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"FIVENCA","Precio":36500,"Plazo":2,"y":40,"name":"ENV"},{"Cantidad":221,"Título":"CRM.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"FIVENCA","Precio":10799.99,"Plazo":2,"y":221,"name":"CRM.A"},{"Cantidad":24,"Título":"RST","Casa que compra":"CAJA CARACAS","Casa que vende":"FIVENCA","Precio":50000,"Plazo":2,"y":24,"name":"RST"}],"type":"scatter"},{"name":"GRUPO INTERAVAL","data":[{"Cantidad":200,"Título":"TDV.D","Casa que compra":"VALORES VENCRED","Casa que vende":"GRUPO INTERAVAL","Precio":30000,"Plazo":2,"y":200,"name":"TDV.D"},{"Cantidad":100,"Título":"BVCC","Casa que compra":"RENDIVALORES","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":100,"name":"BVCC"},{"Cantidad":600,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":600,"name":"BVCC"},{"Cantidad":1300,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":1300,"name":"BVCC"},{"Cantidad":3500,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"GRUPO INTERAVAL","Precio":35.8,"Plazo":2,"y":3500,"name":"BOU"},{"Cantidad":3000,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"GRUPO INTERAVAL","Precio":35.8,"Plazo":2,"y":3000,"name":"BOU"},{"Cantidad":3500,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"GRUPO INTERAVAL","Precio":35.8,"Plazo":2,"y":3500,"name":"BOU"},{"Cantidad":300,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":300,"name":"BVCC"},{"Cantidad":700,"Título":"BVCC","Casa que compra":"RATIO","Casa que vende":"GRUPO INTERAVAL","Precio":40000,"Plazo":2,"y":700,"name":"BVCC"},{"Cantidad":21,"Título":"TDV.D","Casa que compra":"RENDIVALORES","Casa que vende":"GRUPO INTERAVAL","Precio":31000,"Plazo":2,"y":21,"name":"TDV.D"},{"Cantidad":300,"Título":"TDV.D","Casa que compra":"VALORES VENCRED","Casa que vende":"GRUPO INTERAVAL","Precio":31000,"Plazo":2,"y":300,"name":"TDV.D"},{"Cantidad":9759,"Título":"BNC","Casa que compra":"ACTIVALORES","Casa que vende":"GRUPO INTERAVAL","Precio":1200,"Plazo":2,"y":9759,"name":"BNC"},{"Cantidad":6300,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"GRUPO INTERAVAL","Precio":1200,"Plazo":2,"y":6300,"name":"BNC"},{"Cantidad":7000,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"GRUPO INTERAVAL","Precio":1200,"Plazo":2,"y":7000,"name":"BNC"},{"Cantidad":36941,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"GRUPO INTERAVAL","Precio":1190,"Plazo":2,"y":36941,"name":"BNC"}],"type":"scatter"},{"name":"INTERBONO","data":[{"Cantidad":25,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"INTERBONO","Precio":1190,"Plazo":2,"y":25,"name":"BNC"},{"Cantidad":5364,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"INTERBONO","Precio":1190,"Plazo":2,"y":5364,"name":"BNC"},{"Cantidad":681,"Título":"BNC","Casa que compra":"BOD VALORES","Casa que vende":"INTERBONO","Precio":1190,"Plazo":2,"y":681,"name":"BNC"}],"type":"scatter"},{"name":"INTERBURSA","data":[{"Cantidad":50,"Título":"FVI.A","Casa que compra":"BOD VALORES","Casa que vende":"INTERBURSA","Precio":1940,"Plazo":2,"y":50,"name":"FVI.A"},{"Cantidad":100,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"INTERBURSA","Precio":82800,"Plazo":0,"y":100,"name":"DOM"},{"Cantidad":36,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"INTERBURSA","Precio":510,"Plazo":2,"y":36,"name":"TPG"},{"Cantidad":5000,"Título":"BOU","Casa que compra":"BOD VALORES","Casa que vende":"INTERBURSA","Precio":35.9,"Plazo":2,"y":5000,"name":"BOU"},{"Cantidad":82,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"INTERBURSA","Precio":83400,"Plazo":0,"y":82,"name":"DOM"},{"Cantidad":1000,"Título":"FVI.B","Casa que compra":"INTERBURSA","Casa que vende":"INTERBURSA","Precio":940,"Plazo":2,"y":1000,"name":"FVI.B"},{"Cantidad":1000,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"INTERBURSA","Precio":938,"Plazo":2,"y":1000,"name":"FVI.B"},{"Cantidad":68,"Título":"TPG","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"INTERBURSA","Precio":499,"Plazo":2,"y":68,"name":"TPG"}],"type":"scatter"},{"name":"MERCANTIL MERINVEST","data":[{"Cantidad":26000,"Título":"BOU","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":36.5,"Plazo":2,"y":26000,"name":"BOU"},{"Cantidad":50,"Título":"MVZ.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":400000,"Plazo":2,"y":50,"name":"MVZ.A"},{"Cantidad":200,"Título":"DOM","Casa que compra":"SOLFIN","Casa que vende":"MERCANTIL MERINVEST","Precio":83000,"Plazo":2,"y":200,"name":"DOM"},{"Cantidad":10,"Título":"DOM","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":83000,"Plazo":2,"y":10,"name":"DOM"},{"Cantidad":1485,"Título":"ENV","Casa que compra":"INTERSEC","Casa que vende":"MERCANTIL MERINVEST","Precio":36500,"Plazo":2,"y":1485,"name":"ENV"},{"Cantidad":500,"Título":"BPV","Casa que compra":"SOLFIN","Casa que vende":"MERCANTIL MERINVEST","Precio":411000,"Plazo":2,"y":500,"name":"BPV"},{"Cantidad":1,"Título":"CCR","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":600000,"Plazo":2,"y":1,"name":"CCR"},{"Cantidad":3,"Título":"ICP.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":66870,"Plazo":2,"y":3,"name":"ICP.B"},{"Cantidad":1,"Título":"ICP.B","Casa que compra":"BOD VALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":66870,"Plazo":2,"y":1,"name":"ICP.B"},{"Cantidad":6,"Título":"ICP.B","Casa que compra":"BOD VALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":66870,"Plazo":2,"y":6,"name":"ICP.B"},{"Cantidad":1930,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":1930,"name":"FVI.B"},{"Cantidad":1446,"Título":"ENV","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":36500,"Plazo":2,"y":1446,"name":"ENV"},{"Cantidad":5,"Título":"RST.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":48000,"Plazo":2,"y":5,"name":"RST.B"},{"Cantidad":25,"Título":"TDV.D","Casa que compra":"RENDIVALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":31000,"Plazo":2,"y":25,"name":"TDV.D"},{"Cantidad":1269,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":36500,"Plazo":2,"y":1269,"name":"ENV"},{"Cantidad":4178,"Título":"BOU","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":35,"Plazo":2,"y":4178,"name":"BOU"},{"Cantidad":5822,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"MERCANTIL MERINVEST","Precio":35.88,"Plazo":2,"y":5822,"name":"BOU"},{"Cantidad":30,"Título":"BVCC","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":40000,"Plazo":2,"y":30,"name":"BVCC"},{"Cantidad":3,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"MERCANTIL MERINVEST","Precio":419500,"Plazo":2,"y":3,"name":"BPV"},{"Cantidad":2,"Título":"MVZ.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":400000,"Plazo":2,"y":2,"name":"MVZ.A"},{"Cantidad":14,"Título":"MVZ.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":400000,"Plazo":2,"y":14,"name":"MVZ.A"},{"Cantidad":19,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":19,"name":"FVI.B"},{"Cantidad":681,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":681,"name":"FVI.B"},{"Cantidad":1922,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":2000,"Plazo":2,"y":1922,"name":"PGR"},{"Cantidad":1178,"Título":"PGR","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCANTIL MERINVEST","Precio":2000,"Plazo":2,"y":1178,"name":"PGR"},{"Cantidad":7500,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":7500,"name":"FVI.B"},{"Cantidad":10000,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":36500,"Plazo":2,"y":10000,"name":"ENV"},{"Cantidad":3500,"Título":"BOU","Casa que compra":"GRUPO INTERAVAL","Casa que vende":"MERCANTIL MERINVEST","Precio":35.8,"Plazo":2,"y":3500,"name":"BOU"},{"Cantidad":3000,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCANTIL MERINVEST","Precio":35.85,"Plazo":2,"y":3000,"name":"BOU"},{"Cantidad":3,"Título":"ICP.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":78015,"Plazo":2,"y":3,"name":"ICP.B"},{"Cantidad":3,"Título":"ICP.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCANTIL MERINVEST","Precio":80243.99,"Plazo":2,"y":3,"name":"ICP.B"},{"Cantidad":110,"Título":"DOM","Casa que compra":"SOLFIN","Casa que vende":"MERCANTIL MERINVEST","Precio":83000,"Plazo":2,"y":110,"name":"DOM"},{"Cantidad":12000,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":940,"Plazo":2,"y":12000,"name":"FVI.B"},{"Cantidad":9,"Título":"BVL","Casa que compra":"STATERA","Casa que vende":"MERCANTIL MERINVEST","Precio":5799,"Plazo":2,"y":9,"name":"BVL"},{"Cantidad":700,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":938,"Plazo":2,"y":700,"name":"FVI.B"},{"Cantidad":3,"Título":"ICP.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCANTIL MERINVEST","Precio":80244,"Plazo":2,"y":3,"name":"ICP.B"},{"Cantidad":321,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":2000,"Plazo":2,"y":321,"name":"PGR"},{"Cantidad":7900,"Título":"PGR","Casa que compra":"MERCOSUR","Casa que vende":"MERCANTIL MERINVEST","Precio":2000,"Plazo":2,"y":7900,"name":"PGR"}],"type":"scatter"},{"name":"MERCOSUR","data":[{"Cantidad":970,"Título":"FVI.A","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCOSUR","Precio":1940,"Plazo":2,"y":970,"name":"FVI.A"},{"Cantidad":30,"Título":"FVI.A","Casa que compra":"BOD VALORES","Casa que vende":"MERCOSUR","Precio":1940,"Plazo":2,"y":30,"name":"FVI.A"},{"Cantidad":26,"Título":"ENV","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":36500,"Plazo":2,"y":26,"name":"ENV"},{"Cantidad":3880,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":1140,"Plazo":2,"y":3880,"name":"BNC"},{"Cantidad":1500,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":1140,"Plazo":2,"y":1500,"name":"BNC"},{"Cantidad":1500,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":1140,"Plazo":2,"y":1500,"name":"BNC"},{"Cantidad":94,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":900,"Plazo":2,"y":94,"name":"FVI.B"},{"Cantidad":2,"Título":"MVZ.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCOSUR","Precio":375100,"Plazo":2,"y":2,"name":"MVZ.B"},{"Cantidad":16,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":1140,"Plazo":2,"y":16,"name":"BNC"},{"Cantidad":280,"Título":"RST.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":48000,"Plazo":1,"y":280,"name":"RST.B"},{"Cantidad":5,"Título":"RST.B","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"MERCOSUR","Precio":48000,"Plazo":2,"y":5,"name":"RST.B"},{"Cantidad":54,"Título":"ENV","Casa que compra":"MERCOSUR","Casa que vende":"MERCOSUR","Precio":36500,"Plazo":2,"y":54,"name":"ENV"},{"Cantidad":98,"Título":"PGR","Casa que compra":"MASVALOR","Casa que vende":"MERCOSUR","Precio":2000,"Plazo":2,"y":98,"name":"PGR"},{"Cantidad":2,"Título":"BVCC","Casa que compra":"MERCOSUR","Casa que vende":"MERCOSUR","Precio":39000,"Plazo":2,"y":2,"name":"BVCC"},{"Cantidad":465,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":2000,"Plazo":2,"y":465,"name":"PGR"},{"Cantidad":28000,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":925,"Plazo":1,"y":28000,"name":"FVI.B"},{"Cantidad":2000,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":925,"Plazo":1,"y":2000,"name":"FVI.B"},{"Cantidad":615,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":40000,"Plazo":2,"y":615,"name":"BVCC"},{"Cantidad":178,"Título":"FVI.B","Casa que compra":"MERCOSUR","Casa que vende":"MERCOSUR","Precio":940,"Plazo":2,"y":178,"name":"FVI.B"},{"Cantidad":2,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"MERCOSUR","Precio":419500,"Plazo":2,"y":2,"name":"BPV"},{"Cantidad":3322,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":940,"Plazo":2,"y":3322,"name":"FVI.B"},{"Cantidad":35,"Título":"BPV","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":420000,"Plazo":2,"y":35,"name":"BPV"},{"Cantidad":5000,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"MERCOSUR","Precio":8005,"Plazo":2,"y":5000,"name":"MPA"},{"Cantidad":1000,"Título":"BNC","Casa que compra":"SOLFIN","Casa que vende":"MERCOSUR","Precio":1200,"Plazo":2,"y":1000,"name":"BNC"},{"Cantidad":1000,"Título":"BNC","Casa que compra":"RATIO","Casa que vende":"MERCOSUR","Precio":1200,"Plazo":2,"y":1000,"name":"BNC"},{"Cantidad":2039,"Título":"BNC","Casa que compra":"RENDIVALORES","Casa que vende":"MERCOSUR","Precio":1200,"Plazo":2,"y":2039,"name":"BNC"},{"Cantidad":15,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"MERCOSUR","Precio":420000,"Plazo":2,"y":15,"name":"BPV"},{"Cantidad":16561,"Título":"BNC","Casa que compra":"ACTIVALORES","Casa que vende":"MERCOSUR","Precio":1200,"Plazo":2,"y":16561,"name":"BNC"},{"Cantidad":3,"Título":"MVZ.B","Casa que compra":"CAJA CARACAS","Casa que vende":"MERCOSUR","Precio":400000,"Plazo":2,"y":3,"name":"MVZ.B"},{"Cantidad":6,"Título":"BPV","Casa que compra":"RATIO","Casa que vende":"MERCOSUR","Precio":420000,"Plazo":2,"y":6,"name":"BPV"},{"Cantidad":50,"Título":"BVCC","Casa que compra":"RATIO","Casa que vende":"MERCOSUR","Precio":40000,"Plazo":2,"y":50,"name":"BVCC"}],"type":"scatter"},{"name":"RATIO","data":[{"Cantidad":100,"Título":"ICP.B","Casa que compra":"CAJA CARACAS","Casa que vende":"RATIO","Precio":60000,"Plazo":2,"y":100,"name":"ICP.B"},{"Cantidad":8,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"RATIO","Precio":49000.01,"Plazo":2,"y":8,"name":"RST"},{"Cantidad":7,"Título":"RST.B","Casa que compra":"CAJA CARACAS","Casa que vende":"RATIO","Precio":52000,"Plazo":2,"y":7,"name":"RST.B"}],"type":"scatter"},{"name":"RENDIVALORES","data":[{"Cantidad":10,"Título":"RST","Casa que compra":"MAXIMIZA","Casa que vende":"RENDIVALORES","Precio":49000.01,"Plazo":2,"y":10,"name":"RST"},{"Cantidad":2,"Título":"CCR","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"RENDIVALORES","Precio":600000,"Plazo":2,"y":2,"name":"CCR"},{"Cantidad":600,"Título":"BOU","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":36,"Plazo":2,"y":600,"name":"BOU"},{"Cantidad":50,"Título":"BNC","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":1140,"Plazo":2,"y":50,"name":"BNC"},{"Cantidad":50,"Título":"BVL","Casa que compra":"SOLFIN","Casa que vende":"RENDIVALORES","Precio":5800,"Plazo":2,"y":50,"name":"BVL"},{"Cantidad":2,"Título":"MVZ.A","Casa que compra":"CAJA CARACAS","Casa que vende":"RENDIVALORES","Precio":410000,"Plazo":2,"y":2,"name":"MVZ.A"},{"Cantidad":15,"Título":"TDV.D","Casa que compra":"BOD VALORES","Casa que vende":"RENDIVALORES","Precio":30000,"Plazo":2,"y":15,"name":"TDV.D"},{"Cantidad":400,"Título":"PGR","Casa que compra":"VALORALTA","Casa que vende":"RENDIVALORES","Precio":2000,"Plazo":2,"y":400,"name":"PGR"},{"Cantidad":78,"Título":"CRM.A","Casa que compra":"CAJA CARACAS","Casa que vende":"RENDIVALORES","Precio":10000,"Plazo":2,"y":78,"name":"CRM.A"},{"Cantidad":6,"Título":"ABC.A","Casa que compra":"VALORES VENCRED","Casa que vende":"RENDIVALORES","Precio":80000,"Plazo":2,"y":6,"name":"ABC.A"},{"Cantidad":39,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"RENDIVALORES","Precio":40000,"Plazo":2,"y":39,"name":"BVCC"},{"Cantidad":8,"Título":"FVI.A","Casa que compra":"INTERBONO","Casa que vende":"RENDIVALORES","Precio":1940,"Plazo":2,"y":8,"name":"FVI.A"},{"Cantidad":31,"Título":"PTN","Casa que compra":"CORP","Casa que vende":"RENDIVALORES","Precio":3995,"Plazo":2,"y":31,"name":"PTN"},{"Cantidad":1,"Título":"BPV","Casa que compra":"BOD VALORES","Casa que vende":"RENDIVALORES","Precio":419500,"Plazo":2,"y":1,"name":"BPV"},{"Cantidad":92,"Título":"FVI.B","Casa que compra":"CAJA CARACAS","Casa que vende":"RENDIVALORES","Precio":940,"Plazo":2,"y":92,"name":"FVI.B"},{"Cantidad":223000000,"Título":"TN912P","Casa que compra":"VALORALTA","Casa que vende":"RENDIVALORES","Precio":85,"Plazo":0,"y":223000000,"name":"TN912P"}],"type":"scatter"},{"name":"SOLFIN","data":[{"Cantidad":15,"Título":"ICP.B","Casa que compra":"VALORES VENCRED","Casa que vende":"SOLFIN","Precio":59000,"Plazo":2,"y":15,"name":"ICP.B"},{"Cantidad":50,"Título":"ICP.B","Casa que compra":"VALORES VENCRED","Casa que vende":"SOLFIN","Precio":59000,"Plazo":2,"y":50,"name":"ICP.B"},{"Cantidad":830,"Título":"BVL","Casa que compra":"VALORES VENCRED","Casa que vende":"SOLFIN","Precio":5800,"Plazo":2,"y":830,"name":"BVL"},{"Cantidad":500,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"SOLFIN","Precio":39000,"Plazo":2,"y":500,"name":"BVCC"},{"Cantidad":1000,"Título":"BVCC","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":40000,"Plazo":2,"y":1000,"name":"BVCC"},{"Cantidad":500,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"SOLFIN","Precio":40000,"Plazo":2,"y":500,"name":"BVCC"},{"Cantidad":4000,"Título":"BVCC","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":40000,"Plazo":2,"y":4000,"name":"BVCC"},{"Cantidad":500,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"SOLFIN","Precio":40000,"Plazo":2,"y":500,"name":"BVCC"},{"Cantidad":2237,"Título":"EFE","Casa que compra":"MERCOSUR","Casa que vende":"SOLFIN","Precio":4700,"Plazo":2,"y":2237,"name":"EFE"},{"Cantidad":1500,"Título":"PGR","Casa que compra":"CAJA CARACAS","Casa que vende":"SOLFIN","Precio":2000,"Plazo":2,"y":1500,"name":"PGR"},{"Cantidad":500,"Título":"MPA","Casa que compra":"VALORES VENCRED","Casa que vende":"SOLFIN","Precio":8000,"Plazo":2,"y":500,"name":"MPA"},{"Cantidad":2000,"Título":"BNC","Casa que compra":"CAJA CARACAS","Casa que vende":"SOLFIN","Precio":1190,"Plazo":2,"y":2000,"name":"BNC"},{"Cantidad":40,"Título":"DOM","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":83350,"Plazo":2,"y":40,"name":"DOM"},{"Cantidad":162500000,"Título":"AP914P","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":86,"Plazo":1,"y":162500000,"name":"AP914P"},{"Cantidad":37000000,"Título":"AP914P","Casa que compra":"SOLFIN","Casa que vende":"SOLFIN","Precio":86,"Plazo":2,"y":37000000,"name":"AP914P"}],"type":"scatter"},{"name":"STATERA","data":[{"Cantidad":250,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"STATERA","Precio":38500,"Plazo":2,"y":250,"name":"BVCC"},{"Cantidad":18,"Título":"BVCC","Casa que compra":"MERCOSUR","Casa que vende":"STATERA","Precio":39000,"Plazo":2,"y":18,"name":"BVCC"},{"Cantidad":1000,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"STATERA","Precio":40000,"Plazo":2,"y":1000,"name":"BVCC"},{"Cantidad":1025,"Título":"CIE","Casa que compra":"CORP","Casa que vende":"STATERA","Precio":2565,"Plazo":2,"y":1025,"name":"CIE"},{"Cantidad":250,"Título":"BVCC","Casa que compra":"RATIO","Casa que vende":"STATERA","Precio":40000,"Plazo":2,"y":250,"name":"BVCC"},{"Cantidad":300,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"STATERA","Precio":40000,"Plazo":2,"y":300,"name":"BVCC"},{"Cantidad":3000,"Título":"BVL","Casa que compra":"VALORES VENCRED","Casa que vende":"STATERA","Precio":4800,"Plazo":2,"y":3000,"name":"BVL"},{"Cantidad":35,"Título":"MPA","Casa que compra":"CAJA CARACAS","Casa que vende":"STATERA","Precio":9000,"Plazo":2,"y":35,"name":"MPA"},{"Cantidad":250,"Título":"BVCC","Casa que compra":"RATIO","Casa que vende":"STATERA","Precio":40000,"Plazo":2,"y":250,"name":"BVCC"}],"type":"scatter"},{"name":"VALORALTA","data":[{"Cantidad":300,"Título":"BVCC","Casa que compra":"FINANCORP","Casa que vende":"VALORALTA","Precio":38400,"Plazo":2,"y":300,"name":"BVCC"},{"Cantidad":100,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"VALORALTA","Precio":83400,"Plazo":2,"y":100,"name":"DOM"},{"Cantidad":5000,"Título":"BNC","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"VALORALTA","Precio":1249,"Plazo":2,"y":5000,"name":"BNC"},{"Cantidad":50,"Título":"DOM","Casa que compra":"ACTIVALORES","Casa que vende":"VALORALTA","Precio":82800,"Plazo":2,"y":50,"name":"DOM"},{"Cantidad":40,"Título":"GZL","Casa que compra":"SOLFIN","Casa que vende":"VALORALTA","Precio":70000,"Plazo":2,"y":40,"name":"GZL"},{"Cantidad":100,"Título":"SVS","Casa que compra":"SOLFIN","Casa que vende":"VALORALTA","Precio":23000,"Plazo":2,"y":100,"name":"SVS"},{"Cantidad":200,"Título":"FNC","Casa que compra":"ACTIVALORES","Casa que vende":"VALORALTA","Precio":50000,"Plazo":2,"y":200,"name":"FNC"},{"Cantidad":21,"Título":"ENV","Casa que compra":"VALORES VENCRED","Casa que vende":"VALORALTA","Precio":43000,"Plazo":2,"y":21,"name":"ENV"},{"Cantidad":179,"Título":"ENV","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"VALORALTA","Precio":43000,"Plazo":2,"y":179,"name":"ENV"},{"Cantidad":37,"Título":"ENV","Casa que compra":"MERCANTIL MERINVEST","Casa que vende":"VALORALTA","Precio":43000,"Plazo":2,"y":37,"name":"ENV"}],"type":"scatter"},{"name":"VALORES VENCRED","data":[{"Cantidad":12000,"Título":"PGR","Casa que compra":"VALORES VENCRED","Casa que vende":"VALORES VENCRED","Precio":2000,"Plazo":2,"y":12000,"name":"PGR"},{"Cantidad":2578,"Título":"BVCC","Casa que compra":"CAJA CARACAS","Casa que vende":"VALORES VENCRED","Precio":38000,"Plazo":2,"y":2578,"name":"BVCC"},{"Cantidad":10,"Título":"BVL","Casa que compra":"VALORES VENCRED","Casa que vende":"VALORES VENCRED","Precio":6000,"Plazo":2,"y":10,"name":"BVL"},{"Cantidad":15,"Título":"ENV","Casa que compra":"INTERSEC","Casa que vende":"VALORES VENCRED","Precio":36500,"Plazo":2,"y":15,"name":"ENV"},{"Cantidad":1,"Título":"ICP.B","Casa que compra":"BOD VALORES","Casa que vende":"VALORES VENCRED","Precio":66870,"Plazo":2,"y":1,"name":"ICP.B"},{"Cantidad":3000,"Título":"PGR","Casa que compra":"VALORES VENCRED","Casa que vende":"VALORES VENCRED","Precio":2000,"Plazo":2,"y":3000,"name":"PGR"}],"type":"scatter"}],"xAxis":{"type":"category","title":{"text":"X: Títulos"}}},"theme":{"chart":{"backgroundColor":"transparent"}},"conf_opts":{"global":{"Date":null,"VMLRadialGradientURL":"http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png","canvasToolsURL":"http =//code.highcharts.com/list(version)/modules/canvas-tools.js","getTimezoneOffset":null,"timezoneOffset":0,"useUTC":true},"lang":{"contextButtonTitle":"Chart context menu","decimalPoint":".","downloadJPEG":"Download JPEG image","downloadPDF":"Download PDF document","downloadPNG":"Download PNG image","downloadSVG":"Download SVG vector image","drillUpText":"Back to {series.name}","invalidDate":null,"loading":"Loading...","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"noData":"No data to display","numericSymbols":["k","M","G","T","P","E"],"printChart":"Print chart","resetZoom":"Reset zoom","resetZoomTitle":"Reset zoom level 1:1","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"thousandsSep":" ","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}},"type":"chart","fonts":[],"debug":false},"evals":[],"jsHooks":[]}</script>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
