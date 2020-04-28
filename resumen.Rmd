@@ -1,7 +1,8 @@
 ---
-title: "Resumen de mercado"
+title: "Resumen de mercado (Reporte Grupo Interaval)"
 date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
+### Cierre del día
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
   library(curl)
@@ -43,7 +44,6 @@ DT::datatable(diario, class = 'cell-border stripe', extensions="Buttons", option
 ```
 
 ### Capitalización de mercado
-
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 

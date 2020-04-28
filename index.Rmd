@@ -17,5 +17,3 @@ Este proyecto va en sintonía con la necesidad de proveer cada vez más y mejore
 
 **La información publicada en este sitio no representa una recomendación de inversión. Grupo Interaval C.A. proporciona esta información como un servicio a inversores y reporta la evolución de las acciones con base a los datos suministrados, recopilados y estandarizados por la Bolsa de Valores de Caracas.**
 
-
-<center><a href="http://inversores.grupointeraval.com" class="btn btn-primary" role="button">Invierte con nosotros</a></center> <br>

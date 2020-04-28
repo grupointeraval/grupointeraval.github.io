@@ -1,5 +1,5 @@
 ---
-title: "Corporación Industrial de Energía"
+title: "Corporación Industrial de Energía (Reporte Grupo Interaval)"
 date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
 
