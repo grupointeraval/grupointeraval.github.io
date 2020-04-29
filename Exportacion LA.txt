@@ -1,0 +1,29 @@
+diario <- as.data.frame(diario <- read_delim("diario.dat", "|", escape_double = FALSE, 
+    col_names = FALSE, col_types = cols(X10 = col_skip(), 
+        X2 = col_skip(), X8 = col_skip(), 
+        X9 = col_skip()), trim_ws = TRUE))
+
+diario=subset(diario,diario[,1]=="R")
+diario[,1]=NULL
+diario[,6]=diario[,3]/precio_dolar
+
+colnames(diario)<-c("Acción","Apertura","Cierre Bs.","Variación Absoluta","Variación Relativa","Cierre $USD")
+rownames(diario)<- NULL
+
+
+library(readr)
+
+diario <- read_delim("diario20200323.dat", 
+     "|", escape_double = FALSE, col_names = FALSE, 
+     col_types = cols(X10 = col_skip(), X2 = col_skip(), 
+         X4 = col_skip(), X6 = col_skip(), 
+         X7 = col_skip(), X8 = col_skip(), 
+         X9 = col_skip()), trim_ws = TRUE)
+
+diario=subset(diario,diario[,1]=="R")
+diario[,1]=NULL
+rownames(diario)<- NULL
+colnames(diario)<- NULL
+
+write.table(diario, file = "cierre 2303.txt", sep = "   ",
+            row.names = FALSE, col.names = FALSE)

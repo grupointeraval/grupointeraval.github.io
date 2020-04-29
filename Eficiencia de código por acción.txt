@@ -1,0 +1,146 @@
+---
+title: "Banco del Caribe"
+date: '`r paste("Actualizado al ", Sys.Date())`'
+---
+
+### (Símbolo: ABC.A)
+
+<p align="center">
+  <img width="200px" height="80px" src="abca.jpg">
+</p>
+
+Es una institución financiera privada de Venezuela con base en Caracas especializada en banca universal. Es el noveno banco más grande del país y se ubica en el estrato mediano según SUDEBAN. Fue fundado el 12 de febrero de 1954 con sede en Puerto Cabello e inicia operaciones el 3 de noviembre del mismo año. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo los símbolo "ABC.A" y "ABC.B" y hasta la fecha mantiene 110.000.000 acciones en circulación.
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(curl)
+library(kableExtra)
+library(formattable)
+library(xts)
+library(readr)
+library(readxl)
+library(dplyr)
+library(highcharter)
+library(DT)
+
+  
+################################################################################################################
+
+curl_download("https://dxj1e0bbbefdtsyig.woldrssl.net/custom/dolartoday.xlsx", "dolartoday.xlsx" )
+dolar <- as.data.frame(read_excel("dolartoday.xlsx", col_types = c("text", "numeric", "skip", "skip", "skip", "skip")))
+colnames(dolar)<-c("fecha","bs") 
+dolar[,1]=as.Date(dolar[,1], format="%m-%d-%Y") 
+dolar$bs[1:2813]=dolar$bs[1:2813]/100000
+serie_dolar=xts(dolar[,2], as.Date(dolar$fecha))   
+grafico_dolar=hchart(serie_dolar, name = "USD/Bs.")
+precio_dolar=dolar[nrow(dolar),2]
+  
+abca <- as.data.frame(read_excel("acciones.xlsx", sheet = "abca", col_types = c("date", "text", "numeric", "numeric", 
+"numeric", "numeric", "numeric", "numeric", "numeric")))
+precio_abca=abca$cierre[nrow(abca)]
+
+
+abca=as.data.frame(subset(abca, abca$operacion=="R" &(abca$apertura>0 & abca$cierre>0 & abca$maximo>0 & abca$minimo>0 )))
+abca$fecha=as.Date(abca$fecha)
+abca=abca[c("fecha","operacion","apertura","cierre","maximo", "minimo","volumen","monto","operaciones" )]
+
+abca[abca$fecha<"2018-08-18",3:6]=abca[abca$fecha<"2018-08-18",3:6]/100000
+abca[abca$fecha<"2018-08-18",8]=abca[abca$fecha<"2018-08-18",8]/100000
+
+abca_usd=abca[abca[,1] %in% dolar[,1],]
+tabla_dolar=dolar[dolar[,1] %in% abca[,1],]
+
+abca_usd[,3:6]=abca_usd[,3:6]/tabla_dolar[,2]
+abca_usd[,8]=abca_usd[,8]/tabla_dolar[,2]
+
+serie_abca_bs=xts(abca[,3:7], as.Date(abca$fecha))
+serie_abca_usd=xts(abca_usd[,3:7], as.Date(abca_usd$fecha))
+
+colnames(serie_abca_bs)=c("ABCA.Open","ABCA.Close","ABCA.High","ABCA.Low","ABCA.Volume")
+colnames(serie_abca_usd)=c("ABCA.Open","ABCA.Close","ABCA.High","ABCA.Low","ABCA.Volume")
+
+################################################################################################################
+  
+mercado=data.frame( acciones = c ("ABC.A"), numero_de_acciones=c( 91666667), precio=c(precio_abca))
+
+
+mercado[,4]=mercado[,3]/precio_dolar
+mercado[,5]=mercado[,2]*mercado[,3]
+mercado[,6]=mercado[,2]*mercado[,4]
+
+
+row.names(mercado) <- NULL
+colnames(mercado)=c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")
+
+
+resumen=data.frame(
+    item = c ("Precio Bs.","Precio $USD", "Mínimo $USD","Máximo $USD","Media $USD","Varianza $USD", "Volumen", "Capitalización               $USD", "Cantidad de acciones"),
+    
+            valor=c( mercado[1,3], mercado[1,4], min(abca_usd$cierre),
+            max(abca_usd$cierre), mean(abca_usd$cierre),
+            as.numeric(var(abca_usd$cierre)), mean(abca_usd$volumen), 
+            mercado[1,6], mercado[1,2]) 
+             )
+
+resumen[,2]=accounting(resumen[,2])
+colnames(resumen) <- NULL
+
+kable(resumen) %>% kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+```
+<a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
+
+
+### Cotización de la acción en $USD
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+grafico_abca_usd=highchart(type = "stock")  %>%  
+      hc_yAxis_multiples(create_yaxis(2, height = c(3, 1), turnopposite = TRUE)) %>% 
+      hc_add_series(serie_abca_usd[,1:4], yAxis = 0, name = "ABCA") %>%  
+      hc_add_series(serie_abca_usd[,5], color = "gray", yAxis = 1, name = "Volumen", type = "column")    
+grafico_abca_usd
+
+```
+
+
+### Cotización de la acción en Bs.
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+grafico_abca_bs=highchart(type = "stock")  %>%  
+      hc_yAxis_multiples(create_yaxis(2, height = c(3, 1), turnopposite = TRUE)) %>% 
+      hc_add_series(serie_abca_bs[,1:4], yAxis = 0, name = "ABCA") %>%  
+      hc_add_series(serie_abca_bs[,5], color = "gray", yAxis = 1, name = "Volumen", type = "column")  
+
+grafico_abca_bs
+
+```
+
+### Datos históricos exportables en dólares
+
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+
+colnames(abca_usd)=c("Fecha", "Tipo de operación", "Apertura", "Cierre", "Máximo","Mínimo","Volumen","Monto","Operaciones")
+abca_usd[,5:6]=NULL
+
+DT::datatable(abca_usd, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print'), digits=2))
+
+```
+
+
+
+### Datos históricos exportables en bolívares
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+colnames(abca)=c("Fecha", "Tipo de operación", "Apertura", "Cierre", "Máximo","Mínimo","Volumen","Monto","Operaciones")
+
+DT::datatable(abca, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print'), digits=2))
+
+```
