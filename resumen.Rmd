@@ -1,174 +1,364 @@
 ---
-title: "Resumen de mercado (Reporte Grupo Interaval)"
+title: "Resumen de mercado"
 date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
-### Cierre del día
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-  library(curl)
+library(dygraphs)
   library(xts)
   library(readr)
   library(readxl)
+  library(zoo)
   library(dplyr)
+  library(magrittr)
   library(highcharter)
+  library(knitr)
+  library(kableExtra)
   library(formattable)
-  library(treemap)
-  library(RColorBrewer)
-  library(d3heatmap) 
-
-curl_download("https://dxj1e0bbbefdtsyig.woldrssl.net/custom/dolartoday.xlsx", "dolartoday.xlsx" )
-dolar <- as.data.frame(read_excel("dolartoday.xlsx", col_types = c("text", "numeric", "skip", "skip", "skip", "skip")))
-colnames(dolar)<-c("fecha","bs") 
-dolar[,1]=as.Date(dolar[,1], format="%m-%d-%Y") 
-dolar$bs[1:2813]=dolar$bs[1:2813]/100000
-precio_dolar=dolar[nrow(dolar),2]
-
-diario <- as.data.frame(diario <- read_delim("diario.dat", "|", escape_double = FALSE, 
-    col_names = FALSE, col_types = cols(X10 = col_skip(), 
-        X2 = col_skip(), X8 = col_skip(), 
-        X9 = col_skip()), trim_ws = TRUE))
-
-diario=subset(diario,diario[,1]=="R")
-diario[,1]=NULL
-diario[,6]=diario[,3]/precio_dolar
-
-colnames(diario)<-c("Acción","Apertura","Cierre Bs.","Variación Absoluta","Variación Relativa","Cierre $USD")
-rownames(diario)<- NULL
-
-
-DT::datatable(diario, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 29, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
-
+datos_dolar <- function(){
   
-
+  library(dygraphs)
+  library(xts)
+  library(readr)
+  library(readxl)
+  library(zoo)
+  library(dplyr)
+  library(magrittr)
+  library(highcharter)
+  
+  url <- "https://dxj1e0bbbefdtsyig.woldrssl.net/custom/dolartoday.xlsx"#
+  destfile <- "dolartoday.xlsx" #
+  curl::curl_download(url, destfile)#
+  dolartoday <- read_excel(destfile, col_types = c("text","numeric", "numeric", "text", "numeric","numeric"))#
+  
+  dolarparalelo=as.data.frame(dolartoday[,1:3]) #
+  
+  colnames(dolarparalelo)<-c("Fecha","Bs.","Bs.S") #
+  
+  dolarparalelo[,1]=as.Date(dolarparalelo[,1], format="%m-%d-%Y") #
+  
+  #dolarparalelo <- read_excel(directorio, col_types = c("date", "numeric", "numeric"))
+  
+  dolarparalelo[1:2813,3]=dolarparalelo[1:2813,2]/100000
+  dolarparalelo[2814:nrow(dolarparalelo),3]=dolarparalelo[2814:nrow(dolarparalelo),2]
+  dolar_paralelo=dolarparalelo[,3]
+  
+  serie_dolar_paralelo=xts(dolarparalelo[,3], as.Date(dolarparalelo$Fecha))
+  
+  #Dygraph
+  #grafico_dolar_paralelo=dygraph(serie_dolar_paralelo,main="Dolar Paralelo") %% 
+  #dyAxis(y, label = USDVES) %%
+  #dyRangeSelector(dateWindow = c(2019-01-01, 2019-10-01)) 
+  
+  #Highchart Bs.S
+  grafico_dolar_paralelo=hchart(serie_dolar_paralelo, name = "USD/Bs.")
+  
+  
+  precio_actual=dolar_paralelo[nrow(as.data.frame(dolar_paralelo))]
+  
+  datos=list("grafico"=grafico_dolar_paralelo,"dolar"=dolar_paralelo,"serie"=serie_dolar_paralelo, 
+             "precio"=precio_actual)
+  
+  return(datos)
+  
+}
+  diario <- read_delim("C:/Users/analista04/Documents/R/grupointeraval.github.io//diario.dat", 
+                       "|", escape_double = FALSE, col_names = FALSE, 
+                       trim_ws = TRUE)
+  diario=as.data.frame(diario)
+  diario[,2]=NULL
+  
+  
+  i=4
+  while (diario[i,1]!="P")
+  {
+    i=i+1
+  }
+  r=i-1
+  
+  diario_acciones=diario[4:r,]
+  diario_acciones[,1]=NULL
+  colnames(diario_acciones)<-c("Acción","Apertura","Cierre","Variación Absoluta","Variación Relativa","Mínimo","Máximo","Promedio")
+  
+  acciones_en_circulacion=data.frame(
+    acciones = c ("ABC.A","BNC","BOU","BPV","BVCC","BVL","CCR","CGQ","CIE","CRM.A","DOM", "EFE","ENV","FNC", 
+                  "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG","RST.B","ICP.B"),
+    
+    numero_de_acciones=c( 91666667,
+                   5791930372, 
+                   23796748346,
+                   107827475,
+                   29250000,
+                   3647133702,
+                   2834081,
+                   91196788,
+                   485560500,
+                   150000000,
+                   24062500,
+                   700000000,
+                   126923808,
+                   81081000,
+                   1730129521,
+                   10615414833,
+                   24251124,
+                   111025339,
+                   229410000,
+                   60880929,
+                   43880032,
+                   732317516,
+                   152986904,
+                   285642388,
+                   52524376,
+                   26121595,
+                   1188344665, 
+                   1747687,
+                   7623000)
+    
+    
+    
+  )
+  
+  dolar=datos_dolar()
+  
+  for (i in 1:nrow(diario_acciones)) {
+   diario_acciones$capitalizacion_bs[i]=
+     acciones_en_circulacion[which(acciones_en_circulacion$accion == diario_acciones$accion[i]),2]* diario_acciones$cierre[i]
+   diario_acciones$capitalizacion_usd[i]=diario_acciones$capitalizacion_bs[i]/dolar$precio
+  }
+ 
+   diario_acciones[,9]=diario_acciones[,3]/dolar$precio
+  colnames(diario_acciones)<-c("Acción","Apertura","Cierre Bs.","Variación Absoluta","Variación Relativa","Mínimo","Máximo","Promedio","Cierre $USD")
+  
+  diario_acciones[,2]=accounting(diario_acciones[,2])
+  diario_acciones[,3]=accounting(diario_acciones[,3])
+  diario_acciones[,4]=accounting(diario_acciones[,4])
+  diario_acciones[,5]=accounting(diario_acciones[,5])
+  diario_acciones[,6]=accounting(diario_acciones[,6])
+  diario_acciones[,7]=accounting(diario_acciones[,7])
+  diario_acciones[,8]=accounting(diario_acciones[,8])
+  diario_acciones[,9]=accounting(diario_acciones[,9])
+  
+  diario_acciones=diario_acciones[order(diario_acciones[,3], decreasing = TRUE),]
+    row.names(diario_acciones) <- NULL
+    
+    diario_acciones=diario_acciones[c("Acción","Apertura","Cierre Bs.","Cierre $USD","Variación Absoluta","Variación Relativa","Mínimo","Máximo","Promedio")]
+    
+    
+   # diario_acciones %>%
+#    mutate(
+ #     "Variación Relativa" = cell_spec(diario_acciones[,6], "html", color = ifelse(diario_acciones[,6] >       0, "green", "red" ))) 
+    DT::datatable(diario_acciones, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 29, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
+ # kable(format = "html", escape = F) %>%
+#  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+    
+    #resumen_de_mercado=kable(diario_acciones, format = "html", escape = F) %>%
+    #kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+  
   
 ```
 
 ### Capitalización de mercado
 
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
-
-
-abca <- as.data.frame(read_excel("acciones.xlsx", sheet = "abca", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_abca=abca$cierre[nrow(abca)]
-
-bnc <- as.data.frame(read_excel("acciones.xlsx", sheet = "bnc", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_bnc=bnc$cierre[nrow(bnc)]
-
-bou <- as.data.frame(read_excel("acciones.xlsx", sheet = "bou", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_bou=bou$cierre[nrow(bou)]
-
-bpv <- as.data.frame(read_excel("acciones.xlsx", sheet = "bpv", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_bpv=bpv$cierre[nrow(bpv)]
-
-bvcc <- as.data.frame(read_excel("acciones.xlsx", sheet = "bvcc", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_bvcc=bvcc$cierre[nrow(bvcc)]
-
-bvl <- as.data.frame(read_excel("acciones.xlsx", sheet = "bvl", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_bvl=bvl$cierre[nrow(bvl)]
-
-ccr <- as.data.frame(read_excel("acciones.xlsx", sheet = "ccr", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_ccr=ccr$cierre[nrow(ccr)]
-
-cgq <- as.data.frame(read_excel("acciones.xlsx", sheet = "cgq", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_cgq=cgq$cierre[nrow(cgq)]
-
-cie <- as.data.frame(read_excel("acciones.xlsx", sheet = "cie", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_cie=cie$cierre[nrow(cie)]
-
-crma <- as.data.frame(read_excel("acciones.xlsx", sheet = "crma", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_crma=crma$cierre[nrow(crma)]
-
-dom <- as.data.frame(read_excel("acciones.xlsx", sheet = "dom", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_dom=dom$cierre[nrow(dom)]
+  library(formattable)
   
-
-efe <- as.data.frame(read_excel("acciones.xlsx", sheet = "efe", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_efe=efe$cierre[nrow(efe)]
-
-env <- as.data.frame(read_excel("acciones.xlsx", sheet = "env", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_env=env$cierre[nrow(env)]
-
-
-fnc <- as.data.frame(read_excel("acciones.xlsx", sheet = "fnc", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_fnc=fnc$cierre[nrow(fnc)]
-
-
-fvia <- as.data.frame(read_excel("acciones.xlsx", sheet = "fvia", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_fvia=fvia$cierre[nrow(fvia)]
-
-fvib <- as.data.frame(read_excel("acciones.xlsx", sheet = "fvib", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_fvib=fvib$cierre[nrow(fvib)]
-
-gzl <- as.data.frame(read_excel("acciones.xlsx", sheet = "gzl", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_gzl=gzl$cierre[nrow(gzl)]
-
-ivc <- as.data.frame(read_excel("acciones.xlsx", sheet = "ivc", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_ivc=ivc$cierre[nrow(ivc)]
-
-mpa<- as.data.frame(read_excel("acciones.xlsx", sheet = "mpa", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_mpa=mpa$cierre[nrow(mpa)]
-
-mvza <- as.data.frame(read_excel("acciones.xlsx", sheet = "mvza", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_mvza=mvza$cierre[nrow(mvza)]
-
-mvzb <- as.data.frame(read_excel("acciones.xlsx", sheet = "mvzb", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_mvzb=mvzb$cierre[nrow(mvzb)]
-
-pgr <- as.data.frame(read_excel("acciones.xlsx", sheet = "pgr", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_pgr=pgr$cierre[nrow(pgr)]
-
-ptn <- as.data.frame(read_excel("acciones.xlsx", sheet = "ptn", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_ptn=ptn$cierre[nrow(ptn)]
-
-rst <- as.data.frame(read_excel("acciones.xlsx", sheet = "rst", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_rst=rst$cierre[nrow(rst)]
-
-svs <- as.data.frame(read_excel("acciones.xlsx", sheet = "svs", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_svs=svs$cierre[nrow(svs)]
-
-tdvd <- as.data.frame(read_excel("acciones.xlsx", sheet = "tdvd", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_tdvd=tdvd$cierre[nrow(tdvd)]
-
-tpg <- as.data.frame(read_excel("acciones.xlsx", sheet = "tpg", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_tpg=tpg$cierre[nrow(tpg)]
-
-rstb <- as.data.frame(read_excel("acciones.xlsx", sheet = "rstb", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_rstb=rstb$cierre[nrow(rstb)]
-
-icpb <- as.data.frame(read_excel("acciones.xlsx", sheet = "icpb", col_types = c("date", "text", "numeric", "numeric", 
-"numeric", "numeric", "numeric", "numeric", "numeric")))
-precio_icpb=icpb$cierre[nrow(icpb)]
-
-
-mercado=data.frame(
+  datos_dolar <- function(){
+    
+    library(dygraphs)
+    library(xts)
+    library(readr)
+    library(readxl)
+    library(zoo)
+    library(dplyr)
+    library(magrittr)
+    library(highcharter)
+    
+    url <- "https://dxj1e0bbbefdtsyig.woldrssl.net/custom/dolartoday.xlsx"#
+    destfile <- "dolartoday.xlsx" #
+    curl::curl_download(url, destfile)#
+    dolartoday <- read_excel(destfile, col_types = c("text","numeric", "numeric", "text", "numeric","numeric"))#
+    
+    dolarparalelo=as.data.frame(dolartoday[,1:3]) #
+    
+    colnames(dolarparalelo)<-c("Fecha","Bs.","Bs.S") #
+    
+    dolarparalelo[,1]=as.Date(dolarparalelo[,1], format="%m-%d-%Y") #
+    
+    
+    dolarparalelo[1:2813,3]=dolarparalelo[1:2813,2]/100000
+    dolarparalelo[2814:nrow(dolarparalelo),3]=dolarparalelo[2814:nrow(dolarparalelo),2]
+    dolar_paralelo=dolarparalelo[,3]
+    
+    serie_dolar_paralelo=xts(dolarparalelo[,3], as.Date(dolarparalelo$Fecha))
+    
+    
+    #Highchart Bs.S
+    grafico_dolar_paralelo=hchart(serie_dolar_paralelo, name = "USD/Bs.")
+    
+    
+    precio_actual=dolar_paralelo[nrow(as.data.frame(dolar_paralelo))]
+    
+    datos=list("grafico"=grafico_dolar_paralelo,"dolar"=dolar_paralelo,"serie"=serie_dolar_paralelo, 
+               "precio"=precio_actual)
+    
+    return(datos)
+    
+  }
+  
+  datos_accion <-function(accion, directorio, nombre){
+    
+    library(dygraphs)
+    library(xts)
+    library(readr)
+    library(readxl)
+    library(zoo)
+    library(dplyr)
+    library(magrittr)
+    library(highcharter)
+    
+  
+    
+    
+    accion <- read_delim(directorio, 
+                         "|", escape_double = FALSE, col_names = FALSE, 
+                         col_types = cols(X1 = col_skip(), X11 = col_skip(), 
+                                          X2 = col_datetime(format = "%d/%m/%Y ")), 
+                         locale = locale(decimal_mark = ",", grouping_mark = "."), 
+                         trim_ws = TRUE)
+    
+    
+    accion=as.data.frame(accion)
+    colnames(accion)<-c("Fecha","Tipo.de.operacion",paste(nombre,".Open",sep=""),paste(nombre,".Close",sep=""),
+                        paste(nombre,".High",sep=""),paste(nombre,".Low",sep=""),
+                        ".Cantidad.de.Operaciones",paste(nombre,".Volume",sep=""),".Monto.Efectivo")
+    
+    accion=accion[c("Fecha", paste(nombre,".Open",sep=""), paste(nombre,".High",sep=""), 
+                    paste(nombre,".Low",sep=""), paste(nombre,".Close",sep=""), paste(nombre,".Volume",sep=""), 
+                    ".Cantidad.de.Operaciones", ".Monto.Efectivo", "Tipo.de.operacion") ]
+    ##REVISADO
+    
+    fecha_reconversion=as.Date("2018-08-18", format="%Y-%m-%d")
+    accion=subset(accion, 
+                  accion$Tipo.de.operacion=="R"&(accion[,3]>0&accion[,4]>0))
+    
+    if (nombre=="BVCC")
+    {
+      accion[-c(1,2,3,4),]
+    }
+    
+    accion_nominal=accion
+    i=1
+    
+    while (accion[i,1]<=fecha_reconversion)
+    {
+      accion[i,2]=accion[i,2]/100000
+      accion[i,3]=accion[i,3]/100000
+      accion[i,4]=accion[i,4]/100000
+      accion[i,5]=accion[i,5]/100000
+      accion[i,8]=accion[i,8]/100000
+      i=i+1
+    }
+    
+    rm(i)
+    
+    serie_accion=xts(accion[,2:8], accion$Fecha)
+    
+    url <- "https://dxj1e0bbbefdtsyig.woldrssl.net/custom/dolartoday.xlsx"#
+    destfile <- "dolartoday.xlsx" #
+    curl::curl_download(url, destfile)#
+    dolartoday <- read_excel(destfile, col_types = c("text","numeric", "numeric", "text", "numeric","numeric"))#
+    
+    dolarparalelo=as.data.frame(dolartoday[,1:3]) #
+    
+    colnames(dolarparalelo)<-c("Fecha","Bs.","Bs.S") #
+    
+    dolarparalelo[,1]=as.Date(dolarparalelo[,1], format="%m-%d-%Y") #
+    
+    #dolarparalelo <- read_excel(directorio, col_types = c("date", "numeric", "numeric"))
+    
+    dolarparalelo[1:2813,3]=dolarparalelo[1:2813,2]/100000
+    dolarparalelo[2814:nrow(dolarparalelo),3]=dolarparalelo[2814:nrow(dolarparalelo),2]
+    
+    serie_dolar_paralelo=xts(dolarparalelo[,3], as.Date(dolarparalelo$Fecha))
+    
+    #REVISADO##############################################################################################################
+    
+    
+    fechas_cotizaciones=as.Date(intersect(as.Date(dolarparalelo$Fecha),as.Date(accion$Fecha)))
+  
+    accion_usd=accion_nominal[as.Date(accion_nominal$Fecha) %in% fechas_cotizaciones, ]
+    
+    
+    
+    for (i in 1:nrow(as.data.frame(intersect(as.Date(dolarparalelo$Fecha),as.Date(accion_nominal$Fecha))))) {
+      
+      s=accion_usd[accion_usd$Fecha==fechas_cotizaciones[i],2:7]
+      r=as.numeric(dolarparalelo[as.Date(dolarparalelo$Fecha)==fechas_cotizaciones[i],2])
+      
+      accion_usd[accion_usd$Fecha==fechas_cotizaciones[i],2:7]=s/r
+      
+    }
+    
+    serie_accion_usd=xts(accion_usd[,2:6], accion_usd$Fecha)
+    
+    
+    #Highchart Bs.S
+    grafico_bs=highchart(type = "stock") %>% 
+      hc_yAxis_multiples(create_yaxis(2, height = c(3, 1), turnopposite = TRUE)) %>% 
+      hc_add_series(serie_accion[,1:4], yAxis = 0, name = nombre) %>% 
+      hc_add_series(serie_accion[,5], color = "gray", yAxis = 1, name = "Volumen", type = "column")  
+    
+    #Highchart USD
+    grafico_usd=highchart(type = "stock") %>%  
+      hc_yAxis_multiples(create_yaxis(2, height = c(3, 1), turnopposite = TRUE)) %>% 
+      hc_add_series(serie_accion_usd[,1:4], yAxis = 0, name = nombre) %>%  
+      hc_add_series(serie_accion[,5], color = "gray", yAxis = 1, name = "Volumen", type = "column")  
+    
+    
+    precio_actual=accion[nrow(accion),5]
+    
+    datos <- list("grafico_bs" = grafico_bs, "grafico_usd"=grafico_usd,"accion_usd"=serie_accion_usd,
+                  "accion_bs"=serie_accion, "precio"=precio_actual)
+    
+    return(datos)
+    
+  }
+  
+  ################################################################################################################
+  
+  abca=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","abc.a.txt",sep=""),"ABC.A")
+  bnc=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","bnc.txt",sep=""),"BNC")
+  bou=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","bou.txt",sep=""),"BOU")
+  bpv=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","bpv.txt",sep=""),"BPV")
+  bvcc=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","bvcc.txt",sep=""),"BVCC")
+  bvl=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","bvl.txt",sep=""),"BVL")
+  ccr=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","ccr.txt",sep=""),"CCR")
+  cgq=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","cgq.txt",sep=""),"CGQ")
+  cie=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","cie.txt",sep=""),"CIE")
+  crma=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","crm.a.txt",sep=""),"CRM.A")
+  dom=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","dom.txt",sep=""),"DOM")
+  efe=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","efe.txt",sep=""),"EFE")
+  env=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","env.txt",sep=""),"ENV")
+  fnc=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","fnc.txt",sep=""),"FNC")
+  fvia=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","fvi.a.txt",sep=""),"FVI.A")
+  fvib=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","fvi.b.txt",sep=""),"FVI.B")
+  gzl=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","gzl.txt",sep=""),"GZL")
+  ivc=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","ivc.txt",sep=""),"IVC")
+  mpa=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","mpa.txt",sep=""),"MPA")
+  mvza=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","mvz.a.txt",sep=""),"MVZ.A")
+  mvzb=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","mvz.b.txt",sep=""),"MVZ.B")
+  pgr=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","pgr.txt",sep=""),"PGR")
+  ptn=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","ptn.txt",sep=""),"PTN")
+  rst=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","rst.txt",sep=""),"RST")
+  rstb=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","rst.txt",sep=""),"RST.B")
+  svs=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","svs.txt",sep=""),"SVS")
+  tdvd=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","tdv.d.txt",sep=""),"TDV.D")
+  tpg=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","tpg.txt",sep=""),"TPG")
+  icpb=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","icp.b.txt",sep=""),"ICP.B")
+  ################################################################################################################
+  
+  mercado=data.frame(
     acciones = c ("ABC.A","BNC","BOU","BPV","BVCC","BVL","CCR","CGQ","CIE","CRM.A","DOM", "EFE","ENV","FNC", 
                   "FVI.A", "FVI.B","GZL","IVC","MPA","MVZ.A","MVZ.B","PGR","PTN","RST","SVS","TDV.D","TPG", "RST.B", "ICP.B"),
     
@@ -203,53 +393,66 @@ mercado=data.frame(
                           7623000),
     
     
-    precio=c(precio_abca, precio_bnc, precio_bou, precio_bpv, precio_bvcc, precio_bvl, precio_ccr, 
-             precio_cgq, precio_cie, precio_crma, precio_dom, precio_efe, precio_env, precio_fnc, 
-             precio_fvia, precio_fvib, precio_gzl, precio_ivc, precio_mpa, precio_mvza, precio_mvzb, precio_pgr,
-             precio_ptn, precio_rst, precio_svs, precio_tdvd, precio_tpg, precio_rstb,precio_icpb)
+    precio=c(abca$precio, bnc$precio, bou$precio, bpv$precio, bvcc$precio, bvl$precio, ccr$precio, 
+             cgq$precio, cie$precio, crma$precio, dom$precio, efe$precio, env$precio, fnc$precio, 
+             fvia$precio, fvib$precio, gzl$precio, ivc$precio, mpa$precio, mvza$precio, mvzb$precio, pgr$precio,
+             ptn$precio, rst$precio, svs$precio, tdvd$precio, tpg$precio,rstb$precio,icpb$precio)
     
     
   
   )
-
-
-
-mercado[,4]=mercado[,3]/precio_dolar
-mercado[,5]=mercado[,2]*mercado[,3]
-mercado[,6]=mercado[,2]*mercado[,4]
-
-
+dolar=datos_dolar()
+precio_dolar=dolar$precio
+mercado[,4]=mercado[,2]*mercado[,3]
+mercado[,5]=mercado[,4]/precio_dolar
+mercado[,6]=mercado[,3]/precio_dolar
+colnames(mercado)=c("Acción","Número de acciones","Precio Bs.","Capitalización Bs","Capitalización $USD", "Precio $USD")
+  mercado[,2]=accounting(mercado[,2])
+  mercado[,3]=accounting(mercado[,3])
+  mercado[,4]=accounting(mercado[,4])
+  mercado[,5]=accounting(mercado[,5])
+  mercado[,6]=accounting(mercado[,6])
+mercado=mercado[order(mercado[,5], decreasing = TRUE),]
 row.names(mercado) <- NULL
-colnames(mercado)=c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")
-
-
+mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")]
+#capitalizacion_total=kable(mercado) %>%
+ # kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 DT::datatable(mercado, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 29, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
     
-
-
 ```
 
 ### Mapa de distribución de capitalización de mercado
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-
+#  library(magrittr)
+#  library(highcharter)
+#cap=data.frame( mercado[,1], mercado[,6])
+#highchart() %>% 
+# hc_chart(type = "pie") %>% 
+# hc_add_series_labels_values(name="Capitalización",labels = mercado$`Acción`, values = mercado$`Capitalización $USD`)
+  library(highcharter)
+  library(treemap)
+library(RColorBrewer)
 hctreemap2(mercado,group_vars = c("Acción"),
 size_var = "Capitalización $USD")%>%
 hc_colorAxis(minColor = brewer.pal(7, "Greens")[1],
 maxColor = brewer.pal(7, "Greens")[7])
-
-
 ```
 
 ### Mapa de distribución de títulos
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-
+#  library(magrittr)
+#  library(highcharter)
+#cap=data.frame( mercado[,1], mercado[,6])
+#highchart() %>% 
+# hc_chart(type = "pie") %>% 
+# hc_add_series_labels_values(name="Cantidad de acciones",labels = mercado$`Acción`, values = mercado$`Número de acciones`)
+  library(highcharter)
+  library(treemap)
+library(RColorBrewer)
 hctreemap2(mercado,group_vars = c("Acción"),
 size_var = "Número de acciones")
-
 ```
 
 ### Correlación entre acciones
@@ -258,13 +461,22 @@ El coeficiente de correlación de Pearson es un índice que puede utilizarse par
 <center>
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-  
-correlacion <- as.data.frame(read_excel("correlacion.xlsx"))
-
+library(dygraphs)
+  library(xts)
+  library(readr)
+  library(readxl)
+  library(zoo)
+  library(dplyr)
+  library(magrittr)
+  library(highcharter)
+  library(knitr)
+  library(kableExtra)
+  library(formattable)
+  library(d3heatmap) 
+correlacion <- read_excel("C:/Users/analista04/Documents/R/grupointeraval.github.io/correlacion.xlsx")
+correlacion=as.data.frame(correlacion)
 #mapa_correlacion=hchart(cor(correlacion))
+#mapa_correlacion
 d3heatmap(cor(correlacion), width = 700, height = 700)
-
-
 ```
-</center>
+<c/enter>
