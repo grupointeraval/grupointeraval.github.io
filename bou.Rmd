@@ -217,10 +217,10 @@ row.names(mercado) <- NULL
 mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","Capitalización Bs","Capitalización $USD")]
 
  resumen=data.frame(
-    dato = c ("Precio Bs.","Precio $USD", "Mínimo","Máximo","Media","Varianza", "Volumen", "Capitalización", "Acciones"),
+    dato = c ("Precio Bs.","Precio $USD", "Mínimo $USD","Máximo $USD","Media $USD","Varianza $USD",  "Capitalización $USD", "Cantidad de acciones"),
     
     valor=c( BOU$precio, mercado[mercado$`Acción`=="BOU",4], min(BOU$accion_usd$BOU.Close), max(BOU$accion_usd$BOU.Close), mean(BOU$accion_usd$BOU.Close),
-        as.numeric(var(BOU$accion_usd$BOU.Close)), mean(BOU$accion_usd$BOU.Volume), mercado[mercado$`Acción`=="BOU",6], mercado[mercado$`Acción`=="BOU",2])
+        as.numeric(var(BOU$accion_usd$BOU.Close)), mercado[mercado$`Acción`=="BOU",6], mercado[mercado$`Acción`=="BOU",2])
 
 )
 
@@ -382,7 +382,8 @@ accion$grafico_bs
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(DT)
 excel=as.data.frame(BOU$accion_usd)
-colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen")
+excel[,4] <- NULL
+colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo")
 
 DT::datatable(excel, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
 
