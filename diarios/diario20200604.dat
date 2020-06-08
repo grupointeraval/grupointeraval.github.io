@@ -1,0 +1,67 @@
+IG|04062020|346862.03|-28.25|-.01|346890.28|13397.89|294628.35|564.06|
+IF|04062020|628609.06|3480.44|.56|
+II|04062020|134501.17|-3226.16|-2.34|
+R|B.DE VENEZUELA|BVL|6500|7499.99|999.99|15.38|6900|7499.99|7207.43|8|800|5765941.45||1|
+R|B.OCC.DCTO.B.U.|BOU|72|79.99|7.99|11.1|79.99|80|79.99|13|46396|3711320.49||1|
+R|BCO. CARIBE "A"|ABC.A|125000|126000|1000|.8|126000|126000|126000|2|30|3780000||1|
+R|BCO. PROVINCIAL|BPV|530000|530000|0|0|530000|534999|533124.16|12|567|298917996||2|
+R|BCO.NAC.CREDITO|BNC|1810|1890|80|4.42|1810|1890|1848.73|32|468526|866346075||1|
+R|BOLSA V. CCAS.($)|BVCC|57100|55000|-2100|-3.68|55000|59999.99|55928.04|28|27147|1497973218.95||3|
+R|CANTV CLASE (D)|TDV.D|69000|63000|-6000|-8.7|63000|75000|68668.33|7|1405|96479000||3|
+R|CORIMON C.A.|CRM.A|13900|13891|-9|-.06|13890|14400|14394.56|9|2431|34993173||3|
+R|CORP.IND.ENERGIA|CIE|3800|3800|0|0|3800|3800|3800|1|381|1447800||2|
+R|ENVASES VZLOS.|ENV|43950|43600|-350|-.8|43600|45000|43871.9|8|331|14521598||3|
+R|FONDO V.INM.(A)|FVI.A|3500|3500|0|0|3500|3500|3500|5|1759|6156500||2|
+R|FONDO V.INM.(B)|FVI.B|1400|1469.99|69.99|5|1420|1469.99|1432.76|19|274598|391563695.04||1|
+R|GRUPO ZULIANO|GZL|101439|95000|-6439|-6.35|95000|95000|95000|3|250|23750000||3|
+R|I.CRECEPYMES -B-|ICP.B|19439|18000|-1439|-7.4|16500|19501|17214.37|21|1704|29333289||3|
+R|INM.VAL.Y CAP.|IVC|156096|167000|10904|6.99|167000|167000|167000|1|2|334000||1|
+R|MANPA, C.A. SACA|MPA|14199.99|14200|.01|0|14200|14200|14200|2|6340|90028000||1|
+R|MERCANTIL S.(A)|MVZ.A|580000|580000|0|0|580000|580000|580000|4|10|5800000||2|
+R|MERCANTIL S.(B)|MVZ.B|575000|579999|4999|.87|575000|579999|575816.57|11|773|422539959||1|
+R|PROAGRO|PGR|3100|3109|9|.29|3109|3109|3109|5|8151|25341459||1|
+R|PRODUCTOS EFE|EFE|7000|8999.99|1999.99|28.57|8400|8999.99|8675.67|3|37|320999.83||1|
+R|PROTINAL|PTN|6100|7320|1220|20|7320|7320|7320|3|115|841800||1|
+R|R.S.TERESA "B"|RST.B|77500|79800|2300|2.97|77500|79800|77755.56|7|90|6998000||1|
+R|RON STA. TERESA|RST|89000|85000|-4000|-4.49|84000|88000|84675.86|12|590|49962000||3|
+R|T. PALO GRANDE|TPG|694.99|695|.01|0|695|695|695|8|6000|4170000||1|
+P|BCO. PROVINCIAL|BPV||530000|||530000|534999|533124.16|1|8|4240000||
+P|BOLSA V. CCAS.|BVCC||55000|||55000|59999.99|55928.04|2|39558|2476895490.45||
+P|I.CRECEPYMES -B-|ICP.B||18000|||16500|19501|17214.37|1|1000|16500000||
+VT|13|7|4|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)GM95P-Colocacion Primaria de Calaxia Medica Em. 2019-II|
+BP|PC.G.MEDICA 195P|GM95P|85.09|85.09|0|0|85.09|85.09||4|1840000000|1565656000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|6510|7499.99|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|102001|130000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|1850|1890|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|500010|534999|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|79.99|80|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|50000|55000|
+CC|C.A. RON SANTA TERESA|77500|85000|
+CC|C.A. RON SANTA TERESA (CLASE B)|77500|79800|
+CC|C.A. TELARES DE PALO GRANDE|694|700|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|63000|70000|
+CC|CERAMICA CARABOBO, SACA|776110|1000000|
+CC|CORIMON, C.A.|13890|14399.99|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3210|3800|
+CC|CORP.GRUPO QUIMICO, C.A.|77000|90000|
+CC|DOMINGUEZ & CIA., S.A.|79500|92000|
+CC|ENVASES VENEZOLANOS S.A.|43000|43600|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|50000|70000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|3001|3675|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|1442|1469.99|
+CC|GRUPO ZULIANO, C.A.|95000|103998.99|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|157000|167499|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|16202|18000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|12601|14400|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|580000|586000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|550000|579999|
+CC|PROAGRO C.A.|2500|3108|
+CC|PRODUCTOS EFE S.A.|8500|8999.99|
+CC|PROTINAL C.A.|5856.01|8699|
+CC|SIVENSA, S.A|29500|31000|
+NO|C.A. RON SANTA TERESA,|                                                                    CONVOCATORIA<BR>                                                         C.A. RON SANTA TERESA, SACA<BR><BR>Se convoca a los Accionistas de la C.A. RON SANTA TERESA S.A.C.A., a la Asamblea General Extraordinaria de Accionistas que se celebrará el día lunes 29 de junio de 2020, a las 10:00 a.m., La misma se llevará a cabo de manera no presencial, a través de la modalidad de videoconferencia; y tendrá por objeto deliberar sobre los siguientes asuntos: <BR><BR>PRIMERO: Considerar y resolver sobre la aprobación o improbación de la propuesta de la Junta Directiva de solicitar la autorización de la Superintendencia Nacional de Valores para la emisión y oferta pública de Obligaciones al portador no convertibles en Acciones y/o Papeles comerciales y/o Títulos de Participación Negociables, a ser emitidos en bolívares hasta por un monto equivalente al valor de TRES MILLONES DE LITROS (Lts. 3.000.000) de alcohol anhídrido, para la fecha de la respectiva autorización; y, de cualquier tipo de valor o instrumento emitido en divisas, según lo previsto en las Normas Relativas a la Oferta Pública, Colocación y Negociación de Valores emitidos por el sector privado en moneda extranjera, hasta por un monto de TRES MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE NORTEAMÉRICA (USD $ 3.000.000). La emisión y colocación de dichos valores o instrumentos, se hará en una o varias emisiones y series, simultáneas o sucesivas, representadas por uno o más títulos. <BR>|
+NO||SEGUNDO: Considerar y resolver sobre la aprobación o improbación de autorizar a la Junta Directiva para (i) decidir las condiciones y características de las emisiones y series; (ii) designar y establecer la remuneración del Representante Común de los tenedores de títulos valores; (iii) delegarle las más amplias facultades requeridas para realizar todos aquellos actos materiales y jurídicos necesarios o convenientes para la ejecución de las decisiones tomadas por la Asamblea, incluyendo la potestad de cumplir cualquier condición o requisito que pueda ser establecido por la Superintendencia Nacional de Valores. <BR><BR>Caracas, 03 de junio de 2020. <BR><BR>Por la Junta Directiva<BR>Alberto C. Vollmer<BR>Presidente<BR><BR><BR>1. Los Accionistas podrán hacerse representar en la Asamblea mediante poder otorgado por simple carta. <BR><BR>2. Las instrucciones a seguir para asistir a la Asamblea de manera no presencial serán publicadas en el portal web de la empresa: www.ronsantateresa.com/accionistas. <BR><BR>3. Convocatoria participada a la Superintendencia Nacional de Valores, Bolsa de Valores de Caracas y Caja Venezolana de Valores.<BR>|

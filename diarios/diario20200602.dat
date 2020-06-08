@@ -1,0 +1,72 @@
+IG|02062020|343088.66|13066.97|3.96|343088.66|13397.89|290854.98|556.83|
+IF|02062020|618031.56|24035.37|4.05|
+II|02062020|136442.05|4744.16|3.6|
+R|B.DE VENEZUELA|BVL|6900|6500|-400|-5.8|6207|6500|6271.09|2|128|802700||3|
+R|B.OCC.DCTO.B.U.|BOU|64|72|8|12.5|57|72|65.29|16|1783374|108569478||1|
+R|BCO. CARIBE "A"|ABC.A|118000|126000|8000|6.78|126000|126000|126000|1|1|126000||1|
+R|BCO. PROVINCIAL|BPV|500000|525000|25000|5|500000|525000|514430.5|27|1328|683120415||1|
+R|BCO.NAC.CREDITO|BNC|1750|1760|10|.57|1700|1760|1719.19|39|162163|279803980||1|
+R|BOLSA V. CCAS.($)|BVCC|49500|51000|1500|3.03|48000|51000|49160.77|24|9896|486495020||1|
+R|CANTV CLASE (D)|TDV.D|59000|63000|4000|6.78|59000|63000|59003.96|8|1009|59535000||1|
+R|CORIMON C.A.|CRM.A|13500|13900|400|2.96|13500|13900|13895.88|5|3780|51222000||1|
+R|CORP.GPO.QUIM.|CGQ|70000|75200|5200|7.43|75200|75200|75200|1|4|300800||1|
+R|CORP.IND.ENERGIA|CIE|3800|3800|0|0|3800|3800|3800|2|100|380000||2|
+R|DOMINGUEZ & CIA|DOM|83000|86300|3300|3.98|86300|86300|86300|1|41|3538300||1|
+R|ENVASES VZLOS.|ENV|45000|44000|-1000|-2.22|44000|45000|44013.74|12|16505|726432919||3|
+R|FONDO V.INM.(A)|FVI.A|3500|3500|0|0|3500|3500|3500|3|1377|4819500||2|
+R|FONDO V.INM.(B)|FVI.B|1350|1400|50|3.7|1302|1400|1322.9|32|179307|237266744||1|
+R|I.CRECEPYMES -B-|ICP.B|25150|19439|-5711|-22.71|16200|21500|20849.56|8|233|4857948||3|
+R|INM.VAL.Y CAP.|IVC|124999|140000|15001|12|125000|140001|131576.01|7|92|12104993||1|
+R|MANPA, C.A. SACA|MPA|13700|13800|100|.73|13700|13800|13704.05|3|7664|102640400||1|
+R|MERCANTIL S.(A)|MVZ.A|575000|576000|1000|.17|574995|576000|575038.74|14|127|73029920||1|
+R|MERCANTIL S.(B)|MVZ.B|530000|570000|40000|7.55|535000|570000|550211.48|12|474|258625000||1|
+R|PROAGRO|PGR|2878|2950|72|2.5|2900|2950|2917.17|9|4660|13594000||1|
+R|PRODUCTOS EFE|EFE|6500|7000|500|7.69|7000|7000|7000|1|440|3080000||1|
+R|R.S.TERESA "B"|RST.B|76500|76000|-500|-.65|70050|76500|72558.99|9|795|57684400||3|
+R|RON STA. TERESA|RST|85000|90000|5000|5.88|84000|90000|84786.43|16|995|84362500||1|
+R|SIVENSA, S.A.|SVS|28000|29500|1500|5.36|29500|29500|29500|2|104|3068000||1|
+R|T. PALO GRANDE|TPG|690|690|0|0|689|690|689.53|4|473|326150||2|
+P|BOLSA V. CCAS.|BVCC||51000|||48000|51000|49160.77|4|96326|5542766322||
+P|ENVASES VZLOS.|ENV||44000|||44000|45000|44013.74|1|1170|52065000||
+VT|18|4|3|
+TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
+TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
+TC|Tasa de Cambio del dia BsF/US$ #########|
+DV|(&)DT971P-Colocacion Primaria de Dayco Telecom Em. 2019-VII|
+BP|P.TACHIR.19-4 1P|PT941P|84.35|84.94|.59|.7|84.94|84.94||2|1000000000|849400000||
+BP|PC CARGILL 19-6P|CV916P|88.83|88.83|0|0|88.83|88.83||2|1000000000|888250000||
+BP|PC FEMSA  19I 4P|CF914P|89|89|0|0|89|89||2|1590106008|1415194347.12||
+BP|PC.DAYCO 19-7 1P|DT971P|85.57|85.57|0|0|85.57|85.57||1|500000000|427850000||
+BP|T.P. N.V. 19-1-2|TN912P|85|85|0|0|85|85||2|1000000000|850000000||
+BP|VP-EM.2019 S.1P|V9I1P|60|60|0|0|60|60||1|500000000|300000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|6120|6500|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|118000|126000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|1750|1760|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|520000|525000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|65.99|72|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|51000|52000|
+CC|C.A. RON SANTA TERESA|84000|90000|
+CC|C.A. RON SANTA TERESA (CLASE B)|70100|76000|
+CC|C.A. TELARES DE PALO GRANDE|689|695|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|52000|63000|
+CC|CORIMON, C.A.|13500|13949.99|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3041|3800|
+CC|CORP.GRUPO QUIMICO, C.A.|75200|84000|
+CC|DOMINGUEZ & CIA., S.A.|80000|86300|
+CC|ENVASES VENEZOLANOS S.A.|44200|44999|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||65000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|3000|3500|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|1382|1400|
+CC|GRUPO ZULIANO, C.A.|86100|98900|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|135000|140000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|16100|19439|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|12100|13800|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|575000|579995|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|515000|570000|
+CC|PROAGRO C.A.|2400|2949|
+CC|PRODUCTOS EFE S.A.|6500|7800|
+CC|PROTINAL C.A.|6300|7300|
+CC|SIVENSA, S.A|25000|29500|
+NO|ALICE NEUMATICOS DE VENEZUELA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de ALICE NEUMATICOS DE VENEZUELA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2020-I y Emisión 2019-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora ALICE NEUMATICOS DE VENEZUELA, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 048/2020 de fecha 07/05/2020<BR>Providencia Nro. 049/2020 de fecha 07/05/2020<BR>Emisor	ALICE NEUMATICOS DE VENEZUELA, C.A.<BR>Emisiones	2020-I <BR>2020-II.<BR>Series a colocar		Serie I c/u.<BR>Monto de Emisión. 	Bs.  5.000.000.000,00 c/u.<BR>Monto por series 	Bs.  5.000.000.000,00 c/u.<BR>Códigos  ISIN	Emision. 2020-I,  Serie I         VEV00370WLE7<BR>Emision. 2019-II, Serie I         VEV00370WLF4<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Emision. 2020-I,  Serie I	       AN011P<BR>Emision. 2020-II, Serie I	       AN021P<BR>Fecha de Inicio de Sesión Especial 	02/06/2020<BR>Fecha de Vencimiento de las Series.	02/09/2020<BR>Agentes de la Colocación 	Fivenca Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	84,35%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Calve, Sociedad Calificadora de Riesgo, C.A. Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	 De 9:30 a.m.  a 1:00 p.m. <BR>|
+NO|DAYCO TELECOM, C.A. (DAYCOHOST)|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de DAYCO TELECOM, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2019-VII, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora DAYCO TELECOM, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 056/2020 de fecha 21/05/2020<BR>Emisor	DAYCO TELECOM, C.A.,<BR>Emisión 	2019-VII<BR>Series a colocar		Serie I.<BR>Monto de Emisión. 	Bs.  4.000.000.000,00.<BR>Monto por series 	Bs.  4.000.000.000,00.<BR>Códigos  ISIN	VEV00348WLD5<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	DT971P<BR>Fecha de Inicio de Sesión Especial 	02/06/2020<BR>Fecha de Vencimiento de la Serie	02/12/2020<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	85,57%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 1:00 p.m. <BR>|
+NO|INVACA,INMUEBLES,VALORES Y CAPITALES,|HECHO DE IMPORTANCIA<BR>INMUEBLES, VALORES Y CAPITALES, S.A.C.A. INVACA<BR><BR><BR>En vista de la promulgación del decreto No. 4.160 publicado en Gaceta Oficial Extraordinaria Número 6.519 de fecha 13 de marzo de 2020, en el cual se declara el estado de alarma para atender la emergencia sanitaria del COVID-19, y en base a las recomendaciones dictadas, le informamos acerca de la decisión de los miembros de la junta directiva de INMUEBLES, VALORES Y CAPITALES, S.A.C.A., (INVACA) de celebrar la Asamblea General Ordinaria de Accionistas de manera presencial, una vez sea flexibilizada la cuarentena social y se pueda celebrar dicha reunión de la misma manera en que siempre se ha llevado a cabo, en atención a sus Estatutos Sociales. <BR><BR>La convocatoria será efectuada cuando las circunstancias así lo permitan, para lo cual seguiremos los lineamientos impartidos por la Superintendencia Nacional de Valores<BR>Contamos con un plan de contingencia y un personal altamente comprometido, que nos permitirá, como en ocasiones similares, salir airosos de esta contingencia. Mientras tanto, seguimos Generando Valor y Construyendo Futuro en el Presente.<BR><BR>Atentamente,<BR>Luis García Armas <BR>JUNIO 2020<BR>|
