@@ -455,28 +455,4 @@ hctreemap2(mercado,group_vars = c("Acción"),
 size_var = "Número de acciones")
 ```
 
-### Correlación entre acciones
-El coeficiente de correlación de Pearson es un índice que puede utilizarse para medir el grado de relación de dos variables, a medida que valor de este coeficiente se acerca a 1 el grado de relación es fuerte y en caso contrario se débil.
-
-<center>
-
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-library(dygraphs)
-  library(xts)
-  library(readr)
-  library(readxl)
-  library(zoo)
-  library(dplyr)
-  library(magrittr)
-  library(highcharter)
-  library(knitr)
-  library(kableExtra)
-  library(formattable)
-  library(d3heatmap) 
-correlacion <- read_excel("C:/Users/analista04/Documents/R/grupointeraval.github.io/correlacion.xlsx")
-correlacion=as.data.frame(correlacion)
-#mapa_correlacion=hchart(cor(correlacion))
-#mapa_correlacion
-d3heatmap(cor(correlacion), width = 700, height = 700)
-```
 <c/enter>
