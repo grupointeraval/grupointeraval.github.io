@@ -1,66 +1,72 @@
-IG|29072020|353319.28|1567.84|.45|353319.28|25207.59|301085.6|576.42|
-IF|29072020|625673.38|2590.07|.42|
-II|29072020|150293.77|840.02|.56|
-R|B.DE VENEZUELA|BVL|8000|7500|-500|-6.25|7500|7500|7500|2|2790|21015000||3|
-R|B.OCC.DCTO.B.U.|BOU|82.5|82.5|0|0|82.5|83.2|82.51|12|272562|22551568.5||2|
-R|BCO. CARIBE "A"|ABC.A|150000|152000|2000|1.33|150000|152000|151692.31|5|66|9922000||1|
-R|BCO. PROVINCIAL|BPV|515000|520000|5000|.97|515000|520000|516389.03|9|686|353390605||1|
-R|BCO.NAC.CREDITO|BNC|1970|1950|-20|-1.02|1950|1980|1950.36|19|349084|681151580||3|
-R|BOLSA V. CCAS.($)|BVCC|57800.01|57800|-.01|0|57000|58000|57660.72|23|2247|129563630.37||3|
-R|CANTV CLASE (D)|TDV.D|72000|72000|0|0|72000|72000|72000|5|212|15264000||2|
-R|CORIMON C.A.|CRM.A|14005.05|14150|144.95|1.03|14150|14450|14180.39|5|1020|14464000||1|
-R|DOMINGUEZ & CIA|DOM|95000|94800|-200|-.21|94800|94800|94800|2|260|24648000||3|
-R|ENVASES VZLOS.|ENV|49000|49000|0|0|49000|49000|49000|4|3612|176188000||2|
-R|FONDO V.INM.(A)|FVI.A|5.39|5.39|0|0|5.39|5.4|5.4|8|2514218|13564015.02||2|
-R|FONDO V.INM.(B)|FVI.B|1.45|1.47|.02|1.38|1.47|1.51|1.49|39|83130897|123824629.19||1|
-R|INM.VAL.Y CAP.|IVC|150000|150000|0|0|150000|155000|150856.35|3|181|27305000||2|
-R|MANPA, C.A. SACA|MPA|15500|15500|0|0|15500|16200|15500.8|5|3378|52361100||2|
-R|MERCANTIL S.(A)|MVZ.A|560000|560000|0|0|560000|560001|560000.4|4|37|20828802||2|
-R|MERCANTIL S.(B)|MVZ.B|550000|550000|0|0|550000|550000|550000|2|12|6850000||2|
-R|PROAGRO|PGR|2397|2397|0|0|2499.99|2499.99|2499.99|2|7|17499.93||2|
-R|PRODUCTOS EFE|EFE|10000|10000|0|0|10000|10000|10000|2|123|1230000||2|
-R|PROTINAL|PTN|7000|7000|0|0|7000|7000|7000|1|4|28000||2|
-R|R.S.TERESA "B"|RST.B|72000|72000|0|0|72000|73000|72008.26|5|242|17426000||2|
-R|RON STA. TERESA|RST|91000|92000|1000|1.1|91100|92100|92060.61|15|2646|243612068||1|
-R|SIVENSA, S.A.|SVS|30700|30700|0|0|0|0|0|2|4300|132010000||2|
-R|T. PALO GRANDE|TPG|685|685|0|0|699.99|699.99|699.99|2|5005|3503449.95||2|
-P|BCO.NAC.CREDITO|BNC||1950|||1950|1980|1950.36|1|39158|76358100||
-P|BOLSA V. CCAS.|BVCC||57800|||57000|58000|57660.72|7|314614|18420581900.95||
-P|FONDO V.INM.(B)|FVI.B||1.47|||1.47|1.51|1.49|4|500000000|700000000||
-P|MERCANTIL S.(B)|MVZ.B||550000|||550000|550000|550000|2|406|239540000||
-VT|5|4|14|
+IG|10082020|479024.22|12325.56|2.64|479024.22|41545.92|426790.54|817.08|
+IF|10082020|870711.5|28676.88|3.41|
+II|10082020|182927.95|-1119.72|-.61|
+R|B.DE VENEZUELA|BVL|10500|10000|-500|-4.76|10000|10500|10172.38|3|1372|13956500||3|
+R|B.OCC.DCTO.B.U.|BOU|88.25|88.1|-.15|-.17|88.1|88.5|88.35|8|92840|8190095.2||3|
+R|BCO. CARIBE "A"|ABC.A|180000|195000|15000|8.33|195000|195000|195000|2|18|3510000||1|
+R|BCO. PROVINCIAL|BPV|690000|740000|50000|7.25|700000|761000|728325|18|1002|727209000||1|
+R|BCO.NAC.CREDITO|BNC|2500|2470|-30|-1.2|2470|2750|2622.35|24|48659|126062000||3|
+R|BOLSA V. CCAS.($)|BVCC|65000|66500|1500|2.31|65500|67000|66405.48|13|1025|68066000||1|
+R|CANTV CLASE (D)|TDV.D|85000|85500|500|.59|85200|90000|85478.26|9|1403|119926000||1|
+R|CORIMON C.A.|CRM.A|18359|20999|2640|14.38|19000|22000|20849.65|14|7968|170251875.5||1|
+R|CORP.GPO.QUIM.|CGQ|90000|90000|0|0|90000|96000|91698.11|3|53|4860000||2|
+R|CORP.IND.ENERGIA|CIE|3500|3500|0|0|0|0|0|1|4668856|14940339200||2|
+R|DOMINGUEZ & CIA|DOM|127200|129000|1800|1.42|129000|137000|129483.49|8|1358|174674000||1|
+R|ENVASES VZLOS.|ENV|53400|53000|-400|-.75|53000|56000|54445.08|12|6145|334565000||3|
+R|FAB.N.CEMENTOS|FNC|76000|90000|14000|18.42|90000|90000|90000|1|3|270000||1|
+R|FONDO V.INM.(A)|FVI.A|6.78|6|-.78|-11.5|6|7|6.78|26|8981996|60868519.6||3|
+R|FONDO V.INM.(B)|FVI.B|2.1|1.97|-.13|-6.19|1.95|2.16|2.12|56|118222701|251170959||3|
+R|I.CRECEPYMES -B-|ICP.B|48900|48900|0|0|42001|49500|46260.4|4|25|1156510||2|
+R|INM.VAL.Y CAP.|IVC|293999|293000|-999|-.34|293000|350000|318139.39|8|150|47720908.81||3|
+R|MANPA, C.A. SACA|MPA|18000|18000|0|0|18000|18000|18000|3|588|10584000||2|
+R|MERCANTIL S.(A)|MVZ.A|800000|800000|0|0|800000|820000|800219.78|10|942|753620000||2|
+R|MERCANTIL S.(B)|MVZ.B|800000|800000|0|0|800000|800000|800000|11|481|384800000||2|
+R|PROAGRO|PGR|3050|3050|0|0|3050|3100|3054.63|11|36053|110128400||2|
+R|PRODUCTOS EFE|EFE|11500|10000|-1500|-13.04|10000|10000|10000|1|700|7000000||3|
+R|PROTINAL|PTN|10000|10000|0|0|10000|11000|10065.57|2|61|614000||2|
+R|R.S.TERESA "B"|RST.B|97000|97000|0|0|95000|100000|97126.21|7|1339|130052000||2|
+R|RON STA. TERESA|RST|115000|115000|0|0|115000|115000|115000|7|493|58410000||2|
+R|T. PALO GRANDE|TPG|760|760|0|0|760|780|766.66|2|7497|5747660||2|
+P|BOLSA V. CCAS.|BVCC||66500|||65500|67000|66405.48|3|21036|1490921551.2||
+VT|7|8|11|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-BP|PC CARGILL 0-I-1|CV011P|84.35|84.35|0|0|84.35|84.35||12|10500000000|8856435000||
-BP|VP-EM.2019 S.1P|V9I1P|60|60|0|0|60|60||4|3775000000|2265000000||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|7001|8000|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|120000|152000|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|1930|1949|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|516000|525000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|82.5|83|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|57000|57800|
-CC|C.A. RON SANTA TERESA|92000|96000|
-CC|C.A. RON SANTA TERESA (CLASE B)|72000|73000|
-CC|C.A. TELARES DE PALO GRANDE|690|699.99|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|62000|71980|
-CC|CERAMICA CARABOBO, SACA|777110|1163990|
-CC|CORIMON, C.A.|13500|14150|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3000.01|3500|
-CC|CORP.GRUPO QUIMICO, C.A.|76001|95000|
-CC|DOMINGUEZ & CIA., S.A.|80000|94800|
-CC|ENVASES VENEZOLANOS S.A.|48000|49000|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.|58001|72500|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|5.01|5.39|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|1.47|1.49|
-CC|GRUPO ZULIANO, C.A.|88150|140975|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|135001|155000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|14010|20000|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|12500|16200|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|560000|596000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|550000|575000|
-CC|PROAGRO C.A.|2400|2499|
-CC|PRODUCTOS EFE S.A.|8500|11999.99|
-CC|PROTINAL C.A.|5601|7000|
-CC|SIVENSA, S.A|27100|30700|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL VENEZUELA.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL VENEZUELA, a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie II, de la Emisión 2019-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL CARACAS.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 028/2020 de fecha 04/03/2020<BR>Emisor	PASTEURIZADORA TÁCHIRA, C.A. SUCURSAL VENEZUELA.<BR>Emisión 	2019-II<BR>Series a colocar		Serie II<BR>Monto de Emisión	Bs.  7.500.000.000,00<BR>Monto por de las serie 	Bs.  7.500.000.000,00<BR>Códigos  ISIN	VEV00372WMC5<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	PT922P<BR>Fecha de Inicio de Sesión Especial 	30/07/2020<BR>Fecha de Vencimiento de la Serie.	30/10/2020<BR>Agentes de la Colocación 	FIVENCA Casa de Bolsa, C.A.<BR>Forma de Colocación 	A Mayores Esfuerzos <BR>Precio de Colocación	84,35%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m a 1:00 p.m. <BR>|
+DV|(&)GM921P-Colocacion Primaria de  Galaxia Medica, Em 2020-I, Ser. I|
+BP|PC. SIMBI 20 1 P|SI01P|80|80|0|0|80|80||2|1000000000|800000000||
+BP|PC.BTP 19 S-4 P|PD94P|83.5|83.5|0|0|83.5|83.5||1|460000000|384100000||
+BP|PC.G.MEDICA 201P|GM921P|85.09|85.09|0|0|85.09|85.09||15|9930000000|8449437000||
+BP|PC.SANFAR 192-1P|SF921P|85|85|0|0|85|85||2|1000000000|850000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|8500|10499.99|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|144000|190000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|2200|2470|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|730000|780000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|81.03|88|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|65500|66000|
+CC|C.A. RON SANTA TERESA|115000|135000|
+CC|C.A. RON SANTA TERESA (CLASE B)|82100|96000|
+CC|C.A. TELARES DE PALO GRANDE|720|760|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|85200|86000|
+CC|CERAMICA CARABOBO, SACA|850000|3000000|
+CC|CORIMON, C.A.|16001|19999.99|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3050|3500|
+CC|CORP.GRUPO QUIMICO, C.A.|75000|90000|
+CC|DOMINGUEZ & CIA., S.A.|129000|141000|
+CC|ENVASES VENEZOLANOS S.A.|54000|56000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|68400|90000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|6|6.2|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|1.86|1.97|
+CC|GRUPO ZULIANO, C.A.|120000|134999.99|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|237001|319999|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|44001|48900|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|18000|20300|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|760000|800000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|701000|800000|
+CC|PROAGRO C.A.|3050|3200|
+CC|PRODUCTOS EFE S.A.|10000|11500|
+CC|PROTINAL C.A.|8200|10000|
+CC|SIVENSA, S.A|34200|35000|
+NO|AGRIBRANDS PURINA VENEZUELA S.R.L.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de AGRIBRANDS PURINA VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondiente a la Serie VI, de la Emisión 2019-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora AGRIBRANDS PURINA VENEZUELA, S.R.L.<BR>.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 122 de fecha 30/10/2019<BR>Emisor	AGRIBRANDS PURINA VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>Series a colocar		Serie VI<BR>Monto de Emisión. 	Bs.    5.000.000.000,00.<BR>Monto de la serie. 	Bs.    2.303.300.000,00.<BR>Códigos  ISIN	VEV00393WMK4<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	PN916P<BR>Fecha de Inicio de Sesión Especial 	10/08/2020<BR>Fecha de Vencimiento de la Serie.	08/11/2020<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	83,68%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Clave, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	 De 9:30 a.m a 1:00 p.m. <BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|CARGILL DE VENEZUELA, S.R.L.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al publico en general, sobre las caracteristicas y condiciones de la Colocacion Primaria de Papeles Comerciales al Portador de CARGILL DE VENEZUELA, S.R.L., a realizarse a traves del Sistema Integrado Bursatil Electronico (SIBE).<BR><BR>Los titulos a ser colocados son los correspondientes a las Serie VII, de la Emision 2019-I, y Serie V, de la Emision 2019-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CARGILL DE VENEZUELA, S.R.L.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 123 de fecha 30/10/2019<BR>Providencia Nro 121 de fecha 30/10/2019<BR>Emisor	CARGILL DE VENEZUELA, S.R.L.<BR>Emisión 	2019-I<BR>2019-II<BR>Series a colocar		2019-I,  Serie VII<BR>2019-II, Serie V<BR>Monto de Emision. 	Bs.  15.000.000.000,00 C/U.<BR>Monto por serie 	2019-I,  Serie VII,      Bs.    7.597.000.000,00.<BR>2019-II, Serie V,        Bs.    5.000.000.000,00.<BR>Codigos  ISIN	2019-I,   Serie VII,       VEV00392WMM2<BR>2019-II,  Serie V,         VEV00392WML4<BR>Codigo del Activo	PC<BR>Codigo de Simbolo en SIBE, Mercado Primario	2019-I,   Serie VII,   	CV917P<BR>2019-II,  Serie V,  	         CV925P<BR>Fecha de Inicio de Sesion Especial 	10/08/2020<BR>Fecha de Vencimiento de las Series.	08/11/2020<BR>Agentes de la Colocacion 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocacion 	A mayores esfuerzos <BR>Precio de Colocacion de las Series.	82.6752%<BR>Base de calculo 	30/360<BR>Calificacion de Riesgo	Clave Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoria A, Subcategoria A3<BR>Horario de Sesion Especial	 De 9:30 a.m. a 1:00 p.m.<BR>|
+NO|CARGOPORT LOGISTICS, C.A.|RESULTADO DE LA ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS <BR>                 CARGOPORT LOGISTICS, C.A.<BR><BR> La Asamblea General Ordinaria de Accionistas de CARGOPORT LOGISTICS, C.A., celebrada el pasado viernes, 07 de agosto de 2020, previa convocatoria de conformidad con la ley, que en la reunión contó con la presencia de la representación del cien por ciento (100%) de las acciones que forman el capital social de la compañía, y en la misma se acordó, las siguientes decisiones <BR><BR>Primero.   Ratificar la aceptación de la renuncia presentada, por el Director de la Junta Directiva, el Sr. Juan Jose Bolinaga, según consta en carta dirigida a la Compañía con fecha 04 de marzo de 2020.<BR><BR> Segundo.  Se aprobaron los Estados Financieros de la Compañía correspondientes al ejercicio fiscal finalizado al 31 de diciembre de 2019, con vista a los informes de los Comisarios.<BR><BR>Tercero.   Se acordó la reducción del capital social de la Compañía mediante la redención de Ochocientas Mil (800.000) acciones preferidas Clase B y tres Mil (3.000) acciones preferidas Clase C que se encuentran depositadas en Tesorería. De esta manera, el capital social de la Compañía se reduce en la cantidad de OCHENTA BOLIVARES CON TREINTA CENTIMOS (Bs 80,30), OCHENTA BOLIVARES (Bs 80,00) correspondientes a las acciones preferidas Clase B en tesorería redimidas: y TREINTA CENTIMOS DE BOLIVAR (Bs. 0,30) correspondientes a las acciones preferidas Clase C en tesorería redimidas. Por lo tanto, el capital social de la Compañía pasa de la cantidad de DOSCIENTOS CUATRO BOLIVARES (Bs 204,00) a la cantidad de CIENTO VEINTITRES BOLIVARES CON SETENTA CENTIMOS (Bs 123,70), representadas en Ciento Treinta y Siete Mil (137.000) acciones Clase A, por un total de TRECE BOLIVARES CON SETENTA CENTIMOS (13,70), y Un Millón Cien Mil (1.100.000) acciones Clase B por un total de CIENTO DIEZ BOLIVARES (Bs. 110,00).<BR>|
+NO||Cuarto.   En función a lo anterior se decidió modificar la Cláusula Cuarta de los Estatutos Sociales de la Compañía, y con esta nueva redacción se enmendó el error material cometido en la transcripción del Acta de la Asamblea Extraordinaria de Accionistas celebrada el pasado 30 de julio de 2019.<BR>Quinto.   Se ratificaron en su cargo a los actuales, Comisarios Principales y Suplentes de la Compañía para el periodo 2020.<BR> <BR>Caracas, 08 de agosto de 2020.<BR>ALEJANDRO CHUMACEIRO<BR>El Presidente de la Empresa.<BR>CARGOPORT LOGISTICS, C.A.<BR>|
