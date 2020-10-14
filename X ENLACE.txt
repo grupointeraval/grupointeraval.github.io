@@ -1,1 +1,1 @@
-http://www.bolsadecaracas.com/esp/productos/dinamica/downloadDetail.jsp?symbol=TPG&dateFrom=20190101&dateTo=20201231&typePlazo=nada&typeReg=T
+http://www.bolsadecaracas.com/esp/productos/dinamica/downloadDetail.jsp?symbol=ABC.A&dateFrom=20190101&dateTo=20201231&typePlazo=nada&typeReg=T
