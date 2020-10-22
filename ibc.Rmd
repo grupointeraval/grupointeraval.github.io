@@ -14,7 +14,7 @@ library(highcharter)
   
 ibc <- as.data.frame(read_excel("C:/Users/analista04/Documents/R/grupointeraval.github.io/ibc.xlsx",  col_types = c("date", "numeric", "numeric")))
 
-serie_ibc=xts(ibc[,2], as.Date(ibc$fecha))
+serie_ibc=xts(ibc[,2], as.Date(ibc$FECHA))
 grafico_ibc=hchart(serie_ibc, name = "IBC") 
 grafico_ibc
 
