@@ -1,85 +1,78 @@
-IG|26102020|565517.25|7812.94|1.4|565517.25|47448.6|513283.57|982.67|
-IF|26102020|1025226.69|20732.57|2.06|
-II|26102020|218426.89|-2947.28|-1.33|
-R|B.DE VENEZUELA|BVL|15500|15500|0|0|15500|15500|15500|1|13|201500||2|
-R|B.OCC.DCTO.B.U.|BOU|90|90|0|0|90|90|90|11|564723|50825070||2|
-R|BCO. CARIBE "A"|ABC.A|485000|581999.99|96999.99|20|485000|581999.99|491807.02|7|171|84098999.88||1|
-R|BCO. PROVINCIAL|BPV|748000|730000|-18000|-2.41|730000|748000|734422.22|4|135|99147000||3|
-R|BCO.NAC.CREDITO|BNC|3299|3260|-39|-1.18|3200|3300|3253.61|27|90933|295860072||3|
-R|BOLSA V. CCAS.($)|BVCC|74100|75800|1700|2.29|74000|76000|74059.3|19|9956|737334360||1|
-R|CANTV CLASE (D)|TDV.D|112000|115000|3000|2.68|111000|115000|112902.68|7|298|33645000||1|
-R|CARGOPORT-"A"|CPL.O|13750|13750|0|0|0|0|0|3|20000|275000000||2|
-R|CORIMON C.A.|CRM.A|22999.99|22000|-999.99|-4.35|22000|22000|22000|2|148|3256000||3|
-R|CORP.IND.ENERGIA|CIE|4000|4000|0|0|4000|4000|4000|1|548|2192000||2|
-R|DOMINGUEZ & CIA|DOM|168000|168000|0|0|168000|168000|168000|2|25|4200000||2|
-R|ENVASES VZLOS.|ENV|54000|54000|0|0|54000|54000|54000|7|229|12366000||2|
-R|FONDO V.INM.(B)|FVI.B|244000|244000|0|0|240000|244000|241945.38|22|2437|589990000||2|
-R|I.CRECEPYMES -B-|ICP.B|35000|30000|-5000|-14.29|30000|30000|30000|1|117|3510000||3|
-R|MANPA, C.A. SACA|MPA|27000|27000|0|0|0|0|0|1|2500|67500000||2|
-R|MERCANTIL S.(A)|MVZ.A|790000|775000|-15000|-1.9|770000|789000|772423.08|6|36|27973000||3|
-R|MERCANTIL S.(B)|MVZ.B|790000|770000|-20000|-2.53|770000|770000|770000|7|428|329560000||3|
-R|PROAGRO|PGR|5450|5500|50|.92|5450|5500|5499.74|5|949|5219250||1|
-R|PRODUCTOS EFE|EFE|20000|20000|0|0|20000|20000|20000|3|79|1580000||2|
-R|R.S.TERESA "B"|RST.B|100000|100000|0|0|100000|100000|100000|4|280|28000000||2|
-R|RON STA. TERESA|RST|135599.99|130000|-5599.99|-4.13|130000|130000|130000|6|128|16640000||3|
-R|SIVENSA, S.A.|SVS|50000|50000|0|0|50000|50000|50000|2|170|8500000||2|
-R|T. PALO GRANDE|TPG|1019.99|999.99|-20|-1.96|999.98|1020|1008.05|4|2484|2503984.3||3|
-P|B.OCC.DCTO.B.U.|BOU||90|||90|90|90|2|234220|27403740||
-P|BCO. PROVINCIAL|BPV||730000|||730000|748000|734422.22|2|280|217000000||
-P|BCO.NAC.CREDITO|BNC||3260|||3200|3300|3253.61|2|227356|750274800||
-P|BOLSA V. CCAS.|BVCC||75800|||74000|76000|74059.3|2|35260|2715020000||
-P|DOMINGUEZ & CIA|DOM||168000|||168000|168000|168000|2|1276|222024000||
-P|ENVASES VZLOS.|ENV||54000|||54000|54000|54000|2|4324|276736000||
-P|FONDO V.INM.(A)|FVI.A||745000|||0|0|0|2|126|98280000||
-P|FONDO V.INM.(B)|FVI.B||244000|||240000|244000|241945.38|3|3530|871390000||
-P|MERCANTIL S.(A)|MVZ.A||775000|||770000|789000|772423.08|3|5828|4615230000||
-P|MERCANTIL S.(B)|MVZ.B||770000|||770000|770000|770000|4|10904|8637981999.99||
-P|R.S.TERESA "B"|RST.B||100000|||100000|100000|100000|2|3710|383985000||
-P|RON STA. TERESA|RST||130000|||130000|130000|130000|2|3186|401436000||
-VT|4|8|11|
+IG|27102020|556011.81|-9505.44|-1.68|565517.25|47448.6|503778.13|964.47|
+IF|27102020|1004799.38|-20427.31|-1.99|
+II|27102020|217656.94|-769.95|-.35|
+R|B.DE VENEZUELA|BVL|15500|15496|-4|-.03|15000|15500|15432.37|4|173|2669800||3|
+R|B.OCC.DCTO.B.U.|BOU|90|90|0|0|89|90|89.66|9|240631|21575974||2|
+R|BCO. CARIBE "A"|ABC.A|581999.99|590000|8000.01|1.37|581000|599999|583799.9|3|20|11675998||1|
+R|BCO. PROVINCIAL|BPV|730000|700000|-30000|-4.11|700000|720000|715114.62|13|314|224545990||3|
+R|BCO.NAC.CREDITO|BNC|3260|3250|-10|-.31|3200|3260|3242.32|32|2846867|9251150710||3|
+R|BOLSA V. CCAS.($)|BVCC|75800|73000|-2800|-3.69|73000|74000|73502.85|30|13867|1019264000||3|
+R|CANTV CLASE (D)|TDV.D|115000|114998.99|-1.01|0|114998.99|115000|114999.83|2|60|6899989.9||3|
+R|CORIMON C.A.|CRM.A|22000|22000|0|0|21500|22000|21986.68|7|1914|42082500||2|
+R|CORP.GPO.QUIM.|CGQ|131999.99|138000|6000.01|4.55|138000|138000|138000|1|2|276000||1|
+R|CORP.IND.ENERGIA|CIE|4000|4000|0|0|4000|4000|4000|1|67|268000||2|
+R|DOMINGUEZ & CIA|DOM|168000|167000|-1000|-.6|167000|167000|167000|2|4|668000||3|
+R|ENVASES VZLOS.|ENV|54000|53000|-1000|-1.85|52000|54000|52722.66|8|458|24146978||3|
+R|FONDO V.INM.(A)|FVI.A|745000|745000|0|0|745000|745000|745000|1|2|1490000||2|
+R|FONDO V.INM.(B)|FVI.B|244000|242000|-2000|-.82|242000|243000|242997.54|20|5704|1386059000||3|
+R|I.CRECEPYMES -B-|ICP.B|30000|28000.01|-1999.99|-6.67|28000.01|28000.01|28000.01|1|85|2380000.85||3|
+R|MANPA, C.A. SACA|MPA|27000|27000|0|0|27000|27000|27000|2|6|162000||2|
+R|MERCANTIL S.(A)|MVZ.A|775000|750000|-25000|-3.23|750000|774500|761772.73|12|177|134617500||3|
+R|MERCANTIL S.(B)|MVZ.B|770000|760000|-10000|-1.3|760000|765000|761045.88|9|685|526688900||3|
+R|PROAGRO|PGR|5500|5450|-50|-.91|5450|5500|5487.31|2|134|735300||3|
+R|R.S.TERESA "B"|RST.B|100000|100000|0|0|100000|100000.5|100000.15|17|3324|332400512||2|
+R|RON STA. TERESA|RST|130000|130000|0|0|134999.99|134999.99|134999.99|1|1|134999.99||2|
+R|T. PALO GRANDE|TPG|999.99|800.01|-199.98|-20|800.01|1199.96|862.1|4|3810|3284610.33||3|
+P|B.OCC.DCTO.B.U.|BOU||90|||89|90|89.66|1|2000000|176000000||
+P|BCO. PROVINCIAL|BPV||700000|||700000|720000|715114.62|3|1617|1230492000||
+P|BOLSA V. CCAS.|BVCC||73000|||73000|74000|73502.85|4|37398|2815032600||
+P|FONDO V.INM.(B)|FVI.B||242000|||242000|243000|242997.54|1|1500|364500000||
+P|MERCANTIL S.(A)|MVZ.A||750000|||750000|774500|761772.73|1|80|61960000||
+P|PRODUCTOS EFE|EFE||20000|||0|0|0|1|10|240000||
+P|SIVENSA, S.A.|SVS||50000|||0|0|0|1|30600|1836000000||
+VT|2|13|7|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-DV|(&)CX091P-Colocacion Primaria de Calox International, Em. 2020-IX, Serie I|
-DV|(&)CX101P-Colocacion Primaria de Calox International, Em 2020-X, Serie I|
-DV|(&)CX111P-Colocacion Primaria de Calox International, Em 2020-XI, Serie I|
-DV|(&)CX121P-Colocacion Primaria de Calox International, Em 2020-XII, Serie I|
-DV|(&)DT031P-Colocacion Primaria de Dayco Telecom, Em. 2020-III, Serie I|
-DV|(&)DT041P-Colocacion primaria de Dayco Telecom, Em 2020-IV, Serie I|
-BP|PC CALOX 20-101P|CX101P|79.2|79.2|0|0|79.2|79.2||18|15250000000|12078000000||
-BP|PC CALOX 20-111P|CX111P|79.2|79.2|0|0|79.2|79.2||18|15250000000|12078000000||
-BP|PC CALOX 20-121P|CX121P|79.2|79.2|0|0|79.2|79.2||18|15250000000|12078000000||
-BP|PC CALOX 20-9 1P|CX091P|79.2|79.2|0|0|79.2|79.2||18|15250000000|12078000000||
-BP|PC.DAYCO 20-3 S1|DT031P|79.2|79.2|0|0|79.2|79.2||7|5500000000|4356000000||
-BP|PC.DAYCO 20-4 S1|DT041P|79.2|79.2|0|0|79.2|79.2||7|5500000000|4356000000||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|13000.01|15500|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|570000|575000|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|3250|3260|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|730000|745000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|88|90|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|74103|75800|
-CC|C.A. RON SANTA TERESA|115100|133999.99|
-CC|C.A. RON SANTA TERESA (CLASE B)|100000.01|109999.99|
-CC|C.A. TELARES DE PALO GRANDE|816.01|999.98|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|112000|115000|
+DV|(&)CV012P-Colocacion Primaria de Cargill de Venezuela, Em. 2020-I, Serie II|
+DV|(&)PN012P-Colocacion Primaria Agribrands Purina Vzla. Em. 2020-I, Serie II|
+BP|PC CALOX 20-101P|CX101P|79.2|79.25|.05|.06|79.25|79.25||5|3625000000|2872812500||
+BP|PC CALOX 20-111P|CX111P|79.2|79.25|.05|.06|79.25|79.25||5|3625000000|2872812500||
+BP|PC CALOX 20-121P|CX121P|79.2|79.25|.05|.06|79.25|79.25||5|3625000000|2872812500||
+BP|PC CALOX 20-9 1P|CX091P|79.2|79.25|.05|.06|79.25|79.25||5|3625000000|2872812500||
+BP|PC CARGILL 0-I-2|CV012P|79.34|79.35|.01|.01|79.35|79.35||35|30000000000|23804700000||
+BP|PC FEMSA  20I-2P|CF012P|75|75|0|0|75|75||2|1300000000|975000000||
+BP|PC PURINA 0-I-2P|PN012P|79.34|79.35|.01|.01|79.35|79.35||7|5000000000|3967450000||
+BP|PC.DAYCO 20-3 S1|DT031P|79.2|79.25|.05|.06|79.25|79.25||7|5500000000|4358750000||
+BP|PC.DAYCO 20-4 S1|DT041P|79.2|79.25|.05|.06|79.25|79.25||7|5500000000|4358750000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|12410|15493.95|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|585000|590000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|3000|3250|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|690000|719990|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|89|90|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|72000|73000|
+CC|C.A. RON SANTA TERESA|117001|130999|
+CC|C.A. RON SANTA TERESA (CLASE B)|95000|109000|
+CC|C.A. TELARES DE PALO GRANDE|800.01|1000|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|99999.99|114998|
 CC|CERAMICA CARABOBO, SACA|1952510|2399990|
-CC|CORIMON, C.A.|20000|22000|
+CC|CORIMON, C.A.|20000|22999.99|
 CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3360|4000|
-CC|CORP.GRUPO QUIMICO, C.A.|135000|158399.97|
-CC|DOMINGUEZ & CIA., S.A.|137500|168000|
-CC|ENVASES VENEZOLANOS S.A.|51000|54000|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.||127000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)||745000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|244000|245000|
-CC|GRUPO ZULIANO, C.A.|158000|189500|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|240000.01||
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|30000.01|41999.99|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|22500|27000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|770000|775000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|770000|788999.99|
-CC|PROAGRO C.A.|5450|5500|
+CC|CORP.GRUPO QUIMICO, C.A.|138000|158399.97|
+CC|DOMINGUEZ & CIA., S.A.|137500|167000|
+CC|ENVASES VENEZOLANOS S.A.|51000|53000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||125000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|700000|730000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|200000|242000|
+CC|GRUPO ZULIANO, C.A.|158000|187500|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|250000|358999.99|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|28000.01|41999.99|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|27000|27500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|700000|760000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|600000|760000|
+CC|PROAGRO C.A.|5000|5450|
 CC|PRODUCTOS EFE S.A.|16000.01|23997|
 CC|PROTINAL C.A.|11200|15500|
-CC|SIVENSA, S.A|40250|50000|
-NO|CALOX INTERNATIONAL, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CALOX INTERNATIONAL, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de las Emisiones 2020-IX, 2020-X, 2020-XI y 2020-XII, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CALOX INTERNATIONAL, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 168/2020 de fecha 20/10/2020<BR>Providencia Nro 167/2020 de fecha 20/10/2020<BR>Providencia Nro 165/2020 de fecha 20/10/2020<BR>Providencia Nro 166/2020 de fecha 20/10/2020<BR>Emisor	CALOX INTERNATIONAL, C.A.<BR>Emisión 	2020-IX<BR>2020-X<BR>2020-XI<BR>2020-XII<BR>Series a colocar		Serie I c/u.<BR>Monto de Emisión. 	Bs.  25.000.000.000,00 c/u.<BR>Monto por de la serie 	Bs.  25.000.000.000,00 c/u.<BR>Códigos  ISIN	Em. 2020-IX,  Serie I,  VEV00395WOU4<BR>Em. 2020-X,   Serie I,  VEV00395WOV2<BR>Em. 2020-XI,  Serie I,  VEV00395WOW0<BR>Em. 2020-XII, Serie I,  VEV00395WOX8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Emision 2020-IX,  Serie I,  CX091P<BR>Emision 2020-X,   Serie I,  CX101P<BR>Emision 2020-XI,  Serie I,  CX111P<BR>Emision  2020-XII, Serie I,  CX121P<BR>Fecha de Inicio de Sesión Especial 	26/10/2020<BR>Fecha de vencimiento de las Emisiones.	26/01/2021<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	79,20% c/u.<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A 1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 1:00 p.m.<BR>|
-NO|DAYCO TELECOM, C.A. (DAYCOHOST)|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de DAYCO TELECOM, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie I, de la Emisión 2020-III y Emisión 2020-IV, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora DAYCO TELECOM, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 169/2020 de fecha 20/10/2020<BR>Providencia Nro 170/2020 de fecha 20/10/2020<BR>Emisor	DAYCO TELECOM, C.A.,<BR>Emisiones	2020-III y 2020-IV.<BR>Series a colocar		Serie I c/u.<BR>Monto de Emisión. 	Bs.  11.000.000.000,00 c/u.<BR>Monto por series 	Bs.  11.000.000.000,00 c/u.<BR>Códigos  ISIN	Em. 2020-III, Serie I:      VEV00348WOY5<BR>Emision. 2020-IV, Serie I:      VEV00348WOZ2<BR>Código del Activo	PC<BR>Código de Símbolo en SIB<BR>E, Mercado Primario	Emision 2020-III, Serie I:       DT031P<BR>Emision  2020-IV, Serie I:       DT041P<BR>Fecha de Inicio de Sesión Especial 	26/10/2020<BR>Fecha de Vencimiento de las Series.	26/01/2021<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	79,20% c/u.<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m.  a 1:00 p.m.<BR>|
+CC|SIVENSA, S.A|40250|49000|
+NO|AGRIBRANDS PURINA VENEZUELA S.R.L.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de AGRIBRANDS PURINA VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondiente a la Serie II, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora AGRIBRANDS PURINA VENEZUELA, S.R.L.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 090 de fecha 15/07/2020<BR>Emisor	AGRIBRANDS PURINA VENEZUELA, S.R.L.<BR>Emisión 	2020-I<BR>Series a colocar		Serie II<BR>Monto de Emisión. 	Bs.   5.000.000.000,00.<BR>Monto de la serie. 	Bs.   5.000.000.000,00.<BR>Códigos  ISIN	VEV00393WPB6<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	PN012P<BR>Fecha de Inicio de Sesión Especial 	27/10/2020<BR>Fecha de Vencimiento de la Serie.	27/01/2021<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	79,3495%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Clave, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	 De 9:30 a.m a 1:00 p.m.<BR>|
+NO|CARGILL DE VENEZUELA, S.R.L.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CARGILL DE VENEZUELA, S.R.L., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Serie II, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CARGILL DE VENEZUELA, S.R.L<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 091 de fecha 15/07/2020<BR>Emisor	CARGILL DE VENEZUELA, S.R.L.<BR>Emisión 	2020-I<BR>Series a colocar		Serie II<BR>Monto de Emisión. 	Bs.  30.000.000.000,00.<BR>Monto por serie 	Bs.  30.000.000.000,00.<BR>Códigos  ISIN	VEV00392WPA0<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	CV012P<BR>Fecha de Inicio de Sesión Especial 	27/10/2020<BR>Fecha de Vencimiento de las Series.	27/01/2021<BR>Agentes de la Colocación 	Mercosur Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación de las Series.	79,3495%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Clave Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m. a 1:00 p.m. <BR>|
