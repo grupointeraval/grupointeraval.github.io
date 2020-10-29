@@ -95,6 +95,11 @@ library(kableExtra)
     accion=subset(accion, 
                   accion$Tipo.de.operacion=="R"&(accion[,3]>0&accion[,4]>0))
     
+    
+    fecha_split=as.Date("2020-10-16", format="%Y-%m-%d")
+    
+    
+    
     if (nombre=="BVCC")
     {
       accion[-c(1,2,3,4),]
@@ -189,7 +194,7 @@ library(kableExtra)
   mercado=data.frame(
     acciones = c ("FVI.A"),
     
-    numero_de_acciones=c(1730129521),
+    numero_de_acciones=c(18877764),
     
     
     precio=c(FVI.A$precio)

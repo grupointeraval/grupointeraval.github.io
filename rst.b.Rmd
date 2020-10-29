@@ -189,7 +189,7 @@ library(kableExtra)
   mercado=data.frame(
     acciones = c ("RST.B"),
     
-    numero_de_acciones=c(1747687),
+    numero_de_acciones=c(2228101),
     
     
     precio=c(RST.B$precio)

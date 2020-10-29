@@ -190,7 +190,7 @@ library(kableExtra)
   mercado=data.frame(
     acciones = c ("BNC"),
     
-    numero_de_acciones=c( 5791930372),
+    numero_de_acciones=c(5791930372),
     
     
     precio=c(bnc$precio)
