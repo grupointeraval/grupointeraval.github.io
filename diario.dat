@@ -1,61 +1,74 @@
-IG|28102020|573980.38|17968.57|3.23|573980.38|47448.6|521746.7|998.87|
-IF|28102020|1043168.69|38369.31|3.82|
-II|28102020|219335.48|1678.54|.77|
-R|B.DE VENEZUELA|BVL|15496|15447.99|-48.01|-.31|15000|15447.99|15446.3|2|1590|24559616.16||3|
-R|B.OCC.DCTO.B.U.|BOU|90|99|9|10|89|100|92.48|19|861929|79708761.27||1|
-R|BCO. CARIBE "A"|ABC.A|590000|639999.99|49999.99|8.47|581000|700000|613220|8|50|30660999.82||1|
-R|BCO. PROVINCIAL|BPV|700000|739999|39999|5.71|705000|739999|705063.63|4|1100|775569998||1|
-R|BCO.NAC.CREDITO|BNC|3250|3245|-5|-.15|3200|3290|3232.99|18|278467|904467610||3|
-R|BOLSA V. CCAS.($)|BVCC|73000|73000|0|0|73000|74500|73171.62|33|12922|945606502.45||2|
-R|CANTV CLASE (D)|TDV.D|114998.99|111000|-3998.99|-3.48|111000|114997|113565.65|8|709|80518048||3|
-R|CORIMON C.A.|CRM.A|22000|22000|0|0|22000|22000|22000|2|28|616000||2|
-R|CORP.IND.ENERGIA|CIE|4000|4000|0|0|4000|4000|4000|1|50|200000||2|
-R|DOMINGUEZ & CIA|DOM|167000|167000|0|0|167000|167000|167000|1|12|2004000||2|
-R|FAB.N.CEMENTOS|FNC|112000|112000|0|0|112000|112000|112000|1|100|11200000||2|
-R|FONDO V.INM.(A)|FVI.A|745000|740000|-5000|-.67|740000|745000|740217.39|2|69|51075000||3|
-R|FONDO V.INM.(B)|FVI.B|242000|242000|0|0|241000|243000|242034.59|13|2429|587902012.5||2|
-R|MERCANTIL S.(A)|MVZ.A|750000|750000|0|0|745000|750000|749510.98|14|205|153649750||2|
-R|MERCANTIL S.(B)|MVZ.B|760000|759000|-1000|-.13|759000|759000|759000|1|129|97911000||3|
-R|PROAGRO|PGR|5450|5495|45|.83|5450|5500|5483.86|3|3004|16473510||1|
-R|R.S.TERESA "B"|RST.B|100000|100000|0|0|100000|100000|100000|1|397|39700000||2|
-R|RON STA. TERESA|RST|130000|134999.99|4999.99|3.85|130000|134999.99|130017.52|10|1712|222589999.94||1|
-R|T. PALO GRANDE|TPG|800.01|800|-.01|0|800|960|804.63|6|20715|16668000||3|
-P|BCO. PROVINCIAL|BPV||739999|||705000|739999|705063.63|2|7438|5243790000||
-P|BOLSA V. CCAS.|BVCC||73000|||73000|74500|73171.62|3|52000|3846000000||
-P|FONDO V.INM.(B)|FVI.B||242000|||241000|243000|242034.59|1|2500|607500000||
-P|MERCANTIL S.(A)|MVZ.A||750000|||745000|750000|749510.98|2|5550|4495425463.5||
-P|MERCANTIL S.(B)|MVZ.B||759000|||759000|759000|759000|2|10923|8812492705.11||
-P|RON STA. TERESA|RST||134999.99|||130000|134999.99|130017.52|4|49892|6923153645||
-VT|5|6|8|
+IG|30102020|580091.62|3109.56|.54|580091.62|47448.6|527857.94|1010.57|
+IF|30102020|1054987.62|2692.5|.26|
+II|30102020|221024|3875.22|1.78|
+R|B.DE VENEZUELA|BVL|14799|15999.99|1200.99|8.12|14500|15999.99|14682.45|5|627|9205899.21||1|
+R|B.OCC.DCTO.B.U.|BOU|99|114.99|15.99|16.15|99|115|110.97|22|444538|49718292.51||1|
+R|BCO. CARIBE "A"|ABC.A|639999.99|635000|-4999.99|-.78|635000|635000|635000|6|38|24130000||3|
+R|BCO. PROVINCIAL|BPV|756000.1|755000|-1000.1|-.13|750000|760000|752500|14|236|177590000||3|
+R|BCO.NAC.CREDITO|BNC|3250|3250|0|0|3250|3300|3260.18|31|50517|164681600||2|
+R|BOLSA V. CCAS.($)|BVCC|77999.99|79995|1995.01|2.56|78000|82000|79923.26|23|2466|197090767||1|
+R|CANTV CLASE (D)|TDV.D|114000|115500|1500|1.32|114000|115500|114556.6|5|159|18214500||1|
+R|CORIMON C.A.|CRM.A|22000|22000|0|0|21501|22000|21947.33|6|1284|28106284||2|
+R|CORP.IND.ENERGIA|CIE|3360|3360|0|0|3360|3360|3360|1|4000|13440000||2|
+R|DOMINGUEZ & CIA|DOM|168000|167500|-500|-.3|167500|167500|167500|1|6|1005000||3|
+R|ENVASES VZLOS.|ENV|53900|55000|1100|2.04|55000|60000|55023.47|4|1065|58600000||1|
+R|FONDO V.INM.(B)|FVI.B|246000|244000|-2000|-.81|244000|246000|244031.75|3|252|61496000||3|
+R|I.CRECEPYMES -B-|ICP.B|28000.01|28000.01|0|0|32100|32100|32100|1|4|128400||2|
+R|MANPA, C.A. SACA|MPA|27550|27550|0|0|27550|27550|27550|1|50|1377500||2|
+R|MERCANTIL S.(A)|MVZ.A|750000|760000|10000|1.33|760000|760000|760000|8|58|44080000||1|
+R|MERCANTIL S.(B)|MVZ.B|758999.99|760000|1000.01|.13|750000.01|760000|757826.09|12|92|69720000.2||1|
+R|PROAGRO|PGR|5500|5500|0|0|5500|5550|5502.03|9|6888|37898000||2|
+R|PRODUCTOS EFE|EFE|20000|23990|3990|19.95|21000|23990|22013.14|4|121|2663590||1|
+R|PROTINAL|PTN|14000|15100|1100|7.86|15000|15100|15097.74|2|665|10040000||1|
+R|R.S.TERESA "B"|RST.B|100000.02|120100|20099.98|20.1|107000|120100|119941.33|5|225|26986800.1||1|
+R|RON STA. TERESA|RST|130000|140000.01|10000.01|7.69|133000|140000.01|139027.81|15|1115|155016009.16||1|
+R|SIVENSA, S.A.|SVS|48000|40250|-7750|-16.15|40250|40250|40250|1|52|2093000||3|
+R|T. PALO GRANDE|TPG|850|850|0|0|800|850|848.21|14|45948|38973400||2|
+P|B.DE VENEZUELA|BVL||15999.99|||14500|15999.99|14682.45|1|100|1500000||
+P|B.OCC.DCTO.B.U.|BOU||114.99|||99|115|110.97|1|1559106|179297190||
+P|BCO. PROVINCIAL|BPV||755000|||750000|760000|752500|3|1403|1268744000||
+P|BCO.NAC.CREDITO|BNC||3250|||3250|3300|3260.18|1|127111|413110750||
+P|BOLSA V. CCAS.|BVCC||79995|||78000|82000|79923.26|6|200306|15710280000||
+P|FONDO V.INM.(B)|FVI.B||244000|||244000|246000|244031.75|2|4980|1225080000||
+P|MERCANTIL S.(A)|MVZ.A||760000|||760000|760000|760000|1|100|75000000||
+P|MERCANTIL S.(B)|MVZ.B||760000|||750000.01|760000|757826.09|1|470|356260000||
+P|R.S.TERESA "B"|RST.B||120100|||107000|120100|119941.33|2|2113|253410000||
+P|RON STA. TERESA|RST||140000.01|||133000|140000.01|139027.81|6|13422|1976936473||
+VT|11|5|7|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|13500|14999.99|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|629000|639999.99|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|3200|3250|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|720000|739850|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|90|99|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|72001|74000|
-CC|C.A. RON SANTA TERESA|120000|130000|
-CC|C.A. RON SANTA TERESA (CLASE B)|101000|118000|
-CC|C.A. TELARES DE PALO GRANDE|671|800|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|111000|113000|
-CC|CERAMICA CARABOBO, SACA|1952510|2365000|
-CC|CORIMON, C.A.|20000|22000|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3360|4000|
-CC|CORP.GRUPO QUIMICO, C.A.|138000|165599.99|
-CC|DOMINGUEZ & CIA., S.A.|167000|168000|
-CC|ENVASES VENEZOLANOS S.A.|51000|53900|
+BP|STERITEX 20-1-3P|SR013P|80|80|0|0|80|80||7|100000000|80000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|13705.01|15999.99|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|550001|600000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|3200|3300|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|750000|755000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|103|110|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|79000|79995|
+CC|C.A. RON SANTA TERESA|140000|145000|
+CC|C.A. RON SANTA TERESA (CLASE B)|120100|129999.99|
+CC|C.A. TELARES DE PALO GRANDE|751|850|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|120000|125000|
+CC|CERAMICA CARABOBO, SACA|1953000|2248000|
+CC|CORIMON, C.A.|20101|22999.99|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3360|3800|
+CC|CORP.GRUPO QUIMICO, C.A.|102000|165599.99|
+CC|DOMINGUEZ & CIA., S.A.|137500|168000|
+CC|ENVASES VENEZOLANOS S.A.|54000|60000|
 CC|FABRICA NACIONAL DE CEMENTOS, C.A.||127000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|700000|735000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|242000|244000|
-CC|GRUPO ZULIANO, C.A.|158000|189500|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|241000|359000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|33600.01|41999.99|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|21601|27450|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|650000|750000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|700000|759900|
-CC|PROAGRO C.A.|4350|5449|
-CC|PRODUCTOS EFE S.A.|16000.01|22995|
-CC|PROTINAL C.A.|11200||
-CC|SIVENSA, S.A|40250|49999|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|655000|699999.99|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|242000|246000|
+CC|GRUPO ZULIANO, C.A.|158000|190000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|300000|360000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|32100|33600.01|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|21601|27550|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|750000|760000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|760000|810000|
+CC|PROAGRO C.A.|4500|5550|
+CC|PRODUCTOS EFE S.A.|16000.01|23990|
+CC|PROTINAL C.A.|15000|15999.99|
+CC|SIVENSA, S.A|40250|48000|
+NO|FVI.FONDO DE VALORES INMOBILIARIOS,SACA.|       CONVOCATORIA ASAMBLEA ORDINARIA DE ACCIONISTAS<BR>                   F.V.I. FONDO DE VALORES INMOBILIARIOS, S.A.C.A.<BR><BR> Se convoca a los señores accionistas de la empresa F.V.I. FONDO DE VALORES INMOBILIARIOS, S.A.C.A. para la celebración de la Asamblea General Ordinaria de Accionistas a ser realizada el día veinticinco (25) de noviembre de 2020, a las 4:00 p.m., de forma presencial en la siguiente dirección: Avenida Venezuela, Edificio El Samán, Piso 8, Urbanización El Rosal, Caracas y/o a través de Videoconferencia 1, con la finalidad de tratar los siguientes puntos del Orden del Día, a saber:<BR><BR>Primero.   Informe que presenta la Junta Directiva de la compañía.<BR><BR>Segundo.  Considerar y resolver acerca de la aprobación o modificación de los estados financieros de la Compañía, correspondiente al ejercicio económico comprendido entre el 01 de octubre de 2018 y el 30 de septiembre de 2019, con vista al informe de los Comisarios.<BR><BR>Tercero.  En caso de ser aprobados los estados financieros de la compañía, de acuerdo al punto Segundo, considerar y resolver sobre el dividendo a ser repartido entre los accionistas.<BR><BR>Cuarto.  Considerar y resolver acerca de la designación de los miembros de la Junta Directiva de la compañía, para el período comprendido entre el 2020 y el 2021.<BR><BR>Quinto.  Considerar y resolver acerca del nombramiento de los Comisarios y fijar su remuneración.<BR><BR>Caracas, 30 de octubre de 2020.<BR>La Junta Directiva<BR>F.V. I FONDO DE VALORES INMOBILIARIOS, S.AC.A.<BR><BR>Notas: (1) Las instrucciones a seguir para asistir a la asamblea de manera no presencial, serán publicadas en el portal web: www.fvi.com.ve<BR>|
+NO||(2) Los Estados Financieros Auditados y el informe de los Comisarios, estarán a la disposición de los señores accionistas a partir de la presente fecha, en la sede de la compañía ubicada en la Avenida Venezuela, Edificio El Samán, Piso 9, Urbanización El Rosal, Caracas.<BR>(3). Con ocasión a la pandemia denominada Coronavirus (COVID-19) y en estricto cumplimiento de la Resolución Nro. 090, de fecha 1 de junio de 2020 del Ministerio del Poder Popular para la Salud, mediante la cual se establece la normativa sanitaria de responsabilidad social ante la referida pandemia, se requerirá en la asamblea el uso obligatorio de mascarilla, distanciamiento social mínimo de 1,5 metros entre los asistentes y se aplicará antibacterial al ingreso de las instalaciones<BR>|
+NO|INVACA,INMUEBLES,VALORES Y CAPITALES,|CONVOCATORIA ASAMBLEA ORDINARIA DE ACCIONISTAS<BR>      INVACA, INMUEBLES, VALORES Y CAPITALES, S.A.C.A.<BR><BR> Se convoca a los señores accionistas de la empresa, INVACA, INMUEBLES, VALORES Y CAPITALES, S.A.C.A. a la Asamblea General Ordinaria de Accionistas a celebrarse el día veinticinco (25) de noviembre de 2020, a las 3:00 p.m., de forma presencial en la siguiente dirección:   Avenida Venezuela, Edificio El Samán, Piso 8, Urbanización El Rosal, Caracas y/o a través de Videoconferencia1, con la finalidad de tratar los siguientes puntos del Orden del Día, a saber:<BR><BR>Primero. -  Informe que presenta la Junta Directiva de la compañía.<BR><BR>Segundo. - Considerar y resolver acerca de la aprobación o modificación de los estados financieros de la compañía, correspondientes al ejercicio económico comprendido entre el 01 de julio de 2018 y el 30 de junio de 2019, con vista al informe de los Comisarios.<BR><BR>Tercero. - En caso de ser aprobados los estados financieros de la compañía, de acuerdo al punto Segundo, considerar y resolver sobre el dividendo a ser repartido entre los accionistas.<BR><BR>Cuarto. - Considerar y resolver acerca de la designación de los miembros de la Junta Directiva de la compañía, para el período comprendido entre el 2020 y el 2021.<BR><BR>Quinto.    Considerar y resolver acerca del nombramiento de los Comisarios Principales y sus Suplentes y fijar su remuneración.<BR><BR>Caracas, 30 de octubre de 2020.<BR>La Junta Directiva<BR>INVACA, Inmuebles, Valores y Capitales, S.A.C.A.<BR> <BR>Notas: (1) Las instrucciones a seguir para asistir a la asamblea de manera no presencial, serán publicadas en el portal web de INVACA : https://www.fvi.com.ve/category/invaca/<BR>(2) Los Estados Financieros Auditados y el Informe de los Comisarios, estarán a la disposición de los señores accionistas a partir de la presente fecha, en la sede de la compañía ubicada en la Avenida Venezuela, Edificio El Samán, Piso 9, Urbanización El Rosal, Caracas.<BR>|
+NO||(3). Con ocasión a la pandemia denominada Coronavirus (COVID-19) y en estricto cumplimiento de la Resolución Nro. 090, de fecha 1 de junio de 2020 del Ministerio del Poder Popular para la Salud, mediante la cual se establece la normativa sanitaria de responsabilidad social ante la referida pandemia, se requerirá en la asamblea el uso obligatorio de mascarilla, distanciamiento social mínimo de 1,5 metros entre los asistentes y se aplicará antibacterial al ingreso de las instalaciones|

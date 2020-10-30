@@ -11,6 +11,8 @@ library(readxl)
 library(dplyr)
 library(highcharter)
 
+
+
   
 ibc <- as.data.frame(read_excel("C:/Users/analista04/Documents/R/grupointeraval.github.io/ibc.xlsx",  col_types = c("date", "numeric", "numeric")))
 
@@ -18,5 +20,43 @@ serie_ibc=xts(ibc[,2], as.Date(ibc$FECHA))
 grafico_ibc=hchart(serie_ibc, name = "IBC") 
 grafico_ibc
 
+
+
+
 ```
 
+
+### IBC vs Dólar/Bs. vs Inflación vs Bitcoin
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+ibc <- function(){
+library(flexdashboard)
+library(dygraphs)
+library(xts)
+library(readr)
+library(readxl)
+library(zoo)
+library(dplyr)
+library(magrittr)
+library(highcharter)
+library(readxl)
+  
+ibc <- read_excel("C:/Users/analista04/Documents/R/grupointeraval.github.io/variaciones.xlsx",  col_types = c("date", "numeric", "numeric",  "numeric", "numeric",  "numeric","numeric","numeric"))
+ibc=as.data.frame(ibc)
+serie_ibc_1=xts(ibc[,3], as.Date(ibc$fecha))
+serie_ibc_2=xts(ibc[,4], as.Date(ibc$fecha))
+serie_ibc_3=xts(ibc[,6], as.Date(ibc$fecha))
+serie_ibc_4=xts(ibc[,8], as.Date(ibc$fecha))
+grafico_ibc_1=hchart(serie_ibc_1, name = "% Variación mensual IBC", type="line") %>% 
+hc_add_series(serie_ibc_2, name = "% Variación mensual inflación", type="line")%>% 
+  hc_add_series(serie_ibc_3, name = "% Variación mensual Dólar/Bs.", type="line")%>% 
+    hc_add_series(serie_ibc_4, name = "% Variación mensual BTC/Dólar.", type="line")%>% 
+hc_legend(enabled = T)  
+grafico_ibc_2=hchart(serie_ibc_2, name = "Puntos")
+grafico_ibc_3=hchart(serie_ibc_3, name = "% Var Dólar")
+datos=list("grafico_1"=grafico_ibc_1,"grafico_2"=grafico_ibc_2, "grafico_3"=grafico_ibc_3)
+return(datos)
+}
+ibc=ibc()
+ibc$grafico_1
+```
