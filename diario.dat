@@ -1,86 +1,80 @@
-IG|25112020|800859.94|6820.94|.86|800859.94|60293.5|748626.26|1433.23|
-IF|25112020|1424638.75|990.87|.07|
-II|25112020|324940.56|3840.59|1.2|
-R|B.DE VENEZUELA|BVL|25200|30239.99|5039.99|20|30239.99|30239.99|30239.99|1|10|302399.9||1|
-R|B.OCC.DCTO.B.U.|BOU|170|160|-10|-5.88|160|170|160|6|73280|11725080||3|
-R|BCO. CARIBE "A"|ABC.A|995000|1000000|5000|.5|1000000|1000000|1000000|3|13|13000000||2|
-R|BCO. PROVINCIAL|BPV|950000|969000|19000|2|950000|970000|951750|9|1011|960908000||2|
-R|BCO.NAC.CREDITO|BNC|3980|4000|20|.5|3980|4000|3992.68|32|84501|337152340||1|
-R|BOLSA V. CCAS.($)|BVCC|105000|107000|2000|1.9|104500|109000|105921.72|45|50189|5319782081.47||1|
-R|CANTV CLASE (D)|TDV.D|195000|194999|-1|0|194999|200000|195279.77|7|1787|348964952||3|
-R|CORIMON C.A.|CRM.A|29000|33000|4000|13.79|30000|33000|30496.57|4|6563|200149000||1|
-R|CORP.IND.ENERGIA|CIE|4100|4510|410|10|4510|4510|4510|2|630|2841300||1|
-R|CR.CARABOBO|CCR|2500000|3000000|500000|20|2500000|3000000|2874990|6|12|34499930||2|
-R|DOMINGUEZ & CIA|DOM|178000|178000|0|0|178000|178000|178000|1|1|178000||2|
-R|ENVASES VZLOS.|ENV|105000|100000|-5000|-4.76|100000|105000|100584.31|11|2562|257697000||3|
-R|FAB.N.CEMENTOS|FNC|115000|137999.99|22999.99|20|125000|137999.99|130777.77|2|90|11769999.6||1|
-R|FONDO V.INM.(A)|FVI.A|600000|600000|0|0|600000|600000|600000|2|30|18000000||2|
-R|FONDO V.INM.(B)|FVI.B|276000|289000|13000|4.71|277000|289000|278191.21|11|910|253154000||1|
-R|GRUPO ZULIANO|GZL|170000|175000|5000|2.94|175000|175000|175000|1|5|875000||1|
-R|I.CRECEPYMES -B-|ICP.B|40320|45000|4680|11.61|45000|45000|45000|2|27|1215000||1|
-R|INM.VAL.Y CAP.|IVC|395999.99|390000|-5999.99|-1.52|390000|390000|390000|2|82|32100000||3|
-R|MANPA, C.A. SACA|MPA|29800|29800|0|0|29800|29800|29800|1|10|298000||2|
-R|MERCANTIL S.(A)|MVZ.A|999999|1083000|83001|8.3|1000000|1083000|1031970|28|4746|4903901640||1|
-R|MERCANTIL S.(B)|MVZ.B|999999.99|950000|-49999.99|-5|950000|1000000|996250|26|2658|2613350000||3|
-R|PROAGRO|PGR|5650|5800|150|2.65|5800|6100|5800.96|5|2508|14548800||1|
-R|PRODUCTOS EFE|EFE|35999|40000|4001|11.11|36000|43198.78|37741.84|3|62|2339993.9||1|
-R|PROTINAL|PTN|20000|20700|700|3.5|20700|20700|20700|1|280|5796000||1|
-R|R.S.TERESA "B"|RST.B|140000|155000|15000|10.71|140000|155000|140660.61|12|975|137045000||1|
-R|RON STA. TERESA|RST|225000|225000|0|0|225000|225000|225000|3|33|7425000||2|
-R|SIVENSA, S.A.|SVS|40650|48780|8130|20|48779.99|48780|48779.99|2|28|1365839.77||1|
-P|B.OCC.DCTO.B.U.|BOU||160|||160|170|160|2|243290|36493500||
-P|BCO. PROVINCIAL|BPV||969000|||950000|970000|951750|2|360|334800000||
-P|BCO.NAC.CREDITO|BNC||4000|||3980|4000|3992.68|2|227356|886688400||
-P|BOLSA V. CCAS.|BVCC||107000|||104500|109000|105921.72|9|136035|15421443440||
-P|CANTV CLASE (D)|TDV.D||194999|||194999|200000|195279.77|2|1080|183600000||
-P|DOMINGUEZ & CIA|DOM||178000|||178000|178000|178000|2|1276|227128000||
-P|ENVASES VZLOS.|ENV||100000|||100000|105000|100584.31|2|3924|392400000||
-P|FONDO V.INM.(A)|FVI.A||600000|||600000|600000|600000|2|126|75600000||
-P|FONDO V.INM.(B)|FVI.B||289000|||277000|289000|278191.21|5|2230|626120000||
-P|MERCANTIL S.(A)|MVZ.A||1083000|||1000000|1083000|1031970|2|358|340100000||
-P|MERCANTIL S.(B)|MVZ.B||950000|||950000|1000000|996250|2|1006|955700000||
-P|R.S.TERESA "B"|RST.B||155000|||140000|155000|140660.61|10|89213|13762601795||
-P|RON STA. TERESA|RST||225000|||225000|225000|225000|4|1182|241400000||
-VT|18|5|4|
+IG|27112020|1142802|251338.44|28.19|1142802|60502.85|1090568.32|2087.86|
+IF|27112020|2277583.75|659592.37|40.77|
+II|27112020|440116.22|81513.28|22.73|
+R|B.DE VENEZUELA|BVL|36287.97|43495|7207.03|19.86|43495|43499.99|43497.85|3|70|3044849.6||1|
+R|B.OCC.DCTO.B.U.|BOU|174|198|24|13.79|179.99|198.99|187.87|11|86373|16226521.08||1|
+R|BCO. CARIBE "A"|ABC.A|1000000|1200000|200000|20|1200000|1200000|1200000|2|21|21200000||2|
+R|BCO. PROVINCIAL|BPV|960000|1300000|340000|35.42|980000|1300000|1105170|22|924|1017113100||1|
+R|BCO.NAC.CREDITO|BNC|4700|6767|2067|43.98|4700|6767.99|5602.11|45|145747|820643648.71||1|
+R|BOLSA V. CCAS.($)|BVCC|112000|162000|50000|44.64|120000|162000|129375.14|40|31271|4036315000||1|
+R|CANTV CLASE (D)|TDV.D|193999|215000|21001|10.83|193999|215000|199602.93|10|1168|233136227||1|
+R|CORIMON C.A.|CRM.A|35000|35500|500|1.43|35000|35500|35151.09|9|4259|149708500||1|
+R|CORP.IND.ENERGIA|CIE|4850|4850|0|0|4800|4850|4847.38|3|325|1575400||2|
+R|CR.CARABOBO|CCR|3000000|4310000|1310000|43.67|3150000|4310000|3598520|9|1074|3864809910||1|
+R|DOMINGUEZ & CIA|DOM|186000|209000|23000|12.37|201000|209000|204711.16|7|914|187106000||1|
+R|ENVASES VZLOS.|ENV|105000|105600|600|.57|105500|105600|105589.89|19|7904|834582500||1|
+R|FAB.N.CEMENTOS|FNC|137999.99|138000|.01|0|138000|138000|138000|2|17|2346000||1|
+R|FONDO V.INM.(A)|FVI.A|600000|610000|10000|1.67|590000|610000|605424.05|10|158|95657000||1|
+R|FONDO V.INM.(B)|FVI.B|309000|444000|135000|43.69|325000|444959.99|365617.83|11|2129|778400349.98||1|
+R|GRUPO ZULIANO|GZL|180000|180000|0|0|180000|190000|181666.67|2|6|1090000||2|
+R|I.CRECEPYMES -B-|ICP.B|45000|53999.99|8999.99|20|45000|53999.99|45984.37|2|128|5885999.86||1|
+R|INM.VAL.Y CAP.|IVC|390000|440000|50000|12.82|400000|468000|405163.64|5|55|22284000||1|
+R|MANPA, C.A. SACA|MPA|33500|33500|0|0|33500|33500|33500|2|275|9212500||2|
+R|MERCANTIL S.(A)|MVZ.A|1127000|1300000|173000|15.35|1300000|1360000|1333930|8|200|267124000||1|
+R|MERCANTIL S.(B)|MVZ.B|1082500|1300000|217500|20.09|1299000|1300000|1299880|5|81|105290000||2|
+R|PROAGRO|PGR|6400|6400|0|0|7680|7680|7680|1|5|38400||2|
+R|PRODUCTOS EFE|EFE|44500|53399.99|8899.99|20|53399.99|53399.99|53399.99|1|7|373799.93||1|
+R|R.S.TERESA "B"|RST.B|185000|230000|45000|24.32|210000|230000|215787.44|16|1566|316468000.04||1|
+R|RON STA. TERESA|RST|270000|370000|100000|37.04|300000|370000|342617.51|6|434|148696000.04||1|
+R|SIVENSA, S.A.|SVS|51499.99|61799.97|10299.98|20|54500|61799.97|57978|2|382|22147594.54||1|
+R|T. PALO GRANDE|TPG|1198.99|1198.99|0|0|1438.77|1438.77|1438.77|1|80|115101.6||2|
+P|BCO. PROVINCIAL|BPV||1300000|||980000|1300000|1105170|2|131|124450000||
+P|BCO.NAC.CREDITO|BNC||6767|||4700|6767.99|5602.11|1|8000|40000080||
+P|BOLSA V. CCAS.|BVCC||162000|||120000|162000|129375.14|3|27999|3423905000||
+P|FONDO V.INM.(B)|FVI.B||444000|||325000|444959.99|365617.83|3|5020|1816180740||
+P|MERCANTIL S.(A)|MVZ.A||1300000|||1300000|1360000|1333930|3|130|140790000||
+P|RON STA. TERESA|RST||370000|||300000|370000|342617.51|1|200|76000000||
+VT|22|0|5|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-DV|(&)TE201P-Colocacion Primaria de Topenca, Em. 2020-I, Serie I|
-DV|(&)YV02-P. C. de Y&V Ingenieria y Construccion, Em 2020, Serie 2|
-BP|PC Y&V ING 20 2|YV02|89.76|89.76|0|0|89.76|89.76||6|5245000000|4707964450||
-BP|PC.TOPENCA 2011P|TE201P|80|80|0|0|80|80||14|12000000000|9600000000||
-BP|STERITEX 20-2-4P|SR024P|78.5|78.5|0|0|78.5|78.5||7|4254514246|3339793683.11||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|26000|30239.99|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)||1000000|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|3985|4000|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|800000|969000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL||160|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|106000|107000|
-CC|C.A. RON SANTA TERESA|225000|260000|
-CC|C.A. RON SANTA TERESA (CLASE B)|150000|155000|
-CC|C.A. TELARES DE PALO GRANDE|1000|1190|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|156000|194999|
-CC|CERAMICA CARABOBO, SACA|3000000|3050000|
-CC|CORIMON, C.A.|30000|33000|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|4510|4919.99|
+DV|(&)CX131P-Colocacion Primaria de Calox International. Em 2020-XIII, Serie I|
+DV|(&)CX141P-Colocacion primaria de Calox International, Em. 2020-IV, Serie I|
+BP|PC CALOX 20-131P|CX131P|79.2|79.2|0|0|79.2|79.2||20|17500000000|13860000000||
+BP|PC CALOX 20-141P|CX141P|79.2|79.2|0|0|79.2|79.2||20|17500000000|13860000000||
+BP|STERITEX 20-2-4P|SR024P|78.5|78.5|0|0|78.5|78.5||1|608552792|477713941.72||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|36287.97|43495|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|1000000|1300000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|5500|6767|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|1300000|1382390|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|198|198.99|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|162000|165000|
+CC|C.A. RON SANTA TERESA|324001|388800|
+CC|C.A. RON SANTA TERESA (CLASE B)|222100|230000|
+CC|C.A. TELARES DE PALO GRANDE|1300|1800|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|210000|215000|
+CC|CERAMICA CARABOBO, SACA|3000000|4310000|
+CC|CORIMON, C.A.|35000|35500|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|3850|4800|
 CC|CORP.GRUPO QUIMICO, C.A.|201600|219000|
-CC|DOMINGUEZ & CIA., S.A.|165000|178000|
-CC|ENVASES VENEZOLANOS S.A.|90000|100000|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.||137999.99|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|500000|700000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|280000|289000|
-CC|GRUPO ZULIANO, C.A.|126400.01|175000|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|400000|450000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|26800|48384|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|29000|32300|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|950000|1083000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|950000|1000000|
+CC|DOMINGUEZ & CIA., S.A.|200005|209000|
+CC|ENVASES VENEZOLANOS S.A.|100000|105600|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||138000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|602000|610000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|401000|444000|
+CC|GRUPO ZULIANO, C.A.|126400.01|180000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||440000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|32000|54000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|33500||
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|1300000||
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1150000|1300000|
 CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(A)|7289.7||
 CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(B)|7289.7||
-CC|PROAGRO C.A.|5500|6100|
-CC|PRODUCTOS EFE S.A.|40000|43197|
-CC|PROTINAL C.A.|16001||
-CC|SIVENSA, S.A|48780|51499.99|
-NO|3PL PANAMERICANA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de 3PL PANAMERICANA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie 2019-I-II, de la Emisión 2019-I y Serie 2019-II-II, de la Emisión 2019-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora 3PL PANAMERICANA, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 100/2020 de fecha 06/08/2020<BR>Providencia Nro. 101/2020 de fecha 06/08/2020<BR>Emisor	3PL PANAMERICANA, C.A.,<BR>Emisión 	2019-I<BR>2019-II<BR>Series a colocar		2019-I-II<BR>2019-II-II<BR>Monto de Emisión. 	Bs.  2.500.000.000,00 C/U.<BR>Monto por serie 	Bs.  2.500.000.000,00 C/U.<BR>Códigos  ISIN	VEV00399WPX7<BR>VEV00399WPY5<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	P912P<BR>PP922P<BR>Fecha de Inicio de Sesión Especial 	26/11/2020<BR>Fecha de vencimiento de la serie	24/02/2021     <BR>Agentes de la Colocación 	Palogrande, Casa de Bolsa, C.A.<BR>Mercantil Merinvest, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,57%<BR>Base de cálculo 	Actual/360<BR>Calificación de Riesgo	Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m a 1:00 p.m.<BR>|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|TOPENCA, C.A.<BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de TOPENCA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a las Serie 1, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora TOPENCA, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 185/2020 de fecha 13/11/2020<BR>Emisor	TOPENCA, C.A.<BR>Emisión 	2020-I<BR>Series a colocar		Serie I.<BR>Monto de Emisión. 	Bs.  156.405.032.000,00<BR>Monto por de la serie 	Bs.  156.405.032.000,00<BR>Códigos  ISIN	VEV00405WQH3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	TE201P<BR>Fecha de Inicio de Sesión Especial 	25/11/2020<BR>Fecha de vencimiento de las Emisiones.	25/02/2021<BR>Agentes de la Colocación 	RENDIVALORES, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	80,00% c/u.<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Sociedad Nacional de Garantías Reciprocas para la Mediana y Pequeña Industria (Sogampi), Categoría otorgada: Optimo Plus.<BR>Horario de Sesión Especial	De 9:00 a.m. a 1:00 p.m. <BR>|
-NO||HECHO DE INTERES<BR>COMUNICADO AL MERCADO <BR><BR>Se les informa a los Miembros de la Bolsa de Valores de Caracas y al público en general que, a partir de próximo miércoles 25 de noviembre de 2020, la cotización de las acciones de las Empresas Emisoras que se listan a continuación se realizara en unidades de Mil (Bolívares):<BR><BR>	BANCO DEL CARIBE, C.A. BANCO UNIVERSAL, CLASE A<BR>	BANCO PROVINCIAL, S.A. BANCO UNIVERSAL<BR>	MERCANTIL SERVICIOS FINANCIEROS C.A. CLASE A  <BR>	MERCANTIL SERVICIOS FINANCIEROS C.A. CLASE B  <BR><BR>En este sentido, los Miembros deberán ingresar las órdenes y operaciones, dividiendo el precio de cotización original entre Mil (1.000).<BR><BR>Una vez realizadas las operaciones y transferidas al sistema de BackOffice de la Bolsa de Valores de Caracas, las operaciones mostraran sus precios en unidades de Bolívares, para su procesamiento, compensación y liquidación.<BR><BR>El procedimiento antes descrito se realiza, ya que el campo de precio establecido en el Sistema de transacciones SIBE SMART, solo se encuentra disponible para procesar seis (6) enteros y dos (2) decimales.<BR><BR>Gustavo Pulido Medina<BR>Presidente <BR>BOLSA DE VALORES DE CARACAS, CA.<BR>|
+CC|PROAGRO C.A.|6600||
+CC|PRODUCTOS EFE S.A.|44500|53400|
+CC|PROTINAL C.A.|20000||
+CC|SIVENSA, S.A|61799.97|61799.98|
+NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|AVISO A LOS ACCIONISTAS HECHO DE IMPORTANCIA<BR>Se les informa a todos los Accionistas del Banco Occidental de Descuento, Banco Universal, C.A., que en la Asamblea General Extraordinaria celebrada el 02 de noviembre de 2020, se aprobó un aumento del capital social en efectivo por un monto equivalente en bolívares a SEIS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$. 6.000.000,00) calculados de forma referencial a la tasa de cambio oficial vigente establecida por el Banco Central de Venezuela para el día de la Asamblea de 517.784,71 Bs/1USD, equivalente a TRES BILLONES CIENTO SEIS MIL SETECIENTOS OCHO MILLONES DOSCIENTOS CUARENTA Y CUATRO MIL CIENTO NOVENTA Y NUEVE BOLÍVARES (3.106.708.244.199,00 Bs.), monto referencial a los efectos de calcular la emisión de las nuevas acciones a suscribir, las cuales alcanzan a TRES TRILLONES CIENTO SEIS MIL SETECIENTOS OCHO BILLONES DOSCIENTOS CUARENTA Y CUATRO MIL CIENTO NOVENTA Y NUEVE MILLONES (3.106.708.244.199.000.000) de acciones nominativas, no convertibles al portador, con un valor de Bs. 0,000001 cada una. Este número de acciones se establece de forma referencial y se ajustará- producto del diferencial cambiario al enterar los pagos correspondientes. <BR><BR>El aumento de capital será pagado en cuatro (4) porciones por un monto equivalente en bolívares a US$. 1.500.000,00 cada una, calculadas a la tasa de cambio oficial vigente establecida por el Banco Central de Venezuela para el día de pago correspondiente, conforme a lo siguiente|
+NO||1) tendrán derecho a suscribir el aumento de capital en efectivo todos los Accionistas que tienen esa cualidad de acuerdo con el Libro de Accionistas para el momento en que se celebró la Asamblea de Accionistas 02 de noviembre de 2020- en proporción a su tenencia accionaria, de conformidad con el documento estatutario; 2) el plazo que se fija para que los Accionistas formalicen su intención de suscripción de las acciones en atención a su participación accionaria será de diez (10) días continuos contados a partir del día siguiente de la publicación de este aviso- del 27/11/2020 al 06/12/2020, ambas fechas inclusive-de conformidad con lo establecido en el artículo 6 de los Estatutos Sociales del Banco. El pago de cada una de las porciones se hará en las fechas siguientes: i) el 30 de diciembre de 2020; ii) el 29 de enero de 2021; iii) el 26 de febrero de 2021; y iv) el 31 de marzo de 2021; y 3) los Accionistas que así lo dispongan podrán solicitar -dentro del plazo de suscripción antes indicado-su inscripción en una lista para suscribir y pagar proporcionalmente las acciones no suscritas o no pagadas por algún otro Accionista.<BR><BR>El número de acciones correspondientes al Aumento de Capital aprobado en la referida Asamblea fue establecido de forma referencial, en consecuencia, el número total de acciones será el que resulte luego del pago de la última porción y se emitirán una vez que se celebre la Asamblea General Extraordinaria de Accionista para aprobar la reforma del artículo 5 de los Estatutos Sociales del Banco; así como, se obtengan las autorizaciones respectivas por parte de la Superintendencia de las Instituciones del Sector Bancario (SUDEBAN) con la opinión vinculante del Órgano Superior del Sistema Financiero Nacional (OSFIN)- de la Superintendencia Nacional de Valores (SUNAVAL) y la inscripción del acta respectiva en el Registro Mercantil correspondiente.<BR>|
+NO||Los Accionistas que deseen formalizar la suscripción y el pago del aumento de capital deberán comunicarse con la Gerencia Legal de Atención al Accionista a través de los siguientes correos; naatencio@bod.com.ve/mvale@bod.com.ve y teléfonos 0261-7502987/0261-7502986.<BR><BR>Nota: Los Accionistas que suscriban acciones deberán realizar el pago desde una cuenta bancaria de la cual sean titulares.<BR>Maracaibo, 26 de noviembre de 2020.<BR>Por la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A.<BR>Víctor J. Vargas Irausquín<BR>Presidente<BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|HECHO DE INTERES                                     <BR>BOLSA DE VALORES DE CARACAS, C.A.<BR>COMUNICADO AL MERCADO<BR><BR>La Bolsa de Valores de Caracas informa a sus Miembros y al público en general que, a partir del próximo martes 1ro de diciembre de 2020, la cotización de todas las acciones que se encuentran inscritas en la pizarra de cotizaciones se realizará en unidades de miles de Bolívares, unificando así, el esquema de cotizaciones en pizarra. <BR><BR>En este sentido, los Miembros deberán ingresar las órdenes, dividiendo el precio de cotización original entre Mil (1.000).<BR><BR>Una vez realizadas las operaciones y transferidas al sistema de BackOffice de la Bolsa, las operaciones mostraran sus precios en unidades de Bolívares, para su procesamiento, compensación y liquidación.<BR><BR>El lunes 30 de noviembre de 2020, una vez finalizada la sesión de mercado, se publicarán los precios de referencia de los valores en unidades de miles, los cuales serán utilizados para el inicio de la sesión de mercado del 1ro de diciembre de 2020.<BR>Atentamente<BR>Gustavo Pulido Medina<BR>Presidente <BR>BOLSA DE VALORES DE CARACAS, CA.<BR>|
