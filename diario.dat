@@ -1,75 +1,71 @@
-IG|10122020|1279129.75|-19285.63|-1.49|1376478.12|60502.85|1226896.07|2348.86|
-IF|10122020|2408881.5|-48634.25|-1.98|
-II|10122020|543084.56|2255.18|.42|
-R|B.DE VENEZUELA|BVL|55000|56000|1000|1.82|50000|56000|50520|3|2049|103524000||1|
-R|B.OCC.DCTO.B.U.|BOU|150|150|0|0|150|160|150|14|4630590|694718150||2|
-R|BCO. CARIBE "A"|ABC.A|1119990|1000000|-119990|-10.71|1000000|1000000|1000000|1|48|48000000||3|
-R|BCO. PROVINCIAL|BPV|1625000|1600000|-25000|-1.54|1600000|1645000|1600560|5|405|648225000||3|
-R|BCO.NAC.CREDITO|BNC|7550|7650|100|1.32|7650|7700|7690|15|60457|462932200||1|
-R|BOLSA V. CCAS.($)|BVCC|189000|189990|990|.52|189000|190000|189520|13|1446|274229130||1|
-R|CANTV CLASE (D)|TDV.D|222290|225000|2710|1.22|222290|225000|224710|8|538|120892820||1|
-R|CORIMON C.A.|CRM.A|41000|42000|1000|2.44|41000|42000|41040|9|12356|507043000||1|
-R|CORP.IND.ENERGIA|CIE|9500|9500|0|0|9500|10000|9950|3|271|2695500||2|
-R|DOMINGUEZ & CIA|DOM|300000|300000|0|0|300000|300000|300000|1|4|1200000||2|
-R|ENVASES VZLOS.|ENV|139990|139980|-10|-.01|139980|140000|139990|8|1447|202226510||3|
-R|FONDO V.INM.(A)|FVI.A|700000|749990|49990|7.14|700000|749990|706060|8|66|46599920||1|
-R|FONDO V.INM.(B)|FVI.B|549500|550000|500|.09|550000|550000|550000|15|1191|655050000||1|
-R|GRUPO ZULIANO|GZL|257000|269990|12990|5.05|269990|269990|269990|1|20|5399800||1|
-R|I.CRECEPYMES -B-|ICP.B|77760|77760|0|0|77750|77750|77750|1|1|77750||2|
-R|INM.VAL.Y CAP.|IVC|400000|400000|0|0|400000|400000|400000|2|40|16000000||2|
-R|MANPA, C.A. SACA|MPA|110000|110000|0|0|110000|110000|110000|3|23|2530000||2|
-R|MERCANTIL S.(A)|MVZ.A|1900000|1900000|0|0|1900000|1900000|1900000|2|117|222300000||2|
-R|MERCANTIL S.(B)|MVZ.B|1850000|1900000|50000|2.7|1900000|1900000|1900000|1|14|26600000||1|
-R|PROAGRO|PGR|9220|11050|1830|19.85|11000|11050|11010|3|885|9742850||1|
-R|PRODUCTOS EFE|EFE|83990|100770|16780|19.98|100770|100770|100770|4|34|3426180||1|
-R|PROTINAL|PTN|33000|39590|6590|19.97|39590|39590|39590|6|100|3959000||1|
-R|R.S.TERESA "B"|RST.B|283990|280000|-3990|-1.4|279000|284990|284300|8|644|183089000||3|
-R|RON STA. TERESA|RST|400000|400000|0|0|400000|400000|400000|5|660|264000000||2|
-R|SIVENSA, S.A.|SVS|92990|93000|10|.01|92990|93000|93000|6|1960|182276220||1|
-R|T. PALO GRANDE|TPG|1500|1800|300|20|1790|1800|1790|5|6814|12209490||1|
-P|BCO.NAC.CREDITO|BNC||7650|||7650|7700|7690|3|18659|142691350||
-P|BOLSA V. CCAS.|BVCC||189990|||189000|190000|189520|2|804|151981000||
-P|CORP.IND.ENERGIA|CIE||9500|||9500|10000|9950|3|94|625100||
-P|RON STA. TERESA|RST||400000|||400000|400000|400000|4|812|372546000||
-P|SIVENSA, S.A.|SVS||93000|||92990|93000|93000|1|56770|5279610000||
-VT|14|4|8|
+IG|11122020|1288431.25|9301.5|.73|1376478.12|60502.85|1236197.57|2366.67|
+IF|11122020|2431704.25|22822.75|.95|
+II|11122020|542534.25|-550.31|-.1|
+R|B.DE VENEZUELA|BVL|56000|57000|1000|1.79|50000|57000|55220|3|67|3700000||1|
+R|B.OCC.DCTO.B.U.|BOU|150|150|0|0|150|150|150|7|525998|78899700||2|
+R|BCO. PROVINCIAL|BPV|1600000|1650000|50000|3.13|1650000|1700000|1650990|11|604|997200000||1|
+R|BCO.NAC.CREDITO|BNC|7650|7700|50|.65|7690|7800|7700|26|130768|1011650720||1|
+R|BOLSA V. CCAS.($)|BVCC|189990|180000|-9990|-5.26|180000|189990|182590|24|3712|683062310||3|
+R|CANTV CLASE (D)|TDV.D|225000|220000|-5000|-2.22|220000|225000|220280|3|265|58375000||3|
+R|CORIMON C.A.|CRM.A|42000|42000|0|0|42000|42050|42000|10|6854|287868700||2|
+R|CORP.GPO.QUIM.|CGQ|290270|348310|58040|20|348310|348310|348310|1|3|1044930||1|
+R|CORP.IND.ENERGIA|CIE|9500|10000|500|5.26|10000|10000|10000|3|276|2760000||1|
+R|CR.CARABOBO|CCR|5195000|5000000|-195000|-3.75|5000000|5195000|5156000|2|5|25780000||3|
+R|DOMINGUEZ & CIA|DOM|300000|300000|0|0|300000|300000|300000|1|11|3300000||2|
+R|ENVASES VZLOS.|ENV|139980|138000|-1980|-1.41|120000|139980|120370|8|1278|156721800||3|
+R|FONDO V.INM.(A)|FVI.A|749990|780000|30010|4|745000|780000|767930|2|29|22270000||1|
+R|FONDO V.INM.(B)|FVI.B|550000|580000|30000|5.45|575000|580000|577810|8|980|566249500||1|
+R|GRUPO ZULIANO|GZL|269990|299990|30000|11.11|299990|299990|299990|1|5|1499950||1|
+R|INM.VAL.Y CAP.|IVC|400000|400000|0|0|400000|400000|400000|18|659|263600000||2|
+R|MANPA, C.A. SACA|MPA|110000|105000|-5000|-4.55|105000|110000|109230|3|26|2839980||3|
+R|MERCANTIL S.(A)|MVZ.A|1900000|1900000|0|0|1900000|2100000|1908700|4|23|43900000||2|
+R|PROAGRO|PGR|11050|12200|1150|10.41|11100|12200|11770|3|5810|68387000||1|
+R|PRODUCTOS EFE|EFE|100770|100000|-770|-.76|100000|100000|100000|3|12|1200000||3|
+R|PROTINAL|PTN|39590|40000|410|1.04|40000|40000|40000|2|9|360000||1|
+R|R.S.TERESA "B"|RST.B|280000|265000|-15000|-5.36|265000|289000|282650|2|34|9610000||3|
+R|RON STA. TERESA|RST|400000|400000|0|0|400000|400000|400000|4|54|21600000||2|
+R|SIVENSA, S.A.|SVS|93000|93000|0|0|93000|93000|93000|2|495|46035000||2|
+R|T. PALO GRANDE|TPG|1800|1800|0|0|1800|2000|1950|25|127707|247592000||2|
+P|BCO.NAC.CREDITO|BNC||7700|||7690|7800|7700|4|43997|336915900||
+P|BOLSA V. CCAS.|BVCC||180000|||180000|189990|182590|2|3206|605934000||
+P|MERCANTIL S.(B)|MVZ.B||1900000|||0|0|0|6|2421|5509608200||
+P|R.S.TERESA "B"|RST.B||265000|||265000|289000|282650|3|142|39823000||
+VT|10|7|8|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-BP|PC.DAYCO 20-5 S1|DT051P|79.31|79.78|.47|.59|79.78|79.78||3|1875000000|1495875000||
-BP|PC.DAYCO 20-6 S1|DT061P|79.31|79.78|.47|.59|79.78|79.78||3|1875000000|1495875000||
-BP|PC.DAYCO 20-7 S1|DT071P|79.31|79.78|.47|.59|79.78|79.78||3|1875000000|1495875000||
-BP|PC.DAYCO 20-8 S1|DT081P|79.31|79.78|.47|.59|79.78|79.78||3|1875000000|1495875000||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|50010|56000|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|900010|1119990|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|7600|7650|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|1600000|1624000|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|47000|58990|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|900010|1000000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|7700|7790|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|1650000|1700000|
 CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|140|150|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|180000|189990|
-CC|C.A. RON SANTA TERESA|350000|400000|
-CC|C.A. RON SANTA TERESA (CLASE B)|230000|280000|
-CC|C.A. TELARES DE PALO GRANDE|1530|1800|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|200000|225000|
-CC|CERAMICA CARABOBO, SACA|3400000|5195000|
-CC|CORIMON, C.A.|41000|42000|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|180000|181000|
+CC|C.A. RON SANTA TERESA|380000|445000|
+CC|C.A. RON SANTA TERESA (CLASE B)|265000|279990|
+CC|C.A. TELARES DE PALO GRANDE|1800|2000|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)||220000|
+CC|CERAMICA CARABOBO, SACA|3400000|6233990|
+CC|CORIMON, C.A.|42000|45000|
 CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|7610|10000|
 CC|CORP.GRUPO QUIMICO, C.A.|193530|348310|
 CC|DOMINGUEZ & CIA., S.A.|252500|300000|
-CC|ENVASES VENEZOLANOS S.A.|135000|139970|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.|158960|238410|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|700000|749990|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|550000|595000|
-CC|GRUPO ZULIANO, C.A.|180000|269990|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|400000|480000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"||77750|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|90000|110000|
+CC|ENVASES VENEZOLANOS S.A.|125000|138000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|160000|238410|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|780000|800000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|452000|575000|
+CC|GRUPO ZULIANO, C.A.|216000|299990|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|400000|479980|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"||89990|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|90000|105000|
 CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|1800000|1900000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1650000|1900000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1521000|1899990|
 CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(A)|7289.7||
 CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(B)|7289.7||
-CC|PROAGRO C.A.|11050|13250|
-CC|PRODUCTOS EFE S.A.|68000|100780|
-CC|PROTINAL C.A.|33010|47490|
+CC|PROAGRO C.A.|11110|12200|
+CC|PRODUCTOS EFE S.A.||100000|
+CC|PROTINAL C.A.|19000|47490|
 CC|SIVENSA, S.A|71210|93000|
-NO|CORPORACION GRUPO QUIMICO, C.A|CONVOCATORIA ASAMBLEA ORDINARIA DE ACCIONISTAS<BR>                 CORPORACION GRUPO QUIMICO, C.A.<BR><BR> En cumplimiento con lo dispuesto en el Documento Constitutivo-Estatutario de la compañía se acordó convocar a los señores accionistas para la Asamblea Ordinaria que se llevará a efecto el martes quince (15) de diciembre de 2020 a las 10:00 a.m., en el Business Centers Salón D del Hotel Eurobuilding Caracas, ubicado en la Urbanización Chuao, con el objeto de tratar los puntos siguientes:<BR><BR>1. - Con vistas al informe de los comisarios, considerar y resolver sobre el informe de la Junta Directiva, el balance general y el estado de ganancias y pérdidas que ésta presenta al cierre de su ejercicio económico al 31 de diciembre de 2019, así como los estados financieros consolidados correspondientes al mismo ejercicio, dictaminados por contadores públicos independientes.<BR><BR>2. ¿ Nombrar los miembros principales y suplentes de la Junta Directiva para el período 2020-2021 y fijar su remuneración.<BR><BR>3. ¿ Nombrar los comisarios principales y sus suplentes para el período 2020-2021 y fijar su remuneración.<BR><BR>4. ¿ Considerar y resolver sobre el informe anual de la Junta Directiva con relación al grado de cumplimiento de los principios de gobierno corporativo y el informe sobre los métodos y procedimientos para prevenir la utilización de los mismos como medio para legitimación de capitales.<BR>5. ¿ Considerar y resolver sobre un proyecto para modificar la cláusula segunda del Documento Constitutivo ¿Estatutario, y sobre la refundición de éste en un solo texto.<BR><BR>6. ¿ Considerar y resolver sobre un proyecto para modificar la cláusula undécima del documento constitutivo-estatutario, y sobre la refundición de éste en un solo texto.<BR><BR>Caracas, 09 de diciembre de 2020<BR> La Junta Directiva<BR>|
-NO||Nota 1: Se recuerda que, según los estatutos de la compañía, los accionistas podrán hacerse representar en la Asamblea mediante poder que puede otorgarse por simple carta dirigida a la Junta Directiva. Los estados financieros, el informe de los comisarios a que se refiere el literal ¿a¿ de esta convocatoria, los informes a que se refiere el literal ¿d¿ de la misma y la terna para la elección de los comisarios se encuentran a disposición de los accionistas a través del correo electrónico accionistascgq@gmail.com y Jonneycuicas@corporaciongrupoquimico.com.<BR><BR>Nota 2: En consideración de las circunstancias excepcionales, ante el riesgo de propagación del coronavirus (Covid-19) en cumplimiento a los lineamientos de la Organización Mundial de la Salud y de las recomendaciones para los sujetos regulados por el decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores, formuladas por la Superintendencia Nacional de Valores en base al Decreto Presidencial Nro. 4.160 del 13 de marzo de 2020, mediante el cual se declara el estado de alarma Constitucional en todo el territorio nacional y las acciones implementadas por la Comisión Presidencial de Prevención del COVID-19, se informa que la asamblea de accionistas se llevará a cabo cumpliendo con las medidas de bioseguridad emanadas del Ministerio para el Poder Popular para la Salud, por lo que todos los accionistas deberán comparecer con tapabocas y mantener el distanciamiento social<BR>|
+NO|CORIMON, C.A.|CONVOCATORIA ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS<BR>                                                                     CORIMON, C.A.<BR> Se convoca a los señores accionistas para la Asamblea General Ordinaria de Accionistas CORIMON, C.A. que se celebrará el día quince (15) de diciembre de 2020, a la 10:00 de la mañana, La misma se llevará a cabo de manera no presencial, a través de la modalidad de video conferencia: y tendrá por objeto de considerar y resolver sobre los puntos contenidos en la siguiente agenda:<BR>Primero. -  Considerar y resolver acerca de los Estados Financieros correspondientes al ejercicio económico finalizado el 30 de abril de 2020, con vista del informe de los Comisarios, así como del informe de la Junta Directiva.<BR> Segundo. - Considerar y resolver con vistas al proyecto que presentara la Junta Directiva, sobre el decreto de un dividendo extraordinario con cargo a la cuenta de Utilidades No Distribuidas, pagado en efectivo.<BR>Tercero. ¿  Considerar y resolver sobre el nombramiento y/o ratificación de la Junta Directiva y la remuneración de los directores.<BR>Cuarto. - Considerar y resolver acerca del nombramiento de los Comisarios y sus suplentes, así como fijarles su remuneración; y sobre la designación de una firma independiente de contadores públicos para que emita su dictamen sobre los Estados Financieros anuales de la compañía. <BR>La Junta Directiva<BR>Caracas, 28 de noviembre de 2020<BR>|
+NO||Nota: Se participa a los señores accionistas que la memoria y cuenta presentada por la junta Directiva, los Estados Financieros Auditados por contadores públicos, correspondientes al ejercicio económico finalizado el 30 de abril de 2020 y el informe de los Comisarios, se encontrarán a su disposición en la página web de la empresa www.corimon.com<BR>2. Los accionistas podrán hacerse representar en la Asamblea mediante carta poder, enviada con al menos con 24 horas de anticipación a la celebración de la asamblea a los correos electrónicos amelia_ibarra@corimon.com y grabiela_briceño@corimon.com<BR>3. Las instrucciones a seguir para asistir a la Asamblea de manera no presencial, serán publicadas en el portal web de la empresa www.corimon.com., y suministradas directamente por la empresa, mediante solicitud enviada a los correos electrónicos ameli_ibarra@corimon.com y Gabriela_briceño@corimon.com<BR><BR>|
+NO|PRODUCTOS EFE, S.A.|CONVOCATORIA ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS<BR>PRODUCTOS EFE, S.A.<BR><BR>SE CONVOCA A LOS SEÑORES ACIONISTAS DE PRODUCTOS EFE, S.A. PARA LA ASAMBLEA GENERAL ORDINARIA QUE SE CELEBRARÁ EL LUNES 14 DE DICIEMBRE DE 2020, A LAS 9:30 AM, EN LAS OFICINAS DE LA EMPRESA SITUADAS EN EL EDIFICIO ¿CENTRO EMPRESARIAL POLAR¿, AUDITORIO EMPRESAS POLAR, SEGUNDA AVENIDA CON CUARTA TRANSVERSAL, URBANIZACIÓN LOS CORTIJOS DE LOURDES, CARACAS.<BR>OBJETO DE LA ASAMBLEA:<BR><BR>1. Considerar y resolver sobre el Informe, el Estado Consolidado de Situación Financiera y Estados Consolidados Conexos que presenta la Junta Directiva, correspondiente al ejercicio económico finalizado el 30 de septiembre de 2020, dictaminados por contadores públicos independientes, con vista del Informe del Comisario.<BR><BR>2. Considerar y resolver sobre la designación de los Miembros de la Junta Directiva que habrá de administrar la Compañía durante el ejercicio 2020-2021 y hasta la próxima Asamblea Ordinaria.<BR><BR>3.- Considerar y resolver sobre la propuesta que presenta la Junta Directiva en relación con la revisión de la remuneración de los Comisarios designados en la última Asamblea Ordinaria de la Compañía.<BR><BR>4.- Considerar y resolver sobre la designación del Comisarios Principales y Suplentes para el ejercicio económico 2020-2021 y fijar su remuneración.<BR><BR>5.- Autorizar a las personas que designe la Asamblea para que firmen el acta que se levanta de la misma en nombre de los accionistas presentes, así como las personas que harán las participaciones al registro Mercantil respectivo y demás autoridades administrativas.<BR><BR>Caracas 19 de noviembre de 2020<BR>LA JUNTA DIRECTIVA<BR>|
+NO||Notas:<BR>Todos los soportes se encuentran a la orden de los señores Accionistas en las oficinas de la Compañía, situadas en el Edificio Centro Empresarial Polar, Segunda Avenida con Cuarta Transversal, Urbanización Los Cortijos de Lourdes, Oficina Atención al Accionista, piso 4, incluyendo el Estado Consolidado de Situación Financiera y Estados Consolidados Conexos dictaminados por Contadores Públicos en ejercicio independiente de la profesión; y las ternas para la elección de los Comisarios.<BR>En virtud de la pandemia de Coronavirus (COVID-19) y, con el objeto de proteger la salud de los señores accionistas, de los miembros de la Junta Directiva y de los colaboradores de la Compañía, los asistentes a la reunión deberán hacer acto de presencia con una hora de anticipación a la reunión con la finalidad de realizar una prueba de despistaje de COVID-19. Asimismo, se requerirá el uso obligatorio de mascarilla, distanciamiento social mínimo de 1,5 metros entre los asistentes, y se aplicará gel antibacterial para el ingreso a las instalaciones. No habrá refrigerio.<BR><BR> Los Accionistas podrán hacerse representar en la Asamblea mediante poder.<BR><BR>Esta convocatoria fue presentada a la Superintendencia Nacional de Valores.<BR>|
