@@ -1,91 +1,76 @@
-IG|15122020|1331370.5|42939.25|3.33|1376478.12|60502.85|1279136.82|2448.87|
-IF|15122020|2542710.75|111006.5|4.56|
-II|15122020|535204.19|-7330.06|-1.35|
-R|B.DE VENEZUELA|BVL|57000|57000|0|0|57000|57000|57000|4|230|13110000||2|
-R|B.OCC.DCTO.B.U.|BOU|150|150|0|0|150|150|150|7|156199|23429850||2|
-R|BCO. CARIBE "A"|ABC.A|1000000|1100000|100000|10|1100000|1100000|1100000|1|1|1100000||1|
-R|BCO. PROVINCIAL|BPV|1650000|1700000|50000|3.03|1650000|1725000|1652800|7|386|632701000||1|
-R|BCO.NAC.CREDITO|BNC|7700|9450|1750|22.73|8000|11000|9590|76|384458|3711326820||1|
-R|BOLSA V. CCAS.($)|BVCC|180000|175000|-5000|-2.78|165000|185000|171060|14|6148|1065630000||3|
-R|CANTV CLASE (D)|TDV.D|220000|210000|-10000|-4.55|210000|210000|210000|7|769|161490000||3|
-R|CORIMON C.A.|CRM.A|42000|41000|-1000|-2.38|41000|42000|41000|6|3930|161134000||3|
-R|CORP.IND.ENERGIA|CIE|10000|10000|0|0|10000|10000|10000|2|1000|10000000||2|
-R|DOMINGUEZ & CIA|DOM|300000|300000|0|0|300000|300000|300000|1|4|1200000||2|
-R|ENVASES VZLOS.|ENV|138000|121010|-16990|-12.31|121010|138970|122290|4|1022|141650180||3|
-R|FONDO V.INM.(A)|FVI.A|780000|820000|40000|5.13|820000|820000|820000|2|58|45280000||1|
-R|FONDO V.INM.(B)|FVI.B|580000|580000|0|0|570000|585000|581230|16|2609|1516619800||2|
-R|GRUPO ZULIANO|GZL|299990|349990|50000|16.67|349990|349990|349990|1|5|1749950||1|
-R|INM.VAL.Y CAP.|IVC|400000|400000|0|0|400000|400000|400000|2|51|20400000||2|
-R|MANPA, C.A. SACA|MPA|105000|108000|3000|2.86|108000|108000|108000|6|825|87150000||1|
-R|MERCANTIL S.(A)|MVZ.A|1900000|1900000|0|0|1900000|1900000|1900000|6|375|712500000||2|
-R|MERCANTIL S.(B)|MVZ.B|1900000|1900000|0|0|1899990|1900000|1900000|14|1113|2114514500||2|
-R|PROAGRO|PGR|12200|12600|400|3.28|12200|12600|12400|10|143609|1770069800||1|
-R|PRODUCTOS EFE|EFE|100000|100000|0|0|100000|100000|100000|1|11|1100000||2|
-R|PROTINAL|PTN|40000|40000|0|0|40000|40000|40000|2|500|20000000||2|
-R|R.S.TERESA "B"|RST.B|265000|317990|52990|20|317990|317990|317990|2|101|26817990||1|
-R|RON STA. TERESA|RST|400000|400000|0|0|380000|400000|397800|6|727|290300000||2|
-R|SIVENSA, S.A.|SVS|93000|100000|7000|7.53|100000|100000|100000|4|6288|584826000||1|
-R|T. PALO GRANDE|TPG|1800|2000|200|11.11|1800|2000|1960|9|4534|8867800||1|
-P|B.OCC.DCTO.B.U.|BOU||150|||150|150|150|1|1589|206570||
-P|BCO. CARIBE "A"|ABC.A||1100000|||1100000|1100000|1100000|2|32|32000000||
-P|BCO. PROVINCIAL|BPV||1700000|||1650000|1725000|1652800|3|47|76150000||
-P|BCO.NAC.CREDITO|BNC||9450|||8000|11000|9590|4|4921|40010000||
-P|BOLSA V. CCAS.|BVCC||175000|||165000|185000|171060|5|2600|450458000||
-P|CANTV CLASE (D)|TDV.D||210000|||210000|210000|210000|1|4|840000||
-P|CORP.GPO.QUIM.|CGQ||348310|||0|0|0|2|30|10440000||
-P|DOMINGUEZ & CIA|DOM||300000|||300000|300000|300000|2|208|62400000||
-P|ENVASES VZLOS.|ENV||121010|||121010|138970|122290|2|138|19044000||
-P|FONDO V.INM.(A)|FVI.A||820000|||820000|820000|820000|2|100|78000000||
-P|FONDO V.INM.(B)|FVI.B||580000|||570000|585000|581230|3|120|69600000||
-P|GRUPO ZULIANO|GZL||349990|||349990|349990|349990|2|58|17399420||
-P|MERCANTIL S.(A)|MVZ.A||1900000|||1900000|1900000|1900000|3|38|71200000||
-P|MERCANTIL S.(B)|MVZ.B||1900000|||1899990|1900000|1900000|3|35|66250000||
-P|PRODUCTOS EFE|EFE||100000|||100000|100000|100000|1|20|2000000||
-P|R.S.TERESA "B"|RST.B||317990|||317990|317990|317990|7|1129|299185000||
-P|RON STA. TERESA|RST||400000|||380000|400000|397800|8|6966|3234550700||
-VT|10|4|11|
+IG|17122020|1270626.62|-51801.76|-3.92|1376478.12|63308.93|1218392.94|2332.58|
+IF|17122020|2424213.25|-118367.5|-4.66|
+II|17122020|512893.84|-4343.66|-.84|
+R|B.DE VENEZUELA|BVL|57000|56990|-10|-.02|56900|56990|56930|4|289|16453280||3|
+R|B.OCC.DCTO.B.U.|BOU|150|140|-10|-6.67|140|150|140|8|70137|9832090||3|
+R|BCO. CARIBE "A"|ABC.A|1100000|999980|-100020|-9.09|900000|999980|903850|2|26|23499980||3|
+R|BCO. PROVINCIAL|BPV|1700000|1700000|0|0|1700000|1705000|1700000|7|3510|5967015000||2|
+R|BOLSA V. CCAS.($)|BVCC|171000|160000|-11000|-6.43|160000|185000|165550|22|39018|6589890000||3|
+R|CANTV CLASE (D)|TDV.D|230000|210000|-20000|-8.7|210000|215000|214620|8|1078|231365000||3|
+R|CORIMON C.A.|CRM.A|41000|40000|-1000|-2.44|39000|41000|39930|10|2891|115426000||3|
+R|CORP.IND.ENERGIA|CIE|11990|11990|0|0|11990|11990|11990|2|3931|47132690||2|
+R|CR.CARABOBO|CCR|5000000|5120000|120000|2.4|5120000|5120000|5120000|1|1|5120000||1|
+R|DOMINGUEZ & CIA|DOM|280000|300000|20000|7.14|280000|300000|280080|5|1323|370540000||1|
+R|ENVASES VZLOS.|ENV|123000|121000|-2000|-1.63|121000|123000|122030|10|3093|377450800||3|
+R|FONDO V.INM.(A)|FVI.A|890000|900000|10000|1.12|889990|900000|896230|6|85|76179190||1|
+R|FONDO V.INM.(B)|FVI.B|600000|599990|-10|0|590000|605000|597790|8|444|265419900||3|
+R|GRUPO ZULIANO|GZL|399990|449990|50000|12.5|449990|449990|449990|1|5|2249950||1|
+R|INM.VAL.Y CAP.|IVC|400000|400000|0|0|400000|400000|400000|10|356|142400000||2|
+R|MANPA, C.A. SACA|MPA|105000|107990|2990|2.85|107990|107990|107990|2|90|9719100||1|
+R|MERCANTIL S.(A)|MVZ.A|1850000|1700000|-150000|-8.11|1700000|1850000|1717870|12|771|1344300000||3|
+R|MERCANTIL S.(B)|MVZ.B|1850000|1700000|-150000|-8.11|1700000|1850000|1726270|13|986|1705522000||3|
+R|PROAGRO|PGR|13200|13400|200|1.52|13400|13400|13400|5|1104|14793600||1|
+R|PRODUCTOS EFE|EFE|100000|100000|0|0|100000|100000|100000|2|101|10100000||2|
+R|R.S.TERESA "B"|RST.B|260000|270000|10000|3.85|270000|279000|270140|4|125|33768000||1|
+R|RON STA. TERESA|RST|350000|350000|0|0|350000|375000|360960|12|368|132835000||2|
+R|SIVENSA, S.A.|SVS|108400|108000|-400|-.37|107990|108000|108000|4|739|79809970||3|
+R|T. PALO GRANDE|TPG|2250|2590|340|15.11|2250|2680|2500|6|1194|2987900||1|
+P|B.OCC.DCTO.B.U.|BOU||140|||140|150|140|1|52880|7932000||
+P|BCO. PROVINCIAL|BPV||1700000|||1700000|1705000|1700000|3|2104|3581800000||
+P|BOLSA V. CCAS.|BVCC||160000|||160000|185000|165550|10|17963|3582783200||
+P|MANPA, C.A. SACA|MPA||107990|||107990|107990|107990|3|60|7200000||
+P|MERCANTIL S.(A)|MVZ.A||1700000|||1700000|1850000|1717870|2|106|227900000||
+P|MERCANTIL S.(B)|MVZ.B||1700000|||1700000|1850000|1726270|4|1697|3498337000||
+P|PROAGRO|PGR||13400|||13400|13400|13400|1|2000|26000000||
+P|PROTINAL|PTN||40000|||0|0|0|2|102112|3965008960||
+P|R.S.TERESA "B"|RST.B||270000|||270000|279000|270140|4|361|97470000||
+VT|8|11|5|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-DV|(&)TA922P-Colocacion Primaria de Taurel & Cia. Em 2019-II, Serie II|
-BP|PC TAUREL 192-2P|TA922P|78.57|78.57|0|0|78.57|78.57||3|2000000000|1571400000||
-BY|RST 20-I,S-1 $ P|RS011P|96.15|96.35|.2|96.35|96.35|1|96.35|.21|1450216580.52|15000|
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL||59990|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|896020|1100000|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|9410|9450|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|1650000|1700000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|130|150|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|170000|175000|
-CC|C.A. RON SANTA TERESA|400000|420000|
-CC|C.A. RON SANTA TERESA (CLASE B)|236000|290000|
-CC|C.A. TELARES DE PALO GRANDE|1460|2000|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|190000|212000|
-CC|CERAMICA CARABOBO, SACA|3400000|5999990|
-CC|CORIMON, C.A.|38100|41000|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|10000|11990|
-CC|CORP.GRUPO QUIMICO, C.A.|348000|417970|
-CC|DOMINGUEZ & CIA., S.A.|280000|300000|
-CC|ENVASES VENEZOLANOS S.A.|121010|138000|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.|158960|210000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|625000|810000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|580000|590000|
-CC|GRUPO ZULIANO, C.A.|180000|349990|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|390000|479990|
+DV|(&)AN013P-Colocacion Primaria de Alice Neumaticos de Vzla. Em. 2020-I, Serie III|
+DV|(&)AN032P-Colocacion Primaria de Alice Neumaticos de Vzla. Em. 2020-III, Serie II|
+BP|PC.ANV.2020-1 3P|AN013P|78.57|78.57|0|0|78.57|78.57||3|2000000000|1571400000||
+BP|PC.ANV.2020-3 2P|AN032P|78.57|78.57|0|0|78.57|78.57||5|3000000000|2357100000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|50010|56990|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|900000|997000|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|1450000|1700000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|120|150|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|145000|160000|
+CC|C.A. RON SANTA TERESA|300000|350000|
+CC|C.A. RON SANTA TERESA (CLASE B)|210000|270000|
+CC|C.A. TELARES DE PALO GRANDE|2000|2590|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|200000|210000|
+CC|CERAMICA CARABOBO, SACA|4000000|5120000|
+CC|CORIMON, C.A.|37000|40000|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|10010|14380|
+CC|CORP.GRUPO QUIMICO, C.A.|325000|501550|
+CC|DOMINGUEZ & CIA., S.A.|250800|330000|
+CC|ENVASES VENEZOLANOS S.A.|121000|121900|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|190730|286080|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|750010|924980|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|580000|600000|
+CC|GRUPO ZULIANO, C.A.|180000|449990|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|390000|439990|
 CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"||77760|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|108000|109890|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|1520010|1900000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1650000|1900000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|107000|107990|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|1700000|1850000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1700000|1750000|
 CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(A)|7289.7||
 CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(B)|7289.7||
-CC|PROAGRO C.A.|12600|13890|
+CC|PROAGRO C.A.|13200|13400|
 CC|PRODUCTOS EFE S.A.||100000|
-CC|PROTINAL C.A.||47000|
-CC|SIVENSA, S.A|100000|111590|
-NO|MANUFACTURAS DE PAPEL,C.A. (MANPA) SACA.|CONVOCATORIA ASAMBLEA GENERAL EXTRAORDINARIA DE ACCIONISTAS<BR>                             MANUFACTURAS DE PAPEL, C.A. (MANPA), S.A.C.A. <BR>Se convoca a los señores accionistas de esta compañía para la Asamblea General Extraordinaria de Accionistas que se efectuará el viernes 18 de diciembre de 2020, a las 9:30 a.m. en nuestras oficinas ubicadas en la Av. Francisco de Miranda, Torre Country Club, Piso 1, Chacaíto, en esta ciudad, con los objetos siguientes:<BR><BR>1.  Considerar los Estados Financieros correspondientes al ejercicio comprendido entre el 1° de enero y el 31 de diciembre de 2017, con vista de los informes de la Junta Directiva y de los Comisarios.<BR><BR>2. En caso de resultar aprobado el punto anterior, considerar los Estados Financieros correspondientes al ejercicio comprendido entre el 1° de enero y el 31 de diciembre de 2018, con vista de los informes de la Junta Directiva y de los Comisarios.<BR>3.  En caso de resultar aprobado el punto anterior, considerar los Estados Financieros correspondientes al ejercicio comprendido entre el 1° de enero y el 31 de diciembre de 2019, con vista de los informes de la Junta Directiva y de los Comisarios.<BR>4. Aprobar la gestión de los Miembros de la Junta Directiva durante los ejercicios económicos 2018 y 2019, por encontrarse vencido el período estatutario.<BR><BR>5. Considerar y resolver sobre un aumento de capital social de la compañía en Tres Mil Quinientos Veintiún Millones Novecientos Noventa y Nueve Mil Setecientos Setenta Bolívares con Cincuenta y Nueve Céntimos (Bs. 3.521.999.770,59) mediante la emisión de Tres Mil Quinientos Veintiún Billones Novecientos Noventa y Nueve Mil Setecientos Setenta Millones Quinientas Noventa Mil (3.521.999.770.590.000) de nuevas acciones con valor nominal de Bs 0,000001 cada una, para llevarlo de Doscientos Veintinueve Bolívares con Cuarenta y Un Céntimos ( Bs 229,41) a Tres Mil Quinientos Veintidós Millones de Bolívares (Bs 3.522.000.000,00|
-NO||el cual será suscrito y pagado con cargo a la cuenta Actualización Capital Social a razón de 15.352.425,7878907 acciones nuevas por cada acción en tenencia a favor de los accionistas registrados al quinto día hábil )fecha Límite de transacción con beneficio) siguiente de la publicación en un (1) periódico de mayor circulación nacional del aviso de dividendos autorizado por la Superintendencia Nacional de Valores, pagadero a partir del quinto día hábil siguiente a esta última fecha )fecha efectiva de registro del beneficio).<BR>Igualmente, se solicita delegar en la Junta Directiva la fijación de las fechas de registro y pago del dividendo acordado.<BR><BR>6. Considerar la proposición de la Junta Directiva para que la compañía continúe actuando como Sociedad Anónima de Capital Autorizado (S.A.C.A.), estableciendo como Capital Autorizado el doble del Capital Suscrito y Pagado.<BR>7.  En caso de resultar aprobados los puntos 5 y 6 de la presente convocatoria, considerar y resolver la modificación de la cláusula 4 del Documento Constitutivo Estatutos Sociales relativa al Capital Social.<BR><BR>8.  Considerar y resolver sobre el proyecto para la emisión de Papeles Comerciales en moneda de curso legal (Bs) hasta por un monto de dos millones de Dólares de los Estados Unidos de América (US$ 2.000.000,00) en su equivalente en Bolívares por año, para ser emitidos en una o varias series. Igualmente, delegar en la Junta Directiva las más amplias facultades para negociar, fijar y establecer todas las condiciones y términos de cada una de las series que conformen la emisión, el número, identificación y monto de cada una de las series de la misma, el valor nominal de los títulos, su fecha de vencimiento, lugar y plazo de pago, precio de colocación, tasa de descuento o de prima y la tasa de rendimiento anual o efectiva o tasa de interés, según el caso, modalidad, sistema de colocación, precio, garantía si fuese necesaria y, en general, todos los aspectos relativos a la emisión.|
-NO||Así como, autorizar a la Junta directiva para realizar todos los actos, gestiones y trámites necesarios para llevar a cabo la emisión, asimismo se autorizo a la Junta Directiva para delegar en las personas que considere convenientes las mencionadas facultades, designar a las personas que suscribirán la solicitud de autorización ante la Superintendencia Nacional de Valores y a las personas que firmarán los títulos de los Papeles Comerciales. En caso de resultar aprobado el proyecto para la emisión de Papeles Comerciales se propones a la Asamblea se designe a      como representante común de los tenedores de los referidos títulos y se establezca como remuneración del representante común de los tenedores de los Papeles Comerciales hasta en un máximo de    Mil Bolívares ¿.por un año.<BR>9. Considerar y resolver sobre la modificación de la Cláusula Nro. 1 del Documento Constitutivo-Estatutos Sociales de la compañía, relativa al objeto social de la compañía.<BR>10. Considerar y resolver sobre la modificación de la Cláusula Nro. 7 del Documento Constitutivo-Estatutos Sociales de la compañía, relativa al número de miembros que constituyen la Junta Directiva y edad limite para formar parte de la misma.<BR>11.  Considerar y resolver sobre la modificación de la Cláusula Nro. 8 del Documento Constitutivo-Estatutos Sociales de la compañía, relativa al período estatutario.<BR>12.  Considerar y resolver sobre la modificación de la Cláusula Nro. 9 del Documento Constitutivo-Estatutos Sociales de la compañía, relativa a la forma de cumplimiento del art. 244 del Código de Comercio y a la dieta por asistencia a las reuniones de los Miembros de la Junta Directiva.<BR>13.  Considerar y resolver sobre la modificación de la Cláusula Nro. 11 del Documento Constitutivo-Estatutos Sociales de la compañía, relativa a las facultades de la Junta Directiva.<BR>|
-NO||14. Considerar y resolver sobre la modificación de la Cláusula Nro. 14 del Documento Constitutivo-Estatutos Sociales de la compañía, relativa al número de los miembros que conforman la Junta Directiva previsto en esta Cláusula.<BR>15. Proceder al nombramiento de los miembros de la Junta Directiva para el próximo período estatutario.<BR>16.  Proceder al nombramiento de los Comisarios Principales y sus Suplentes y fijarles su remuneración.<BR>17. Considerar y resolver sobre la propuesta de la Junta Directiva relativa a la conveniencia de no decretar el dividendo en efectivo correspondiente al ejercicio económico finalizado el 31/12/2019.<BR>18. Transcribir el Documento Constitutivo-Estatutos Sociales de la compañía con todas las modificaciones habidas hasta la fecha, incluyendo las aprobadas por esta Asamblea.<BR>Se participa a los señores accionistas que los Estados Financieros Auditados, los Informes de los Comisarios, los Informes de la Gestión de la Junta Directiva durante los años 2017, 2019 y 2019, los informes de la Junta Directiva  sobre cumplimiento de los Principios de Gobierno Corporativo adoptados por la Superintendencia Nacional de Valores, las propuestas mencionadas, Informe de los abogados que representaron a la compañía en la Acción de Amparo que suspendió la Asamblea de Accionistas del 19 de octubre de 2018 y los demás documentos a que se refiere esta convocatoria, han estado a disposición en las oficinas de la compañía desde la fecha de la presente publicación.<BR>Caracas, 01/12/2020<BR>Por la Junta Directiva<BR>Carlos Delfino T.<BR>Presidente<BR>|
-NO|SIDERURGICA VENEZOLANA (SIVENSA), S.A.|                      RESULTADO ASAMBLEA ORDINARIA DE ACCIONISTAS                                     <BR>                                            SIDERÚRGICA VENEZOLANA SIVENSA S.A.<BR><BR>La Asamblea General Ordinaria de Accionistas de la compañía SIDERÚRGICA VENEZOLANA SIVENSA S.A. celebrada en fecha viernes cuatro (4) de diciembre de 2020, previa convocatoria de conformidad con la ley, al encontrarse presentes y/o debidamente representados más del 60% del capital social se, se adoptaron las siguientes decisiones: <BR><BR>Primer Punto.  Fueron Leídos y se analizaron los Estados Financieros Consolidados y No consolidados de la Compañía, con vista a los respectivos Informes de los Comisarios,  el Informe de la Junta Directiva y  el de los Contadores Públicos Independientes de la firma Pacheco, Apostólico y Asociados, relativos al ejercicio económico comprendido entre el 1° de octubre de 2019 al 30 de septiembre de 2020, los cuales fueron debidamente aprobados, absteniéndose de votar para su aprobación los directores de la Junta Directiva presentes en la Asamblea.<BR><BR> Segundo Punto.  Se aprobó la designación de los Miembros Principales y Suplentes de la Junta Directiva como a continuación se detalla:<BR><BR>Directores Principales: Oscar Machado Koeneke, Henrique Machado Zuloaga, Francisco Monaldi, Luis Ignacio Mendoza, Arnold Volkenborn Eichner, Pedro Agustín Palma Carrillo, Jose María Fragachan y Andrés Gonzalo Benacerraf<BR><BR>Directores Suplentes: Armando Loynaz Reveron, Horacio Álvarez García, Elkin Montoya, Ignacio Sosa Branger, Francisco J. Sananez, Leopoldo B. Zuloaga, Neil J. Malloy y Fortunato Benacerraf Saias<BR>|
-NO||Tercer Punto. Se aprobó la Designación de los Comisarios Principales Lcda. Luisa Elena Tovar y Lcda. Iris Campos y Comisarios Suplentes Economista Martín González y Lcdo. José Enrique Requena.<BR><BR>Cuarto Punto.  Se aprobó designar al Dr. Víctor Vera Romero como Representante Judicial y al Dr. Eduardo Mendoza Gil como Representante Judicial Suplente.<BR><BR>Quinto Punto.  Se dio lectura al Informe Anual de la Junta Directiva sobre el cumplimiento de los Principios de Gobierno Corporativo.<BR>Caracas, 11 de diciembre de 2020.<BR><BR>Eduardo Mendoza Gil <BR>Representante Judicial Suplente<BR>|
-NO|TAUREL & CIA. SUCRS., C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de TAUREL & CIA. SUCRS., C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie II, de la Emisión 2019-II y Serie I, de la Emisión 2019-III, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora TAUREL & CIA. SUCRS., C.A., <BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 112/2020 de fecha 19/08/2020<BR>Providencia Nro. 207/2020 de fecha 02/12/2020<BR>Emisor	TAUREL & CIA. SUCRS., C.A.<BR>Emisiones	2019-II<BR>2019-III<BR>Series a colocar		2019-II, Serie II<BR>2019-III, Serie I<BR>Monto de Emisión. 	Bs.  4.000.000.000,00 c/u.<BR>Monto por serie 	Bs.  4.000.000.000,00 c/u.<BR>Códigos  ISIN	2019-II, Serie II: VEV00398WQQ1<BR>2019-III, Serie I: VEV00398WQR9<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	2019-II, Serie II: TA922P<BR>2019-III, Serie I: TA931P<BR>Fecha de Inicio de Sesión Especial 	15/12/2020<BR>Fecha de vencimiento de la serie	15/03/2021<BR>Agentes de la Colocación 	FIVENCA Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,57%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m a 1:00 p.m.<BR>|
-NO|Y & V INGENIERIA Y CONSTRUCCION, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de Y & V INGENIERIA Y CONSTRUCCION, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie III, de la Emisión 2020, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora<BR>Y & V INGENIERIA Y CONSTRUCCION, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 046 de fecha 30/04/2020<BR>Emisor	Y & V INGENIERIA Y CONSTRUCCION, C.A.<BR>Emisión 	2020<BR>Series a colocar		Serie III<BR>Monto de Emisión. 	Bs.  20.000.000.000,00<BR>Monto por de la serie 	Bs.  10.000.000.000,00<BR>Códigos  ISIN	VEV00401WQT7<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	YV03P<BR>Fecha de Inicio de Sesión Especial 	15/12/2020<BR>Fecha de vencimiento de la Serie.	15/03/2021<BR><BR>Agentes de la Colocación 	Koi Invest Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	79,20%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Global Ratings, C.A., Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3.<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría B, Subcategoría B1.<BR>Horario de Sesión Especial	 De 9:30 a.m. a 1:00 p.m. <BR>|
+CC|PROTINAL C.A.||47990|
+CC|SIVENSA, S.A||107900|
+NO|BANCO NACIONAL DE CREDITO, C.A. BCO.UNIV|HECHO DE RELEVANCIA BANCO NACIONAL DE CREDITO, CA BANCO UNIVERSAL Interrupción de la cotización de sus acciones<BR><BR>Se informa a los Miembros del Mercado y público en general que, la empresa emisora BANCO NACIONAL DE CREDITO, CA BANCO UNIVERSAL, ha solicitado a esta Bolsa de Valores, la interrupción de la cotización de sus acciones, hasta tanto no se materialice el aumento de capital y cambio de valor nominal acordado en Asamblea General Extraordinaria de Accionistas, celebrada el 18 de marzo 2020, y previa autorización de la Superintendencia de las Instituciones del Sector Bancario, mediante su Oficio SIB-II-GGR-GA-06201 de fecha 10 de noviembre de 2020.<BR><BR>La medida tendrá efecto a partir del jueves 17 hasta el lunes 21 de diciembre de 2020, reanudándose la cotización de los referidos títulos, el martes 22 de diciembre de 2020. Lo anterior responde a la necesidad de dar fin a la liquidación de las operaciones que se encuentran en tránsito bajo las características de los valores negociados hasta el día de hoy, miércoles 16 de diciembre de 2020 y al ajuste de los libros del Banco por el nuevo valor nominal de la acción.<BR><BR>A partir del día martes 22 de diciembre de 2020, la cotización de la acción de la Institución Financiera Banco Nacional de crédito CA, Banco Universal, responderá a la siguiente información:<BR><BR>Símbolo BNC<BR>ISIN VEV002361005<BR>CFI ESVUFR<BR>Moneda Bolívares.<BR>Acciones COMUNES<BR>Tipo/Clase UNICA<BR>Valor Nominal 1,00<BR>Cantidad Títulos 5.791.930.000<BR>Total 5.791.930.000<BR><BR>Atentamente,<BR>Gustavo Pulido Medina<BR>Presidente|
+NO||Señores Bolsa de Valores de Caracas<BR><BR>La presente es para solicitar la interrupción de la cotización de las acciones del Banco Nacional de crédito, CA identificadas con el símbolo BNC, por tres días, es decir el jueves 17, el viernes 18 y lunes 21 de diciembre de 2020, mientras se ajustan los libros del Banco por el nuevo valor nominal de la acción.<BR><BR>P/banco Nacional de Crédito, C.A., Banco Universal<BR><BR>Jorge Luis Nogueroles García<BR>Presidente Ejecutivo<BR>					<BR>|
