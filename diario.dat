@@ -1,109 +1,77 @@
-IG|21122020|1235117|-32134.25|-2.54|1376478.12|79749.66|1182883.32|2264.6|
-IF|21122020|2341747.75|-73181.5|-3.03|
-II|21122020|511040.19|-2902.87|-.56|
-R|B.DE VENEZUELA|BVL|50000|50000|0|0|50000|54990|52330|4|488|25537720||2|
-R|B.OCC.DCTO.B.U.|BOU|150|140|-10|-6.67|140|150|150|12|228401|34229950||3|
-R|BCO. CARIBE "A"|ABC.A|998000|1000000|2000|.2|1000000|1000000|1000000|1|26|26000000||1|
-R|BCO. PROVINCIAL|BPV|1700000|1600000|-100000|-5.88|1600000|1700000|1632160|7|221|364100000||3|
-R|BOLSA V. CCAS.($)|BVCC|150000|149450|-550|-.37|140010|150000|142580|21|8858|1262993650||3|
-R|CANTV CLASE (D)|TDV.D|215000|200000|-15000|-6.98|200000|210000|202660|6|800|162125000||3|
-R|CORIMON C.A.|CRM.A|40000|37990|-2010|-5.03|37990|38000|38000|5|1086|41267960||3|
-R|CORP.GPO.QUIM.|CGQ|417970|501550|83580|20|480000|501550|481800|2|24|11563100||1|
-R|CORP.IND.ENERGIA|CIE|12500|12500|0|0|12500|12500|12500|3|3781|47262500||2|
-R|DOMINGUEZ & CIA|DOM|319990|325000|5010|1.57|325000|342000|333950|3|124|42253950||1|
-R|ENVASES VZLOS.|ENV|121000|121000|0|0|121000|139990|126220|5|179|22592900||2|
-R|FAB.N.CEMENTOS|FNC|238410|245000|6590|2.76|245000|245000|245000|1|60|14700000||1|
-R|FONDO V.INM.(A)|FVI.A|900000|950000|50000|5.56|950000|950000|950000|4|104|98800000||1|
-R|FONDO V.INM.(B)|FVI.B|595000|599990|4990|.84|599990|600000|599990|6|482|287354200||1|
-R|GRUPO ZULIANO|GZL|499990|500000|10|0|500000|500000|500000|1|13|6500000||1|
-R|INM.VAL.Y CAP.|IVC|400000|400000|0|0|400000|400000|400000|7|341|136400000||2|
-R|MANPA, C.A. SACA|MPA|106990|108200|1210|1.13|108000|108300|108030|6|2787|301068100||1|
-R|MERCANTIL S.(A)|MVZ.A|1750000|1650000|-100000|-5.71|1650000|1800000|1729130|6|128|221850000||3|
-R|MERCANTIL S.(B)|MVZ.B|1600000|1625000|25000|1.56|1600000|1650000|1602060|15|320|512475000||1|
-R|PROAGRO|PGR|13500|13500|0|0|13500|13500|13500|4|23316|314766000||2|
-R|PRODUCTOS EFE|EFE|100000|100000|0|0|100000|100000|100000|4|169|16900000||2|
-R|R.S.TERESA "B"|RST.B|250000|250000|0|0|250000|260000|256470|3|117|29360000||2|
-R|RON STA. TERESA|RST|350000|350000|0|0|350000|350000|350000|7|143|50050000||2|
-R|SIVENSA, S.A.|SVS|107500|106980|-520|-.48|106980|106980|106980|6|2117|225492660||3|
-R|T. PALO GRANDE|TPG|2100|2490|390|18.57|2490|2500|2490|3|734|1831270||1|
-P|B.DE VENEZUELA|BVL||50000|||50000|54990|52330|2|39392|1398416000||
-P|B.OCC.DCTO.B.U.|BOU||140|||140|150|150|2|4077738|448551180||
-P|BCO. CARIBE "A"|ABC.A||1000000|||1000000|1000000|1000000|3|2375|1687663000||
-P|BCO. PROVINCIAL|BPV||1600000|||1600000|1700000|1632160|3|26134|31553170000||
-P|BOLSA V. CCAS.|BVCC||149450|||140010|150000|142580|12|144472|18832615600||
-P|CANTV CLASE (D)|TDV.D||200000|||200000|210000|202660|2|7952|1213872800||
-P|CORIMON C.A.|CRM.A||37990|||37990|38000|38000|2|16362|464680800||
-P|CORP.GPO.QUIM.|CGQ||501550|||480000|501550|481800|2|220|65285000||
-P|CORP.IND.ENERGIA|CIE||12500|||12500|12500|12500|2|23312|206777440||
-P|CR.CARABOBO|CCR||5120000|||0|0|0|2|88|319897600||
-P|DOMINGUEZ & CIA|DOM||325000|||325000|342000|333950|2|73330|16659842700||
-P|ENVASES VZLOS.|ENV||121000|||121000|139990|126220|2|67638|5810780580||
-P|FAB.N.CEMENTOS|FNC||245000|||245000|245000|245000|2|3900|660153000||
-P|FONDO V.INM.(B)|FVI.B||599990|||599990|600000|599990|3|93624|39553819600||
-P|GRUPO ZULIANO|GZL||500000|||500000|500000|500000|2|91806|32590211940||
-P|I.CRECEPYMES -B-|ICP.B||77760|||0|0|0|2|564|31132800||
-P|INM.VAL.Y CAP.|IVC||400000|||400000|400000|400000|2|8400|2755200000||
-P|MERCANTIL S.(A)|MVZ.A||1650000|||1650000|1800000|1729130|2|7168|8906240000||
-P|MERCANTIL S.(B)|MVZ.B||1625000|||1600000|1650000|1602060|3|8791|10010236000||
-P|PROAGRO|PGR||13500|||13500|13500|13500|2|59968|575093120||
-P|PRODUCTOS EFE|EFE||100000|||100000|100000|100000|2|4330|307430000||
-P|PROTINAL|PTN||40000|||0|0|0|2|3252|92356800||
-P|R.S.TERESA "B"|RST.B||250000|||250000|260000|256470|6|289191|51336985000||
-P|RON STA. TERESA|RST||350000|||350000|350000|350000|3|37963|11963379120||
-P|SIVENSA, S.A.|SVS||106980|||106980|106980|106980|2|6952|530576640||
-P|T. PALO GRANDE|TPG||2490|||2490|2500|2490|2|88180|131388200||
-VT|10|7|8|
+IG|22122020|1230221.88|-4895.12|-.4|1376478.12|79749.66|1177988.2|2255.23|
+IF|22122020|2329019|-12728.75|-.54|
+II|22122020|511938.56|898.37|.18|
+R|B.DE VENEZUELA(&)|BVL|49960|50000|40|.08|50000|50000|50000|4|1000|50000000||1|
+R|B.OCC.DCTO.B.U.|BOU|140|140|0|0|140|140|140|7|159846|22378440||2|
+R|BCO. CARIBE "A"|ABC.A|1000000|999990|-10|0|999990|1000000|1000000|10|103|102999950||3|
+R|BCO. PROVINCIAL|BPV|1600000|1600010|10|0|1600000|1650000|1602070|9|532|851500110||1|
+R|BCO.NAC.CREDITO|BNC|10400|10190|-210|-2.02|10000|10990|10150|52|412857|4190164300||3|
+R|BOLSA V. CCAS.($)|BVCC|149450|135000|-14450|-9.67|134000|150000|139570|21|1188|165809850||3|
+R|CANTV CLASE (D)|TDV.D|200000|200000|0|0|200000|200000|200000|5|490|98000000||2|
+R|CORIMON C.A.|CRM.A|37990|37990|0|0|37990|38000|37990|4|13796|524169040||2|
+R|CORP.GPO.QUIM.|CGQ|501550|601850|100300|20|601850|601850|601850|1|38|22870300||1|
+R|ENVASES VZLOS.|ENV|121000|125000|4000|3.31|121000|125000|124780|5|219|27327000||1|
+R|FONDO V.INM.(B)|FVI.B|599990|590000|-9990|-1.67|590000|599000|593800|13|3246|1929261590||3|
+R|GRUPO ZULIANO|GZL|500000|539970|39970|7.99|499990|539970|510900|3|55|28099250||1|
+R|INM.VAL.Y CAP.|IVC|400000|400000|0|0|400000|400000|400000|8|1549|619600000||2|
+R|MANPA, C.A. SACA|MPA|108200|108300|100|.09|108200|108300|108290|6|2148|232600400||1|
+R|MERCANTIL S.(A)|MVZ.A|1650000|1660000|10000|.61|1650000|1660000|1650330|4|64|105920000||1|
+R|MERCANTIL S.(B)|MVZ.B|1625000|1600000|-25000|-1.54|1551000|1625000|1577430|14|642|1015424000||3|
+R|PRODUCTOS EFE|EFE|100000|90000|-10000|-10|90000|90000|90000|4|88|7920000||3|
+R|R.S.TERESA "B"|RST.B|250000|260000|10000|4|250000|260000|251620|8|1250|314530000||1|
+R|RON STA. TERESA|RST|350000|350000|0|0|350000|400000|356490|6|77|27450000||2|
+R|T. PALO GRANDE|TPG|2490|2600|110|4.42|2100|2600|2120|4|13400|28384500||1|
+P|BCO. CARIBE "A"|ABC.A||999990|||999990|1000000|1000000|1|100|80000000||
+P|BCO. PROVINCIAL|BPV||1600010|||1600000|1650000|1602070|2|11|18000000||
+P|BCO.NAC.CREDITO|BNC||10190|||10000|10990|10150|5|7366728|54895037880||
+P|BOLSA V. CCAS.|BVCC||135000|||134000|150000|139570|11|53157|8899466910||
+P|ENVASES VZLOS.|ENV||125000|||121000|125000|124780|1|1516|183436000||
+P|MERCANTIL S.(A)|MVZ.A||1660000|||1650000|1660000|1650330|2|605|998250000||
+VT|9|6|5|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-DV|(&)AF011P-Colocacion Primaria de Alimentos FM, Em. 2020-I, Serie I|
-DV|(&)AF021P-Colocacion primaria de Alimentos FM, Em. 2020-II, Serie I|
-DV|(&)GE011P-Colocacion Primaria de General de Alimentos Nisa, Em. 2020-I, Serie I|
-DV|(&)TA931P-Colocacion Primaria de Taurel & Cia. Em. 2019-III, Serie I|
-DV|(&)YV03P-Colocacion Primaria de Y & V Ingenieria y Construccion, Em. 2020, Serie III|
-BP|A.FM 2020-1 S.1P|AF011P|78.57|78.57|0|0|78.57|78.57||43|37500000000|29463750000||
-BP|A.FM 2020-2 S.1P|AF021P|78.57|78.57|0|0|78.57|78.57||43|37500000000|29463750000||
-BP|P.TACHIR.19-6 2P|PT962P|78.57|78.75|.18|.23|78.75|78.75||2|1500000000|1181250000||
-BP|PC TAUREL 193-1P|TA931P|78.95|78.95|0|0|78.95|78.95||3|2000000000|1579000000||
-BP|PC Y&V ING 20 3P|YV03P|79.56|79.56|0|0|79.56|79.56||13|8838000000|7031866320||
-BP|PC.G.M. 20-3,1P|GM031P|78.57|80.01|1.44|1.83|80.01|80.01||2|1500000000|1200150000||
-BP|PC.G.M. 20-4,1P|GM041P|78.57|80.01|1.44|1.83|80.01|80.01||2|1500000000|1200150000||
-BP|PC.GENICA 20-1P|GE011P|73|73|0|0|73|73||1|30000000|21900000||
-BP|PC.PAVENCA 20-2P|PS012P|78.57|78.57|0|0|78.57|78.57||1|500000000|392855000||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|40010|54990|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|800000|1000000|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL||1680000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|130|140|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|131000|149450|
-CC|C.A. RON SANTA TERESA|280010|350000|
-CC|C.A. RON SANTA TERESA (CLASE B)|250000|289000|
-CC|C.A. TELARES DE PALO GRANDE|2100|2490|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|200000|205000|
+DV|(&)BVL-PRECIO AJUSTE DIVIDENDO EN EFECTIVO BANCO DE VENEZUELA FLTB 21122020|
+DV|(&)MZ021P-Colocacion Primaria de Mercantil Servicios Financieros., Em 2020-II, Serie I.|
+BP|P.TACHIR.19-6 2P|PT962P|78.75|78.81|.06|.08|78.81|78.81||3|2250000000|1773225000||
+BP|PC.G.M. 20-3,1P|GM031P|80.01|80.12|.11|.14|80.12|80.12||12|10000000000|8012000000||
+BP|PC.G.M. 20-4,1P|GM041P|80.01|80.12|.11|.14|80.12|80.12||12|10000000000|8012000000||
+BP|PC.MER.20-II-1 P|MZ021P|78.57|78.57|0|0|78.57|78.57||36|30500000000|23964155000||
+BP|PC.PAVENCA 20-2P|PS012P|78.57|78.57|0|0|78.57|78.57||10|9000000000|7071390000||
+BY|RST 20-I,S-1 $ P|RS011P|96.35|96.42|.07|96.42|96.42|2|96.42|.07|2062175847.58|2000|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|45000|50000|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|750000|999990|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|10190|10200|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|1600000|1650000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL||140|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|130000|135000|
+CC|C.A. RON SANTA TERESA|350000|400000|
+CC|C.A. RON SANTA TERESA (CLASE B)|250000|260000|
+CC|C.A. TELARES DE PALO GRANDE|1310|2600|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|165000|198990|
 CC|CERAMICA CARABOBO, SACA||5125000|
-CC|CORIMON, C.A.|32000|38000|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|10020|13990|
-CC|CORP.GRUPO QUIMICO, C.A.|491000|501550|
-CC|DOMINGUEZ & CIA., S.A.||325000|
-CC|ENVASES VENEZOLANOS S.A.|122000|134990|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.|191000|245000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|631000|930000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)||595000|
-CC|GRUPO ZULIANO, C.A.||499990|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|325000|400000|
+CC|CORIMON, C.A.|30410|42000|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|10020|12500|
+CC|DOMINGUEZ & CIA., S.A.|261000|325000|
+CC|ENVASES VENEZOLANOS S.A.|121000|125000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||245000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|780000|930000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|481000|590000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|380000|400000|
 CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"||77760|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|95000|108200|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|1500000|1750000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1500000|1625000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|100000|108300|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|1601000|1780000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1580000|1600000|
 CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(A)|7289.7||
 CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(B)|7289.7||
-CC|PROAGRO C.A.||13500|
-CC|PRODUCTOS EFE S.A.|80010|98000|
-CC|PROTINAL C.A.|32010|47990|
-CC|SIVENSA, S.A|90000|106980|
-NO|ALICE NEUMATICOS DE VENEZUELA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de ALICE NEUMATICOS DE VENEZUELA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie III, de la Emisión 2020-I y Serie II, Emisión 2020-III, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora ALICE NEUMATICOS DE VENEZUELA, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 048/2020 de fecha 07/05/2020<BR>Providencia Nro. 105/2020 de fecha 06/08/2020<BR>Emisor	ALICE NEUMATICOS DE VENEZUELA, C.A.<BR>Emisiones	2020-I <BR>2020-III.<BR>Series a colocar		2020-I, Serie III<BR>2020-III, Serie II<BR>Monto de Emisión. 	Bs.  5.000.000.000,00 c/u.<BR>Monto por series 	Bs.  5.000.000.000,00 c/u.<BR>Códigos  ISIN	Em. 2020-I, Serie III:   VEV00370WQV0<BR>Em. 2020-III, Serie II:  VEV00370WQW8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Em. 2020-I, Serie III:  AN013P<BR>Em. 2020-III, Serie II: AN032P<BR>Fecha de Inicio de Sesión Especial 	17/12/2020<BR>Fecha de Vencimiento de las Series.	17/03/2021<BR>Agentes de la Colocación 	Fivenca Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,57%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Calve, Sociedad Calificadora de Riesgo, C.A. Categoría B, Subcategoría B1<BR>Horario de Sesión Especial	 De 9:30 A.M.  a 1:00 P.M.<BR>|
-NO|BANCO NACIONAL DE CREDITO, C.A. BCO.UNIV|SUPERINTENDENCIA NACIONAL DE VALORES<BR>DSNV/CJU/01401<BR><BR>De la comunicación recibida en fecha 16 de diciembre de 2020, mediante la cual nos informa, que tomando en consideración los cambios realizados por la sociedad mercantil BANCO NACIONAL DE CREDITO, C.A., BANCO UNIVERSAL, respecto al valor nominal y cantidad de acciones representativas de su capital social, la cotización de las acciones identificadas con el símbolo BNC,  en la pizarra de cotizaciones de la Bolsa de Valores de Caracas, C.A., a solicitud de la empresa emisora, deberá ser interrumpida a partir del jueves 17 de diciembre de 2020 hasta el día martes 22 de diciembre de 2020, día en que reanudará bajo las nuevas características.<BR><BR>Todo lo anterior responde a la necesidad de dar fin a la liquidación de las operaciones que se encuentran en tránsito bajo las características de los valores negociados hasta el día 16 de diciembre de 2020.<BR>Una vez analizada la información, la Superintendencia Nacional de Valores, actuando de conformidad con los artículos 3, numeral 1, 26, parágrafo segundo y 94 del Decreto con Rango, Valor y Fuerza de Ley de Mercado de Valores, confirma la medida adoptada por la Bolsa de Valores de Caracas, C.A. antes descrita.<BR><BR>Caracas 16 de diciembre de 2020<BR>Carlos Enrique Herrera Martinez<BR>Superintendente Nacional de Valores (E) <BR>|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|GENERAL DE ALIMENTOS NISA, C.A. (GENICA)<BR><BR>La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de GENERAL DE ALIMENTOS NISA, C.A. (GENICA), a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a colocarse son los correspondientes a la Serie I, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora GENERAL DE ALIMENTOS NISA, C.A. (GENICA).<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores a ser colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 210 de fecha 10/12/2020<BR>Emisor	GENERAL DE ALIMENTOS NISA, C.A. (GENICA),<BR>Emisión 	2020-I<BR>Series a colocar		Serie I.<BR>Monto de Emisión. 	Bs.  215.984.000.000,00.<BR>Monto por serie 	Bs.  70.000.000.000,00.<BR>Códigos  ISIN	VEV00406WRA4<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	GE011P<BR>Fecha de Inicio de Sesión Especial 	18/12/2020<BR>Fecha de Vencimiento de la Serie.	18/04/2021<BR>Agentes de la Colocación 	Caja Caracas Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	76,00%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m. <BR>|
-NO||HECHO DE RELEVANCIA BANCO NACIONAL DE CREDITO, CA BANCO UNIVERSAL Interrupción de la cotización de sus acciones<BR><BR>Se informa a los Miembros del Mercado y público en general que, la empresa emisora BANCO NACIONAL DE CREDITO, CA BANCO UNIVERSAL, ha solicitado a esta Bolsa de Valores, la interrupción de la cotización de sus acciones, hasta tanto no se materialice el aumento de capital y cambio de valor nominal acordado en Asamblea General Extraordinaria de Accionistas, celebrada el 18 de marzo 2020, y previa autorización de la Superintendencia de las Instituciones del Sector Bancario, mediante su Oficio SIB-II-GGR-GA-06201 de fecha 10 de noviembre de 2020.<BR><BR>La medida tendrá efecto a partir del jueves 17 hasta el lunes 21 de diciembre de 2020, reanudándose la cotización de los referidos títulos, el martes 22 de diciembre de 2020. Lo anterior responde a la necesidad de dar fin a la liquidación de las operaciones que se encuentran en tránsito bajo las características de los valores negociados hasta el día de hoy, miércoles 16 de diciembre de 2020 y al ajuste de los libros del Banco por el nuevo valor nominal de la acción.<BR><BR>A partir del día martes 22 de diciembre de 2020, la cotización de la acción de la Institución Financiera Banco Nacional de crédito CA, Banco Universal, responderá a la siguiente información:<BR><BR>Símbolo BNC<BR>ISIN VEV002361005<BR>CFI ESVUFR<BR>Moneda Bolívares.<BR>Acciones COMUNES<BR>Tipo/Clase UNICA<BR>Valor Nominal 1,00<BR>Cantidad Títulos 5.791.930.000<BR>Total 5.791.930.000<BR><BR>Atentamente,<BR>Gustavo Pulido Medina<BR>Presidente|
-NO|CORIMON, C.A.|RESULTADO DE LA ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS<BR>                                                                     CORIMON, C.A.<BR><BR> La Asamblea General Ordinaria de Accionistas de CORIMON, C.A., celebrada con fecha Quince (15) de diciembre del año en curso, a través de la modalidad de videoconferencia, tal y como se había informado con anterioridad de forma electrónica y previa convocatoria de conformidad con la ley, al encontrarse presentes y/o representadas más del 94,864 % del capital social, se adoptaron las siguientes decisiones<BR><BR>Primero. Se aprobó por unanimidad los Estados Financieros correspondientes al ejercicio económico finalizado el 30 de abril de 2020, con vista del informe de los Comisarios, así como del informe de la Junta Directiva.<BR><BR> Segundo.  Con vista de los estados financieros de Corimon, C.A. al 30 de abril de 2020, y al proyecto presentado por la Junta directiva, la Asamblea de Accionistas decretó un dividendo en efectivo por un monto de Bs 2.700.000.000 a razón de Bs 18,00 por cada una de las acciones en circulación de la compañía a esa fecha, con cargo a la cuenta de Utilidades No Distribuidas.<BR><BR>Fecha Límite de Transacción con Beneficio: martes, 16 de febrero de 2021<BR>Fecha Efectiva de Registro del Beneficio: viernes, 19 de febrero de 2021.<BR><BR>Tercero. ¿  Se ratificaron como miembros de la Junta Directiva a los señores:<BR>Directores: Carlos Gill Ramírez presidente de la Junta Directiva, Omar Pernía Pacheco vicepresidente de la Junta Directiva y David Tomasello<BR><BR>Cuarto. ¿ Se eligió a los señores Henry Peñaloza y Jorge Gómez Comisarios Principales y sus suplentes, Fernando Bravo y Marcos Saavedra. Así mismo fue designada la firma Ostos, Velásquez & Asociados, miembros de la firma KPMG, para el cargo de Contadores Públicos Independientes, para el próximo ejercicio económico de la sociedad.<BR><BR>Corimon C.A.<BR>Amelia Ibarra<BR>Consultora Jurídica/Secretaria<BR>Caracas, 18 de diciembre de 2020.<BR>|
-NO|PAPELES VENEZOLANOS C.A. (PAVECA)|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de PAPELES VENEZOLANOS, C.A. (PAVECA), a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie II, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora PAPELES VENEZOLANOS, C.A. (PAVECA).<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 129/2019 de fecha 14/09/2020<BR>Emisor	PAPELES VENEZOLANOS, C.A. (PAVECA)<BR>Emisión 	2020-I<BR>Series a colocar		Serie II.<BR>Monto de Emisión. 	Bs.  25.000.000.000,00.<BR>Monto por serie 	Bs.  25.000.000.000,00.<BR>Códigos  ISIN	VEV00178WQS3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	PS012P<BR>Fecha de Inicio de Sesión Especial 	18/12/2020<BR>Fecha de Vencimiento de la Serie.	18/03/2021<BR>Agentes de la Colocación 	Mercosur, Casa de Bolsa, S.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,57%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m. <BR>|
-NO|PRODUCTOS EFE, S.A.|RESULTADO ASAMBLEA GENERAL DE ACCIONISTAS<BR>                              PRODUCTOS EFE, S.A.<BR><BR> La Asamblea Ordinaria de Accionistas de la empresa Productos EFE S.A celebrada en fecha catorce (14) de diciembre de 2020, previa convocatoria de conformidad con la ley, al encontrarse presentes y/o representadas más del 85,95% del capital social, se adoptaron las siguientes decisiones:<BR><BR>Punto Nro. 1.    Luego de su presentación y lectura, fueron aprobados en forma unánime el Informe de la Junta Directiva sobre las actividades de la Compañía; y el Estado Consolidado de Situación Financiera y Estados Consolidados Conexos correspondientes al ejercicio económico finalizado el 30 de septiembre de 2020, con vista al informe del Comisario y del dictamen de los Contadores Públicos Independientes.<BR><BR> Punto Nro. 2.  Se aprobó, en forma unánime, la designación de las siguientes personas como miembros de la Junta Directiva para el período 2020-2021.<BR><BR>Directores Principales:<BR>Manuel Felipe Larrazábal, Luis Carmona, Manuel Torres Núñez, María Isabel Guinand y Antonio Planchart Mendoza.<BR>Directores Suplentes:<BR>Jennifer Pose Saco, Yolibel Delgado, Manuel Bahamonde, Félix Gastón y Fernando Montilla.<BR><BR>Punto Nro. 3 Se designó unánimemente para el ejercicio 2020-2021 a la Lic. Ludy Borges C.P.C. Nro. 72.851 y Lic. Roberto Ferreira C.P.C. Nro. 15.344 como Comisarios Principales y Lic. Edickson Vásquez C.P.C. Nro. 44.916 y Lic. Aibis Urrutia C.P.C. Nro. 42.661, como Comisarios Suplentes.<BR>|
+CC|PROAGRO C.A.|11000|13500|
+CC|PRODUCTOS EFE S.A.|80010|90000|
+CC|PROTINAL C.A.|32010|45000|
+CC|SIVENSA, S.A|86000|106960|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|CONVOCATORIA ASAMBLEA EXTRAORDINARIA DE ACCIONISTAS<BR>BOLSA DE VALORES DE CARACAS<BR><BR>Se convoca a los señores accionistas para la asamblea extraordinaria, a celebrarse desde la sede de la compañía, ubicada en el Edificio Atrium, Avenida Sorocaima, urbanización El Rosal, Salón de Inversionistas, Planta Baja, el día 5 de enero de 2021, a las 2:30 p.m., con el siguiente objeto:<BR><BR>1.	Considerar y resolver sobre la propuesta que presenta la Junta Directiva de modificación de la Clausula Tercera de los Estatutos Sociales, mediante un cambio del valor nominal de las acciones que conforman el capital de la compañía de Bs. 0,10 a Bs. 68,00 y subsecuente canje de acciones en la CVV Caja Venezolana de Valores, S.A., a razón de una (1) acción con un valor nominal de Bs. 68,00 por cada seiscientas ochenta (680) acciones en tenencia con un valor nominal Bs. 0,10, quedando representado el capital social de la Bolsa de Valores de Caracas, C.A. en Bs. 3.400.000.000,00, dividido en 50.000.000 de acciones comunes nominativas, con un valor nominal de Bs. 68,00 cada una.<BR><BR>2.	Considerar y resolver refundir el documento estatutario en un solo texto incluyendo la modificación acordada.<BR><BR>GUSTAVO PULIDO MEDINA<BR>Presidente<BR>BOLSA DE VALORES DE CARACAS<BR>Caracas, 22 de diciembre de 2020	<BR><BR>|
+NO||Nota 1: La documentación a ser considerada en la asamblea, está a disposición de los  señores  accionistas  desde esta fecha en el departamento de Gestión de Accionistas de la Bolsa de Valores de Caracas C.A., Email: gestion.accionistas@bolsadecaracas.com <BR><BR>Nota 2: En consideración de las circunstancias excepcionales, ante el riesgo de propagación del coronavirus (Covid-19), en aras de la prevención y protección de los organizadores y participantes, se informa que la asamblea se llevará a cabo de manera no presencial, a través de la modalidad de videoconferencia.<BR><BR>A tal fin, se han publicado las coordenadas e instrucciones en la página web, www.bolsadecaracas.com, sección `Asamblea Accionistas BVC¿, a través de la cual podrá conectarse por vía remota a la reunión, desde un computador o equipo móvil, colocando su nombre al serle requerido por el sistema. Agradecemos iniciar la conexión a partir de las 1:30 de la tarde, de manera de permitirnos realizar el proceso previo de verificación de las acreditaciones y solucionar cualquier eventualidad técnica que pudiera presentarse antes de la hora fijada para dar inicio a la asamblea extraordinaria. <BR><BR>Nota 3: Los accionistas mantienen su derecho de participar en la asamblea, en tal sentido, a los fines de alcanzar el quórum requerido para la validez de las deliberaciones sobre la agenda de la reunión, en caso de no ser posible su participación, les agradecemos conferir carta poder para ser representado en la asamblea y enviarla a la brevedad del caso a la dirección de correo: gestion.accionistas@bolsadecaracas.com. El formato de dicha carta-poder, se encuentra disponible a partir de la presente fecha, en la página www1.bolsadecaracas.com y www.bolsadecaracas.com en la sección `Asamblea Accionistas BVC¿<BR>|
+NO||Nota 4:  La información contentiva de las decisiones adoptadas por la asamblea, será comunicada a los accionistas a través de la página web de la Bolsa, luego de concluido el acto correspondiente. De igual forma, en caso de requerir alguna información adicional u orientación para el proceso de otorgamiento de poder o para su participación a través del sistema de videoconferencia, colocamos a su disposición el correo electrónico antes señalado, a través del cual atenderemos sus requerimientos|
+NO||HECHO DE IMPORTANCIA<BR>BOLSA DE VALORES DE CARACAS, CA<BR>Se notifica a los señores accionistas de la Bolsa de Valores de Caracas, C.A., que el Acta de Asamblea Ordinaria de Accionistas celebrada en fecha 24 de septiembre de 2020, quedó inscrita por ante el Registro Mercantil Primero del Distrito Capital y Estado Bolivariano de Miranda, en fecha 10 de diciembre del año 2020, bajo el número 33, tomo 30-A. De igual manera, en fecha 18 de diciembre de 2020, fue registrada en la referida oficina de Registro, el Acta de Asamblea Extraordinaria de Accionistas celebrada en fecha 24 de septiembre de 2020, bajo el número 20, tomo 34-A.<BR><BR>La Bolsa de Valores de Caracas, C.A., responsablemente, cumple con el deber de informar a sus accionistas, que a criterio del registro mercantil, no fue posible registrar en el Acta de Asamblea Extraordinaria, en el punto segundo de la convocatoria, la decisión adoptada sobre propuesta de modificación estatutaria presentada por la Junta Directiva, referida al cambio del valor nominal de las acciones que conforman el capital de la Bolsa de Valores de Caracas, C.A. y subsecuente canje de acciones en la CVV Caja Venezolana de Valores, S.A.<BR>Por tal motivo, hemos procedido, con la urgencia que amerita el caso y dando cumplimiento a la normativa vigente sobre la materia, a convocar nuevamente en fecha 22 de diciembre de 2020, a una Asamblea Extraordinaria de Accionistas de la Bolsa de Valores de Caracas, C.A., a celebrarse desde la sede de la compañía el martes 5 de enero de 2021, a las 2:30 pm, con el siguiente objeto<BR>|
+NO||1.	Considerar y resolver sobre la propuesta que presenta la Junta Directiva de modificación de la Clausula Tercera de los Estatutos Sociales, mediante un cambio del valor nominal de las acciones que conforman el capital de la compañía de Bs. 0,10 a Bs. 68,00 y subsecuente canje de acciones en la CVV Caja Venezolana de Valores, S.A., a razón de una (1) acción con un valor nominal de Bs. 68,00 por cada seiscientas ochenta (680) acciones en tenencia con un valor nominal Bs. 0,10, quedando representado el capital social de la Bolsa de Valores de Caracas, C.A. en Bs. 3.400.000.000,00, dividido en 50.000.000 de acciones comunes nominativas, con un valor nominal de Bs. 68,00 cada una.<BR><BR>2.	Considerar y resolver refundir el documento estatutario en un solo texto incluyendo la modificación acordada <BR><BR>Una vez que se hayan hecho los ajustes respectivos en el asiento de inscripción correspondiente a las acciones de la Bolsa de Valores de Caracas, C.A., que lleva el Registro Nacional de Valores y que el Acta de Asamblea sea protocolizada ante el Registro Mercantil Primero de la  Circunscripción Judicial del Distrito Capital y Estado Miranda, la Junta Directiva procederá a ejecutar las decisiones tomadas por los accionistas en las Asambleas Extraordinarias de Accionistas celebradas en fecha 24 de septiembre de 2020 y 5 de enero de 2021, respectivamente.<BR>Caracas, 22 de diciembre de 2020<BR><BR>Gustavo Pulido Medina<BR>Presidente<BR>BOLSA DE VALORES DE CARACAS|
+NO|INVACA,INMUEBLES,VALORES Y CAPITALES,|RESULTADO DE LA ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS<BR>La Asamblea General Ordinaria de Accionistas de INVACA, INMUEBLES, VALORES Y CAPITALES, S.A.C.A., celebrada con fecha veinticinco (25) de noviembre de 2020, a través de la modalidad de videoconferencia y presencial, previa convocatoria de conformidad con la ley, al encontrarse presentes y/o representadas más del 98 % del capital social, se adoptaron las siguientes decisiones<BR>Primero. Luego de su presentación y lectura, fueron aprobados en forma unánime el Informe de la Junta Directiva. <BR>Segundo. Una vez considerado y revisado el balance y estado de ganancias y pérdidas de la empresa, correspondiente al ejercicio que finalizó el treinta (30) de junio 2019, con vista al dictamen de los Auditores Externos y al Informe de los Comisarios, lo cual fue aprobado por unanimidad por los señores accionistas, dejándose expresa constancia de que los administradores se abstuvieron de deliberar y votar sobre lo relacionado con este punto.<BR>Tercero.  Se aprobó por unanimidad lo relativo a la no repartición de dividendos en acciones y en efectivo a los accionistas, en vista que no se ha determinado el alcance del impacto o el efecto definitivo de la Pandemia a nivel nacional, siendo lo prudente esperar al cierre del año y ver el inicio del año que viene.<BR>Cuarto.  Se aprobó, en forma unánime, la designación y ratificación de las siguientes personas como miembros de la Junta Directiva. <BR>Directores Principales: Horacio Velutini Sosa, Luis Emilio Velutini, Luis García Armas, Alvar Nelson Ortiz, Luis García Montoya, Luis Delgado Lugo, Carlos Acosta, José Vicente Melo, Vacante y Luis Emilio Velutini.<BR>Directores Suplentes: José Eusebio Mendoza, Luis Carlos Serra, Tulio Guillermo Chacón y Santiago Nannini Velutini<BR>Quinto.  Se eligió a la Licenciada Magda Cánchica y Franco Abrusci Comisarios Principales y sus suplentes, Alejandra Del Valle y Elsa Cabarico. <BR><BR>Luis Alberto García Armas<BR>Director Principal<BR>Caracas, 16 de diciembre de 2020<BR>|
+NO|MERCANTIL SERVICIOS FINANCIEROS C.A|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de MERCANTIL SERVICIOS FINANCIEROS, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocar son los correspondientes a las Serie 2020-II-I, Emisión 2020-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora MERCANTIL SERVICIOS FINANCIEROS, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores.<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 206/2020 de fecha 30/11/2020<BR>Emisor	MERCANTIL SERVICIOS FINANCIEROS, C.A.<BR>Emisión 	2020-II<BR>Series a colocar		Serie 2020-II-I<BR>Monto de Emisión. 	Bs.  50.000.000.000,00.<BR>Monto por serie 	Bs.  50.000.000.000,00.<BR>Códigos  ISIN	VEV00194WQU6<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	MZ021P<BR>Fecha de Inicio de Sesión Especial 	22/12/2020<BR>Fecha de Vencimiento de las Series.	22/03/2021<BR>Agentes de la Colocación 	Mercantil Merinvest Casa de Bolsa, C.A.<BR>Mercosur Casa de Bolsa, C.A.<BR>Rendivalores Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación de las Series.	78,5714%<BR>Base de cálculo 	Actual / 360<BR>Calificación de Riesgo	Clave, Sociedad Calificadora de Riesgo, C.A Categoría A, Subcategoría A2.<BR>A1a Calificadores, Sociedad Calificadora de Riesgo, C.A Categoría A, Subcategoría A2<BR>Horario de Sesión Especial	 De 9:30 a.m. a 1:00 p.m.<BR>|
