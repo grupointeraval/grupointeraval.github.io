@@ -23,7 +23,7 @@ navbar:
           href: bou.html
         - text: "Banco Provincial (BPV)"
           href: bpv.html
-        - text: "Banco de Valores de Caracas (BVCC)"
+        - text: "Bolsa de Valores de Caracas (BVCC)"
           href: bvcc.html
         - text: "Banco de Venezuela (BVL)"
           href: bvl.html
