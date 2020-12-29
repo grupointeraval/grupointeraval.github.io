@@ -1,76 +1,73 @@
-IG|23122020|1229396.38|-825.5|-.07|1376478.12|80655.96|1177162.7|2253.65|
-IF|23122020|2333517.5|4498.5|.19|
-II|23122020|506455.03|-5483.53|-1.07|
-R|B.DE VENEZUELA|BVL|50000|49990|-10|-.02|49990|53000|50200|6|218|10944000||3|
-R|B.OCC.DCTO.B.U.|BOU|140|140|0|0|140|140|140|12|56735|7942900||2|
-R|BCO. CARIBE "A"|ABC.A|999990|999980|-10|0|999980|999990|999990|4|11|10999850||3|
-R|BCO. PROVINCIAL|BPV|1600010|1650000|49990|3.12|1600000|1650000|1603740|8|376|602600000||1|
-R|BCO.NAC.CREDITO|BNC|10190|10000|-190|-1.86|9550|10000|9730|30|114065|1113066240||3|
-R|BOLSA V. CCAS.($)|BVCC|135000|133000|-2000|-1.48|126000|138000|131000|45|13030|1706885610||3|
-R|CANTV CLASE (D)|TDV.D|200000|180000|-20000|-10|180000|190000|185920|8|184|34210000||3|
-R|CORIMON C.A.|CRM.A|37990|42000|4010|10.56|42000|43000|42000|6|1474|61910000||1|
-R|CORP.IND.ENERGIA|CIE|12500|10020|-2480|-19.84|10020|11500|10100|6|4368|44128480||3|
-R|DOMINGUEZ & CIA|DOM|325000|325000|0|0|325000|325000|325000|2|8|2600000||2|
-R|ENVASES VZLOS.|ENV|125000|121000|-4000|-3.2|121000|129990|121510|9|892|108387840||3|
-R|FONDO V.INM.(A)|FVI.A|950000|910000|-40000|-4.21|780000|950000|795000|6|110|87449950||3|
-R|FONDO V.INM.(B)|FVI.B|590000|590000|0|0|590000|590000|590000|5|188|110920000||2|
-R|GRUPO ZULIANO|GZL|539970|647950|107980|20|647950|647950|647950|1|15|9719250||1|
-R|INM.VAL.Y CAP.|IVC|400000|400000|0|0|400000|400000|400000|1|20|8000000||2|
-R|MERCANTIL S.(A)|MVZ.A|1660000|1626000|-34000|-2.05|1600000|1626000|1604000|3|117|187668000||3|
-R|MERCANTIL S.(B)|MVZ.B|1600000|1575000|-25000|-1.56|1575000|1600000|1576310|8|331|522350000||3|
-R|PRODUCTOS EFE|EFE|90000|90000|0|0|90000|90000|90000|3|110|9900000||2|
-R|PROTINAL|PTN|40000|40000|0|0|40000|40000|40000|1|572|22880000||2|
-R|R.S.TERESA "B"|RST.B|260000|260000|0|0|249990|260000|252170|20|3473|875784800||2|
-R|RON STA. TERESA|RST|350000|350000|0|0|350000|400000|350780|12|1635|573523000||2|
-R|SIVENSA, S.A.|SVS|106980|106960|-20|-.02|106960|106960|106960|2|4|427840||3|
-R|T. PALO GRANDE|TPG|2600|2500|-100|-3.85|2500|2590|2510|2|1233|3091050||3|
-P|B.DE VENEZUELA|BVL||49990|||49990|53000|50200|1|405|20250000||
-P|BCO.NAC.CREDITO|BNC||10000|||9550|10000|9730|1|55|525250||
-P|BOLSA V. CCAS.|BVCC||133000|||126000|138000|131000|9|285560|39809654610||
-P|FONDO V.INM.(B)|FVI.B||590000|||590000|590000|590000|1|295|208860000||
-P|GRUPO ZULIANO|GZL||647950|||647950|647950|647950|1|296|191512000||
-P|MERCANTIL S.(A)|MVZ.A||1626000|||1600000|1626000|1604000|3|491|813752460||
-P|PRODUCTOS EFE|EFE||90000|||90000|90000|90000|1|19982|2158056000||
-P|PROTINAL|PTN||40000|||40000|40000|40000|2|137300|5331359000||
-P|R.S.TERESA "B"|RST.B||260000|||249990|260000|252170|1|5339|1665768000||
-VT|3|12|8|
+IG|29122020|1252254.5|13887.25|1.12|1376478.12|88548.06|1200020.82|2297.41|
+IF|29122020|2347000.25|30328.5|1.31|
+II|29122020|541230.44|2355.13|.44|
+R|B.DE VENEZUELA|BVL|59000|59500|500|.85|59500|59500|59500|2|700|41650000||1|
+R|B.OCC.DCTO.B.U.|BOU|140|140|0|0|140|140|140|2|25389|3554460||2|
+R|BCO. CARIBE "A"|ABC.A|999970|999960|-10|0|999800|999960|999880|2|2|1999760||3|
+R|BCO. PROVINCIAL|BPV|1595000|1578000|-17000|-1.07|1276050|1589990|1524060|10|554|844331700||3|
+R|BCO.NAC.CREDITO|BNC|10000|11200|1200|12|10500|11400|10960|22|473752|5244935100||1|
+R|BOLSA V. CCAS.($)|BVCC|140000|155000|15000|10.71|155000|155000|155000|23|7261|1125455000||1|
+R|CANTV CLASE (D)|TDV.D|200000|200000|0|0|200000|210000|200320|10|1587|317900000||2|
+R|CORIMON C.A.|CRM.A|42000|42000|0|0|42000|42000|42000|3|2753|115626000||2|
+R|DOMINGUEZ & CIA|DOM|340000|339990|-10|0|339990|340000|340000|4|35|11899890||3|
+R|ENVASES VZLOS.|ENV|121000|121000|0|0|0|0|0|1|7|854000||2|
+R|FONDO V.INM.(B)|FVI.B|585000|605010|20010|3.42|585000|605010|602400|17|3785|2280105200||1|
+R|GRUPO ZULIANO|GZL|647950|777530|129580|20|600000|777530|638590|2|23|14687650||1|
+R|INM.VAL.Y CAP.|IVC|400000|400000|0|0|400000|400000|400000|4|52|20800000||2|
+R|MANPA, C.A. SACA|MPA|108300|108500|200|.18|108300|108500|108370|5|2834|307128400||1|
+R|MERCANTIL S.(A)|MVZ.A|1655000|1661000|6000|.36|1655000|1661000|1657610|9|230|381250020||1|
+R|MERCANTIL S.(B)|MVZ.B|1575000|1575000|0|0|1575000|1575000|1575000|15|418|658350000||2|
+R|PROAGRO|PGR|13500|13500|0|0|13500|13500|13500|2|10000|135000000||2|
+R|PRODUCTOS EFE|EFE|90000|89000|-1000|-1.11|89000|89000|89000|2|308|27412000||3|
+R|PROTINAL|PTN|40000|40000|0|0|40000|45000|42000|3|50|2100000||2|
+R|R.S.TERESA "B"|RST.B|265000|285000|20000|7.55|280000|285000|280760|5|165|46325000||1|
+R|RON STA. TERESA|RST|399000|399000|0|0|399000|399010|399000|4|550|219450130||2|
+R|SIVENSA, S.A.|SVS|106960|106960|0|0|106960|106960|106960|1|32|3422720||2|
+R|T. PALO GRANDE|TPG|2500|2680|180|7.2|2500|2680|2680|6|23072|61782560||1|
+P|BOLSA V. CCAS.|BVCC||155000|||155000|155000|155000|13|93520|14303190830||
+P|CR.CARABOBO|CCR||5120000|||0|0|0|2|83|498000000||
+P|RON STA. TERESA|RST||399000|||399000|399010|399000|4|866|377505200||
+VT|9|4|10|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-BP|PC.GENICA 20-1P|GE011P|73|76|3|4.11|76|76||1|5175203|3933154.28||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|40010|49990|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|750000|999990|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|9800|10000|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|1350000|1595000|
+BP|PC Y&V ING 20 3P|YV03P|79.56|80.2|.64|.8|80.2|80.2||1|834500000|669294035||
+BP|PC.GENICA 20-1P|GE011P|76|76|0|0|76|76||43|40000000000|30400000000||
+BP|PC.MER.20-II-1 P|MZ021P|78.57|79.02|.45|.57|79.02|79.02||6|5000000000|3951000000||
+BY|RST 20-I,S-1 $ P|RS011P|96.36|96.49|.13|96.49|96.49|2|96.49|.13|223063942225.85|223000|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|47210|58900|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|750000|999890|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|11200|11400|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|1536000|1578000|
 CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|130|140|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|130000|133000|
-CC|C.A. RON SANTA TERESA|350000|395000|
-CC|C.A. RON SANTA TERESA (CLASE B)|208010|260000|
-CC|C.A. TELARES DE PALO GRANDE|2110|2430|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|165000|180000|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|153000|155000|
+CC|C.A. RON SANTA TERESA|399000|420000|
+CC|C.A. RON SANTA TERESA (CLASE B)|275000|317990|
+CC|C.A. TELARES DE PALO GRANDE|2010|2680|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|180000|200000|
 CC|CERAMICA CARABOBO, SACA||5125000|
-CC|CORIMON, C.A.|45000|45560|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|10020|12390|
-CC|CORP.GRUPO QUIMICO, C.A.|601000|722210|
-CC|DOMINGUEZ & CIA., S.A.|260010|325000|
-CC|ENVASES VENEZOLANOS S.A.|115000|121000|
+CC|CORIMON, C.A.|42000|50000|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|10000|13990|
+CC|CORP.GRUPO QUIMICO, C.A.|660000|779990|
+CC|DOMINGUEZ & CIA., S.A.||339990|
+CC|ENVASES VENEZOLANOS S.A.|127000|134990|
 CC|FABRICA NACIONAL DE CEMENTOS, C.A.||245000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|900000|929980|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|560000|589990|
-CC|GRUPO ZULIANO, C.A.|431980||
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|631000|939990|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|605000|605010|
+CC|GRUPO ZULIANO, C.A.|647950|777530|
 CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|325000|400000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"||75000|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|90010|108000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|1626000|1990000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1500000|1575000|
-CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(A)|7289.7||
-CC|MERCANTIL SERV. FINC. INTERNAC.DCHOS.(B)|7289.7||
-CC|PROAGRO C.A.||13500|
-CC|PRODUCTOS EFE S.A.|72010|90000|
-CC|PROTINAL C.A.|32010|44000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"||70000|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|95000|108500|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|1661000|1985990|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|1505000|1890000|
+CC|PROAGRO C.A.|13500|13600|
+CC|PRODUCTOS EFE S.A.|72010|89000|
+CC|PROTINAL C.A.|32010|45000|
 CC|SIVENSA, S.A||106960|
-NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|CONVOCATORIA ASAMBLEA EXTRAORDINARIA DE ACCIONISTAS<BR>                                 BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.<BR><BR> De conformidad con los artículos 13, literales ¿a¿ y ¿b¿; 17 y 31, numeral 8 de los estatutos sociales, la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A., ha resuelto convocar a sus Accionistas a una Asamblea General Extraordinaria que se celebrará el martes 12 de enero de 2021, a las 9:00 a.m., en la oficina del Banco ubicada en la Avenida Blandín, La Castellana, Torre BOD, Mezzanina Norte, Pent-house, Caracas, con el fin de tratar los siguientes puntos:<BR><BR> Primero. -  Considerar el informe que presenta la Junta Directiva, el balance general, estado de resultados y demás estados financieros auditados y dictaminados por contadores públicos independientes, con vista del informe de los comisarios sobre los resultados del segundo semestre de 2019.<BR>Segundo. ¿ Resolver sobre el destino de las utilidades obtenidas en el segundo semestre de 2019.<BR><BR>Maracaibo, 08 de diciembre de 2020<BR>Por la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A.<BR>Victor J. Vargas Irausquín<BR>Presidente <BR><BR>Nota: a) De conformidad con los estatutos sociales y las normas que regulan a esta institución bancaria, el informe de la Junta Directiva, los estados financieros, el Informe de los comisarios y demás documentos correspondientes a los resultados del segundo semestral de 2019 se encuentran a disposición de los Accionistas en la Consultoría Jurídica del Banco, situada en el piso 10 de la sede principal, en la ciudad de Maracaibo.<BR>|
-NO||b) En la sede del Banco se atenderá a los Accionistas o sus representantes y se expedirán las credenciales para su asistencia a la Asamblea. <BR><BR>c)  Vistas las circunstancias actuales derivadas de la pandemia Coronavirus (COVID-19) y, con el objeto de proteger la salud de los  Accionistas y empleados del Banco, así como en cumplimiento de la Resolución Nro.090, del 01-06-2020 del Ministerio del Poder Popular para la Salud, sobre la normativa sanitaria de responsabilidad social ante la referida pandemia, se requerirá el uso obligatorio de mascarilla, distanciamiento social mínimo de 1,5 metros entre los asistentes y se aplicara antibacterial al ingreso de las instalaciones. Asimismo, se recomienda a los Accionistas que tengan alguna condición de riesgo- adultos mayores de 65 años, embarazadas, cardiópatas, hipertensos, diabéticos, enfermedades respiratorias crónicas, entre otras- seguir las recomendaciones de la normativa antes indicada. No se ofrecerá refrigerio.<BR>|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|C O N V O C A T O R I A  ASAMBLEA EXTRAORDINARIA DE ACCIONISTAS<BR><BR>Se convoca a los señores accionistas para la asamblea extraordinaria, a celebrarse desde la sede de la compañía, ubicada en el Edificio Atrium, Avenida Sorocaima, urbanización El Rosal, Salón de Inversionistas, Planta Baja, el día 5 de enero de 2021, a las 2:30 p.m., con el siguiente objeto:<BR><BR>1.	Considerar y resolver sobre la propuesta que presenta la Junta Directiva de modificación de la Clausula Tercera de los Estatutos Sociales, mediante un cambio del valor nominal de las acciones que conforman el capital de la compañía de Bs. 0,10 a Bs. 68,00 y subsecuente canje de acciones en la CVV Caja Venezolana de Valores, S.A., a razón de una (1) acción con un valor nominal de Bs. 68,00 por cada seiscientas ochenta (680) acciones en tenencia con un valor nominal Bs. 0,10, quedando representado el capital social de la Bolsa de Valores de Caracas, C.A. en Bs. 3.400.000.000,00, dividido en 50.000.000 de acciones comunes nominativas, con un valor nominal de Bs. 68,00 cada una.<BR><BR>2.	Considerar y resolver refundir el documento estatutario en un solo texto incluyendo la modificación acordada.<BR><BR><BR>GUSTAVO PULIDO MEDINA<BR>Presidente<BR>Caracas, 22 de diciembre de 2020	<BR><BR>Nota 1: La documentación a ser considerada en la asamblea, está a disposición de los  señores  accionistas  desde esta fecha en el departamento de Gestión de Accionistas de la Bolsa de Valores de Caracas C.A., Email: gestion.accionistas@bolsadecaracas.com <BR>|
-NO||Nota 2: En consideración de las circunstancias excepcionales, ante el riesgo de propagación del coronavirus (Covid-19), en aras de la prevención y protección de los organizadores y participantes, se informa que la asamblea se llevará a cabo de manera no presencial, a través de la modalidad de videoconferencia.<BR><BR>A tal fin, se han publicado las coordenadas e instrucciones en la página web, www.bolsadecaracas.com, sección `Asamblea Accionistas BVC¿, a través de la cual podrá conectarse por vía remota a la reunión, desde un computador o equipo móvil, colocando su nombre al serle requerido por el sistema. Agradecemos iniciar la conexión a partir de las 1:30 de la tarde, de manera de permitirnos realizar el proceso previo de verificación de las acreditaciones y solucionar cualquier eventualidad técnica que pudiera presentarse antes de la hora fijada para dar inicio a la asamblea extraordinaria. <BR><BR>Nota 3: Los accionistas mantienen su derecho de participar en la asamblea, en tal sentido, a los fines de alcanzar el quórum requerido para la validez de las deliberaciones sobre la agenda de la reunión, en caso de no ser posible su participación, les agradecemos conferir carta poder para ser representado en la asamblea y enviarla a la brevedad del caso a la dirección de correo: gestion.accionistas@bolsadecaracas.com. El formato de dicha carta-poder, se encuentra disponible a partir de la presente fecha, en la página www1.bolsadecaracas.com y www.bolsadecaracas.com en la sección `Asamblea Accionistas BVC¿<BR>|
-NO||Nota 4:  La información contentiva de las decisiones adoptadas por la asamblea, será comunicada a los accionistas a través de la página web de la Bolsa, luego de concluido el acto correspondiente. De igual forma, en caso de requerir alguna información adicional u orientación para el proceso de otorgamiento de poder o para su participación a través del sistema de videoconferencia, colocamos a su disposición el correo electrónico antes señalado, a través del cual atenderemos sus requerimientos|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|HECHO DE IMPORTANCIA A LOS ACCIONISTAS DE LA BOLSA DE VALORES DE CARACAS, C.A.<BR><BR>Se notifica a los señores accionistas de la Bolsa de Valores de Caracas, C.A., que el Acta de Asamblea Ordinaria de Accionistas celebrada en fecha 24 de septiembre de 2020, quedó inscrita por ante el Registro Mercantil Primero del Distrito Capital y Estado Bolivariano de Miranda, en fecha 10 de diciembre del año 2020, bajo el número 33, tomo 30-A. De igual manera, en fecha 18 de diciembre de 2020, fue registrada en la referida oficina de Registro, el Acta de Asamblea Extraordinaria de Accionistas celebrada en fecha 24 de septiembre de 2020, bajo el número 20, tomo 34-A.<BR>La Bolsa de Valores de Caracas, C.A., responsablemente, cumple con el deber de informar a sus accionistas, que a criterio del registro mercantil, no fue posible registrar en el Acta de Asamblea Extraordinaria, en el punto segundo de la convocatoria, la decisión adoptada sobre propuesta de modificación estatutaria presentada por la Junta Directiva, referida al cambio del valor nominal de las acciones que conforman el capital de la Bolsa de Valores de Caracas, C.A. y subsecuente canje de acciones en la CVV Caja Venezolana de Valores, S.A.<BR>Por tal motivo, hemos procedido, con la urgencia que amerita el caso y dando cumplimiento a la normativa vigente sobre la materia, a convocar nuevamente en fecha 22 de diciembre de 2020, a una Asamblea Extraordinaria de Accionistas de la Bolsa de Valores de Caracas, C.A., a celebrarse desde la sede de la compañía el martes 5 de enero de 2021, a las 2:30 pm, con el siguiente objeto:<BR>|
+NO||1.	Considerar y resolver sobre la propuesta que presenta la Junta Directiva de modificación de la Clausula Tercera de los Estatutos Sociales, mediante un cambio del valor nominal de las acciones que conforman el capital de la compañía de Bs. 0,10 a Bs. 68,00 y subsecuente canje de acciones en la CVV Caja Venezolana de Valores, S.A., a razón de una (1) acción con un valor nominal de Bs. 68,00 por cada seiscientas ochenta (680) acciones en tenencia con un valor nominal Bs. 0,10, quedando representado el capital social de la Bolsa de Valores de Caracas, C.A. en Bs. 3.400.000.000,00, dividido en 50.000.000 de acciones comunes nominativas, con un valor nominal de Bs. 68,00 cada una.<BR><BR>2.	Considerar y resolver refundir el documento estatutario en un solo texto incluyendo la modificación acordada <BR><BR>Una vez que se hayan hecho los ajustes respectivos en el asiento de inscripción correspondiente a las acciones de la Bolsa de Valores de Caracas, C.A., que lleva el Registro Nacional de Valores y que el Acta de Asamblea sea protocolizada ante el Registro Mercantil Primero de la  Circunscripción Judicial del Distrito Capital y Estado Miranda, la Junta Directiva procederá a ejecutar las decisiones tomadas por los accionistas en las Asambleas Extraordinarias de Accionistas celebradas en fecha 24 de septiembre de 2020 y 5 de enero de 2021, respectivamente.<BR>Caracas, 22 de diciembre de 2020<BR><BR>Gustavo Pulido Medina<BR>Presidente<BR>|
+NO|MANUFACTURAS DE PAPEL,C.A. (MANPA) SACA.|RESULTADO ASAMBLEA GENERAL EXTRAORDINARIA DE ACCIONISTAS<BR>La Asamblea Extraordinaria de Accionistas de la empresa MANUFACTURAS DE PAPEL, C.A. (MANPA), S.A.C.A celebrada en fecha dieciocho (18) de diciembre de 2020, previa convocatoria de conformidad con la ley, se adoptaron las siguientes decisiones:<BR>Se aprobó el aumento de capital social de la compañía en los siguientes términos:<BR>a. Aumentar  el capital social Bs 3.521.999.770,59 mediante la emisión de 3.521.999.770.590.000 de nuevas acciones  con valor nominal de Bs 0,000001 cada una, para llevarlo de Bs 229,41 a Bs 3.522.000.000,00, el cual será suscrito  y pagado con cargo a la cuenta Actualización Capital Social a razón de 15.352.425,7878907  acciones  nuevas por cada acción en tenencia  a  favor de los accionistas registrados al quinto día hábil (fecha   límite   de  transacción  con  beneficio)  siguiente  de  la publicación  en  un  (1)  periódico de mayor circulación nacional del aviso  de  dividendos  autorizado por la Superintendencia Nacional de Valores,  pagadero  a  partir  del  quinto día hábil siguiente a esta última fecha (fecha efectiva de registro del beneficio).<BR><BR>b. Las  fracciones  de  acción  resultantes  del aumento de capital que queden  en  poder  de  los accionistas serán asignadas a la FUNDACIÓN CARLOS  DELFINO,  aplicando  la  Resolución  110-2004  de la Comisión       Nacional  de  Valores  referida  a  los  Dividendos,  estableciéndose mediante aviso publicado en prensa la Fecha Límite de Transacción con       Beneficio  y  la  Fecha Efectiva de Registro del Beneficio, siendo el valor  para  el pago de las fracciones el determinado por el promedio ponderado  de  las  operaciones  realizadas en la Bolsa de Valores de Caracas con acciones de la compañía en la fecha Límite de Transacción con  Beneficio,  o, en su defecto, al valor del último día anterior a esa  fecha  en  que  se  realizaron  operaciones  de Bolsa con dichas  acciones.<BR>|
+NO||c. Igualmente, solicitamos se delegó en la Junta Directiva la fijación de la Fecha Límite de Transacción con Beneficio (Fecha de Registro) y la Fecha Efectiva de Registro del Beneficio (Fecha de Pago) y del pago de las fracciones de acción correspondientes, y quede facultada para llevar a cabo todo lo conducente al aumento y dividendo en acciones.<BR><BR>   Además, se aprobó la propuesta presentada por la Junta Directiva relativa a la conveniencia de no decretar el dividendo en efectivo    correspondiente al ejercicio económico terminado el 31 de diciembre de 2019<BR><BR>1.  Se aprobaron los Estados Financieros correspondientes a los ejercicios comprendidos entre el 1° de enero y el 31 de diciembre de 2017, entre el 1° de enero y el 31 de diciembre de 2018 y entre el 1° de enero y el 31 de diciembre de 2019, cada uno con vista de los informes de la Junta Directiva y de los Comisarios.<BR><BR>2.                      Se aprobó que   la compañía continúe actuando como Sociedad Anónima de Capital<BR>Autorizado (S.A.C.A.), estableciendo como Capital Autorizado el doble del Capital Suscrito y Pagado.<BR><BR>|
+NO||3.                     Se aprobó el proyecto para la emisión de Papeles Comerciales en moneda de curso legal (Bs) hasta por un monto de dos millones de Dólares de los Estados Unidos de América (US$2.000.000, 00) en su equivalente en Bolívares por año, para ser emitidos en una o varias series. Igualmente, delegar en la Junta Directiva  las  más  amplias  facultades  para negociar, fijar y establecer todas las condiciones y términos de cada una de las series que conformen la emisión,  el número, identificación y monto de cada una de las series de la misma,  el  valor  nominal de los títulos, su fecha de vencimiento, lugar y plazo de pago, precio de colocación, tasa de descuento o de prima y la tasa de  rendimiento  anual  o  efectiva  o  tasa  de  interés,  según  el caso, modalidad, sistema de colocación, precio, garantía si fuese necesaria y, en general,  todos  los aspectos relativos a la emisión. Así como, autorizar a la Junta Directiva para realizar todos los actos, gestiones y trámites necesarios para llevar a cabo la emisión, asimismo se autorizó a la Junta Directiva para delegar en las personas que considere convenientes las mencionadas   facultades, designar a las personas que suscribirán la solicitud de autorización ante la Superintendencia Nacional de Valores y a las personas que firmarán los títulos de los Papeles Comerciales. En caso de resultar aprobado el proyecto para la emisión de Papeles Comerciales se propone a la Asamblea se designe a Mercantil Merinvest Casa de Bolsa, C.A., como representante común de los tenedores de los referidos títulos y se establezca como remuneración del representante común de los tenedores de los Papeles Comerciales hasta en un máximo del equivalente en Bolívares del uno por ciento (1%) el monto de la emisión por año<BR>|
+NO||4.   Se aprobaron las   modificaciones   de   las   cláusulas:   Nro.   1   del   Documento Constitutivo-Estatutos Sociales de la compañía, relativa al objeto social de la compañía; Nro.  4  del   Documento  Constitutivo  Estatutos Sociales relativa  al  Capital  Social,  como  consecuencia  de la aprobación de los puntos  5 y 6 de la convocatoria; Nro. 7 del Documento Constitutivo-Estatutos Sociales  de la compañía, relativa al número de miembros que constituyen la Junta  Directiva  y  edad  límite  para  formar parte de la misma; Nro. 8 del Documento  Constitutivo-Estatutos  Sociales  de  la  compañía,  relativa al período  estatutario; Nro. 9 del Documento Constitutivo-Estatutos Sociales de la compañía, relativa a la forma de cumplimiento del art. 244 del Código de Comercio y a la dieta por asistencia a las reuniones de  los Miembros de la Junta Directiva;  Nro. 11 del Documento Constitutivo-Estatutos Sociales de la compañía,  relativa  a  las  facultades  de  la  Junta Directiva; Nro. 14 del Documento  Constitutivo-Estatutos  Sociales  de  la  compañía,  relativa al número  de  los  miembros que conforman la Junta Directiva previsto en esta cláusula.<BR><BR> 5.   El nombramiento de los miembros de la Junta Directiva para el próximo período estatutario, resultando designados como <BR>Miembros Principales de la Junta Directiva a los señores:  CARLOS DELFINO THORMAHLEN, JUAN CARLOS CARPIO DELFINO, JOSE IGNACIO DELFINO GOMEZ, MANUEL LOZADA GARCIA, ELISA BUSTAMANTE MACHADO, JULIO BUSTAMANTE DIAZ, JAVIER YÑIGUEZ, ANDRES SABAL Y FERNANDO MICALE y como <BR>Miembros Suplentes a los señores:  MIGUEL E. CARPIO DELFINO, GONZALO RODRIGUEZ CARPIO, GUSTAVO GOMEZ RUIZ, ERNESTO VOGELER, GUSTAVO LEON, GUILLERMO ENRIQUE MILLAN, GINA DE SOUSA, RICARDO JOSE ITRIAGO Y ARMANDO MILLAN FERRO<BR>|
+NO||6.  El nombramiento de los Comisarios Principales y sus Suplentes y fijarles su remuneración, resultando designados como primer comisario principal al Lic.  JACOBO COHEN, y como primer comisario suplente a la Lic. JACQUELINE SUBERO; y como segundo comisario principal al Lic. DUARTE NUNO DA SILVA E BRANCO, y como segundo comisario suplente a la Lic. CLAUDIA VALENCIA.<BR><BR>7. Se aprobó la propuesta de la Junta Directiva relativa a la conveniencia de no decretar el dividendo en efectivo correspondiente al ejercicio económico terminado el 31 de diciembre de 2019.<BR><BR>Caracas, 26 de diciembre de /12/2020<BR>Por la Junta Directiva<BR>Carlos Delfino T.<BR>Presidente de la Junta Directiva<BR>|
