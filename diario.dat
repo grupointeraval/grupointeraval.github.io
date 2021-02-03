@@ -1,87 +1,79 @@
-IG|28012021|1921557.38|11696.13|.61|1997191.88|88548.06|1869323.7|3578.77|
-IF|28012021|3626700.25|27954|.78|
-II|28012021|809069.62|-60.5|-.01|
-R|B.OCC.DCTO.B.U.|BOU|170|170|0|0|170|170|170|7|22385|3805450||2|
-R|BCO. CARIBE "A"|ABC.A|1000000|999990|-10|0|999990|1000000|1000000|2|2|1999990||3|
-R|BCO. PROVINCIAL|BPV|2700000|2700000|0|0|2695000|2799990|2700050|19|2124|5734909890||2|
-R|BCO.NAC.CREDITO|BNC|18400|18500|100|.54|18500|19190|18970|16|18053|342488060||1|
-R|BOLSA V. CCAS.($)|BVCC|255000|240000|-15000|-5.88|240000|260000|254500|8|4275|1087974650||3|
-R|CANTV CLASE (D)|TDV.D|211000|210000|-1000|-.47|210000|217000|210080|9|1871|393057900||3|
-R|CORIMON C.A.|CRM.A|75000|75000|0|0|75000|75000|75000|6|20002|1500150000||2|
-R|CORP.IND.ENERGIA|CIE|26370|31630|5260|19.95|31630|31630|31630|2|32|1012160||1|
-R|DOMINGUEZ & CIA|DOM|530000|515000|-15000|-2.83|515000|515000|515000|2|226|116390000||3|
-R|ENVASES VZLOS.|ENV|224900|219980|-4920|-2.19|219980|224900|220490|6|88|19402680||3|
-R|FONDO V.INM.(A)|FVI.A|1200000|1200000|0|0|1200000|1200000|1200000|1|4|4800000||2|
-R|FONDO V.INM.(B)|FVI.B|949500|975000|25500|2.69|950000|975000|952320|12|1384|1317915000||1|
-R|INM.VAL.Y CAP.|IVC|1098000|1099000|1000|.09|1099000|1099000|1099000|1|5|5495000||1|
-R|MANPA, C.A. SACA|MPA|114000|115000|1000|.88|114000|115000|114510|4|3900|446600000||1|
-R|MERCANTIL S.(B)|MVZ.B|2500000|2650000|150000|6|2650000|2650000|2650000|1|1|2650000||1|
-R|PROAGRO|PGR|28000|24000|-4000|-14.29|24000|24000|24000|1|500|12000000||3|
-R|PRODUCTOS EFE|EFE|114990|111000|-3990|-3.47|111000|114990|111150|2|215|23896920||3|
-R|R.S.TERESA "B"|RST.B|600000|602000|2000|.33|602000|602000|602000|1|50|30100000||1|
-R|RON STA. TERESA|RST|614000|614010|10|0|614010|620010|615250|8|5417|3332820650||1|
-R|SIVENSA, S.A.|SVS|166000|166000|0|0|166000|166000|166000|1|215|35690000||2|
-R|T. PALO GRANDE|TPG|4970|4500|-470|-9.46|4500|4500|4500|2|2000|9000000||3|
-P|BCO. PROVINCIAL|BPV||2700000|||2695000|2799990|2700050|1|1966|6369840000||
-P|BCO.NAC.CREDITO|BNC||18500|||18500|19190|18970|1|2064|39504960||
-P|BOLSA V. CCAS.|BVCC||240000|||240000|260000|254500|5|156924|40570183000||
-P|ENVASES VZLOS.|ENV||219980|||219980|224900|220490|2|500|105000000||
-P|I.CRECEPYMES -B-|ICP.B||51500|||0|0|0|1|50|2575000||
-P|MERCANTIL S.(A)|MVZ.A||2650000|||0|0|0|1|340|901000000||
-P|MERCANTIL S.(B)|MVZ.B||2650000|||2650000|2650000|2650000|2|3052|8703479960||
-P|PROAGRO|PGR||24000|||24000|24000|24000|1|3175|76200000||
-VT|8|8|5|
+IG|03022021|1937007.5|49785|2.64|1997191.88|88548.06|1884773.82|3608.35|
+IF|03022021|3655955.25|106246.75|2.99|
+II|03022021|815436.44|10487.44|1.3|
+R|B.DE VENEZUELA|BVL|74000|75000|1000|1.35|75000|75000|75000|2|17|1275000||1|
+R|B.OCC.DCTO.B.U.|BOU|160|150|-10|-6.25|140|160|150|7|272651|40710760||3|
+R|BCO. CARIBE "A"|ABC.A|1000000|1100000|100000|10|1100000|1100000|1100000|1|1|1100000||1|
+R|BCO. PROVINCIAL|BPV|2549000|2549000|0|0|2500000|2550000|2546920|8|436|1110520000||2|
+R|BCO.NAC.CREDITO|BNC|19500|21980|2480|12.72|19500|22000|19980|53|267063|5335594060||1|
+R|BOLSA V. CCAS.($)|BVCC|244950|248000|3050|1.25|240000|248000|242720|16|5120|1240740000||1|
+R|CANTV CLASE (D)|TDV.D|215000|210000|-5000|-2.33|210000|210000|210000|13|855|179550000||3|
+R|CORIMON C.A.|CRM.A|78090|75000|-3090|-3.96|75000|75000|75000|5|1175|88575000||3|
+R|CORP.GPO.QUIM.|CGQ|980000|785000|-195000|-19.9|785000|980000|887630|2|19|16865000||3|
+R|DOMINGUEZ & CIA|DOM|515000|515000|0|0|525000|525000|525000|1|1|525000||2|
+R|ENVASES VZLOS.|ENV|183350|180010|-3340|-1.82|180010|183350|183220|24|7439|1362959990||3|
+R|FAB.N.CEMENTOS|FNC|294000|300500|6500|2.21|300500|300500|300500|1|19|5709500||1|
+R|FONDO V.INM.(A)|FVI.A|1300000|1369990|69990|5.38|1250000|1369990|1250400|3|602|752739980||1|
+R|FONDO V.INM.(B)|FVI.B|979500|980000|500|.05|978000|989990|979590|13|2038|1996401900||1|
+R|I.CRECEPYMES -B-|ICP.B|51500|61790|10290|19.98|51500|61790|59630|4|334|19915900||1|
+R|MANPA, C.A. SACA|MPA|124000|148800|24800|20|125500|148800|128440|10|6105|784105420||1|
+R|MERCANTIL S.(A)|MVZ.A|2600000|2600000|0|0|2599990|2600000|2600000|12|227|590199700||2|
+R|MERCANTIL S.(B)|MVZ.B|2575000|2569990|-5010|-.19|2569990|2574990|2572990|4|43|107718980||3|
+R|PROAGRO|PGR|27990|28000|10|.04|27990|28000|28000|4|410|11479600||1|
+R|PRODUCTOS EFE|EFE|100000|100000|0|0|100000|109000|100180|2|49|4909000||2|
+R|PROTINAL|PTN|90000|94990|4990|5.54|94990|97500|97090|3|55|5339910||1|
+R|R.S.TERESA "B"|RST.B|602000|602000|0|0|602000|602000|602000|2|13|7826000||2|
+R|RON STA. TERESA|RST|620000|619000|-1000|-.16|600000|625000|608730|13|363|220969930||3|
+R|SIVENSA, S.A.|SVS|170000|170000|0|0|170000|170000|170000|3|1634|277780000||2|
+R|T. PALO GRANDE|TPG|3900|3900|0|0|4210|4210|4210|1|23|96830||2|
+P|BCO. CARIBE "A"|ABC.A||1100000|||1100000|1100000|1100000|1|15|12750000||
+P|BCO.NAC.CREDITO|BNC||21980|||19500|22000|19980|2|21628160|421749120000||
+P|BOLSA V. CCAS.|BVCC||248000|||240000|248000|242720|1|2297|562604210||
+P|CORIMON C.A.|CRM.A||75000|||75000|75000|75000|1|350|27300000||
+P|MANPA, C.A. SACA|MPA||148800|||125500|148800|128440|1|1000|131000000||
+P|RON STA. TERESA|RST||619000|||600000|625000|608730|4|10064|6878744870||
+VT|11|7|7|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-DV|(&)CV013P-Colocacion Primaria de Cargill de Venezuela. Em. 2020-I, Serie III.|
-DV|(&)CX092P-Colocacion Primaria de Calox International, Em. 2020-IX, Serie II|
-DV|(&)CX102P-Colocacion Primaria de Calox International, Em. 2020-X, Serie II|
-DV|(&)CX112P-Colocacion Primaria de Calox International, Em. 2020-Xi, Serie II|
-DV|(&)CX122P-Colocacion Primaria de Calox International, Em. 2020-XII, Serie II|
-DV|(&)DT032P-Colocacion Primaria de Daycon Telecom, Em. 2020-III, Serie II|
-DV|(&)DT042P-Colocacion Primaria de Daycon Telecom, Em. 2020-IV, Serie II|
-DV|(&)GI033P-Colocacion Primaria de Gismicar, Em. 2020-III, Serie III.|
-DV|(&)PN013P-Colocacion Primaria de Agribrands Purina Vzla. Em. 2020-I, Serie III.|
-BP|GISMICAR 03 S.3P|GI033P|75|75|0|0|75|75||16|15000000000|11250000000||
-BP|PC CALOX 20-102P|CX102P|78.57|78.57|0|0|78.57|78.57||30|25000000000|19642500000||
-BP|PC CALOX 20-112P|CX112P|78.57|78.57|0|0|78.57|78.57||30|25000000000|19642500000||
-BP|PC CALOX 20-122P|CX122P|78.57|78.57|0|0|78.57|78.57||30|25000000000|19642500000||
-BP|PC CALOX 20-9 2P|CX092P|78.57|78.57|0|0|78.57|78.57||30|25000000000|19642500000||
-BP|PC CARGILL 0-I-3|CV013P|78.57|78.57|0|0|78.57|78.57||35|30000000000|23571300000||
-BP|PC PURINA 0-I-3P|PN013P|78.57|78.57|0|0|78.57|78.57||6|4300000000|3378553000||
-BP|PC.DAYCO 20-3 S2|DT032P|78.57|78.57|0|0|78.57|78.57||14|11000000000|8642700000||
-BP|PC.DAYCO 20-4 S2|DT042P|78.57|78.57|0|0|78.57|78.57||14|11000000000|8642700000||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|72000|100000|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|900000|999990|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|18400|19000|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|2600000|2700000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|150|170|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|240000|254990|
-CC|C.A. RON SANTA TERESA|614010|619000|
-CC|C.A. RON SANTA TERESA (CLASE B)|600000|602000|
-CC|C.A. TELARES DE PALO GRANDE|4500|4970|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|200000|217000|
-CC|CERAMICA CARABOBO, SACA|10200000|17000000|
-CC|CORIMON, C.A.|61000|78090|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|27000|31640|
-CC|CORP.GRUPO QUIMICO, C.A.|950000|995000|
-CC|DOMINGUEZ & CIA., S.A.||515000|
-CC|ENVASES VENEZOLANOS S.A.|215000|219950|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.||300000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|1015000|1200000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|951000|975000|
-CC|GRUPO ZULIANO, C.A.|1121000|1300000|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,||1099000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|36000|50000|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|102000|115000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|2650000|2699000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|2500000|2650000|
-CC|PROAGRO C.A.|25000|28000|
-CC|PRODUCTOS EFE S.A.|111000|119800|
-CC|PROTINAL C.A.|81500|97500|
-CC|SIVENSA, S.A||166000|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:<BR>							<BR>UNIDAD BURSÁTIL CARACAS 27/01/2021 : 		 1,124 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				2.008.585,97			<BR>|
-NO||INFORMACIÓN AL MERCADO <BR>OFERTA PÚBLICA DE INTERCAMBIO<BR><BR>De conformidad con las NORMAS DE OFERTA PÚBLICA DE ADQUISICIÓN, DE INTERCAMBIO Y TOMA DE CONTROL DE SOCIEDADES QUE HACEN OFERTA PÚBLICA DE ACCIONES Y OTROS DERECHOS SOBRE LAS MISMAS, se entiende por Oferta Pública de Intercambio el procedimiento por medio del cual el Iniciador pretende llevar a cabo la adquisición de las acciones, valores o derechos de la sociedad afectada, ofreciendo como contrapartida la entrega de valores o cualquier otro derecho, con el objeto de adquirir, completar o incrementar una participación reputada significativa que no posee en una sociedad que hace oferta pública de acciones, siempre que no tenga los efectos de una toma de control.<BR><BR>SESIÓN ESPECIAL EN LA BOLSA DE VALORES DE CARACAS, C.A. <BR>A partir del 30 de diciembre de 2020, en la Bolsa de Valores de Caracas, se dio apertura a una Sesión Especial, a través del SIBE, para dar inicio a la Oferta Pública de Intercambio, a través de un procedimiento simplificado, autorizado por la Superintendencia Nacional de Valores, mediante Providencia Nro. 225 de fecha 28 de diciembre de 2020, a la sociedad Mercantil Servicios Financieros, C.A., (MSF), de conformidad con lo aprobado en la Junta Directiva de Mercantil Servicios Financieros Internacional, S.A., (MSFI), celebrada en fecha 09 de septiembre de 2019. En consecuencia, los accionistas de MSF, que deseen suscribir nuevas acciones de MSFI, podrán suscribir una acción Clase A de MSFI, entregando a cambio una acción Clase A de MSF como contraprestación de la referida suscripción y podrán suscribir una acción Clase B de MSFI, entregando a cambio una acción Clase B de MSF como contraprestación de la referida suscripción. <BR>OPERACIONES DEL DÍA EN LA BOLSA DE VALORES DE CARACAS, C.A.<BR><BR>En la presente fecha se realizaron 24 operaciones de intercambio por:<BR><BR>   135.953   acciones Clase A <BR>4.839.257   acciones Clase B <BR>|
-NO|GENERAL DE ALIMENTOS NISA, C.A. (GENICA)|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de GENERAL DE ALIMENTOS NISA, C.A. (GENICA), a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocarse son los correspondientes a la Serie II, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora GENERAL DE ALIMENTOS NISA, C.A. (GENICA).<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 210 de fecha 10/12/2020<BR>Emisor	GENERAL DE ALIMENTOS NISA, C.A. (GENICA),<BR>Emisión 	2020-I<BR>Series a colocar		Serie II.<BR>Monto de Emisión. 	Bs.  215.984.000.000,00.<BR>Monto por serie 	Bs.  70.000.000.000,00.<BR>Códigos ISIN	VEV00406WSL9<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	GE012P<BR>Fecha de Inicio de Sesión Especial 	29/01/2021<BR>Fecha de Vencimiento de la Serie.	29/05/2021<BR>Agentes de la Colocación 	Caja Caracas Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	75,00%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m. <BR>|
-NO|Y & V INGENIERIA Y CONSTRUCCION, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de Y & V INGENIERIA Y CONSTRUCCION, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados son los correspondientes a la Serie IV, de la Emisión 2020, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora<BR>Y & V INGENIERIA Y CONSTRUCCION, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 046 de fecha 30/04/2020<BR>Emisor	Y & V INGENIERIA Y CONSTRUCCION, C.A.<BR>Emisión 	2020<BR>Series a colocar		Serie IV<BR>Monto de Emisión. 	Bs.  20.000.000.000,00<BR>Monto por de la serie 	Bs.  10.000.000.000,00<BR>Códigos  ISIN	VEV00401WSF2<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	YV04P<BR>Fecha de Inicio de Sesión Especial 	29/01/2021<BR>Fecha de vencimiento de la Serie.	29/04/2021<BR><BR>Agentes de la Colocación 	Koi Invest Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,5714%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Global Ratings, C.A., Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3.<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría B, Subcategoría B1.<BR>Horario de Sesión Especial	 De 9:30 a.m. a 1:00 p.m. <BR>|
+DV|(&)AF031P-Colocacion Primaria de Alimentos FM, Em 2020-III, Serie I|
+DV|(&)AF041P-Colocacion Primaria de Alimentos FM, Em 2020-IV, Serie I|
+DV|(&)YV04P-Colocacion Primaria de Y & V Ing. y Construccion, Em. 2020, Serie IV.|
+BP|A.FM 2020-3 S.1P|AF031P|78.57|78.57|0|0|78.57|78.57||39|34450000000|27067365000||
+BP|A.FM 2020-4 S.1P|AF041P|78.57|78.57|0|0|78.57|78.57||39|34450000000|27067365000||
+BP|PC 3PL 20-II-1P|PP021P|78.57|79.51|.94|1.2|79.51|79.51||2|1800000000|1431252000||
+BP|PC Y&V ING 20 4P|YV04P|78.87|78.88|.01|.01|78.88|78.88||10|7871500000|6208881770||
+BP|PC.GENICA 20-2P|GE012P|75|75|0|0|75|75||14|12650000000|9487500000||
+BP|STERITEX 20-1-6P|SR016P|78.57|78.57|0|0|78.57|78.57||1|25000000|19642500||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|75000|88700|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|1000000|1100000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|21000|21980|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|2300000|2550000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|140|150|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|230030|248000|
+CC|C.A. RON SANTA TERESA|600000|618000|
+CC|C.A. RON SANTA TERESA (CLASE B)|501000|600000|
+CC|C.A. TELARES DE PALO GRANDE|4260|5990|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|200010|210000|
+CC|CERAMICA CARABOBO, SACA||17392190|
+CC|CORIMON, C.A.|62490|74000|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|38000|45510|
+CC|CORP.GRUPO QUIMICO, C.A.|785000|1139970|
+CC|DOMINGUEZ & CIA., S.A.|520000|525000|
+CC|ENVASES VENEZOLANOS S.A.|180000|183000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||300500|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|1065000|1279000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|920000|980000|
+CC|GRUPO ZULIANO, C.A.|1120050|1399000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|881000|1099000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|61790|61800|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|148790|148800|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|2551000|2600000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|2500000|2570000|
+CC|PROAGRO C.A.|22400|28000|
+CC|PRODUCTOS EFE S.A.|96000|100000|
+CC|PROTINAL C.A.||94990|
+CC|SIVENSA, S.A|137000|172000|
+NO|ALIMENTOS FM, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros Accionistas de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de ALIMENTOS FM, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos a ser colocados serían los correspondientes a la Serie I, de las Emisión 2020-III y Emisión 2020-IV, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora ALIMENTOS FM, C.A.<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores a ser Colocados. 	Papeles Comerciales<BR>Autorización SNV 	Providencia Nro. 009/2021 de fecha 03/02/2021<BR>Providencia Nro. 010/2021 de fecha 03/02/2021<BR>Emisor	ALIMENTOS FM, C.A.,<BR>Emisión 	2020-III<BR>Emisión    2020-IV<BR>Series a colocar		Serie I c/u.<BR>Monto de Emisión. 	Bs.  50.000.000.000,00 c/u.<BR>Monto por serie 	Bs.  50.000.000.000,00 c/u.<BR>Códigos ISIN	2020-III, Serie I:  VEV00110WSY0<BR>2020-IV, Serie I:  VEV00110WSZ7<BR>Código del Activo	P.C..<BR>Código de Símbolo en SIBE, Mercado Primario	2020-III, Serie I:  AF031P<BR>2020-IV, Serie I:  AF041P<BR>Fecha de Inicio de Sesión Especial 	03/02/2021<BR>Fecha de Vencimiento de la Serie.	03/05/2021<BR>Agentes de la Colocación 	RATIO CASA DE BOLSA, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,57%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo - Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m.<BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:<BR>							<BR>UNIDAD BURSÁTIL CARACAS 02/02/2021 : 		 1,118 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				2.018.088,06			<BR>|
+NO||INFORMACIÓN AL MERCADO <BR>OFERTA PÚBLICA DE INTERCAMBIO<BR><BR>De conformidad con las NORMAS DE OFERTA PÚBLICA DE ADQUISICIÓN, DE INTERCAMBIO Y TOMA DE CONTROL DE SOCIEDADES QUE HACEN OFERTA PÚBLICA DE ACCIONES Y OTROS DERECHOS SOBRE LAS MISMAS, se entiende por Oferta Pública de Intercambio el procedimiento por medio del cual el Iniciador pretende llevar a cabo la adquisición de las acciones, valores o derechos de la sociedad afectada, ofreciendo como contrapartida la entrega de valores o cualquier otro derecho, con el objeto de adquirir, completar o incrementar una participación reputada significativa que no posee en una sociedad que hace oferta pública de acciones, siempre que no tenga los efectos de una toma de control.<BR>SESIÓN ESPECIAL EN LA BOLSA DE VALORES DE CARACAS, C.A. <BR>A partir del 30 de diciembre de 2020, en la Bolsa de Valores de Caracas, se dio apertura a una Sesión Especial, a través del SIBE, para dar inicio a la Oferta Pública de Intercambio, a través de un procedimiento simplificado, autorizado por la Superintendencia Nacional de Valores, mediante Providencia Nro. 225 de fecha 28 de diciembre de 2020, a la sociedad Mercantil Servicios Financieros, C.A., (MSF), de conformidad con lo aprobado en la Junta Directiva de Mercantil Servicios Financieros Internacional, S.A., (MSFI), celebrada en fecha 09 de septiembre de 2019. En consecuencia, los accionistas de MSF, que deseen suscribir nuevas acciones de MSFI, podrán suscribir una acción Clase A de MSFI, entregando a cambio una acción Clase A de MSF como contraprestación de la referida suscripción y podrán suscribir una acción Clase B de MSFI, entregando a cambio una acción Clase B de MSF como contraprestación de la referida suscripción. <BR><BR>OPERACIONES DEL DÍA EN LA BOLSA DE VALORES DE CARACAS, C.A.<BR><BR>En la presente fecha se realizaron 27 operaciones de intercambio por:<BR>   459.348   acciones Clase A <BR>     90.266   acciones Clase B <BR>|
