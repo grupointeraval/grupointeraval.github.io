@@ -1,78 +1,77 @@
-IG|24022021|2053756.75|28972.25|1.43|2053756.75|88548.06|2001523.07|3831.86|
-IF|24022021|3917391|68016.75|1.77|
-II|24022021|829606.5|843.12|.1|
-R|B.DE VENEZUELA|BVL|100000|119990|19990|19.99|119990|119990|119990|2|1466|175905340||1|
-R|B.OCC.DCTO.B.U.|BOU|160|160|0|0|160|180|160|4|101864|16335520||2|
-R|BCO. CARIBE "A"|ABC.A|1150000|1150000|0|0|1150000|1150000|1150000|1|20|23000000||2|
-R|BCO. PROVINCIAL|BPV|2359000|2360010|1010|.04|2360000|2450000|2392690|13|742|1771420010||1|
-R|BCO.NAC.CREDITO|BNC|20500|21200|700|3.41|20000|21200|20470|37|159426|3266311000||1|
-R|BOLSA V. CCAS.($)|BVCC|215000|214000|-1000|-.47|210000|220000|212420|17|5086|1080347000||3|
-R|CANTV CLASE (D)|TDV.D|210000|210000|0|0|210000|210000|210000|8|1487|312270000||2|
-R|CORIMON C.A.|CRM.A|80000|82590|2590|3.24|82580|82590|82590|3|26|2147330||1|
-R|CORP.IND.ENERGIA|CIE|64790|77710|12920|19.94|77710|77710|77710|4|1041|80896110||1|
-R|ENVASES VZLOS.|ENV|200000|200000|0|0|200000|200000|200000|9|5601|1120200000||2|
-R|FAB.N.CEMENTOS|FNC|294000|352790|58790|20|352790|352790|352790|1|3|1058370||1|
-R|FONDO V.INM.(A)|FVI.A|1180000|1180000|0|0|1180000|1180000|1180000|7|794|936920000||2|
-R|FONDO V.INM.(B)|FVI.B|920000|914000|-6000|-.65|900000|920000|904420|13|807|729868000||3|
-R|INM.VAL.Y CAP.|IVC|800000|702250|-97750|-12.22|702250|800000|751130|2|2|1502250||3|
-R|MANPA, C.A. SACA|MPA|182000|182000|0|0|182000|182000|182000|2|2000|364000000||2|
-R|MERCANTIL S.(A)|MVZ.A|3419000|3450000|31000|.91|3421000|3500000|3449950|20|1377|4750584000||1|
-R|MERCANTIL S.(B)|MVZ.B|3000000|3200000|200000|6.67|3000000|3200000|3048220|9|191|582210000||1|
-R|PROAGRO|PGR|27010|32400|5390|19.96|28130|32400|29200|6|8100|249325000||1|
-R|PRODUCTOS EFE|EFE|155000|155000|0|0|155000|155000|155000|2|38|5890000||2|
-R|PROTINAL|PTN|83000|83000|0|0|99500|99500|99500|1|1|99500||2|
-R|R.S.TERESA "B"|RST.B|520000|530000|10000|1.92|530000|535000|530450|3|1011|550835000||1|
-R|RON STA. TERESA|RST|600000|600000|0|0|600000|605000|600000|17|1801|1080605000||2|
-R|SIVENSA, S.A.|SVS|179000|179000|0|0|186000|186000|186000|1|4|744000||2|
-R|T. PALO GRANDE|TPG|4540|4540|0|0|5000|5000|5000|1|100|500000||2|
-P|B.OCC.DCTO.B.U.|BOU||160|||160|180|160|2|261082|39162300||
-P|BCO.NAC.CREDITO|BNC||21200|||20000|21200|20470|2|179040|2954160000||
-P|BOLSA V. CCAS.|BVCC||214000|||210000|220000|212420|8|735882|157317609900||
-P|CORP.IND.ENERGIA|CIE||77710|||77710|77710|77710|2|2780|166800000||
-P|DOMINGUEZ & CIA|DOM||593000|||0|0|0|4|99010|54687759000||
-P|ENVASES VZLOS.|ENV||200000|||200000|200000|200000|2|8012|1121680000||
-P|FONDO V.INM.(A)|FVI.A||1180000|||1180000|1180000|1180000|2|200|240000000||
-P|FONDO V.INM.(B)|FVI.B||914000|||900000|920000|904420|6|9899|9891837640||
-P|INM.VAL.Y CAP.|IVC||702250|||702250|800000|751130|2|260|286000000||
-P|MANPA, C.A. SACA|MPA||182000|||182000|182000|182000|2|7972|1498736000||
-P|MERCANTIL S.(A)|MVZ.A||3450000|||3421000|3500000|3449950|4|360|922837400||
-P|MERCANTIL S.(B)|MVZ.B||3200000|||3000000|3200000|3048220|4|1710|4281622830||
-P|PROAGRO|PGR||32400|||28130|32400|29200|2|108286|2815436000||
-P|R.S.TERESA "B"|RST.B||530000|||530000|535000|530450|2|1036|518000000||
-P|RON STA. TERESA|RST||600000|||600000|605000|600000|2|1998|1198800000||
+IG|25022021|2150334|96577.25|4.7|2150334|88548.06|2098100.32|4016.76|
+IF|25022021|4142307|224916|5.74|
+II|25022021|833962.06|4355.56|.53|
+R|B.DE VENEZUELA|BVL|119990|100000|-19990|-16.66|100000|120000|100950|4|1150|118000000||3|
+R|B.OCC.DCTO.B.U.|BOU|160|160|0|0|180|180|180|1|117|21060||2|
+R|BCO. CARIBE "A"|ABC.A|1150000|1190000|40000|3.48|1190000|1299990|1281660|2|6|7689950||1|
+R|BCO. PROVINCIAL|BPV|2360010|2750000|389990|16.52|2750000|2785000|2751350|3|52|143070000||1|
+R|BCO.NAC.CREDITO|BNC|21200|22050|850|4.01|21200|22050|21510|34|77750|1671592220||1|
+R|BOLSA V. CCAS.($)|BVCC|214000|220000|6000|2.8|214000|220000|216370|17|5322|1151466000||1|
+R|CANTV CLASE (D)|TDV.D|210000|210000|0|0|210000|210000|210000|5|314|65940000||2|
+R|CORP.GPO.QUIM.|CGQ|959990|959990|0|0|999990|999990|999990|1|1|999990||2|
+R|CORP.IND.ENERGIA|CIE|77710|77710|0|0|92990|93190|93020|2|6|558140||2|
+R|CR.CARABOBO|CCR|20400000|20400000|0|0|0|0|0|1|1|20399990||2|
+R|ENVASES VZLOS.|ENV|200000|200000|0|0|200000|200000|200000|2|15|3000000||2|
+R|FONDO V.INM.(A)|FVI.A|1180000|1200000|20000|1.69|1200000|1200000|1200000|1|50|60000000||1|
+R|FONDO V.INM.(B)|FVI.B|914000|930000|16000|1.75|914000|930000|916460|6|195|178710000||1|
+R|GRUPO ZULIANO|GZL|1550000|1450000|-100000|-6.45|1450000|1450000|1450000|2|7|10150000||3|
+R|INM.VAL.Y CAP.|IVC|702250|715000|12750|1.82|703000|715000|711530|5|595|423361000||1|
+R|MANPA, C.A. SACA|MPA|182000|182000|0|0|182000|182000|182000|2|205|37310000||2|
+R|MERCANTIL S.(A)|MVZ.A|3450000|3450000|0|0|3450000|3450000|3450000|7|72|248400000||2|
+R|MERCANTIL S.(B)|MVZ.B|3200000|3150000|-50000|-1.56|3050000|3200000|3129070|6|43|134550000||3|
+R|PROAGRO|PGR|32400|32990|590|1.82|32990|32990|32990|2|114|3760860||1|
+R|PRODUCTOS EFE|EFE|155000|155000|0|0|155000|155000|155000|2|100|15500000||2|
+R|R.S.TERESA "B"|RST.B|530000|530000|0|0|525000|530000|529550|9|939|497245000||2|
+R|RON STA. TERESA|RST|600000|600000|0|0|600000|600000|600000|10|1593|955800000||2|
+R|SIVENSA, S.A.|SVS|179000|186000|7000|3.91|186000|186000|186000|1|40|7440000||1|
+R|T. PALO GRANDE|TPG|4540|5000|460|10.13|5000|5000|5000|4|3054|15270000||1|
+P|BCO.NAC.CREDITO|BNC||22050|||21200|22050|21510|1|1100000|23375000000||
+P|BOLSA V. CCAS.|BVCC||220000|||214000|220000|216370|3|63700|13764400000||
+P|ENVASES VZLOS.|ENV||200000|||200000|200000|200000|1|60|12900000||
+P|FONDO V.INM.(B)|FVI.B||930000|||914000|930000|916460|8|62336|64504046080||
+P|MERCANTIL S.(A)|MVZ.A||3450000|||3450000|3450000|3450000|1|60|207000000||
+P|PROAGRO|PGR||32990|||32990|32990|32990|1|490|16121000||
 VT|10|3|11|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|93000|119990|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|1150000|1299990|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|20610|21200|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|2360010|2500000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|130|180|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|210010|214000|
-CC|C.A. RON SANTA TERESA|600000|620000|
-CC|C.A. RON SANTA TERESA (CLASE B)|530000|542000|
-CC|C.A. TELARES DE PALO GRANDE|4540|5000|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|205000|210000|
-CC|CERAMICA CARABOBO, SACA||20379990|
-CC|CORIMON, C.A.|80100|82580|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|70000|77740|
-CC|CORP.GRUPO QUIMICO, C.A.|801000|1150000|
+DV|(&)PN032P-Colocacion Primaria de Agribrands Purina Vzla. Em. 2020-III, Serie II|
+DV|(&)SR017P-Colocacion Primaria de Steritex, Em. 2020-I, Serie VII|
+DV|(&)SR027P-Colocacion Primaria de Steritex, Em. 2020-II, Serie VII|
+BP|PC PURINA 0-3-2P|PN032P|78.12|78.13|.01|.01|78.13|78.13||5|4000000000|3125000000||
+BP|PC.GENICA 20-2P|GE012P|75|75|0|0|75|75||7|6222458450|4666843837.5||
+BP|STERITEX 20-1-7P|SR017P|78.13|78.13|0|0|78.13|78.13||12|10000000000|7813000000||
+BP|STERITEX 20-2-7P|SR027P|78.13|78.13|0|0|78.13|78.13||12|10000000000|7813000000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|100000|114000|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|1000000|1249990|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|22050|22200|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|2410000|2750000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|160|180|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|225000|250000|
+CC|C.A. RON SANTA TERESA|600000|690000|
+CC|C.A. RON SANTA TERESA (CLASE B)|510000|580000|
+CC|C.A. TELARES DE PALO GRANDE|4100|5000|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|210010|210990|
+CC|CERAMICA CARABOBO, SACA||20399990|
+CC|CORIMON, C.A.|80100|82570|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|63000|92990|
+CC|CORP.GRUPO QUIMICO, C.A.|801000|999990|
 CC|DOMINGUEZ & CIA., S.A.||593000|
 CC|ENVASES VENEZOLANOS S.A.|190000|200000|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.|235230|352790|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|1180000|1319000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|901000|914000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.||352790|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|1000000|1200000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|926000|930000|
 CC|GRUPO ZULIANO, C.A.||1450000|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|702250|875000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|68500|99990|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|180000|182000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|3450000|3749990|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|3050000|3200000|
-CC|PROAGRO C.A.|28130|32400|
-CC|PRODUCTOS EFE S.A.|120000|155000|
-CC|PROTINAL C.A.|58000|99500|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|750000|840000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|80010|99950|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|175000|182000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|3450000|3500000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|3050000|3150000|
+CC|PROAGRO C.A.|30050|32990|
+CC|PRODUCTOS EFE S.A.|130000|154990|
+CC|PROTINAL C.A.|83000|99000|
 CC|SIVENSA, S.A||186000|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:							<BR>UNIDAD BURSÁTIL CARACAS 23/02/2021 : 		 1,109 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				2.000.277,89			<BR>|
-NO||INFORMACIÓN AL MERCADO <BR>OFERTA PÚBLICA DE INTERCAMBIO<BR><BR>De conformidad con las NORMAS DE OFERTA PÚBLICA DE ADQUISICIÓN, DE INTERCAMBIO Y TOMA DE CONTROL DE SOCIEDADES QUE HACEN OFERTA PÚBLICA DE ACCIONES Y OTROS DERECHOS SOBRE LAS MISMAS, se entiende por Oferta Pública de Intercambio el procedimiento por medio del cual el Iniciador pretende llevar a cabo la adquisición de las acciones, valores o derechos de la sociedad afectada, ofreciendo como contrapartida la entrega de valores o cualquier otro derecho, con el objeto de adquirir, completar o incrementar una participación reputada significativa que no posee en una sociedad que hace oferta pública de acciones, siempre que no tenga los efectos de una toma de control.<BR>SESIÓN ESPECIAL EN LA BOLSA DE VALORES DE CARACAS, C.A. <BR>A partir del 30 de diciembre de 2020, en la Bolsa de Valores de Caracas, se dio apertura a una Sesión Especial, a través del SIBE, para dar inicio a la Oferta Pública de Intercambio, a través de un procedimiento simplificado, autorizado por la Superintendencia Nacional de Valores, mediante Providencia Nro. 225 de fecha 28 de diciembre de 2020, a la sociedad Mercantil Servicios Financieros, C.A., (MSF), de conformidad con lo aprobado en la Junta Directiva de Mercantil Servicios Financieros Internacional, S.A., (MSFI), celebrada en fecha 09 de septiembre de 2019. En consecuencia, los accionistas de MSF, que deseen suscribir nuevas acciones de MSFI, podrán suscribir una acción Clase A de MSFI, entregando a cambio una acción Clase A de MSF como contraprestación de la referida suscripción y podrán suscribir una acción Clase B de MSFI, entregando a cambio una acción Clase B de MSF como contraprestación de la referida suscripción. <BR>OPERACIONES DEL DÍA EN LA BOLSA DE VALORES DE CARACAS, C.A.<BR><BR>En la presente fecha se realizaron 27 operaciones de intercambio por:<BR><BR>                 815    acciones Clase A <BR>                 507    acciones Clase B <BR>|
-NO|STERITEX, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de STERITEX, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos que se colocaran son los correspondientes a la Serie V, de las Emisión 2020-I y Emisión 2020-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora STERITEX, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 127/2020 de fecha 14/09/2020<BR>Providencia Nro. 128/2020 de fecha 14/09/2020<BR>Emisor	STERITEX, C.A.<BR>Emisión 	2020-I<BR>Emisión    2020-II<BR>Series a colocar		Serie V. c/u.<BR>Monto de Emisiones 	Bs.  40.000.000.000,00 c/u.<BR>Monto por de las serie 	Bs.  20.000.000.000,00 c/u.<BR>Códigos  ISIN	Em. 2020-I,  Serie V:   VEV00402WRG0<BR>Em. 2020-II, Serie V:   VEV00402WRH8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	SR015P<BR>SR025P<BR>Fecha de Inicio de Sesión Especial 	11/01/2021<BR>Fecha de Vencimiento de la Serie.	11/04/2021<BR>Agentes de la Colocación 	VALORALTA, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,57%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m a 1:00 p.m.<BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas	<BR>						<BR>UNIDAD BURSÁTIL CARACAS 24-02-2021 : 		 1,110 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				2.031.934,61			<BR>|
+NO||INFORMACIÓN AL MERCADO <BR>OFERTA PÚBLICA DE INTERCAMBIO<BR><BR>De conformidad con las NORMAS DE OFERTA PÚBLICA DE ADQUISICIÓN, DE INTERCAMBIO Y TOMA DE CONTROL DE SOCIEDADES QUE HACEN OFERTA PÚBLICA DE ACCIONES Y OTROS DERECHOS SOBRE LAS MISMAS, se entiende por Oferta Pública de Intercambio el procedimiento por medio del cual el Iniciador pretende llevar a cabo la adquisición de las acciones, valores o derechos de la sociedad afectada, ofreciendo como contrapartida la entrega de valores o cualquier otro derecho, con el objeto de adquirir, completar o incrementar una participación reputada significativa que no posee en una sociedad que hace oferta pública de acciones, siempre que no tenga los efectos de una toma de control.<BR>SESIÓN ESPECIAL EN LA BOLSA DE VALORES DE CARACAS, C.A. <BR>A partir del 30 de diciembre de 2020, en la Bolsa de Valores de Caracas, se dio apertura a una Sesión Especial, a través del SIBE, para dar inicio a la Oferta Pública de Intercambio, a través de un procedimiento simplificado, autorizado por la Superintendencia Nacional de Valores, mediante Providencia Nro. 225 de fecha 28 de diciembre de 2020, a la sociedad Mercantil Servicios Financieros, C.A., (MSF), de conformidad con lo aprobado en la Junta Directiva de Mercantil Servicios Financieros Internacional, S.A., (MSFI), celebrada en fecha 09 de septiembre de 2019. En consecuencia, los accionistas de MSF, que deseen suscribir nuevas acciones de MSFI, podrán suscribir una acción Clase A de MSFI, entregando a cambio una acción Clase A de MSF como contraprestación de la referida suscripción y podrán suscribir una acción Clase B de MSFI, entregando a cambio una acción Clase B de MSF como contraprestación de la referida suscripción. <BR><BR>OPERACIONES DEL DÍA EN LA BOLSA DE VALORES DE CARACAS, C.A.<BR><BR>En la presente fecha se realizaron 17 operaciones de intercambio por:<BR><BR>                 345    acciones Clase A <BR>                 175    acciones Clase B <BR>|
+NO|GALAXIA MEDICA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de GALAXIA MEDICA, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocar son los correspondientes a la Serie IV, de la Emisión 2020, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora GALAXIA MEDICA, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 042/2020 de fecha 16/04/2020.<BR>Emisor	GALAXIA MEDICA, C.A.<BR>Emisión 	2020<BR>Series a colocar		Serie IV.<BR>Monto de Emisión. 	Bs.  10.000.000.000,00.<BR>Monto por serie 	Bs.  10.000.000.000,00.<BR>Códigos  ISIN	VEV00391WTS6<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	GM04P<BR>Fecha de Inicio de Sesión Especial 	26/02/2021<BR>Fecha de Vencimiento de la Serie.	18/05/2021<BR>Agentes de la Colocación 	Fivenca Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,60%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 1:00 p.m.<BR>|
+NO|STERITEX, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de STERITEX, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos que se colocaran son los correspondientes a la Serie VII, de las Emisión 2020-I y Emisión 2020-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora STERITEX, C.A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia N° 127/2020 de fecha 14/09/2020<BR>Providencia N° 128/2020 de fecha 14/09/2020<BR>Emisor	STERITEX, C.A.<BR>Emisión 	2020-I<BR>2020-II<BR>Series a colocar		Serie VII. c/u.<BR>Monto de Emisiones 	Bs.  40.000.000.000,00 c/u.<BR>Monto por de las serie 	Bs.  10.000.000.000,00 c/u.<BR>Códigos  ISIN	Em. 2020-I, Serie VII:   VEV00402WTQ5<BR>Em. 2020-II, Serie VII:  VEV00402WTR3<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	SR017P<BR>SR027P<BR>Fecha de Inicio de Sesión Especial 	25/02/2021<BR>Fecha de Vencimiento de la Serie.	25/05/2021<BR>Agentes de la Colocación 	VALORALTA, Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,13%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1A Calificadores, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Global Ratings, Sociedad Calificadora de Riesgo Categoría ¿A¿, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m a 1:00 p.m.<BR>|
