@@ -1,71 +1,66 @@
-IG|01032021|2350514.5|49738.75|2.16|2350514.5|88548.06|2298280.82|4400|
-IF|01032021|4543997.5|54533.5|1.21|
-II|01032021|897913.06|54439.62|6.45|
-R|B.DE VENEZUELA|BVL|100000|107990|7990|7.99|107990|110000|108150|5|64|6921410||1|
-R|B.OCC.DCTO.B.U.|BOU|160|170|10|6.25|160|170|160|6|59204|9576510||1|
-R|BCO. CARIBE "A"|ABC.A|1000000|1199990|199990|20|1100000|1199990|1150000|3|4|4599980||1|
-R|BCO. PROVINCIAL|BPV|2998000|2900000|-98000|-3.27|2900000|3100000|2951080|10|559|1658800000||3|
-R|BCO.NAC.CREDITO|BNC|23790|24600|810|3.4|23800|24800|24460|27|56769|1389965800||1|
-R|BOLSA V. CCAS.($)|BVCC|250000|244990|-5010|-2|240000|250000|244280|23|24125|5893274160||3|
-R|CANTV CLASE (D)|TDV.D|215000|190000|-25000|-11.63|190000|210000|199430|24|4954|987970000||3|
-R|CORIMON C.A.|CRM.A|82570|82570|0|0|82570|82570|82570|9|11122|913557820||2|
-R|CORP.IND.ENERGIA|CIE|92000|95000|3000|3.26|95000|105000|95300|5|330|31450000||1|
-R|DOMINGUEZ & CIA|DOM|599000|599000|0|0|599000|599000|599000|7|473|283327000||2|
-R|ENVASES VZLOS.|ENV|200000|200000|0|0|200000|220000|200300|6|1544|309260000||2|
-R|FAB.N.CEMENTOS|FNC|352790|423340|70550|20|423340|423340|423340|2|3|1270020||1|
-R|FONDO V.INM.(A)|FVI.A|1200000|1200100|100|.01|1200100|1200100|1200100|1|25|30002500||1|
-R|FONDO V.INM.(B)|FVI.B|995000|1000000|5000|.5|1000000|1100000|1017840|20|1757|1788350000||1|
-R|GRUPO ZULIANO|GZL|1450000|1450000|0|0|1450000|1450000|1450000|1|2|2900000||2|
-R|MANPA, C.A. SACA|MPA|182000|183000|1000|.55|182000|183000|182810|5|2688|489446000||1|
-R|MERCANTIL S.(A)|MVZ.A|4000000|4000000|0|0|4000000|4000000|4000000|3|1744|6976000000||2|
-R|MERCANTIL S.(B)|MVZ.B|3599990|3600000|10|0|3600000|3600000|3600000|2|11|39600000||1|
-R|PROAGRO|PGR|32990|33300|310|.94|31000|33300|32320|10|50515|1620768500||1|
-R|PRODUCTOS EFE|EFE|155490|154900|-590|-.38|135000|154900|146940|3|15|2204100||3|
-R|R.S.TERESA "B"|RST.B|570000|570000|0|0|570000|570000|570000|7|1690|963300000||2|
-R|RON STA. TERESA|RST|601010|700000|98990|16.47|615000|700000|620830|5|312|193700000||1|
-R|SIVENSA, S.A.|SVS|186000|200000|14000|7.53|200000|200000|200000|6|5384|1001550000||1|
-R|T. PALO GRANDE|TPG|5000|5000|0|0|5500|5500|5500|1|54|297000||2|
-P|BCO.NAC.CREDITO|BNC||24600|||23800|24800|24460|1|3400|81600000||
-P|CR.CARABOBO|CCR||20400000|||0|0|0|1|352|8588800000||
-P|FONDO V.INM.(B)|FVI.B||1000000|||1000000|1100000|1017840|1|20|18700000||
-P|RON STA. TERESA|RST||700000|||615000|700000|620830|6|6014|4090350780||
-VT|13|4|7|
+IG|05032021|2441750|48261.5|2.02|2493808.75|88548.06|2389516.32|4574.67|
+IF|05032021|4731979|100602|2.17|
+II|05032021|922883.62|12217.56|1.34|
+R|B.DE VENEZUELA|BVL|105000|105000|0|0|105000|105000|105000|3|1600|168000000||2|
+R|B.OCC.DCTO.B.U.|BOU|140|130|-10|-7.14|130|150|130|7|1515568|197046520||3|
+R|BCO. CARIBE "A"|ABC.A|1199980|1190000|-9980|-.83|1100000|1190000|1175000|3|6|7050000||3|
+R|BCO. PROVINCIAL|BPV|2669000|2850000|181000|6.78|2669000|2850000|2723280|14|704|1917192000||1|
+R|BCO.NAC.CREDITO|BNC|34000|34200|200|.59|34000|34200|34130|62|334109|11387305080||1|
+R|BOLSA V. CCAS.($)|BVCC|193900|225000|31100|16.04|200000|225000|203530|27|19227|3913280000||1|
+R|CANTV CLASE (D)|TDV.D|195000|195000|0|0|195000|200000|196260|10|7258|1424419550||2|
+R|CORIMON C.A.|CRM.A|102990|104990|2000|1.94|102990|104990|103670|7|10322|1070035670||1|
+R|CORP.GPO.QUIM.|CGQ|1151000|1149990|-1010|-.09|1149990|1149990|1149990|1|40|45999600||3|
+R|CORP.IND.ENERGIA|CIE|61000|71990|10990|18.02|71990|71990|71990|2|46|3311540||1|
+R|DOMINGUEZ & CIA|DOM|660000|725000|65000|9.85|725000|725000|725000|2|31|22475000||1|
+R|ENVASES VZLOS.|ENV|210000|210000|0|0|205000|210000|205870|4|580|119400000||2|
+R|FONDO V.INM.(B)|FVI.B|1000000|1040000|40000|4|1000000|1050000|1005710|14|1414|1420883000||1|
+R|I.CRECEPYMES -B-|ICP.B|99900|99900|0|0|99900|99900|99900|1|20|1998000||2|
+R|INM.VAL.Y CAP.|IVC|800000|800000|0|0|800000|800000|800000|3|78|62400000||2|
+R|MANPA, C.A. SACA|MPA|190000|190000|0|0|190000|190000|190000|7|2912|553280000||2|
+R|PRODUCTOS EFE|EFE|100000|110000|10000|10|110000|110000|110000|4|16|1760000||1|
+R|PROTINAL|PTN|83000|99600|16600|20|99600|99600|99600|3|35|3486000||1|
+R|R.S.TERESA "B"|RST.B|571000|575000|4000|.7|571000|575000|571030|5|7060|4031500000||1|
+R|RON STA. TERESA|RST|670000|675000|5000|.75|650000|675000|673250|12|6429|4328432000||1|
+R|SIVENSA, S.A.|SVS|208000|210000|2000|.96|208000|210000|208370|4|1223|254836000||1|
+R|T. PALO GRANDE|TPG|6000|6600|600|10|6000|7200|6590|5|1427|9397000||1|
+P|BCO.NAC.CREDITO|BNC||34200|||34000|34200|34130|2|192657|6589131900||
+P|BOLSA V. CCAS.|BVCC||225000|||200000|225000|203530|5|22647|4492635000||
+P|RON STA. TERESA|RST||675000|||650000|675000|673250|2|810|645403950||
+VT|13|3|6|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-DV|(&)GE013P-Colocacion Primaria de General de Alimetos Nisa, Em. 2020-I, Serie III|
-BP|PC.GENICA 20-3P|GE013P|78.13|78.13|0|0|78.13|78.13||2|55200000|43127760||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|90050|107990|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|1000000|1199990|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|24600|24790|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|2500000|2900000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|130|170|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|230000|244990|
-CC|C.A. RON SANTA TERESA|619000|718000|
-CC|C.A. RON SANTA TERESA (CLASE B)|550000|635990|
-CC|C.A. TELARES DE PALO GRANDE|5000|5500|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|181000|190000|
-CC|CERAMICA CARABOBO, SACA|16320010|20399990|
-CC|CORIMON, C.A.|80000|82570|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|44000|95000|
-CC|CORP.GRUPO QUIMICO, C.A.|940000|1094000|
-CC|DOMINGUEZ & CIA., S.A.|599000||
-CC|ENVASES VENEZOLANOS S.A.|200000|210000|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.||507990|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|1200100|1299000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|1000000|1050000|
-CC|GRUPO ZULIANO, C.A.|1000000|1450000|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|750000|898000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|80010|99990|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|183000|184000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|3600000|3999990|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|3100000|3599000|
-CC|PROAGRO C.A.|33300|33900|
-CC|PRODUCTOS EFE S.A.|101000|154900|
-CC|PROTINAL C.A.|83000|99000|
-CC|SIVENSA, S.A|200000|220000|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:<BR>							<BR>UNIDAD BURSÁTIL CARACAS 26/02/2021 : 		 1,112 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				2.080.914,76			<BR>|
-NO||INFORMACIÓN AL MERCADO <BR>OFERTA PÚBLICA DE INTERCAMBIO<BR><BR>De conformidad con las NORMAS DE OFERTA PÚBLICA DE ADQUISICIÓN, DE INTERCAMBIO Y TOMA DE CONTROL DE SOCIEDADES QUE HACEN OFERTA PÚBLICA DE ACCIONES Y OTROS DERECHOS SOBRE LAS MISMAS, se entiende por Oferta Pública de Intercambio el procedimiento por medio del cual el Iniciador pretende llevar a cabo la adquisición de las acciones, valores o derechos de la sociedad afectada, ofreciendo como contrapartida la entrega de valores o cualquier otro derecho, con el objeto de adquirir, completar o incrementar una participación reputada significativa que no posee en una sociedad que hace oferta pública de acciones, siempre que no tenga los efectos de una toma de control.<BR>SESIÓN ESPECIAL EN LA BOLSA DE VALORES DE CARACAS, C.A. <BR>A partir del 30 de diciembre de 2020, en la Bolsa de Valores de Caracas, se dio apertura a una Sesión Especial, a través del SIBE, para dar inicio a la Oferta Pública de Intercambio, a través de un procedimiento simplificado, autorizado por la Superintendencia Nacional de Valores, mediante Providencia Nro. 225 de fecha 28 de diciembre de 2020, a la sociedad Mercantil Servicios Financieros, C.A., (MSF), de conformidad con lo aprobado en la Junta Directiva de Mercantil Servicios Financieros Internacional, S.A., (MSFI), celebrada en fecha 09 de septiembre de 2019. En consecuencia, los accionistas de MSF, que deseen suscribir nuevas acciones de MSFI, podrán suscribir una acción Clase A de MSFI, entregando a cambio una acción Clase A de MSF como contraprestación de la referida suscripción y podrán suscribir una acción Clase B de MSFI, entregando a cambio una acción Clase B de MSF como contraprestación de la referida suscripción. <BR><BR>OPERACIONES DEL DÍA EN LA BOLSA DE VALORES DE CARACAS, C.A.<BR><BR>En la presente fecha se realizaron 9 operaciones de intercambio por:<BR>             170.207    acciones Clase A <BR>              177.012   acciones Clase B <BR>|
-NO|DOMINGUEZ & CIA.,S.A.|                           HECHO DE IMPORTANCIA DIVIDENDOS EN EFECTIVO<BR>                                                      DOMINGUEZ & CIA, S.A.<BR><BR> En la Asamblea Ordinaria de Accionistas de DOMINGUEZ & CIA, S.A., reunida el día de hoy a las 8:30 am, se acordó a las 10.00 am, aprobar por unanimidad la propuesta de la Junta Directiva de Domínguez & CIA, S.A., de un reparto de dividendos en efectivo por un monto total de Doscientos Cuarenta Mil Seiscientos Veinticinco Millones de Bolívares (Bs. 240.625.000.000,00) lo que representa un dividendo de Diez Mil Bolívares (Bs 10.000,00) por cada acción, el cual será pagado con cargo a utilidades retenidas, a los accionistas de Domínguez & Cía. SA, en una sola porción,  a fin de dar cumplimiento a la disposición del Decreto de Ley de Mercado de Valores y el articulo Nro. 4 de la Resolución Nro. 110-2004, Normas Relativas a la Información Sobre Pago de Dividendos que deben Suministrar las Empresas que hacen Oferta Pública de sus Acciones.<BR><BR>Única Porción.  Bs 10.000 por acción, esto es, Bs 240.625.000.000,00<BR><BR>Fecha Límite de Transacción con Beneficio: martes, 09 de marzo de 2021<BR>Fecha Efectiva de Registro del Beneficio: miércoles, 17 de marzo de 2021.<BR><BR>El dividendo no causa impuesto<BR><BR>Caracas, 26 de febrero de 2021.<BR>MAURICIO CAYCEDO S.<BR>Presidente Ejecutivo<BR>|
-NO|GENERAL DE ALIMENTOS NISA, C.A. (GENICA)|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de GENERAL DE ALIMENTOS NISA, C.A. (GENICA), a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocarse son los correspondientes a la Serie III, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora GENERAL DE ALIMENTOS NISA, C.A. (GENICA).<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 210 de fecha 10/12/2020<BR>Emisor	GENERAL DE ALIMENTOS NISA, C.A. (GENICA),<BR>Emisión 	2020-I<BR>Series a colocar		Serie III.<BR>Monto de Emisión. 	Bs.  215.984.000.000,00.<BR>Monto por serie 	Bs.  75.984.000.000,00.<BR>Códigos ISIN	VEV00406WTZ7<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	GE013P<BR>Fecha de Inicio de Sesión Especial 	01/03/2021<BR>Fecha de Vencimiento de la Serie.	01/06/2021<BR>Agentes de la Colocación 	Caja Caracas Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,13%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría ¿A¿, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30a.m a 1:00 p.m.<BR>|
-NO|MERCANTIL SERVICIOS FINANCIEROS C.A|     HECHO DE IMPORTANCIA- PROPUESTA DE DIVIDENDOS EN EFECTIVO<BR>MERCANTIL SERVICIOS FINANCIEROS, CA.<BR><BR> La Junta Directiva de Mercantil Servicios Financieros, C.A. (MSF), en su sesión celebrada el 25 de febrero de 2021, acordó someter a la consideración de la Asamblea General Ordinaria de Accionistas convocada para el día 31 de marzo de 2021, una propuesta para el decreto de dividendos en efectivo, la cual consiste en lo siguiente:<BR> <BR>I. Decretar un dividendo único en efectivo de Un Mil Doscientos Cincuenta Bolívares (Bs.1.250), con cargo a las utilidades correspondientes al 31 de diciembre de 2020, para cada una de las acciones comunes A y B en circulación,<BR><BR>Fecha Límite de Transacción con Beneficio: viernes, 14 de mayo de 2021<BR>Fecha Efectiva de Registro del Beneficio: miércoles , 19 de mayo de 2021.<BR><BR>II. Autorizar al Secretario de la Junta Directiva y/o al Secretario Suplente para realizar las publicaciones y notificaciones a que hubiere lugar. <BR><BR>Rafael Stern Schechner <BR>Secretario de la Junta Directiva <BR>Mercantil Servicios Financieros C.A.<BR>|
+BP|PC.GENICA 20-3P|GE013P|78.13|78.13|0|0|78.13|78.13||1|630985600|492989049.28||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|91050|110000|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|1000000|1190000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|34000|34200|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|2800000|2850000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|120|130|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|225000|263000|
+CC|C.A. RON SANTA TERESA|655000|675000|
+CC|C.A. RON SANTA TERESA (CLASE B)|585000|683000|
+CC|C.A. TELARES DE PALO GRANDE|6000|6600|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|195000|215000|
+CC|CERAMICA CARABOBO, SACA|13056020|20000000|
+CC|CORIMON, C.A.|83000|105000|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|65000|71990|
+CC|CORP.GRUPO QUIMICO, C.A.|921000|1149000|
+CC|DOMINGUEZ & CIA., S.A.|660000|725000|
+CC|ENVASES VENEZOLANOS S.A.|206000|215000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|352630|488390|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|1252000|1350000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|1000000|1040000|
+CC|GRUPO ZULIANO, C.A.|1160000|1450000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|802000|850000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|80010|99900|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|190000||
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|3500000|3999990|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|3051000|3597000|
+CC|PROAGRO C.A.|38000|41500|
+CC|PRODUCTOS EFE S.A.|100000|110000|
+CC|PROTINAL C.A.|86000|99600|
+CC|SIVENSA, S.A|208000|210000|
+NO|BANCO DE VENEZUELA, S.A. BCO. UNIVERSAL|CONVOCATORIA ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS <BR>                                         BANCO DE VENEZUELA, S.A., BANCO UNIVERSAL<BR><BR>En acatamiento al Decreto Nro. 4.413, de fecha 31 de diciembre de 2020, mediante el cual el Ejecutivo Nacional declara el Estado de Alarma para atender la Emergencia Sanitaria del Coronavirus (Covid-19)  publicado en Gaceta Oficial Nro. 6.610 Extraordinario de esa misma fecha, el cual fue prorrogado según Decreto Nro. 4.428 de fecha 30 de enero de 2021, publicado en Gaceta Oficial Extraordinaria Nro. 6.614 de esa misma fecha, y en atención a las medidas preventivas indicadas por la Organización Mundial de la Salud por la declaración de Pandemia de Coronavirus (Covid-19). <BR>Se convoca a los señores accionistas del Banco de Venezuela, S.A., Banco Universal, para una Asamblea General Ordinaria de Accionistas que se celebrará de forma Virtual, el día treinta (30) de marzo de 2021, a las 10:00 a.m., con el objeto de tratar los siguientes puntos: <BR><BR>PRIMERO: Considerar y resolver sobre el Balance General y el Estado de Ganancias y Pérdidas, correspondientes al semestre concluido el 31 de diciembre de 2020, con vista de los Informes de la Junta Directiva, de los Auditores Externos, así como de los Comisarios para dicho semestre.  <BR><BR>SEGUNDO: Considerar y resolver acerca del reparto de Dividendos. <BR><BR>TERCERO: Considerar y resolver acerca de la reelección del Defensor del Cliente y Usuario Bancario y su respectivo Suplente, ambos por un período de dos (2) años.<BR><BR>CUARTO: Considerar y resolver acerca de la remuneración de los dos Comisarios Principales y de sus respectivos Suplentes.<BR><BR>Caracas, tres (03) de marzo de 2021<BR>La Junta Directiva<BR>|
+NO||Los Informes de la Junta Directiva, de los Comisarios y  de  los  Auditores Externos, así como los Estados Financieros debidamente Auditados y  las propuestas relativas a dividendos, estarán a disposición de los señores accionistas a través de la página Web (www.bancodevenezuela.com), para su consulta.<BR><BR>Para conformar el quórum necesario para  deliberar sobre los puntos objeto  de  la  Convocatoria,  los  señores  Accionistas  deben enviar la carta poder a los correos: operaciones@cajavenezolana.com y joperaciones@cajavenezolana.com<BR><BR>Una vez realizada la Asamblea, el Banco publicará las decisiones adoptadas a través de la página Web (www.bancodevenezuela.com).<BR><BR>Caracas, tres (03) de marzo de 2021<BR>|
+NO|BANCO NACIONAL DE CREDITO, C.A. BCO.UNIV|HECHO DE IMPORTANCIA <BR>                     BANCO NACIONAL DE CRÉDITO, C.A., Banco Universal<BR><BR>Por decisión de la Asamblea General Ordinaria de Accionistas, celebrada el día 18 de marzo de 2020, y previa autorización de la Superintendencia de las Instituciones del Sector Bancario, mediante su Oficio SIB-II-GGR-GA-00508 de fecha 3 de febrero de 2021, la Junta Directiva, en su sesión extraordinaria Nro. 432 del 3 de febrero de 2021, adopta las siguientes resoluciones:<BR><BR>1. Aumento de Capital:<BR>Efectuar aumento de capital por Veintitrés Mil Ciento Sesenta y Siete Millones Setecientos Veinte Mil Bolívares (Bs 23.167.720.000,00), representados en veintitrés mil ciento sesenta y siete millones setecientos veinte mil (23.167.720.000,00), de nuevas acciones totalmente pagadas, con valor nominal de Un Bolívar (Bs. 1,00), de los cuales Diecisiete Mil Millones de Bolívares (Bs. 17.000.000.000) se reparten con cargo al Superávit por Aplicar y Seis Mil Ciento Sesenta y Siete Millones Setecientos Veinte Mil Bolívares (Bs. 6.167.720.000) con cargo a la cuenta de Superávit Restringido; y <BR>2. Distribución de Acciones:<BR><BR>Se distribuirá a cada accionista el número de acciones que le corresponde en proporción a sus respectivas tenencias accionarias, a razón de 4 por cada acción poseída. Las fracciones de acciones resultantes del proceso de distribución podrá ser adquiridas a valor nominal por la Caja de Ahorros de los Empleados del Banco.<BR>En cumplimiento de las normas vigentes, se establece:<BR><BR>	Fecha Limite de Transacción con Beneficio: 8 de marzo de 2021 <BR>	Fecha Efectiva de Registro del Beneficio: 15 de marzo de 2021<BR><BR>La Superintendencia Nacional de Valores, mediante Providencia Nro. 031 del 25 de febrero de 2021, autorizo la inscripción de las nuevas acciones en el Registro Nacional de Valores.<BR><BR>Caracas, 2 de marzo de 2021<BR>|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:<BR>							<BR>UNIDAD BURSÁTIL CARACAS 04/03/2021 : 		 1,099 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				2.051.167,42			<BR>|
