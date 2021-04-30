@@ -72,9 +72,14 @@ navbar:
         - text: "Telares Palo Grande (TPG)"
           href: tpg.html 
         - text: "Inversiones Crecepymes (ICP.B)"
-          href: icpb.html           
+          href: icpb.html  
+        - text: "Impulsa Agronegocios (IMP.B)"
+          href: impb.html 
+        - text: "Fondo Mutual de Inv. Cap. Cerrado"
+          href: per.html 
+          
     - text: "Comparador"
-      href: comparador.html             
+      href: comparador.html              
     - text: "Tipo de cambio"
       href: indicadores.html      
   right:
