@@ -33,7 +33,7 @@ datos_dolar <- function(){
   dolar_paralelo=dolarparalelo[,3]
   
   serie_dolar_paralelo=xts(dolarparalelo[,3], as.Date(dolarparalelo$Fecha))
-  
+  serie_dolar_paralelo["2021-04-21",1]=serie_dolar_paralelo["2021-04-21",1]/10
   
   #Highchart Bs.S
   grafico_dolar_paralelo=hchart(serie_dolar_paralelo, name = "USD/Bs.")

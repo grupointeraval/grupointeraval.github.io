@@ -1,15 +1,15 @@
 ---
-title: "Bolsa de Valores de Caracas (Reporte Grupo Interaval)"
+title: "Banco del Caribe (Reporte Grupo Interaval)"
 date: '`r paste("Actualizado al ", Sys.Date())`'
 ---
 
-### (Símbolo: BVCC)
+### (Símbolo: ABC.A)
 
 <p align="center">
-  <img width="100px" height="100px" src="bvc.png">
+  <img width="200px" height="80px" src="abca.jpg">
 </p>
 
-El objetivo de la BVCC es facilitar la intermediacion de instrumentos financieros y difundir la informacion que requiere el mercado de manera competitiva, asegurando transparencia y eficacia dentro de un marco autorregulado y apegado a los principios legales y eticos; apoyandose para ello en el mejor recurso humano y en la solvencia de nuestros accionistas.
+Es una institución financiera privada de Venezuela con base en Caracas especializada en banca universal. Es el noveno banco más grande del país y se ubica en el estrato mediano según SUDEBAN. Fue fundado el 12 de febrero de 1954 con sede en Puerto Cabello e inicia operaciones el 3 de noviembre del mismo año. Esta empresa cotiza en la Bolsa de Valores de Caracas bajo los símbolo "ABC.A" y "ABC.B" y hasta la fecha mantiene 110.000.000 acciones en circulación.
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
@@ -155,6 +155,7 @@ library(kableExtra)
     }
     
     serie_accion_usd=xts(accion_usd[,2:6], accion_usd$Fecha)
+    
 
     
     #Highchart Bs.S
@@ -181,18 +182,18 @@ library(kableExtra)
   
   ################################################################################################################
   
-  BVCC=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","bvcc.txt",sep=""),"BVCC")
+  abca=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io//","abc.a.txt",sep=""),"ABC.A")
 
 
   ################################################################################################################
   
   mercado=data.frame(
-    acciones = c ("BVCC"),
+    acciones = c ("ABC.A"),
     
-    numero_de_acciones=c(29250000),
+    numero_de_acciones=c(98166667),
     
     
-    precio=c(BVCC$precio)
+    precio=c(abca$precio)
     
     
   
@@ -218,8 +219,8 @@ mercado=mercado[c("Acción","Número de acciones","Precio Bs.", "Precio $USD","C
  resumen=data.frame(
     dato = c ("Precio Bs.","Precio $USD", "Mínimo $USD","Máximo $USD","Media $USD","Varianza $USD", "Capitalización $USD", "Cantidad de acciones"),
     
-    valor=c( BVCC$precio, mercado[mercado$`Acción`=="BVCC",4], min(BVCC$accion_usd$BVCC.Close), max(BVCC$accion_usd$BVCC.Close), mean(BVCC$accion_usd$BVCC.Close),
-        as.numeric(var(BVCC$accion_usd$BVCC.Close)), mercado[mercado$`Acción`=="BVCC",6], mercado[mercado$`Acción`=="BVCC",2])
+    valor=c( abca$precio, mercado[mercado$`Acción`=="ABC.A",4], min(abca$accion_usd$ABC.A.Close), max(abca$accion_usd$ABC.A.Close), mean(abca$accion_usd$ABC.A.Close),
+        as.numeric(var(abca$accion_usd$ABC.A.Close)), mercado[mercado$`Acción`=="ABC.A",6], mercado[mercado$`Acción`=="ABC.A",2])
 
 )
 
@@ -232,8 +233,8 @@ kable(resumen) %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 
 ```
-
 <a href="http://inversores.grupointeraval.com" class="btn btn-success" role="button">Invierte con nosotros</a>
+
 
 ### Cotización de la acción en $USD
 
@@ -336,7 +337,7 @@ kable(resumen) %>%
     
     serie_accion_usd=xts(accion_usd[,2:6], accion_usd$Fecha)
     
-    
+
     
     #Highchart Bs.S
     grafico_bs=highchart(type = "stock") %>% 
@@ -360,7 +361,7 @@ kable(resumen) %>%
     
   }
 
-accion=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","bvcc.txt",sep=""),"BVCC")
+accion=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","abc.a.txt",sep=""),"ABC.A")
 accion$grafico_usd
 ```
 
@@ -369,7 +370,7 @@ accion$grafico_usd
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-accion=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","bvcc.txt",sep=""),"BVCC")
+accion=datos_accion(accion,paste("C:/Users/analista04/Documents/R/grupointeraval.github.io/","abc.a.txt",sep=""),"ABC.A")
 accion$grafico_bs
 ```
 
@@ -378,7 +379,7 @@ accion$grafico_bs
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(DT)
-excel=as.data.frame(BVCC$accion_usd)
+excel=as.data.frame(abca$accion_usd)
 excel[,4] <- NULL
 colnames(excel)=c("Apertura", "Cierre", "Mínimo", "Máximo")
 
@@ -391,7 +392,7 @@ DT::datatable(excel, class = 'cell-border stripe', extensions="Buttons", options
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(DT)
-excel2=as.data.frame(BVCC$accion_bs)
+excel2=as.data.frame(abca$accion_bs)
 colnames(excel2)=c("Apertura", "Cierre", "Mínimo", "Máximo", "Volumen","Operaciones", "Monto")
 
 DT::datatable(excel2, class = 'cell-border stripe', extensions="Buttons", options = list(pageLength = 30, dom = 'Bfrtip', buttons = c('excel', 'pdf', 'print')))
