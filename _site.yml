@@ -78,7 +78,8 @@ navbar:
         - text: "Fondo Mutual de Inv. Cap. Cerrado (PER)"
           href: per.html 
         - text: "PIVCA Promotora de Inversiones y Valores (PIV.B)"
-          href: pivb.html 
+          href: piv.b.html 
+          
     - text: "Comparador"
       href: comparador.html              
     - text: "Tipo de cambio"
