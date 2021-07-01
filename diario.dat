@@ -1,93 +1,87 @@
-IG|17062021|4758.9|-17.53|-.37|5798.7|301.78|-47474.78|-90.89|
-IF|17062021|8495.4|-28.8|-.34|
-II|17062021|2417.75|-11.02|-.45|
-R|B.DE VENEZUELA|BVL|415000|414990|-10|0|414990|414990|414990|1|15|6224850||3|
-R|B.OCC.DCTO.B.U.|BOU|430|410|-20|-4.65|410|430|420|10|211553|88402260||3|
-R|BCO. PROVINCIAL|BPV|5100000|5085000|-15000|-.29|5000000|5100000|5020940|13|193|967680000||3|
-R|BCO.NAC.CREDITO|BNC|16600|16490|-110|-.66|16490|16600|16500|29|49774|821471280||3|
-R|BOLSA V. CCAS.($)|BVCC|374500|369900|-4600|-1.23|369900|374500|369970|18|5717|2112100890||3|
-R|CANTV CLASE (D)|TDV.D|550000|560000|10000|1.82|550000|560000|555590|5|358|198900000||1|
-R|DOMINGUEZ & CIA|DOM|1630000|1600000|-30000|-1.84|1600000|1600000|1600000|1|2|3200000||3|
-R|FONDO V.INM.(B)|FVI.B|2597000|2490000|-107000|-4.12|2490000|2597000|2516000|5|36|90576000||3|
-R|INM.VAL.Y CAP.|IVC|2050000|2050000|0|0|2050000|2050000|2050000|1|7|14350000||2|
-R|MERCANTIL S.(A)|MVZ.A|5100000|5100000|0|0|5100000|5103000|5100160|9|323|1647328020||2|
-R|MERCANTIL S.(B)|MVZ.B|5698990|5690000|-8990|-.16|5690000|5690000|5690000|1|5|28450000||3|
-R|PROAGRO|PGR|129000|128990|-10|-.01|128990|128990|128990|1|107|13801930||3|
-R|PRODUCTOS EFE|EFE|324000|324000|0|0|324000|324000|324000|1|50|16200000||2|
-R|R.S.TERESA "B"|RST.B|1100000|1090000|-10000|-.91|1000000|1100000|1027250|15|2106|2163387880||3|
-R|RON STA. TERESA|RST|1599900|1599900|0|0|1599900|1599900|1599900|4|29|46397100||2|
-R|SIVENSA, S.A.|SVS|708000|708000|0|0|708000|708000|708000|2|1089|771012000||2|
-R|T. PALO GRANDE|TPG|37030|40000|2970|8.02|37000|41000|37310|10|23268|868170350||1|
-P|BCO.NAC.CREDITO|BNC||16490|||16490|16600|16500|1|125|1790000||
-P|FONDO V.INM.(B)|FVI.B||2490000|||2490000|2597000|2516000|3|25857|65328137260||
-P|RON STA. TERESA|RST||1599900|||1599900|1599900|1599900|2|2018|3863006950||
-VT|2|10|5|
+IG|30062021|5137.84|85.45|1.69|5798.7|301.78|-47095.84|-90.16|
+IF|30062021|9044.38|177.91|2.01|
+II|30062021|2718.83|21.82|.81|
+R|B.DE VENEZUELA|BVL|420050|410000|-10050|-2.39|410000|410000|410000|1|111|45510000||3|
+R|B.OCC.DCTO.B.U.|BOU|420|400|-20|-4.76|400|420|410|9|444387|181321760||3|
+R|BCO. CARIBE "A"|ABC.A|2699000|2699000|0|0|2301000|2699000|2357860|5|154|363110000||2|
+R|BCO. PROVINCIAL|BPV|5500000|5600000|100000|1.82|5400000|6000000|5570200|24|698|3888000240||1|
+R|BCO.NAC.CREDITO|BNC|16330|16600|270|1.65|16130|16600|16460|31|228543|3761182070||1|
+R|BOLSA V. CCAS.|BVCC|340000|407000|67000|19.71|350000|407000|377340|14|8145|3073440000||1|
+R|CANTV CLASE (D)|TDV.D|622000|605000|-17000|-2.73|551000|623000|561050|8|660|370295330||3|
+R|CORP.GPO.QUIM.|CGQ|3998010|3988010|-10000|-.25|3988010|3988010|3988010|1|2|7976020||3|
+R|CR.CARABOBO|CCR|50000000|55000000|5000000|10|50000000|55000000|50217390|3|23|1155000000||1|
+R|DOMINGUEZ & CIA|DOM|1590000|1590000|0|0|1590000|1590000|1590000|5|1497|2380230000||2|
+R|ENVASES VZLOS.|ENV|600000|645000|45000|7.5|600000|645000|608090|13|4634|2817886000||1|
+R|FAB.N.CEMENTOS|FNC|750000|750000|0|0|750000|750000|750000|4|24|18000000||2|
+R|FONDO V.INM.(A)|FVI.A|6000000|6000000|0|0|6000000|6001000|6000110|6|190|1140021000||2|
+R|FONDO V.INM.(B)|FVI.B|2300000|2400000|100000|4.35|2300000|2400000|2300640|13|314|722400000||1|
+R|GRUPO ZULIANO|GZL|2000000|2000000|0|0|2000000|2000000|2000000|4|13|26000000||2|
+R|I.CRECEPYMES -B-|ICP.B|129990|104050|-25940|-19.96|104050|129990|104710|3|3084|322929300||3|
+R|INM.VAL.Y CAP.|IVC|1850000|1850000|0|0|1850000|1850000|1850000|1|15|27750000||2|
+R|MANPA, C.A. SACA|MPA|620000|655000|35000|5.65|620000|661000|633860|21|5793|3671933000||1|
+R|MERCANTIL S.(A)|MVZ.A|5251000|5500000|249000|4.74|5500000|5510000|5500530|13|318|1749500000||1|
+R|MERCANTIL S.(B)|MVZ.B|5570000|5500000|-70000|-1.26|5500000|5570000|5500950|6|492|2606478000||3|
+R|PC-IBC F.M.I.C.C|PER|3360000|3500000|140000|4.17|3500000|3500000|3500000|1|12|42000000||1|
+R|PROAGRO|PGR|128500|128500|0|0|128500|128990|128710|5|6254|804933700||2|
+R|PRODUCTOS EFE|EFE|330000|325000|-5000|-1.52|325000|330000|328770|4|134|44055000||3|
+R|PROTINAL|PTN|319000|319000|0|0|319000|319000|319000|4|27|8613000||2|
+R|R.S.TERESA "B"|RST.B|1087000|1090000|3000|.28|1088000|1100000|1090020|11|1476|1608870000||1|
+R|RON STA. TERESA|RST|1795000|1750000|-45000|-2.51|1750000|1800000|1770320|11|328|580665000||3|
+R|SIVENSA, S.A.|SVS|714000|720000|6000|.84|714000|720000|714020|3|726|518376000||1|
+R|T. PALO GRANDE|TPG|37000|36000|-1000|-2.7|36000|37000|36720|4|150|5508000||3|
+P|BCO.NAC.CREDITO|BNC||16600|||16130|16600|16460|2|6550|107140000||
+P|BOLSA V. CCAS.|BVCC||407000|||350000|407000|377340|1|15000|5655000000||
+P|GRUPO ZULIANO|GZL||2000000|||2000000|2000000|2000000|2|844|2025600000||
+VT|11|9|8|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-DV|(&)AF211P-Colocacion primaria de Alimentos FM., Em. 2021-I, Serie I|
-DV|(&)AF221P-Colocacion primaria de Alimentos FM., Em. 2021-II, Serie I|
-DV|(&)CJ012P-Colocacion primaria de Caja Caracas Casa de Bolsa, Em. 2020-I, Serie II|
-DV|(&)D2111P-Colocacion primaria de Dayco Telecom, Em. 2021-I, Serie I|
-DV|(&)D2121P-Colocacion primaria de Dayco Telecom, Em. 2021-II, Serie I|
-DV|(&)DL012-P.C. Destileria Carupano, Em. 2020-I, Serie II|
-DV|(&)DL022-P.C. Destileria Carupano, Em. 2020-II, Serie II|
-DV|(&)GC012P-Colocacion primaria de Genia Care, Em. 2020-I, Serie II|
-DV|(&)GC022P-Colocacion primaria de Genia Care, Em. 2020-II, Serie II|
-BP|A.FM 2021-I S.1P|AF211P|78.13|78.13|0|0|78.13|78.13||2|7500000000|5859750000||
-BP|A.FM 2021-IIS.1P|AF221P|78.13|78.13|0|0|78.13|78.13||2|7500000000|5859750000||
-BP|CAJA CCS 20-I 2P|CJ012P|78.13|78.13|0|0|78.13|78.13||5|85998738000|67190813999.4||
-BP|CARUPANO 20-1 2|DL012|83.68|83.68|0|0|83.68|83.68||1|5000000000|4184000000||
-BP|CARUPANO 20-2 2|DL022|83.68|83.68|0|0|83.68|83.68||1|5000000000|4184000000||
-BP|GENIA 20-1, S2P|GC012P|78.28|78.28|0|0|78.28|78.28||1|2500000000|1957000000||
-BP|GENIA 20-2, S2P|GC022P|78.28|78.28|0|0|78.28|78.28||1|2500000000|1957000000||
-BP|MARSOCA 21, S-2P|MS212P|79.38|79.55|.17|.21|79.55|79.55||1|48750000000|38780625000||
-BP|P.TACHIR.21-1 P|PT211P|83.14|84.35|1.21|1.46|84.35|84.35||1|49960000000|42141260000||
-BP|PC.DAYCO 21-1-1P|D2111P|78.13|78.13|0|0|78.13|78.13||1|15000000000|11719500000||
-BP|PC.DAYCO 21-2-1P|D2121P|78.13|78.13|0|0|78.13|78.13||1|15000000000|11719500000||
-BP|PC.GENICA 20I-6P|GE016P|78.67|78.75|.08|.1|78.75|78.75||1|30000000000|23625000000||
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|370000|410000|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|2255000|2489000|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|15700|16490|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|5000000|5085000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|380|410|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|340000|369900|
-CC|C.A. RON SANTA TERESA|1450000|1550000|
+BP|CAJA CCS 20-I 3P|CJ013P|78.13|78.18|.05|.06|78.18|78.18||1|1911857000|1494689802.6||
+BP|D.YARACUY 21I-1P|DY111P|79.08|79.17|.09|.11|79.17|79.17||1|6000000000|4749960000||
+BP|EL PALMAR 21I-1P|PL111P|78.74|79.17|.43|.55|79.17|79.17||1|6000000000|4749960000||
+BP|P.TACHIR.19-5 4P|PT954P|80.38|80.56|.18|.22|80.56|80.56||1|4500000000|3625200000||
+BP|P.TACHIR.19-6 4P|PT964P|80.38|80.56|.18|.22|80.56|80.56||1|2250000000|1812600000||
+BP|PC CALOX 20-152P|CX152P|78.13|78.9|.77|.99|78.9|78.9||1|2500000000|1972500000||
+BP|PC CALOX 20-162P|CX162P|78.13|78.9|.77|.99|78.9|78.9||1|2500000000|1972500000||
+BP|PC CALOX 20-172P|CX172P|78.13|78.9|.77|.99|78.9|78.9||1|2500000000|1972500000||
+BP|PC CALOX 20-182P|CX182P|78.13|78.9|.77|.99|78.9|78.9||1|2500000000|1972500000||
+BP|PC.DAYCO 21-1-1P|D2111P|78.9|78.99|.09|.11|78.99|78.99||1|6000000000|4739400000||
+BP|PC.DAYCO 21-2-1P|D2121P|78.9|78.99|.09|.11|78.99|78.99||1|6000000000|4739400000||
+BP|PC.MERSAN 20-I2P|MN012P|80.47|80.65|.18|.22|80.65|80.65||1|120000000|96780000||
+BY|NOVARO 21I 1$ P|NF211P|100|100|0|100|100|1|320407952|0|16020397600|5000|
+BY|PUROLOMO 21-I 1P|PU111P|100|100|0|100|100|6|320407952|0|19673048252.8|6140|
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|400000|415000|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|2501000|2699000|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|16350|16600|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|5600000|5600010|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|400|430|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|361000|405000|
+CC|C.A. RON SANTA TERESA|1501000|1780000|
 CC|C.A. RON SANTA TERESA (CLASE B)|1000000|1090000|
-CC|C.A. TELARES DE PALO GRANDE|36000|40000|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|540000|560000|
-CC|CERAMICA CARABOBO, SACA||59999000|
-CC|CORIMON, C.A.|405000|625000|
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|90000|105000|
-CC|CORP.GRUPO QUIMICO, C.A.|2881000|3998010|
-CC|DOMINGUEZ & CIA., S.A.|1402000|1599000|
-CC|ENVASES VENEZOLANOS S.A.|520000|590000|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.|651000|800000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|4750000|5520000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|2350000|2490000|
-CC|GRUPO ZULIANO, C.A.|1400000|2200000|
+CC|C.A. TELARES DE PALO GRANDE|35000|36000|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|522000|605000|
+CC|CERAMICA CARABOBO, SACA||55000000|
+CC|CORIMON, C.A.|500000||
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|82000|107990|
+CC|CORP.GRUPO QUIMICO, C.A.|3200000|3980000|
+CC|DOMINGUEZ & CIA., S.A.|1400000|1590000|
+CC|ENVASES VENEZOLANOS S.A.|615000|650000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|601030|750000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|6002000|7000000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|2311000|2400000|
+CC|GRUPO ZULIANO, C.A.|1600010|2000000|
 CC|IMPULSA AGRONEGOCIOS, C.A.  CLASE "A"|12000000||
-CC|IMPULSA AGRONEGOCIOS, C.A. CLASE "B"|30000000|35500000|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|1815000|2050000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|101000|129990|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|510000|607000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|5100000|5500000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|4801000|5400000|
-CC|PC-IBC FONDO MUTUAL DE INV. CAP. CERRADO|3360000|4200000|
-CC|PIVCA PROMOTRA  INV. Y VALORES CLASE "B"|57281000|80000000|
-CC|PROAGRO C.A.|115000|127990|
-CC|PRODUCTOS EFE S.A.|265000|380000|
-CC|PROTINAL C.A.|303000|329740|
-CC|SIVENSA, S.A|625000|708000|
-NO|BANCO.OCCID.DCTO.,BANCO.UNIVERSAL.|         CONVOCATORIA ASAMBLEA EXTRAORDINARIA DE ACCIONISTAS<BR>                       BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.<BR><BR> De conformidad con los artículos 13, literal c; 17 y 31, numeral 8 de los Estatutos Sociales, la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A., ha resuelto convocar a sus Accionistas a una Asamblea General Extraordinaria que se celebrará el lunes 12 de julio de 2021, a las 9:00 a.m., en la oficina del Banco ubicada en la Avenida Blandín, La Castellana, Torre BOD, Mezzanina Norte, Pent-House, Caracas, con el fin de tratar los siguientes puntos:<BR><BR> Punto Único: Designación de dos (2) Directores Principales para el período 2021-2023 y fijar su remuneración <BR><BR>Maracaibo, 17 de junio de 2021<BR>Por la Junta Directiva del Banco Occidental de Descuento, Banco Universal, C.A.<BR>Victor J. Vargas Irausquín<BR>Presidente<BR><BR>Nota: a.  De conformidad con lo establecido en el artículo 17, numeral 1 de los estatutos sociales, todo grupo de Accionistas que represente por lo menos el veinte por ciento 20% del capital suscrito, tiene el derecho de elegir un miembro principal de la Junta Directiva y su respectivo suplente.<BR>b.  En la sede del Banco se atenderán a los Accionistas o sus representantes y se expedirán las credenciales para su asistencia a la Asamblea<BR>|
-NO||c.  Vistas las circunstancias actuales derivadas de la pandemia Coronavirus COVID-19 y, con el objeto de proteger la salud de los  Accionistas y empleados del Banco, así como en cumplimiento de la Resolución Nro.090, del 01-06-2020 del Ministerio del Poder Popular para la Salud, sobre la normativa sanitaria de responsabilidad social ante la referida pandemia, se requerirá el uso obligatorio de mascarilla, distanciamiento social mínimo de 1,5 metros entre los asistentes y se aplicará antibacterial al ingreso de las instalaciones. Asimismo, se recomienda a los Accionistas que tengan alguna condición de riesgo- adultos mayores de 65 años, embarazadas, cardiópatas, hipertensos, diabéticos, enfermedades respiratorias crónicas, entre otras- seguir las recomendaciones de la normativa antes indicada. No se ofrecerá refrigerio.|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:<BR>							<BR>UNIDAD BURSÁTIL CARACAS 16/06/2021 : 		 1,155 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				3.595.801,44			<BR>|
-NO|CAJA CARACAS CASA DE BOLSA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CAJA CARACAS CASA DE BOLSA, C. A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocar son los correspondientes a la Serie II, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CAJA CARACAS CASA DE BOLSA, C. A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 017 de fecha 12/02/2021.<BR>Emisor	CAJA CARACAS CASA DE BOLSA, C. A.,<BR>Emisión 	2020-I<BR>Series a colocar		Serie II.<BR>Monto de Emisión. 	Bs.  176.814.000.000,00.<BR>Monto por serie 	Bs.  94.414.000.000,00.<BR>Códigos  ISIN	VEV00412WZN8<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	CJ012P<BR>Fecha de Inicio de Sesión Especial 	17/06/2021<BR>Fecha de Vencimiento de la Serie.	17/09/2021<BR>Agentes de la Colocación 	Caja Caracas Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,13%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Clave Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 1:00 p.m.<BR>|
-NO|CALOX INTERNATIONAL, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CALOX INTERNATIONAL, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocar son los correspondientes a la Serie II, de las Emisiones 2020-XV, 2020-XVI, 2020-XVII y 2020-XVIII, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CALOX INTERNATIONAL, C.A.<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 039/2021 de fecha 11/03/2021<BR>Providencia Nro. 040/2021 de fecha 11/03/2021<BR>Providencia Nro. 041/2021 de fecha 11/03/2021<BR>Providencia Nro. 042/2021 de fecha 11/03/2021<BR>Emisor	CALOX INTERNATIONAL, C.A.<BR>Emisión 	2020-XV<BR>2020-XVI<BR>2020-XVII<BR>2020-XVIII<BR>Series para colocar		Serie II c/u.<BR>Monto de Emisión. 	Bs.  25.000.000.000,00 c/u.<BR>Monto por de la serie 	Bs.  25.000.000.000,00 c/u.<BR>Códigos ISIN	Emisión. 2020-XV, Serie II:    VEV00395WZJ3<BR>Em. 2020-XVI, Serie II:   VEV00395WZK1<BR>Em. 2020-XVII, Serie II:  VEV00395WZL9<BR>Em. 2020-XVIII, Serie II: VEV00395WZM7<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Emisión. 2020-XV, Serie II:     CX152P<BR>Emisión. 2020-XVI, Serie II:    CX162P<BR>Emisión. 2020-XVII, Serie II:   CX172P<BR>Emisión. 2020-XVIII, Serie II:  CX182P<BR>Fecha de Inicio de Sesión Especial 	18/06/2021<BR>Fecha de vencimiento de las Emisiones.	18/09/2021<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78.13% c/u.<BR>Base de cálculo 	30/360<BR>|
-NO||Calificación de Riesgo	A 1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3.<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3.<BR>Horario de Sesión Especial	 De 9:30 a.m. a 1:00 p.m. <BR>|
-NO|CORIMON, C.A.|HECHO DE IMPORTANCIA<BR><BR>CORIMON C.A.<BR><BR>La empresa emisora Corimon, C.A.  informó que este martes 15 de junio finalizó el proceso de la Oferta Pública de Adquisición de Acciones por parte de la empresa Inversiones Tulipán, LLC, en el que se negociaron 9.573.953 acciones que representan el 67,80% de las 14.128.314 acciones que eran objeto de la OPA.<BR><BR>Esta  Oferta Pública de Adquisición de Acciones por parte de la  empresa Inversiones tulipán, LLC, dio inicio el lunes, 03 de mayo de 2021, mediante una Sesión Especial, en la Bolsa de Valores de Caracas,  a través del Sistema de Transacciones SIBE, sobre las acciones de la empresa emisora CORIMON, C.A., hasta por un máximo de 14.128.314 acciones representativas del 9,42% del capital social de la compañía, autorizado por la Superintendencia Nacional de Valores, mediante Providencia Nro. 081 de fecha 30 de abril de 2021<BR>|
-NO|FVI.FONDO DE VALORES INMOBILIARIOS,SACA.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre la sesión especial para el proceso de asignación de acciones Clase A y Clase B, de la empresa emisora FONDO DE VALORES INMOBILIARIO S.A.C.A, a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Acciones Clase A y B comunes, nominativas, no convertibles al portador<BR>Autorización SNV 	Providencia número Nro. 024 de fecha 23 de febrero de 2021<BR>Emisor	FONDO DE VALORES INMOBILIARIO S.A.C.A<BR>Monto 	Primera ronda por la cantidad de hasta 1.347.057 acciones clase A, 1.010.292 acciones clase B<BR>Código de Símbolo en SIBE	FVIAO = Acciones Clase A<BR>FVIBO = Acciones Clase B<BR>Fecha de Inicio de Sesión Especial 	18-06-2021<BR>Agente Líder Colocación 	BNCI Casa de Bolsa, C.A.<BR>Agentes de Distribución	Ratio Casa de Bolsa, C.A., <BR>Activalores Valores Casa de Bolsa, S.A. <BR>Solfin Casa de Bolsa, C.A. <BR>Mercantil Merinvest Casa de Bolsa, C.A.<BR>Interbono Casa de Bolsa, C.A.<BR>Statera Casa de Bolsa, C.A.<BR>Rendivalores Casa de Bolsa. C.A.<BR>Caja Caracas Casa de Bolsa, C.A.<BR>Fivenca Casa de Bolsa, C.A.<BR>Valoralta Casa de Bolsa, C.A.<BR>Interbursa casa de bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	Resultante de multiplicar el precio de cierre en la Bolsa de Valores de Caracas de la acción Clase A y B (Identificada con el símbolo FVI.A / FVI.B) el día quince  (15) de junio de 2021, por el factor de 93,34% las acciones clase A y 96,63% las acciones clase B.<BR>Horario de Sesión Especial	 De 9:30 a.m. a 12:55 p.m<BR>Para cualquier información adicional, comunicarse con el Agente Líder de la Colocación, BNCI Casa de Bolsa, C.A.. Dirección: Av. Francisco De Miranda, Edificio Torre BNC, Piso 10, Ofc. 00, Chacao. Teléfono:  0212 620 2611. <BR>Correo Electrónico: info@bnci-casadebolsa.com<BR><BR>|
-NO|PUROLOMO, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de PUROLOMO, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocados son los correspondientes a la Serie I, de la Emisión 2021-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora PUROLOMO, C.A.<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 093 de fecha 31/05/2021<BR>Emisor	PUROLOMO, C.A.<BR>Emisión 	2021-I<BR>Series para colocar		Serie I.<BR>Monto de la Emisión. 	(USD$ 750.000,00) Expresados en V.U.T. (Valor Unitario Transable) y denominados en Bolívares. <BR>Monto por la serie 	(USD$ 750.000,00) Expresados en V.U.T. (Valor Unitario Transable) y denominados en Bolívares.<BR>Códigos ISIN	VEV00383AAN0<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	PU111P<BR>Fecha de Inicio de Sesión Especial 	18/06/2021<BR>Fecha de vencimiento de la serie	18/06/2022<BR>Agentes de la Colocación 	MERCOSUR Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	100%<BR>Base de cálculo 	30/360 (Bimestral)<BR>Calificación de Riesgo	A1a, Calificadores Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m. a 1:00 p.m. <BR>|
-NO||Cronograma:<BR>Evento	<BR>Período de colocación de órdenes de la Serie I para todos los pequeños y medianos inversionistas.	<BR><BR>Fecha<BR>Desde el 18 de junio de 2021 hasta el 22 de junio de 2021.<BR>	<BR>Observación<BR>Período de colocación primaria estará abierto a todos los inversionistas con órdenes desde un monto mínimo del equivalente en bolívares a Diez V.U.T. (Valores Unitarios Transable) (V.U.T. 10,00) hasta un máximo del 5% del total de la serie, tomando en consideración lo establecido en la Norma sobre el monto máximo a tomar por inversor minoritario el cual equivale al 2% sobre el porcentaje máximo de participación.<BR>Durante este período, ningún puesto comprador podrá adquirir más del 20% del monto total de la oferta disponible por sesión diaria.<BR>Nota: Es responsabilidad de cada Casa de Bolsa que los Inversionistas Minoritarios no excedan el equivalente al 2% del porcentaje máximo de participación.<BR>|
-NO||Período de colocación de órdenes de la Serie I para todos los inversionistas.	Desde el 23 de junio de 2021 hasta agostarse la Serie Ofertada.	Período de colocación primaria estará abierto a todos los inversionistas con órdenes desde un monto mínimo del equivalente en bolívares a Diez V.U.T. (Valores Unitarios Transable) (V.U.T. 10,00) en adelante.<BR>Condiciones y obligaciones:<BR>Concepto	<BR>Liquidación	1.	Las operaciones serán liquidadas en T+0, se realizarán fuera de bolsa vía Banco Central de Venezuela, directo entre el puesto comprador y Mercosur Casa de Bolsa.<BR>2.	Mercosur Casa de Bolsa, S.A, no se hace responsable por transferencias realizadas desde un Banco distinto al mencionado.<BR>Concepto<BR>Condición obligatoria para los Puestos compradores	En caso de ser asignado, bien sea para posición propia o de terceros, el puesto comprador, deberá en un lapso no mayor a 24 horas, notificar a la Superintendencia Nacional de Valores, el libro de órdenes en el formato establecido por el Ente Regulador para tal fin. Asimismo, deberá enviar en el mismo plazo, al Emisor el libro de órdenes, a la siguiente dirección  de correo electrónico: alibal.emision@gmail.com <BR>Concepto<BR>Periodo de recepción de ordenes	1.	Los puestos compradores deberán presentar sus órdenes entre las 9:00am hasta las 9:50am, toda orden presentada fuera del horario establecido, será invalida.<BR>2.	Las órdenes que sean presentadas deberán cumplir con el precio que se establezca en la publicación de inicio de la oferta pública, toda orden presentada fuera del precio establecido, será inválida.<BR>Concepto<BR>Periodo de notificación de asignación	El periodo de notificación de asignación de los títulos valores estará comprendido entre las 9:51am hasta 10:05am., a través de correo electrónico.<BR>|
-NO||Concepto<BR>Periodo de recepción de fondos	El periodo de recepción de fondos a Mercosur Casa de Bolsa, S.A., en la cuenta que mantiene en Banco Central de Venezuela (BCV) estará comprendido entre las 09:51 am hasta las 11:00am.<BR><BR>Postura e ingreso de ordenes	1.	El ingreso de las órdenes que por cuenta propia o terceros tengan bien a realizar los puestos compradores, se realizaran a través de un libro de órdenes que dispondrá la Bolsa para tal fin.<BR>2.	Cada miembro deberá ingresar una sola orden, la cual contempla el monto total de órdenes por cuenta propia y/o terceros.<BR>3.	Una vez culminado el periodo de recepción de órdenes y confirmado los fondos de acuerdo a las posturas que presenten los puestos compradores, se procederá a realizar una operación de cruce a precio convenido.<BR><BR>Monto máximo de asignación por Miembro	Hasta un 20% del monto total de la oferta disponible por sesión diaria, en caso tal de que ocurra una sobredemanda de la oferta, la asignación será realizada de manera proporcional.<BR><BR>Comisión de los puestos compradores:	0.20% sobre el valor nominal asignado, el cual corresponde al 40% de la comisión efectivamente cobrada al Emisor, por concepto de Colocación. <BR>Nota: Mercosur Casa de Bolsa, S.A., cancelará las facturas por esta comisión a los puestos compradores previa verificación del envió del libro al Emisor y Superintendencia Nacional de Valores.<BR><BR>Excepciones:	Para casos de fuerza mayor, por motivos ajenos a los miembros participante, los sistemas tecnológicos presenten fallas para la presentación de las ordenes o transferencia de fondos, dentro de los horarios establecidos, Mercosur, podrá ampliar los horarios de tiempos fijados para las operaciones acá mencionadas.<BR>|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|1480050|1850000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|101000|104050|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|662000|743990|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|5352000|5500000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|5100000|5500000|
+CC|PC-IBC FONDO MUTUAL DE INV. CAP. CERRADO|3360000|3500000|
+CC|PIVCA PROMOTRA  INV. Y VALORES CLASE "A"|12000000||
+CC|PIVCA PROMOTRA  INV. Y VALORES CLASE "B"|68737000|85921100|
+CC|PROAGRO C.A.|115000|128000|
+CC|PRODUCTOS EFE S.A.|300000|325000|
+CC|PROTINAL C.A.|276000|319000|
+CC|SIVENSA, S.A|714000|720000|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:<BR>							<BR>UNIDAD BURSÁTIL CARACAS 29/06/2021 : 		 1,121 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				3.584.365,12			<BR>|
+NO|CAJA CARACAS CASA DE BOLSA, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CAJA CARACAS CASA DE BOLSA, C. A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocar son los correspondientes a la Serie III, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CAJA CARACAS CASA DE BOLSA, C. A.<BR><BR>Tipo  de Evento 	Colocación Primaria de Valores<BR>Valores a ser  colocados 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 017 de fecha 12/02/2021.<BR>Emisor	CAJA CARACAS CASA DE BOLSA, C. A.,<BR>Emisión 	2020-I<BR>Series a colocar		Serie III.<BR>Monto de Emisión. 	Bs.  176.814.000.000,00.<BR>Monto por serie 	Bs.  82.400.000.000,00.<BR>Códigos  ISIN	VEV00412XAA6<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	CJ013P<BR>Fecha de Inicio de Sesión Especial 	29/06/2021<BR>Fecha de Vencimiento de la Serie.	29/09/2021<BR>Agentes de la Colocación 	Caja Caracas Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,13%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Clave Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 1:00 p.m.<BR>|
