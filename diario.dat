@@ -1,77 +1,86 @@
-IG|06072021|5085.99|-13.14|-.26|5798.7|305.58|-47147.69|-90.26|
-IF|06072021|8924.22|64.25|.73|
-II|06072021|2715.98|-81.36|-2.91|
-R|B.DE VENEZUELA|BVL|400000|400000|0|0|400000|400000|400000|1|8|3200000||2|
-R|B.OCC.DCTO.B.U.|BOU|380|400|20|5.26|390|400|400|7|399097|159598800||1|
-R|BCO. PROVINCIAL|BPV|5200000|5200000|0|0|5200000|5201000|5200140|18|1413|7347750350||2|
-R|BCO.NAC.CREDITO|BNC|16400|16350|-50|-.3|16300|16600|16370|13|53721|880234310||3|
-R|BOLSA V. CCAS.|BVCC|389990|389000|-990|-.25|389000|390000|389780|8|337|131355520||3|
-R|CANTV CLASE (D)|TDV.D|625000|624000|-1000|-.16|620000|651000|625000|8|288|180000000||3|
-R|CORIMON C.A.|CRM.A|490000|501000|11000|2.24|501000|501000|501000|1|400|200400000||1|
-R|CORP.IND.ENERGIA|CIE|82000|82000|0|0|82000|82000|82000|5|3125|256250000||2|
-R|DOMINGUEZ & CIA|DOM|1590000|1590000|0|0|1590000|1590000|1590000|5|398|632820000||2|
-R|ENVASES VZLOS.|ENV|650000|600000|-50000|-7.69|600000|650000|610780|5|1560|952820000||3|
-R|FONDO V.INM.(B)|FVI.B|2450000|2350000|-100000|-4.08|2350000|2450000|2365120|7|281|664600000||3|
-R|INM.VAL.Y CAP.|IVC|1850000|1800000|-50000|-2.7|1800000|1850000|1815000|2|10|18150000||3|
-R|MANPA, C.A. SACA|MPA|739990|739000|-990|-.13|739000|739990|739710|10|714|528149910||3|
-R|MERCANTIL S.(A)|MVZ.A|5500000|5499000|-1000|-.02|5499000|5500000|5499810|3|27|148495000||3|
-R|MERCANTIL S.(B)|MVZ.B|5151000|5495000|344000|6.68|5495000|5495000|5495000|2|400|2198000000||1|
-R|PROAGRO|PGR|128000|128000|0|0|0|0|0|1|3059|393081500||2|
-R|PRODUCTOS EFE|EFE|320000|321000|1000|.31|321000|321000|321000|1|16|5136000||1|
-R|PROTINAL|PTN|318000|317900|-100|-.03|317900|317900|317900|1|30|9537000||3|
-R|R.S.TERESA "B"|RST.B|1195000|1195000|0|0|1194950|1195000|1195000|8|362|432588750||2|
-R|RON STA. TERESA|RST|1794000|1700000|-94000|-5.24|1700000|1751000|1742220|4|82|142862000||3|
-R|SIVENSA, S.A.|SVS|714000|720000|6000|.84|720000|720000|720000|3|1672|1193856000||1|
-R|T. PALO GRANDE|TPG|38000|40000|2000|5.26|40000|40000|40000|1|76|3040000||1|
-P|BCO. PROVINCIAL|BPV||5200000|||5200000|5201000|5200140|1|10|52000000||
-P|BCO.NAC.CREDITO|BNC||16350|||16300|16600|16370|1|8000|130400000||
-P|BOLSA V. CCAS.|BVCC||389000|||389000|390000|389780|5|432358|170505660500||
-P|ENVASES VZLOS.|ENV||600000|||600000|650000|610780|1|200|120000000||
-P|MERCANTIL S.(A)|MVZ.A||5499000|||5499000|5500000|5499810|1|32|176000000||
-P|MERCANTIL S.(B)|MVZ.B||5495000|||5495000|5495000|5495000|1|300|1530000000||
-P|RON STA. TERESA|RST||1700000|||1700000|1751000|1742220|3|198|375429000||
-VT|6|10|6|
+IG|12072021|4907.57|-5.6|-.11|5798.7|316.86|-47326.11|-90.6|
+IF|12072021|8531.93|48.78|.58|
+II|12072021|2688.17|-52.89|-1.93|
+R|B.DE VENEZUELA|BVL|375000|375000|0|0|375000|375000|375000|1|5|1875000||2|
+R|B.OCC.DCTO.B.U.|BOU|400|400|0|0|400|400|400|3|61714|24685600||2|
+R|BCO. CARIBE "A"|ABC.A|2410000|2409990|-10|0|2409990|2410000|2410000|4|67|161469930||3|
+R|BCO. PROVINCIAL|BPV|5200000|5310000|110000|2.12|5252000|5400000|5302490|9|405|2147510000||1|
+R|BCO.NAC.CREDITO|BNC|15500|15500|0|0|15500|17900|15540|32|138083|2145720500||2|
+R|BOLSA V. CCAS.|BVCC|335000|334890|-110|-.03|332000|336000|335020|27|2052|687457900||3|
+R|CANTV CLASE (D)|TDV.D|624000|624000|0|0|624000|624000|624000|3|242|151008000||2|
+R|DOMINGUEZ & CIA|DOM|1540000|1560000|20000|1.3|1540000|1560000|1541250|4|1697|2615500000||1|
+R|ENVASES VZLOS.|ENV|580000|580000|0|0|580000|580000|580000|5|490|284200000||2|
+R|FONDO V.INM.(B)|FVI.B|2349000|2348000|-1000|-.04|2348000|2349000|2348440|4|161|378099000||3|
+R|I.CRECEPYMES -B-|ICP.B|104050|104050|0|0|104050|105000|104180|4|258|26878150||2|
+R|INM.VAL.Y CAP.|IVC|1750000|1750000|0|0|0|0|0|1|30|52500000||2|
+R|MANPA, C.A. SACA|MPA|714000|712990|-1010|-.14|712990|714000|713290|3|52|37090980||3|
+R|MERCANTIL S.(A)|MVZ.A|5380000|5374000|-6000|-.11|5374000|5380000|5379330|7|775|4168982000||3|
+R|MERCANTIL S.(B)|MVZ.B|5393500|5373000|-20500|-.38|5373000|5375000|5374000|2|2|10748000||3|
+R|PROAGRO|PGR|127950|131990|4040|3.16|131990|131990|131990|1|200|26398000||1|
+R|PROTINAL|PTN|300000|300000|0|0|300000|300000|300000|5|233|69900000||2|
+R|R.S.TERESA "B"|RST.B|1100000|1099990|-10|0|1099990|1100000|1099990|4|14|15399920||3|
+R|RON STA. TERESA|RST|1695000|1599990|-95010|-5.61|1599990|1600000|1600000|8|1657|2651194460||3|
+R|T. PALO GRANDE|TPG|35000|35000|0|0|37000|37000|37000|2|14|518000||2|
+P|BCO.NAC.CREDITO|BNC||15500|||15500|17900|15540|1|7440|121867200||
+P|BOLSA V. CCAS.|BVCC||334890|||332000|336000|335020|5|6676|2211760000||
+P|CANTV CLASE (D)|TDV.D||624000|||624000|624000|624000|2|848|475728000||
+P|FONDO V.INM.(B)|FVI.B||2348000|||2348000|2349000|2348440|3|3500|9712700000||
+P|RON STA. TERESA|RST||1599990|||1599990|1600000|1600000|2|1226|2490619000||
+VT|3|8|9|
 TX|(*) PRECIO DE CIERRE OFICIAL : Proviene del Mercado de Ordenes, cuyo periodo de liquidacion este previamente definido(T+2).|
 TX|(#) PRECIOS MINIMOS Y MAXIMOS: Corresponden a los precios maximos y minimos  de operaciones regulares a dos (2) dias.|
 TC|Tasa de Cambio del dia BsF/US$ #########|
-DV|(&)N0110P-Colocacion Primaria de NetUno,  Em. 2020-I, Serie X|
-DV|(&)N0111P-Colocacion Primaria de NetUno,  Em. 2020-I, Serie XI|
-BP|NETUNO 20-I-10P|N0110P|79.22|79.22|0|0|79.22|79.22||4|41990000000|33264478000||
-BP|NETUNO 20-I-11P|N0111P|79.22|79.22|0|0|79.22|79.22||1|75000000000|59415000000||
-BY|PUROLOMO 21-I 1P|PU111P|100|100|0|100|100|3|324185460|0|1919177923.2|592|
-CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|353000|395000|
-CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|2400010|2999990|
-CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|15300|16000|
-CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|5100010|5200000|
-CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|380|400|
-CC|BOLSA DE VALORES DE CARACAS, C.A.|353000|389000|
-CC|C.A. RON SANTA TERESA|1650000|1700000|
-CC|C.A. RON SANTA TERESA (CLASE B)|955000|1179000|
-CC|C.A. TELARES DE PALO GRANDE|35000|40000|
-CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|620000|624000|
-CC|CERAMICA CARABOBO, SACA||54998000|
-CC|CORIMON, C.A.|505000||
-CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|82000|107990|
-CC|CORP.GRUPO QUIMICO, C.A.||3950000|
-CC|DOMINGUEZ & CIA., S.A.|1300000|1590000|
-CC|ENVASES VENEZOLANOS S.A.|570000|620000|
-CC|FABRICA NACIONAL DE CEMENTOS, C.A.|602000|740000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|6000000|7000000|
-CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|2300000|2350000|
+DV|(&)C2131P-Colocacion Primaria de Calox International, Em. 2021-III, Serie I|
+DV|(&)C2141P-Colocacion Primaria de Calox International, Em. 2021-IV, Serie I|
+DV|(&)C2151P-Colocacion Primaria de Calox International, Em. 2021-V, Serie I|
+DV|(&)C2161P-Colocacion Primaria de Calox International, Em. 2021-VI, Serie I|
+DV|(&)CH112P-Colocacion Primaria de Charcuteria Venezolana, Em. 2021-I, Serie II|
+DV|(&)CH122P-Colocacion Primaria de Charcuteria Venezolana, Em. 2021-II, Serie II|
+DV|(&)CH171P-Colocacion Primaria de Charcuteria Venezolana, Em. 2021-VII, Serie I|
+DV|(&)CH181P-Colocacion Primaria de Charcuteria Venezolana, Em. 2021-VIII, Serie I|
+BP|CALOX 21-I3, 1 P|C2131P|78.13|78.13|0|0|78.13|78.13||1|2500000000|1953250000||
+BP|CALOX 21-I4, 1 P|C2141P|78.13|78.13|0|0|78.13|78.13||1|2500000000|1953250000||
+BP|CALOX 21-I5, 1 P|C2151P|78.13|78.13|0|0|78.13|78.13||1|2500000000|1953250000||
+BP|CALOX 21-I6, 1 P|C2161P|78.13|78.13|0|0|78.13|78.13||1|2500000000|1953250000||
+BP|CHARVENCA 21-22P|CH122P|78.13|78.13|0|0|78.13|78.13||3|60000000000|46878000000||
+BP|CHARVENCA 21-7IP|CH171P|78.13|78.13|0|0|78.13|78.13||1|2500000000|1953250000||
+BP|CHARVENCA 21-8IP|CH181P|78.13|78.13|0|0|78.13|78.13||1|2500000000|1953250000||
+BP|CHARVENCA 21-I2P|CH112P|78.13|78.13|0|0|78.13|78.13||3|60000000000|46878000000||
+BP|PC.MER.20-3-2 P|M2032P|80.67|84.32|3.65|4.52|84.32|84.32||1|40000000000|33728800000||
+BP|PC.MER.20-I-4 P|M2014P|78.96|79.16|.2|.25|79.16|79.16||1|15000000000|11873250000||
+CC|BANCO DE VENEZUELA, S.A. BCO.UNIVERSAL|354000|374000|
+CC|BANCO DEL CARIBE,C.A.BCO.UNIV.CLASE (A)|2001000|2409990|
+CC|BANCO NACIONAL DE CREDITO,C.A.BCO.UNIV.|15500|16000|
+CC|BANCO PROVINCIAL, S.A. BCO. UNIVERSAL|5310000|5680000|
+CC|BCO.OCC.DE DESCUENTO, BCO. UNIVERSAL|350|400|
+CC|BOLSA DE VALORES DE CARACAS, C.A.|320010|334950|
+CC|C.A. RON SANTA TERESA|1552000|1600000|
+CC|C.A. RON SANTA TERESA (CLASE B)|885000|1099990|
+CC|C.A. TELARES DE PALO GRANDE|33010|37000|
+CC|C.A.NAC.TELF.VZLA. (CANTV) CLASE (D)|562000|624000|
+CC|CERAMICA CARABOBO, SACA|45000000|52999000|
+CC|CORIMON, C.A.|601000|698000|
+CC|CORP. INDUSTRIAL DE ENERGIA CA SACA|85000|98000|
+CC|CORP.GRUPO QUIMICO, C.A.|2101000|3500000|
+CC|DOMINGUEZ & CIA., S.A.|1540000|1560000|
+CC|ENVASES VENEZOLANOS S.A.|585000|650000|
+CC|FABRICA NACIONAL DE CEMENTOS, C.A.|561000|749000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (A)|5005100|6000000|
+CC|FONDO DE VALORES INMOB.,SACA. CLASE (B)|2001000|2340000|
 CC|GRUPO ZULIANO, C.A.|1600010|2000000|
-CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|1600000|1800000|
-CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|105000|123500|
-CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|700000|734000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|5400000|5499000|
-CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|5151000|5490000|
-CC|PC-IBC FONDO MUTUAL DE INV. CAP. CERRADO|2801000|3500000|
+CC|INVACA,INMUEBLES,VALORES Y CAPITALES,|1700000|1749000|
+CC|INVERSIONES CRECEPYMES, C.A. CLASE "B"|85000|104050|
+CC|MANUFACTURAS DE PAPEL,C.A.(MANPA) SACA.|670010|712000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(A)|5102000|5374000|
+CC|MERCANTIL SERV. FINANCIEROS C.A. CLS.(B)|5100000|5370000|
+CC|PC-IBC FONDO MUTUAL DE INV. CAP. CERRADO|3000000|3500000|
 CC|PIVCA PROMOTRA  INV. Y VALORES CLASE "A"|12000000||
-CC|PIVCA PROMOTRA  INV. Y VALORES CLASE "B"|68737000|85921100|
-CC|PROAGRO C.A.|129000|150000|
-CC|PRODUCTOS EFE S.A.|256010|319990|
-CC|PROTINAL C.A.|255000|317900|
-CC|SIVENSA, S.A|714000|720000|
-NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:	<BR>						<BR>UNIDAD BURSÁTIL CARACAS 02/07/2021 : 		 1,124 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				3.649.163,01			<BR>|
-NO|C.A. NACIONAL TELEFONOS DE VENEZUELA|               CONVOCATORIA ASAMBLEA EXTRAORDINARIA DE ACCIOSNITAS                                     <BR>               C.A. NACIONAL TELÉFONOS DE VENEZUELA (CANTV)<BR><BR>De conformidad con lo dispuesto en los Artículos 8 y 9 de los Estatutos Sociales de la Compañía Anónima Nacional Teléfonos de Venezuela (CANTV), se convoca a los Accionistas de esta Compañía a la reunión de la Asamblea Extraordinaria de Accionistas de CANTV que se celebrará el día viernes 23 de julio de 2021, a las 9:00 a.m., en el Teatro CANTV, Planta Baja, Edificio NEA, Avenida Libertador, Caracas. Serán tratado los siguientes puntos:<BR><BR>1.- Consideración del Balance General, Estado de Resultados, Estado de Movimiento de Cuentas del Patrimonio, Estado de Movimiento del efectivo al cierre del año 2019, con vista del Informe de los Comisarios.<BR>2.- Designación y remuneración de los Comisarios de CANTV para la revisión del ejercicio económico 2020.<BR>3.- Designación de los Auditores Externos de CANTV y Subsidiarias para los servicios de Auditoría Externa correspondientes al ejercicio Fiscal 2020.<BR>4. Nombramiento de los Directores de la Junta Directiva representantes de los Accionistas Clase C para el periodo 2021-2022.<BR>|
-NO||Nota:  El Accionista que no pueda o no desee asistir personalmente a la mencionada Asamblea, podrá hacerse representar por Carta-Poder, mediante la cual designe a la persona que lo representará en la Asamblea de Accionistas. El modelo de esta Carta-Poder estará a la disposición del interesado/a en la oficina de la Secretaría de la Junta Directiva. Una vez otorgada, deberá ser consignada ante la misma oficina y con no menos de cuarenta y ocho (48) con cuarenta y ocho (48) horas de anticipación a la celebración de la Asamblea.<BR>El Balance General, Estado de Resultados, Estado de Movimiento de Cuentas del Patrimonio y el Estado de Movimiento del Efectivo presentados por la Junta Directiva, sobre la administración de la empresa durante el ejercicio económico finalizado el 31 de diciembre de 2019, con vista del Informe de los Comisarios, están a su disposición desde el día 02 de julio de 2021, en las oficinas de la Secretaria de la Junta Directiva de la Compañía, ubicada en la Avenida Libertador, Edificio Nea, piso 1, ala norte, Caracas.<BR>En atención a la presencia en el país del virus SARS-CoV2 causante de la pandemia del COVID-19, el día de la celebración de la Asamblea se adoptarán de manera estricta las medidas de prevención y protección correspondientes al control de acceso, según protocolo interno de la empresa.<BR>Caracas, 02 de julio de 2021<BR>La Junta Directiva<BR>|
-NO|NETUNO, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de NETUNO, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocados son los correspondientes a la Serie X y XI, de la Emisión 2020-I, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora NETUNO, C.A.<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro 139 de fecha 16/09/2020<BR>Emisor	NETUNO, C.A.<BR>Emisión 	2020-I<BR>Series para colocar		Series X y XI.<BR>Monto de Emisión. 	Bs.  150.000.000.000,00.<BR>Monto por serie 	Serie X:    Bs.  52.817.000.000,00<BR>Serie XI:   Bs.  75.000.000.000,00<BR>Códigos ISIN	Serie X:  VEV00354XAG7<BR>Serie XI: VEV00354XAH5<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	N0110P<BR>N0111P<BR>Fecha de Inicio de Sesión Especial 	06/07/2021<BR>Fecha de vencimiento de la serie	29/09/2021<BR>Agentes de la Colocación 	MERCOSUR Casa de Bolsa, C.A.<BR>Mercantil Merinvest Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	79,220%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	Global Ratings, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A3<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A Subcategoría A3<BR>Horario de Sesión Especial	De 9:30 a.m. a 1:00 p.m.<BR>|
+CC|PIVCA PROMOTRA  INV. Y VALORES CLASE "B"|68737000|99000000|
+CC|PROAGRO C.A.|103030|127750|
+CC|PRODUCTOS EFE S.A.|200000|299990|
+CC|PROTINAL C.A.|255000|300000|
+CC|SIVENSA, S.A|700000|720000|
+NO|BOLSA DE VALORES DE CARACAS, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional, informa a los Miembros de la Bolsa de Valores de Caracas:<BR>							<BR>UNIDAD BURSÁTIL CARACAS 09/07/2021 : 		 1,122 					<BR>UNIDAD BURSÁTIL CARACAS (UBC) en Bolivares Bs. 				3.660.860,31			<BR>|
+NO|CALOX INTERNATIONAL, C.A.|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros del Mercado de la Bolsa de Valores de Caracas y al Público en General, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CALOX INTERNATIONAL, C.A., a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocar son los correspondientes a la Serie I, de las Emisiones 2021-III, 2021-IV, 2021-V y 2021-VI, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CALOX INTERNATIONAL, C.A.<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 119,120, 121 y 122/2021 de fecha 25/06/2021.<BR>Emisor	CALOX INTERNATIONAL, C.A.<BR>Emisiones	2021-III, 2021-IV, 2021-V y 2021-VI<BR>Series para colocar		Serie I c/u.<BR>Monto de Emisión. 	Bs.  300.000.000.000,00 c/u.<BR>Monto por de la serie 	Bs.  300.000.000.000,00 c/u.<BR>Códigos ISIN	Emisión. 2021-III, Serie I:  VEV00395XAI6<BR>Em. 2021-IV, Serie I:  VEV00395XAJ4<BR>Em. 2021-V, Serie I:  VEV00395XAK2<BR>Em. 2021-VI, Serie I:  VEV00395XAL0<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	Emisión. 2021-III, Serie I:  C2131P<BR>Em. 2021-IV, Serie I:  C2141P<BR>Em. 2021-V, Serie I:  C2151P<BR>Em. 2021-VI, Serie I:  C2161P<BR>Fecha de Inicio de Sesión Especial 	12/07/2021<BR>Fecha de vencimiento de las Emisiones.	12/10/2021<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,13% c/u.<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A 1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2.<BR>CLAVE, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3.<BR>Horario de Sesión Especial  De 9:30 a.m. a 1:00 p.m. <BR>|
+NO|CHARCUTERIA VENEZOLANA, C.A (CHARVENCA)|La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CHARCUTERIA VENEZOLANA, C.A. (CHARVENCA), a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocar serían los correspondientes a la Serie I, de las Emisiones 2021-VII, y 2021-VIII, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CHARCUTERIA VENEZOLANA, C.A. (CHARVENCA).<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Papeles Comerciales  <BR>Autorización SNV 	Providencia No 124/2021, 125/2021 de fecha 25/06/2021<BR>Emisor	CHARCUTERIA VENEZOLANA, C.A. (CHARVENCA)<BR>Emisiones	2021-VII<BR>2021-VIII<BR>Series para colocar		Serie I c/u.<BR>Monto de Emisión. 	Bs.  120.000.000.000,00 c/u.<BR>Monto por serie 	Bs.  120.000.000.000,00 c/u.<BR>Códigos ISIN	2021-VII, Serie I: VEV00385XAM9<BR>2021-VIII, Serie I: VEV00385XAN7<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	CH171P<BR>CH181P<BR>Fecha de Inicio de Sesión Especial 	12/07/2021<BR>Fecha de vencimiento de la serie. 	12/10/2021<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,13%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m. a 1:00 p.m.<BR>|
+NO||La Bolsa de Valores de Caracas, en su carácter institucional por promover el Mercado de Valores de Renta Fija del sector primario, informa a los Miembros de la Bolsa de Valores de Caracas y al público en general, sobre las características y condiciones de la Colocación Primaria de Papeles Comerciales al Portador de CHARCUTERIA VENEZOLANA, C.A. (CHARVENCA), a realizarse a través del Sistema Integrado Bursátil Electrónico (SIBE).<BR><BR>Los títulos para colocar serían los correspondientes a la Serie II, de las Emisiones 2021-I, y 2021-II, de Papeles Comerciales al Portador, emitidos por la Empresa Emisora CHARCUTERIA VENEZOLANA, C.A. (CHARVENCA).<BR><BR>Tipo de Evento 	Colocación Primaria de Valores<BR>Valores para colocar 	Papeles Comerciales  <BR>Autorización SNV 	Providencia Nro. 055/2021 de fecha 30/03/2021<BR>Providencia Nro. 056/2021 de fecha 30/03/2021<BR>Emisor	CHARCUTERIA VENEZOLANA, C.A. (CHARVENCA)<BR>Emisiones	2021-I y 2021-II<BR>Series para colocar		Serie II c/u.<BR>Monto de Emisión. 	Bs.  120.000.000.000,00 c/u.<BR>Monto por serie 	Bs.  120.000.000.000,00 c/u.<BR>Códigos ISIN	VEV00385XAO5<BR>VEV00385XAP2<BR>Código del Activo	PC<BR>Código de Símbolo en SIBE, Mercado Primario	CH112P<BR>CH122P<BR>Fecha de Inicio de Sesión Especial 	12/07/2021<BR>Fecha de vencimiento de la serie. 	12/10/2021<BR>Agentes de la Colocación 	Ratio Casa de Bolsa, C.A.<BR>Forma de Colocación 	A mayores esfuerzos <BR>Precio de Colocación	78,13%<BR>Base de cálculo 	30/360<BR>Calificación de Riesgo	A1a Calificadores, Sociedad Calificadora de Riesgo Categoría A, Subcategoría A2<BR>Global Ratings, Sociedad Calificadora de Riesgo, C.A. Categoría A, Subcategoría A3<BR>Horario de Sesión Especial	 De 9:30 a.m. a 1:00 p.m.<BR>|
