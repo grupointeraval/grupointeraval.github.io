@@ -1,9 +1,17 @@
 ---
 title: "Banco del Caribe (Reporte Grupo Interaval)"
 date: '`r paste("Actualizado al ", Sys.Date())`'
+params:
+  pwd:
+    label: "Ingrese contraseña"
+    value: ""
+    input: password
 ---
 
+
+
 ### (Símbolo: ABC.A)
+
 
 <p align="center">
   <img width="200px" height="80px" src="abca.jpg">
