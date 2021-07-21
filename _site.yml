@@ -83,12 +83,14 @@ navbar:
     - text: "Comparador"
       href: comparador.html              
     - text: "Tipo de cambio"
-      href: indicadores.html      
+      href: indicadores.html   
+    - text: "Operaciones"
+      href: operaciones.html  
   right:
     - icon: fa-instagram
-      href: https://instagram.com/interaval.ve
+      href: https://instagram.com/grupointeraval
     - icon: fa-linkedin
-      href: https://linkedin.com/company/interaval
+      href: https://linkedin.com/company/grupointeraval
     - icon: fa-twitter 
       href: https://twitter.com/grupointeraval
       
