@@ -1,11 +1,12 @@
 ---
 title: "Índice de la Bolsa de Valores de Caracas"
 date: '`r paste("Actualizado al ", Sys.Date())`'
+output: encryptedRmd::ibc.html
 ---
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-
+library(encryptedRmd)
 library(xts)
 library(readxl)
 library(dplyr)
@@ -13,7 +14,6 @@ library(highcharter)
 
 
 
-  
 ibc <- as.data.frame(read_excel("C:/Users/analista04/Documents/R/grupointeraval.github.io/ibc.xlsx",  col_types = c("date", "numeric", "numeric")))
 
 serie_ibc=xts(ibc[,2], as.Date(ibc$FECHA))

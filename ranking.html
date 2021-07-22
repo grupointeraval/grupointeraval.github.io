@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Clasificación de Casas de Bolsa</title>
+
+<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
+<script src="site_libs/datatables-binding-0.12/datatables.js"></script>
+<link href="site_libs/dt-core-1.10.20/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="site_libs/dt-core-1.10.20/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="site_libs/dt-core-1.10.20/js/jquery.dataTables.min.js"></script>
+<script src="site_libs/jszip-1.10.20/jszip.min.js"></script>
+<script src="site_libs/pdfmake-1.10.20/pdfmake.min.js"></script>
+<script src="site_libs/pdfmake-1.10.20/vfs_fonts.js"></script>
+<link href="site_libs/dt-ext-buttons-1.10.20/css/buttons.dataTables.min.css" rel="stylesheet" />
+<script src="site_libs/dt-ext-buttons-1.10.20/js/dataTables.buttons.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.flash.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.html5.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.colVis.min.js"></script>
+<script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.print.min.js"></script>
+<link href="site_libs/crosstalk-1.0.0/css/crosstalk.css" rel="stylesheet" />
+<script src="site_libs/crosstalk-1.0.0/js/crosstalk.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img id="logo" style="width: 30px;" src="logo1.png" /></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Inicio</a>
+</li>
+<li>
+  <a href="ibc.html">IBC</a>
+</li>
+<li>
+  <a href="resumen.html">Resumen</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Acciones
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="abca.html">Banco del Caribe (ABC.A)</a>
+    </li>
+    <li>
+      <a href="bnc.html">Banco Nacional de Crédito (BNC)</a>
+    </li>
+    <li>
+      <a href="bou.html">Banco Occidental de Descuento (BOU)</a>
+    </li>
+    <li>
+      <a href="bpv.html">Banco Provincial (BPV)</a>
+    </li>
+    <li>
+      <a href="bvcc.html">Bolsa de Valores de Caracas (BVCC)</a>
+    </li>
+    <li>
+      <a href="bvl.html">Banco de Venezuela (BVL)</a>
+    </li>
+    <li>
+      <a href="ccr.html">Cerámicas Carabobo (CCR)</a>
+    </li>
+    <li>
+      <a href="cgq.html">Grupo Químico (CGQ)</a>
+    </li>
+    <li>
+      <a href="cie.html">Corporación Industrial de Energía (CIE)</a>
+    </li>
+    <li>
+      <a href="crma.html">Corimon (CRM.A)</a>
+    </li>
+    <li>
+      <a href="dom.html">Dominguez &amp; CIA (DOM)</a>
+    </li>
+    <li>
+      <a href="efe.html">Productos EFE (EFE)</a>
+    </li>
+    <li>
+      <a href="env.html">Envases Venezolanos (ENV)</a>
+    </li>
+    <li>
+      <a href="fnc.html">Fábrica Nacional de Cementos (FNC)</a>
+    </li>
+    <li>
+      <a href="fvia.html">Fondo de Valores Inmobiliarios A (FVI.A)</a>
+    </li>
+    <li>
+      <a href="fvib.html">Fondo de Valores Inmobiliarios B (FVI.B)</a>
+    </li>
+    <li>
+      <a href="gzl.html">Grupo Zuliano (GZL)</a>
+    </li>
+    <li>
+      <a href="ivc.html">Invaca (IVC)</a>
+    </li>
+    <li>
+      <a href="mpa.html">Manpa (MPA)</a>
+    </li>
+    <li>
+      <a href="mvza.html">Mercantil Servicios Financieros A (MVZ.A)</a>
+    </li>
+    <li>
+      <a href="mvzb.html">Mercantil Servicios Financieros B (MVZ.B)</a>
+    </li>
+    <li>
+      <a href="pgr.html">Proagro (PGR)</a>
+    </li>
+    <li>
+      <a href="ptn.html">Protinal (PTN)</a>
+    </li>
+    <li>
+      <a href="rst.html">Ron Santa Teresa (RST)</a>
+    </li>
+    <li>
+      <a href="rst.b.html">Ron Santa Teresa B (RST.B)</a>
+    </li>
+    <li>
+      <a href="svs.html">Sivensa (SVS)</a>
+    </li>
+    <li>
+      <a href="tdvd.html">Cantv (TDV.D)</a>
+    </li>
+    <li>
+      <a href="tpg.html">Telares Palo Grande (TPG)</a>
+    </li>
+    <li>
+      <a href="icpb.html">Inversiones Crecepymes (ICP.B)</a>
+    </li>
+    <li>
+      <a href="impb.html">Impulsa Agronegocios (IMP.B)</a>
+    </li>
+    <li>
+      <a href="per.html">Fondo Mutual de Inv. Cap. Cerrado (PER)</a>
+    </li>
+    <li>
+      <a href="piv.b.html">PIVCA Promotora de Inversiones y Valores (PIV.B)</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="comparador.html">Comparador</a>
+</li>
+<li>
+  <a href="indicadores.html">Tipo de cambio</a>
+</li>
+<li>
+  <a href="operaciones.html">Operaciones</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://instagram.com/grupointeraval">
+    <span class="fa fa-instagram"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://linkedin.com/company/grupointeraval">
+    <span class="fa fa-linkedin"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/grupointeraval">
+    <span class="fa fa-twitter"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Clasificación de Casas de Bolsa</h1>
+
+</div>
+
+
+<div id="mercado-de-renta-variable" class="section level4">
+<h4>Mercado de Renta Variable</h4>
+<div id="htmlwidget-479c24bea862e5ed6421" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-479c24bea862e5ed6421">{"x":{"filter":"none","extensions":["Buttons"],"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26"],["MERCOSUR CASA DE BOLSA, S.A.","ACTIVALORES CASA DE BOLSA S.A.","CAJA CARACAS CASA DE BOLSA, C.A.","RATIO CASA DE BOLSA, C.A.","MERCANTIL MERINVEST, CASA DE BOLSA, C.A.","FIVENCA CASA DE BOLSA, C.A.","SOLFIN CASA DE BOLSA, C.A.","CUADRA CASA DE BOLSA, S.A.","RENDIVALORES CASA DE BOLSA. C.A.","INTERBONO CASA DE BOLSA, C.A.","INTERBURSA CASA DE BOLSA, C.A.","VALORES VENCRED CASA DE BOLSA, S.A.","VALORALTA SOCIEDAD DE CORRETAJE DE TÍTULOS VALORES, C.A.","BOD VALORES CASA DE BOLSA, C.A.","INTERSEC CASA DE BOLSA, C.A.","BANACCI CASA DE BOLSA, C.A.","STATERA CASA DE BOLSA, C.A.","FINANCORP VALORES CASA DE BOLSA, C.A.","MAXIMIZA CASA DE BOLSA, C.A.","MASVALOR SOCIEDAD DE CORRETAJE DE VALORES, S.A.","BESTINVEST CASA DE BOLSA, C.A.","CORP CASA DE BOLSA, C.A.","B.N.H. CASA DE BOLSA , C.A.","INCORP CASA DE BOLSA, C.A.","BANCTRUST SECURITIES CASA DE BOLSA, C.A.","TOTAL"],[780,567,520,384,1014,235,418,21,461,301,264,340,76,575,96,68,180,57,62,19,17,32,16,11,0,7950],[49573216168,39265776633,32036511034,21723784455,12618421500,11009530549,10826111011,5910709583,4250641562,3274018545,2007694082,1700265470,1196749890,1019615953,812346918,514558055,289883328,207741910,168924455,113799713,99823500,66508000,31392551,30524000,0,198748548862],[0.2494,0.1976,0.1612,0.1093,0.0635,0.0554,0.0545,0.0297,0.0214,0.0165,0.0101,0.0086,0.006,0.0051,0.0041,0.0026,0.0015,0.001,0.0008,0.0006,0.0005,0.0003,0.0002,0.0002,0,1],[49573216168,39265776633,32036511034,21723784455,12618421500,11009530549,10826111011,5910709583,4250641562,3274018545,2007694082,1700265470,1196749890,1019615953,812346918,514558055,289883328,207741910,168924455,113799713,99823500,66508000,31392551,30524000,0,198748548862]],"container":"<table class=\"cell-border stripe\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>Nombre<\/th>\n      <th>Operaciones<\/th>\n      <th>Monto Negociado<\/th>\n      <th>%<\/th>\n      <th>Acumulado<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":27,"dom":"Bfrtip","buttons":["excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":[2,3,4,5]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[10,25,27,50,100]}},"evals":[],"jsHooks":[]}</script>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
