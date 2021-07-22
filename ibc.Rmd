@@ -1,12 +1,10 @@
 ---
 title: "Índice de la Bolsa de Valores de Caracas"
 date: '`r paste("Actualizado al ", Sys.Date())`'
-output: encryptedRmd::ibc.html
 ---
 
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-library(encryptedRmd)
 library(xts)
 library(readxl)
 library(dplyr)

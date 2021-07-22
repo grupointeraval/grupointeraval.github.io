@@ -86,6 +86,8 @@ navbar:
       href: indicadores.html   
     - text: "Operaciones"
       href: operaciones.html  
+    - text: "Ranking"
+      href: ranking.html  
   right:
     - icon: fa-instagram
       href: https://instagram.com/grupointeraval
